@@ -19,6 +19,8 @@ oddsDraw: "3.40"
 oddsAway: "3.60"
 predScoreHome: 1
 predScoreAway: 0
+actualScoreHome: 1
+actualScoreAway: 1
 aiModel: Claude Opus 4.8
 ---
 
