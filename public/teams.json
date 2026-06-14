@@ -32,5 +32,11 @@
   "IRN": { "code": "IRN", "zh": "伊朗", "en": "IRAN", "flag": "🇮🇷", "color": "#239F40", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#239F40,#FFFFFF)" },
   "NZL": { "code": "NZL", "zh": "紐西蘭", "en": "NEW ZEALAND", "flag": "🇳🇿", "color": "#00247D", "rank": "大洋洲代表", "barColor": "linear-gradient(90deg,#00247D,#CC0000)" },
   "KSA": { "code": "KSA", "zh": "沙烏地阿拉伯", "en": "SAUDI ARABIA", "flag": "🇸🇦", "color": "#006C35", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#006C35,#FFFFFF)" },
-  "URU": { "code": "URU", "zh": "烏拉圭", "en": "URUGUAY", "flag": "🇺🇾", "color": "#5DADE2", "rank": "南美強隊", "barColor": "linear-gradient(90deg,#5DADE2,#FFFFFF)" }
+  "URU": { "code": "URU", "zh": "烏拉圭", "en": "URUGUAY", "flag": "🇺🇾", "color": "#5DADE2", "rank": "南美強隊", "barColor": "linear-gradient(90deg,#5DADE2,#FFFFFF)" },
+  "SEN": { "code": "SEN", "zh": "塞內加爾", "en": "SENEGAL", "flag": "🇸🇳", "color": "#00853F", "rank": "非洲勁旅", "barColor": "linear-gradient(90deg,#00853F,#FDEF42)" },
+  "IRQ": { "code": "IRQ", "zh": "伊拉克", "en": "IRAQ", "flag": "🇮🇶", "color": "#CE1126", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#CE1126,#FFFFFF)" },
+  "NOR": { "code": "NOR", "zh": "挪威", "en": "NORWAY", "flag": "🇳🇴", "color": "#EF2B2D", "rank": "北歐黑馬", "barColor": "linear-gradient(90deg,#EF2B2D,#003087)" },
+  "ALG": { "code": "ALG", "zh": "阿爾及利亞", "en": "ALGERIA", "flag": "🇩🇿", "color": "#006233", "rank": "非洲代表", "barColor": "linear-gradient(90deg,#006233,#FFFFFF)" },
+  "AUT": { "code": "AUT", "zh": "奧地利", "en": "AUSTRIA", "flag": "🇦🇹", "color": "#ED2939", "rank": "歐洲黑馬", "barColor": "linear-gradient(90deg,#ED2939,#FFFFFF)" },
+  "JOR": { "code": "JOR", "zh": "約旦", "en": "JORDAN", "flag": "🇯🇴", "color": "#007A3D", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#007A3D,#CE1126)" }
 }

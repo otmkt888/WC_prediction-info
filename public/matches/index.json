@@ -100,5 +100,53 @@
     "date": "2026-06-16",
     "file": "m-iri-nzl.md",
     "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-fra-sen",
+    "date": "2026-06-17",
+    "file": "m-fra-sen.md",
+    "model": "Claude Opus 4.8"
+  },
+  {
+    "id": "m-fra-sen",
+    "date": "2026-06-17",
+    "file": "m-fra-sen-2.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-irq-nor",
+    "date": "2026-06-17",
+    "file": "m-irq-nor.md",
+    "model": "Claude Opus 4.8"
+  },
+  {
+    "id": "m-irq-nor",
+    "date": "2026-06-17",
+    "file": "m-irq-nor-2.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-arg-alg",
+    "date": "2026-06-17",
+    "file": "m-arg-alg.md",
+    "model": "Claude Opus 4.8"
+  },
+  {
+    "id": "m-arg-alg",
+    "date": "2026-06-17",
+    "file": "m-arg-alg-2.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-aut-jor",
+    "date": "2026-06-17",
+    "file": "m-aut-jor.md",
+    "model": "Claude Opus 4.8"
+  },
+  {
+    "id": "m-aut-jor",
+    "date": "2026-06-17",
+    "file": "m-aut-jor-2.md",
+    "model": "Claude Sonnet 4.6"
   }
 ]
