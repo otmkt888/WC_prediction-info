@@ -17,7 +17,7 @@ export async function loadData() {
 
   const mds = await Promise.all(
     index.map(entry =>
-      fetch(`${base}matches/${entry.file}`)
+      fetch(`${base}matches/${entry.file}`, { cache: 'no-cache' })
         .then(r => r.text())
         .then(text => parseMatchMD(text))
     )
