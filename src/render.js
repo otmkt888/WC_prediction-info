@@ -93,9 +93,9 @@ export function renderHero() {
   let pH = 0, pD = 0, pA = 0;
   for (const s of sp) {
     const prob = Number(s.prob) || 0;
-    if (s.result && s.result.includes(h.zh + '勝')) pH += prob;
-    else if (s.result && s.result.includes(a.zh + '勝')) pA += prob;
-    else if (s.result && s.result.includes('平局')) pD += prob;
+    if (s.winner === 'home') pH += prob;
+    else if (s.winner === 'away') pA += prob;
+    else if (s.winner === 'draw') pD += prob;
   }
   const tot = (pH + pD + pA) || 1;
   const winH = Math.round(pH / tot * 100);
@@ -393,7 +393,7 @@ export function renderSummary() {
   const sp = m.scorePredictions || [];
 
   const topScore = sp[0] || {};
-  const winnerCode = (topScore.result || '').includes(h.zh) ? m.homeCode : m.awayCode;
+  const winnerCode = topScore.winner === 'away' ? m.awayCode : m.homeCode;
   const winner = TEAMS[winnerCode];
 
   const paragraphs = (m.summaryVerdict || '')

@@ -64,16 +64,16 @@ aiModel: Claude Opus 4.8
 | FWD | 備援 | Jørgen Strand Larsen | Wolves | 🇬🇧 | 10 | league,squad | true | 英超狼隊中鋒，身高與支點作用強，替補火力補充。 |
 
 ## score_predictions
-| score | result | prob | color | badge |
-|-------|--------|------|-------|-------|
-| 0-2 🇳🇴 | 挪威勝 | 19 | #BA0C2F | 最高機率 |
-| 0-1 🇳🇴 | 挪威勝 | 16 | #BA0C2F | 次高 |
-| 1-2 🇳🇴 | 挪威勝 | 13 | #BA0C2F | |
-| 0-3 🇳🇴 | 挪威勝 | 12 | #BA0C2F | |
-| 1-3 🇳🇴 | 挪威勝 | 9 | #BA0C2F | |
-| 0-0 | 平局 | 9 | #6b7280 | |
-| 1-1 | 平局 | 7 | #6b7280 | |
-| 其他 | — | 15 | #94a3b8 | |
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 0-2 🇳🇴 | 挪威勝 | 19 | #BA0C2F | 最高機率 | away |
+| 0-1 🇳🇴 | 挪威勝 | 16 | #BA0C2F | 次高 | away |
+| 1-2 🇳🇴 | 挪威勝 | 13 | #BA0C2F | | away |
+| 0-3 🇳🇴 | 挪威勝 | 12 | #BA0C2F | | away |
+| 1-3 🇳🇴 | 挪威勝 | 9 | #BA0C2F | | away |
+| 0-0 | 平局 | 9 | #6b7280 | | draw |
+| 1-1 | 平局 | 7 | #6b7280 | | draw |
+| 其他 | — | 15 | #94a3b8 | | - |
 
 ## event_preds
 | icon | value | label | detail |

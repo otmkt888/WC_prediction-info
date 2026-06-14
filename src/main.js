@@ -1,5 +1,5 @@
 import './style.css';
-import { loadData, getState, setState, subscribe, getSchedule } from './store.js';
+import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule } from './store.js';
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render.js';
 import { setLang, onLangChange, t } from './i18n.js';
 
@@ -61,7 +61,7 @@ async function init() {
   try {
     await loadData();
     subscribe(update);
-    onLangChange(update);
+    onLangChange(() => reloadMatchData().then(update));
     update();
   } catch (e) {
     console.error(e);

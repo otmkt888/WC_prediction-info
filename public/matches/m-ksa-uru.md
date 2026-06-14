@@ -64,16 +64,16 @@ aiModel: Claude Sonnet 4.6
 | FWD | 備援 | Brian Rodriguez | LA Galaxy | 🇺🇸 | 9 | league,squad | true | MLS 主力，速度型前鋒，替補衝擊力強，本場有主場氛圍加持。 |
 
 ## score_predictions
-| score | result | prob | color | badge |
-|-------|--------|------|-------|-------|
-| 0-2 🇺🇾 | 烏拉圭勝 | 22 | #6ABAFF | 最高機率 |
-| 0-1 🇺🇾 | 烏拉圭勝 | 18 | #6ABAFF | 次高 |
-| 1-2 🇺🇾 | 烏拉圭勝 | 12 | #6ABAFF | |
-| 0-3 🇺🇾 | 烏拉圭勝 | 10 | #6ABAFF | |
-| 1-1 | 平局 | 9 | #6b7280 | |
-| 0-0 | 平局 | 7 | #6b7280 | |
-| 1-0 🇸🇦 | 沙特勝 | 6 | #16A34A | 爆冷 |
-| 其他 | — | 16 | #94a3b8 | |
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 0-2 🇺🇾 | 烏拉圭勝 | 22 | #6ABAFF | 最高機率 | away |
+| 0-1 🇺🇾 | 烏拉圭勝 | 18 | #6ABAFF | 次高 | away |
+| 1-2 🇺🇾 | 烏拉圭勝 | 12 | #6ABAFF | | away |
+| 0-3 🇺🇾 | 烏拉圭勝 | 10 | #6ABAFF | | away |
+| 1-1 | 平局 | 9 | #6b7280 | | draw |
+| 0-0 | 平局 | 7 | #6b7280 | | draw |
+| 1-0 🇸🇦 | 沙特勝 | 6 | #16A34A | 爆冷 | home |
+| 其他 | — | 16 | #94a3b8 | | - |
 
 ## event_preds
 | icon | value | label | detail |

@@ -75,8 +75,8 @@ function parseTable(text) {
   const headers = lines[0].split('|').map(h => h.trim()).filter(Boolean);
   const rows = [];
   for (let i = 2; i < lines.length; i++) {
-    const cells = lines[i].split('|').map(c => c.trim()).filter(Boolean);
-    if (cells.length === 0) continue;
+    const cells = lines[i].split('|').slice(1, -1).map(c => c.trim());
+    if (cells.every(c => c === '')) continue;
     const obj = {};
     headers.forEach((h, idx) => { obj[h] = cells[idx] || ''; });
     rows.push(obj);

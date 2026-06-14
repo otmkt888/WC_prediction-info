@@ -1,53 +1,70 @@
 import { parseMatchMD } from './parser.js';
-import { t } from './i18n.js';
+import { t, getLang } from './i18n.js';
 
 let TEAMS = {};
 let schedule = [];
 let matchVariantsMap = {};
 let state = { dateKey: '', matchId: '', modelIndex: 0, tab: 'summary' };
 let listeners = [];
+let BASE_URL = '/';
+let INDEX = [];
+
+async function fetchMatchFile(base, filename, lang) {
+  // Try language-specific file first
+  if (lang !== 'zh') {
+    const langFile = filename.replace('.md', `.${lang}.md`);
+    try {
+      const r = await fetch(`${base}matches/${langFile}`, { cache: 'no-cache' });
+      if (r.ok) return r.text();
+    } catch {}
+  }
+  // Fall back to English before the original zh file
+  if (lang !== 'en' && lang !== 'zh') {
+    const enFile = filename.replace('.md', '.en.md');
+    try {
+      const r = await fetch(`${base}matches/${enFile}`, { cache: 'no-cache' });
+      if (r.ok) return r.text();
+    } catch {}
+  }
+  return fetch(`${base}matches/${filename}`, { cache: 'no-cache' }).then(r => r.text());
+}
+
+function buildVariantsAndSchedule(mds) {
+  const map = {};
+  for (const md of mds) {
+    if (!map[md.id]) map[md.id] = [];
+    map[md.id].push(md);
+  }
+  const seen = new Set();
+  const sched = [];
+  for (const md of mds) {
+    if (!seen.has(md.id)) { seen.add(md.id); sched.push(md); }
+  }
+  return { map, sched };
+}
 
 export async function loadData() {
-  const base = import.meta.env.BASE_URL;
+  BASE_URL = import.meta.env.BASE_URL;
   const [teamsRes, indexRes] = await Promise.all([
-    fetch(`${base}teams.json`),
-    fetch(`${base}matches/index.json`),
+    fetch(`${BASE_URL}teams.json`),
+    fetch(`${BASE_URL}matches/index.json`),
   ]);
   TEAMS = await teamsRes.json();
-  const index = await indexRes.json();
+  INDEX = await indexRes.json();
 
+  const lang = getLang();
   const mds = await Promise.all(
-    index.map(entry =>
-      fetch(`${base}matches/${entry.file}`, { cache: 'no-cache' })
-        .then(r => r.text())
-        .then(text => parseMatchMD(text))
-    )
+    INDEX.map(entry => fetchMatchFile(BASE_URL, entry.file, lang).then(parseMatchMD))
   );
 
-  // Group variants by match ID (preserving insertion order)
-  matchVariantsMap = {};
-  for (const md of mds) {
-    if (!matchVariantsMap[md.id]) matchVariantsMap[md.id] = [];
-    matchVariantsMap[md.id].push(md);
-  }
-
-  // schedule = one entry per unique match ID (for nav)
-  const seen = new Set();
-  schedule = [];
-  for (const md of mds) {
-    if (!seen.has(md.id)) {
-      seen.add(md.id);
-      schedule.push(md);
-    }
-  }
+  const { map, sched } = buildVariantsAndSchedule(mds);
+  matchVariantsMap = map;
+  schedule = sched;
 
   const now = new Date();
   const nowMs = now.getTime();
-  const MATCH_WINDOW_MS = 105 * 60 * 1000; // 90 min + 15 min buffer
-
-  // Match times are in MYT (UTC+8); parse with explicit offset
+  const MATCH_WINDOW_MS = 105 * 60 * 1000;
   const startMs = m => new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
-
   const ongoingMatch = schedule.find(m => nowMs >= startMs(m) && nowMs < startMs(m) + MATCH_WINDOW_MS);
 
   let defaultMatch;
@@ -60,6 +77,17 @@ export async function loadData() {
   }
 
   state = { dateKey: defaultMatch.dateKey, matchId: defaultMatch.id, modelIndex: 0, tab: 'summary' };
+}
+
+export async function reloadMatchData() {
+  const lang = getLang();
+  const mds = await Promise.all(
+    INDEX.map(entry => fetchMatchFile(BASE_URL, entry.file, lang).then(parseMatchMD))
+  );
+  const { map, sched } = buildVariantsAndSchedule(mds);
+  matchVariantsMap = map;
+  schedule = sched;
+  listeners.forEach(fn => fn(state));
 }
 
 export function getTeams() { return TEAMS; }
