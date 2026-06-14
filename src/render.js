@@ -91,6 +91,24 @@ export function renderHero() {
   const winA = Math.round(pA / tot * 100);
   const winD = Math.max(0, 100 - winH - winA);
 
+  const isFt = m.status === 'ft';
+  const matchStartMs = new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
+  const nowMs = Date.now();
+  const diffMs = matchStartMs - nowMs;
+  const isLive = m.status === 'live' || (!isFt && nowMs >= matchStartMs && nowMs < matchStartMs + 120 * 60 * 1000);
+  const isUpcoming = !isFt && !isLive && diffMs > 0;
+
+  let countdownLabel = '';
+  if (isUpcoming) {
+    const totalMins = Math.ceil(diffMs / 60000);
+    const totalHours = Math.floor(diffMs / 3600000);
+    const days = Math.floor(diffMs / 86400000);
+    const remainHours = Math.floor((diffMs % 86400000) / 3600000);
+    if (diffMs >= 86400000) countdownLabel = remainHours > 0 ? `${days} 天 ${remainHours} 小時後開賽` : `${days} 天後開賽`;
+    else if (diffMs >= 3600000) countdownLabel = `${totalHours} 小時後開賽`;
+    else countdownLabel = `${totalMins} 分鐘後開賽`;
+  }
+
   const variants = getMatchVariants(m.id);
   const modelHtml = variants.length > 1
     ? `<div class="model-switcher">
@@ -110,12 +128,13 @@ export function renderHero() {
         <div class="hero-meta">${h.zh} · ${h.rank}</div>
       </div>
       <div class="hero-vs">
+        ${isLive ? '<div class="hero-live-badge"><span class="hero-live-dot"></span>LIVE</div>' : ''}
         <div class="actual-score">
           <span style="color:${h.color}">${m.actualScore.home}</span>
           <span class="actual-score-sep">–</span>
           <span style="color:${a.color}">${m.actualScore.away}</span>
         </div>
-        <div class="actual-score-label">最終比分</div>
+        <div class="actual-score-label">${isLive ? '即時比分' : isUpcoming ? countdownLabel : '最終比分'}</div>
       </div>
       <div class="hero-team">
         <div class="hero-flag">${a.flag}</div>

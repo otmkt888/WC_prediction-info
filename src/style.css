@@ -166,6 +166,9 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 .actual-score { font-family: 'Bebas Neue'; font-size: 42px; letter-spacing: 2px; line-height: 1; }
 .actual-score-sep { color: #475569; margin: 0 4px; }
 .actual-score-label { font-size: 10px; letter-spacing: 1.5px; color: #F59E0B; font-weight: 700; margin-top: 2px; }
+.hero-live-badge { display: flex; align-items: center; justify-content: center; gap: 5px; color: #22c55e; font-size: 11px; font-weight: 700; letter-spacing: 2px; margin-bottom: 4px; }
+.hero-live-dot { width: 8px; height: 8px; border-radius: 50%; background: #22c55e; display: inline-block; animation: livePulse 1.2s ease-in-out infinite; }
+@keyframes livePulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.75); } }
 .hero-info {
   font-size: 11px;
   color: var(--muted);
