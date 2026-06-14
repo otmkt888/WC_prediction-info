@@ -1,4 +1,5 @@
-import { getTeams, getState, getDates, getSchedule, getCurrentMatch, getMatchVariants, setState } from './store.js';
+import { getTeams, getState, getDates, getSchedule, getCurrentMatch, getMatchVariants } from './store.js';
+import { t, getLang, LANG_OPTIONS } from './i18n.js';
 
 // ─── tag styles ────────────────────────────────────────────────────
 const TAG_STYLES = {
@@ -24,6 +25,10 @@ function posType(p) {
   return 'mid';
 }
 
+function teamName(team) {
+  return getLang() === 'zh' ? team.zh : team.en;
+}
+
 // ─── Nav ────────────────────────────────────────────────────────────
 export function renderNav() {
   const st = getState();
@@ -37,7 +42,7 @@ export function renderNav() {
     return `<button class="date-btn${active ? ' active' : ''}" data-date="${d.key}">
       <div class="date-dow">${d.dow}</div>
       <div class="date-dom">${d.dom}</div>
-      <div class="date-mon">${d.mon} · ${d.count}場</div>
+      <div class="date-mon">${d.mon} · ${d.count}${t('nav.matches') === 'matches' ? ' ' : ''}${t('nav.matches')}</div>
     </button>`;
   }).join('');
 
@@ -61,11 +66,17 @@ export function renderNav() {
     </button>`;
   }).join('');
 
+  const currentLang = getLang();
+  const langOptions = LANG_OPTIONS.map(o =>
+    `<option value="${o.code}"${o.code === currentLang ? ' selected' : ''}>${o.label}</option>`
+  ).join('');
+
   return `
     <div class="nav-brand">
       <span class="brand-wc">WC 2026</span>
-      <span class="brand-pred">賽事預測</span>
+      <span class="brand-pred">${t('nav.pred')}</span>
       <span class="brand-stage">GROUP STAGE</span>
+      <select class="lang-select">${langOptions}</select>
     </div>
     <div class="nav-dates scrollx">${dateBtns}</div>
     <div class="nav-chips scrollx">${chips}</div>
@@ -104,9 +115,9 @@ export function renderHero() {
     const totalHours = Math.floor(diffMs / 3600000);
     const days = Math.floor(diffMs / 86400000);
     const remainHours = Math.floor((diffMs % 86400000) / 3600000);
-    if (diffMs >= 86400000) countdownLabel = remainHours > 0 ? `${days} 天 ${remainHours} 小時後開賽` : `${days} 天後開賽`;
-    else if (diffMs >= 3600000) countdownLabel = `${totalHours} 小時後開賽`;
-    else countdownLabel = `${totalMins} 分鐘後開賽`;
+    if (diffMs >= 86400000) countdownLabel = remainHours > 0 ? t('hero.cd.days_hours', days, remainHours) : t('hero.cd.days', days);
+    else if (diffMs >= 3600000) countdownLabel = t('hero.cd.hours', totalHours);
+    else countdownLabel = t('hero.cd.mins', totalMins);
   }
 
   const variants = getMatchVariants(m.id);
@@ -117,7 +128,7 @@ export function renderHero() {
             🤖 ${v.aiModel || 'Model ' + (i + 1)}
           </button>`).join('')}
        </div>`
-    : (m.aiModel ? `<div class="hero-ai-badge"><span class="ai-icon">🤖</span> AI 分析 · <span class="ai-model-name">${m.aiModel}</span></div>` : '');
+    : (m.aiModel ? `<div class="hero-ai-badge"><span class="ai-icon">🤖</span> ${t('hero.ai_analysis')} · <span class="ai-model-name">${m.aiModel}</span></div>` : '');
 
   return `
     <div class="hero-badge">FIFA WORLD CUP 2026 · GROUP ${m.group} · ${m.matchday}</div>
@@ -125,7 +136,7 @@ export function renderHero() {
       <div class="hero-team">
         <div class="hero-flag">${h.flag}</div>
         <div class="hero-en" style="color:${h.color}">${h.en}</div>
-        <div class="hero-meta">${h.zh} · ${h.rank}</div>
+        <div class="hero-meta">${teamName(h)} · ${h.rank}</div>
       </div>
       <div class="hero-vs">
         ${isLive ? '<div class="hero-live-badge"><span class="hero-live-dot"></span>LIVE</div>' : ''}
@@ -134,19 +145,19 @@ export function renderHero() {
           <span class="actual-score-sep">–</span>
           <span style="color:${a.color}">${m.actualScore.away}</span>
         </div>
-        <div class="actual-score-label">${isLive ? '即時比分' : isUpcoming ? countdownLabel : '最終比分'}</div>
+        <div class="actual-score-label">${isLive ? t('hero.live_score') : isUpcoming ? countdownLabel : t('hero.final_score')}</div>
       </div>
       <div class="hero-team">
         <div class="hero-flag">${a.flag}</div>
         <div class="hero-en" style="color:${a.color}">${a.en}</div>
-        <div class="hero-meta">${a.zh} · ${a.rank}</div>
+        <div class="hero-meta">${teamName(a)} · ${a.rank}</div>
       </div>
     </div>
-    <div class="hero-info">📍 ${m.venue} &nbsp;|&nbsp; <span style="color:#F59E0B">${m.dateKey} · ${m.time} MYT</span> &nbsp;|&nbsp; 裁判: ${m.referee}</div>
+    <div class="hero-info">📍 ${m.venue} &nbsp;|&nbsp; <span style="color:#F59E0B">${m.dateKey} · ${m.time} MYT</span> &nbsp;|&nbsp; ${t('hero.referee')}: ${m.referee}</div>
     ${modelHtml}
     <div class="hero-stats">
       <div class="hero-stat-cell">
-        <div class="stat-label">預測比分</div>
+        <div class="stat-label">${t('hero.pred_score')}</div>
         <div class="stat-score">
           <span style="color:${h.color}">${m.predScore.home}</span>
           <span style="color:#475569"> – </span>
@@ -154,7 +165,7 @@ export function renderHero() {
         </div>
       </div>
       <div class="hero-stat-cell hero-stat-wide">
-        <div class="stat-label">勝率預測</div>
+        <div class="stat-label">${t('hero.win_rate')}</div>
         <div class="win-bar">
           <div style="width:${winH}%;background:${h.color}"></div>
           <div style="width:${winD}%;background:#475569"></div>
@@ -162,12 +173,12 @@ export function renderHero() {
         </div>
         <div class="win-pct">
           <span style="color:${h.color}">${h.code} ${winH}%</span>
-          <span style="color:#94A3B8">和 ${winD}%</span>
+          <span style="color:#94A3B8">${t('hero.draw')} ${winD}%</span>
           <span style="color:${a.color}">${a.code} ${winA}%</span>
         </div>
       </div>
       <div class="hero-stat-cell">
-        <div class="stat-label">賠率</div>
+        <div class="stat-label">${t('hero.odds')}</div>
         <div class="odds-row">
           <div class="odds-item">
             <div class="odds-val" style="color:${h.color}">${m.odds.home}</div>
@@ -175,7 +186,7 @@ export function renderHero() {
           </div>
           <div class="odds-item">
             <div class="odds-val">${m.odds.draw}</div>
-            <div class="odds-lbl">和</div>
+            <div class="odds-lbl">${t('hero.draw')}</div>
           </div>
           <div class="odds-item">
             <div class="odds-val" style="color:${a.color}">${m.odds.away}</div>
@@ -194,16 +205,16 @@ export function renderTabs() {
   const h = TEAMS[m.homeCode], a = TEAMS[m.awayCode];
   const st = getState();
   const tabs = [
-    { id: 'summary', label: '🏆 總結', color: '#F59E0B' },
-    { id: 'home', label: `${h.flag} ${h.zh}球員`, color: h.color },
-    { id: 'away', label: `${a.flag} ${a.zh}球員`, color: a.color },
-    { id: 'other', label: '📊 其他分析', color: '#F59E0B' },
+    { id: 'summary', label: t('tabs.summary'), color: '#F59E0B' },
+    { id: 'home', label: `${h.flag} ${teamName(h)} ${t('tabs.players')}`, color: h.color },
+    { id: 'away', label: `${a.flag} ${teamName(a)} ${t('tabs.players')}`, color: a.color },
+    { id: 'other', label: t('tabs.other'), color: '#F59E0B' },
   ];
-  return tabs.map(t => {
-    const active = t.id === st.tab;
-    return `<button class="tab-btn${active ? ' active' : ''}" data-tab="${t.id}"
-      style="border-bottom-color:${active ? t.color : 'transparent'};color:${active ? t.color : '#94A3B8'}"
-    >${t.label}</button>`;
+  return tabs.map(tab => {
+    const active = tab.id === st.tab;
+    return `<button class="tab-btn${active ? ' active' : ''}" data-tab="${tab.id}"
+      style="border-bottom-color:${active ? tab.color : 'transparent'};color:${active ? tab.color : '#94A3B8'}"
+    >${tab.label}</button>`;
   }).join('');
 }
 
@@ -211,11 +222,10 @@ export function renderTabs() {
 function renderPlayerCard(p, team) {
   const type = posType(p.pos);
   const posStyle = POS_STYLES[type];
-  const tagKeys = (p.tags || '').split(',').map(t => t.trim()).filter(Boolean);
+  const tagKeys = (p.tags || '').split(',').map(k => k.trim()).filter(Boolean);
   const tags = tagKeys.map(k => {
     const style = TAG_STYLES[k] || TAG_STYLES.squad;
-    const labels = { starter:'首發主力', team:'隊內核心', league:'聯賽明星', squad:'替補', doubt:'⚠ 傷疑' };
-    return `<span class="player-tag" style="${style}">${labels[k] || k}</span>`;
+    return `<span class="player-tag" style="${style}">${t('tag.' + k) || k}</span>`;
   }).join('');
   const bench = p.bench === 'true';
   const bar = `width:${p.prob}%;background:${team.barColor}`;
@@ -229,7 +239,7 @@ function renderPlayerCard(p, team) {
       <div class="player-name">${p.name}</div>
       <div class="player-club">${p.flag || ''} ${p.club}</div>
       <div class="player-tags">${tags}</div>
-      <div class="player-prob-label">${bench ? '入球機率（上場後）' : '入球機率'}</div>
+      <div class="player-prob-label">${bench ? t('squad.prob_sub') : t('squad.prob')}</div>
       <div class="player-bar-bg"><div class="player-bar" style="${bar}"></div></div>
       <div class="player-prob-val">${p.prob}%</div>
       <div class="player-desc">${p.desc}</div>
@@ -249,15 +259,15 @@ export function renderSquad(side) {
   return `
     <div class="section-title">
       <span class="section-dot" style="background:${team.color}"></span>
-      ${team.zh} — 預測首發陣容 (${formation})
+      ${teamName(team)} — ${t('squad.title')} (${formation})
     </div>
     <div class="squad-meta">
       <div class="squad-meta-card">
-        <div class="meta-label">陣型</div>
+        <div class="meta-label">${t('squad.formation')}</div>
         <div class="meta-value" style="color:${team.color}">${formation}</div>
       </div>
       <div class="squad-meta-card">
-        <div class="meta-label">主教練</div>
+        <div class="meta-label">${t('squad.coach')}</div>
         <div class="meta-value" style="color:${team.color};font-size:15px">${coach}</div>
       </div>
     </div>
@@ -329,12 +339,12 @@ export function renderOther() {
     h2hHtml = `<div class="h2h-card">
       <div class="h2h-title">${h2h.title}</div>
       <div class="h2h-bar">
-        <div class="h2h-seg h2h-home" style="width:${h2h.homePct}%;background:${h.color}">${h2h.homeWins > 0 ? `${h.zh} ${h2h.homeWins} 勝` : ''}</div>
-        <div class="h2h-seg h2h-draw" style="width:${h2h.drawPct}%;background:#374151">${h2h.draws > 0 ? `${h2h.draws} 平` : ''}</div>
-        <div class="h2h-seg h2h-away" style="width:${h2h.awayPct}%;background:${a.color}">${h2h.awayWins > 0 ? `${a.zh} ${h2h.awayWins} 勝` : ''}</div>
+        <div class="h2h-seg h2h-home" style="width:${h2h.homePct}%;background:${h.color}">${h2h.homeWins > 0 ? `${teamName(h)} ${h2h.homeWins} ${t('h2h.wins')}` : ''}</div>
+        <div class="h2h-seg h2h-draw" style="width:${h2h.drawPct}%;background:#374151">${h2h.draws > 0 ? `${h2h.draws} ${t('h2h.draws')}` : ''}</div>
+        <div class="h2h-seg h2h-away" style="width:${h2h.awayPct}%;background:${a.color}">${h2h.awayWins > 0 ? `${teamName(a)} ${h2h.awayWins} ${t('h2h.wins')}` : ''}</div>
       </div>
       <div class="h2h-names">
-        <span>${h.flag} ${h.zh}</span><span>${a.flag} ${a.zh}</span>
+        <span>${h.flag} ${teamName(h)}</span><span>${a.flag} ${teamName(a)}</span>
       </div>
       <div class="h2h-note">${h2h.note}</div>
     </div>`;
@@ -357,20 +367,20 @@ export function renderOther() {
   ).join('');
 
   return `
-    <div class="section-title"><span class="section-dot"></span>比分預測分析</div>
+    <div class="section-title"><span class="section-dot"></span>${t('other.score')}</div>
     <div class="note-box">${m.oddsNote}</div>
     <div class="score-table">${scoreRows}</div>
 
-    <div class="section-title" style="margin-top:28px"><span class="section-dot"></span>角球 · 黃牌 · 紅牌預測</div>
+    <div class="section-title" style="margin-top:28px"><span class="section-dot"></span>${t('other.events')}</div>
     <div class="pred-grid">${predCards}</div>
 
-    <div class="section-title" style="margin-top:28px"><span class="section-dot"></span>裁判資訊</div>
+    <div class="section-title" style="margin-top:28px"><span class="section-dot"></span>${t('other.referee')}</div>
     ${refHtml}
 
-    <div class="section-title" style="margin-top:28px"><span class="section-dot"></span>歷史交鋒</div>
+    <div class="section-title" style="margin-top:28px"><span class="section-dot"></span>${t('other.h2h')}</div>
     ${h2hHtml}
 
-    <div class="section-title" style="margin-top:28px"><span class="section-dot"></span>關鍵對決</div>
+    <div class="section-title" style="margin-top:28px"><span class="section-dot"></span>${t('other.battles')}</div>
     ${battleRows}
   `;
 }
@@ -395,11 +405,11 @@ export function renderSummary() {
   ).join('');
 
   const statsData = [
-    { v: '55%', l: `${h.zh}控球`, c: h.color },
-    { v: '45%', l: `${a.zh}控球`, c: a.color },
-    { v: (m.eventPreds[0] || {}).value || '—', l: '預測總角球', c: '#EAB308' },
-    { v: (m.eventPreds[1] || {}).value || '—', l: '預測黃牌', c: '#EAB308' },
-    { v: (m.eventPreds[2] || {}).value || '—', l: '預測紅牌', c: '#EF4444' },
+    { v: '55%', l: `${teamName(h)} ${t('summary.possession')}`, c: h.color },
+    { v: '45%', l: `${teamName(a)} ${t('summary.possession')}`, c: a.color },
+    { v: (m.eventPreds[0] || {}).value || '—', l: t('summary.corners'), c: '#EAB308' },
+    { v: (m.eventPreds[1] || {}).value || '—', l: t('summary.yellows'), c: '#EAB308' },
+    { v: (m.eventPreds[2] || {}).value || '—', l: t('summary.reds'), c: '#EF4444' },
   ];
   const statsCards = statsData.map(s =>
     `<div class="summary-stat">
@@ -409,36 +419,36 @@ export function renderSummary() {
   ).join('');
 
   return `
-    <div class="section-title"><span class="section-dot"></span>賽事總結與最終預測</div>
+    <div class="section-title"><span class="section-dot"></span>${t('summary.title')}</div>
     <div class="verdict-card">
-      <div class="verdict-title">📊 預測比分</div>
+      <div class="verdict-title">${t('summary.pred_score')}</div>
       <div class="verdict-score">
         <div class="verdict-team">
           <div class="verdict-flag">${h.flag}</div>
-          <div class="verdict-zh">${h.zh}</div>
+          <div class="verdict-zh">${teamName(h)}</div>
         </div>
         <span class="verdict-num" style="color:${h.color}">${m.predScore.home}</span>
         <span class="verdict-dash">–</span>
         <span class="verdict-num" style="color:${a.color}">${m.predScore.away}</span>
         <div class="verdict-team">
           <div class="verdict-flag">${a.flag}</div>
-          <div class="verdict-zh">${a.zh}</div>
+          <div class="verdict-zh">${teamName(a)}</div>
         </div>
       </div>
-      <div class="verdict-winner">${winner.flag} ${winner.zh}勝 · 最高可能比分 ${topScore.score || '—'}（${topScore.prob || '—'}%）</div>
+      <div class="verdict-winner">${winner.flag} ${teamName(winner)} ${t('summary.wins')} · ${t('summary.most_likely')} ${topScore.score || '—'} (${topScore.prob || '—'}%)</div>
       ${paragraphs}
     </div>
 
     <div class="summary-stats">${statsCards}</div>
 
-    <div class="section-title" style="margin-top:20px"><span class="section-dot"></span>關鍵觀察</div>
+    <div class="section-title" style="margin-top:20px"><span class="section-dot"></span>${t('summary.key_obs')}</div>
     ${observations}
 
     ${m.aiModel ? `<div class="ai-disclaimer">
       <span class="ai-disclaimer-icon">🤖</span>
       <div class="ai-disclaimer-text">
-        <span class="ai-disclaimer-title">AI 分析聲明</span>
-        本頁所有賽事分析、球員評分、比分預測及裁判數據，均由 <strong>${m.aiModel}</strong> 根據公開資訊生成，僅供參考，不構成任何投注建議。預測結果可能與實際賽況存在差異。
+        <span class="ai-disclaimer-title">${t('ai.title')}</span>
+        ${t('ai.body', m.aiModel)}
       </div>
     </div>` : ''}
   `;

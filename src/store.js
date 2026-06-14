@@ -1,4 +1,5 @@
 import { parseMatchMD } from './parser.js';
+import { t } from './i18n.js';
 
 let TEAMS = {};
 let schedule = [];
@@ -84,13 +85,11 @@ export function getDates() {
   }
   return Object.entries(map).map(([key, v]) => {
     const d = new Date(key);
-    const dows = ['週日','週一','週二','週三','週四','週五','週六'];
-    const mons = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
     return {
       key,
-      dow: dows[d.getUTCDay()],
+      dow: t('date.dows')[d.getUTCDay()],
       dom: String(d.getUTCDate()),
-      mon: mons[d.getUTCMonth()],
+      mon: t('date.mons')[d.getUTCMonth()],
       count: v.count,
     };
   });

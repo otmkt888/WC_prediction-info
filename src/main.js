@@ -1,6 +1,7 @@
 import './style.css';
 import { loadData, getState, setState, subscribe, getSchedule } from './store.js';
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render.js';
+import { setLang, onLangChange, t } from './i18n.js';
 
 const $nav = document.getElementById('nav');
 const $hero = document.getElementById('hero');
@@ -50,16 +51,21 @@ function bindEvents() {
       setState({ tab: btn.dataset.tab });
     });
   });
+
+  document.querySelectorAll('.lang-select').forEach(sel => {
+    sel.addEventListener('change', () => setLang(sel.value));
+  });
 }
 
 async function init() {
   try {
     await loadData();
     subscribe(update);
+    onLangChange(update);
     update();
   } catch (e) {
     console.error(e);
-    $content.innerHTML = `<div style="color:#f87171;padding:40px;text-align:center">載入失敗：${e.message}</div>`;
+    $content.innerHTML = `<div style="color:#f87171;padding:40px;text-align:center">${t('error.load')}${e.message}</div>`;
   }
 }
 
