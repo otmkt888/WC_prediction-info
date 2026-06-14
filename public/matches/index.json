@@ -48,6 +48,12 @@
     "model": "Claude Sonnet 4.6"
   },
   {
+    "id": "m-ned-jpn",
+    "date": "2026-06-15",
+    "file": "m-ned-jpn-2.md",
+    "model": "Claude Opus 4.8"
+  },
+  {
     "id": "m-civ-ecu",
     "date": "2026-06-15",
     "file": "m-civ-ecu.md",
