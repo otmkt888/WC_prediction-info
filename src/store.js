@@ -57,6 +57,13 @@ export async function loadData() {
     INDEX.map(entry => fetchMatchFile(BASE_URL, entry.file, lang).then(parseMatchMD))
   );
 
+  INDEX.forEach((entry, i) => {
+    mds[i].actualScore = {
+      home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
+      away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
+    };
+  });
+
   const { map, sched } = buildVariantsAndSchedule(mds);
   matchVariantsMap = map;
   schedule = sched;
@@ -84,6 +91,14 @@ export async function reloadMatchData() {
   const mds = await Promise.all(
     INDEX.map(entry => fetchMatchFile(BASE_URL, entry.file, lang).then(parseMatchMD))
   );
+
+  INDEX.forEach((entry, i) => {
+    mds[i].actualScore = {
+      home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
+      away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
+    };
+  });
+
   const { map, sched } = buildVariantsAndSchedule(mds);
   matchVariantsMap = map;
   schedule = sched;
