@@ -9,8 +9,8 @@ venueShort: Toronto, Canada
 status: completed
 homeCode: CAN
 awayCode: BIH
-actualScoreHome: 0
-actualScoreAway: 0
+actualScoreHome: 1
+actualScoreAway: 1
 referee: Facundo Tello (ARG)
 homeFormation: 4-4-2
 awayFormation: 4-4-2

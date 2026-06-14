@@ -109,7 +109,14 @@ export function renderHero() {
         <div class="hero-en" style="color:${h.color}">${h.en}</div>
         <div class="hero-meta">${h.zh} · ${h.rank}</div>
       </div>
-      <div class="hero-vs">VS</div>
+      <div class="hero-vs">
+        <div class="actual-score">
+          <span style="color:${h.color}">${m.actualScore.home}</span>
+          <span class="actual-score-sep">–</span>
+          <span style="color:${a.color}">${m.actualScore.away}</span>
+        </div>
+        <div class="actual-score-label">最終比分</div>
+      </div>
       <div class="hero-team">
         <div class="hero-flag">${a.flag}</div>
         <div class="hero-en" style="color:${a.color}">${a.en}</div>

@@ -162,7 +162,10 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 .hero-flag { font-size: 40px; line-height: 1; margin-bottom: 5px; }
 .hero-en { font-family: 'Bebas Neue'; font-size: 23px; letter-spacing: 1px; }
 .hero-meta { font-size: 11px; color: var(--muted); }
-.hero-vs { font-family: 'Bebas Neue'; font-size: 26px; color: #475569; }
+.hero-vs { font-family: 'Bebas Neue'; font-size: 26px; color: #475569; text-align: center; }
+.actual-score { font-family: 'Bebas Neue'; font-size: 42px; letter-spacing: 2px; line-height: 1; }
+.actual-score-sep { color: #475569; margin: 0 4px; }
+.actual-score-label { font-size: 10px; letter-spacing: 1.5px; color: #F59E0B; font-weight: 700; margin-top: 2px; }
 .hero-info {
   font-size: 11px;
   color: var(--muted);

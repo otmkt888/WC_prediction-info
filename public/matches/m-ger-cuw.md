@@ -6,9 +6,11 @@ group: E
 matchday: GROUP STAGE
 venue: NRG Stadium, Houston
 venueShort: NRG, HOU
-status: upcoming
+status: completed
 homeCode: GER
 awayCode: CUW
+actualScoreHome: 7
+actualScoreAway: 1
 referee: Jalal Jiyed (MAR)
 homeFormation: 4-2-3-1
 awayFormation: 3-5-2
