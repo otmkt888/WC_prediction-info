@@ -76,5 +76,17 @@
     "date": "2026-06-16",
     "file": "m-esp-cpv-2.md",
     "model": "Gemini 3.5 Flash"
+  },
+  {
+    "id": "m-bel-egy",
+    "date": "2026-06-16",
+    "file": "m-bel-egy.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-bel-egy",
+    "date": "2026-06-16",
+    "file": "m-bel-egy-2.md",
+    "model": "GPT-5.5"
   }
 ]
