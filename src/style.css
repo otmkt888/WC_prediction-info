@@ -134,16 +134,17 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 }
 #hero > * { max-width: 780px; margin: 0 auto; }
 
-.hero-badge {
+#hero .hero-badge {
   font-size: 10px;
   letter-spacing: 1.5px;
   color: #000;
   background: var(--gold);
-  display: inline-block;
+  display: block;
+  width: fit-content;
   padding: 4px 12px;
   border-radius: 2px;
   font-family: 'Bebas Neue';
-  margin-bottom: 12px;
+  margin: 0 auto 12px;
   white-space: nowrap;
   max-width: 100%;
 }

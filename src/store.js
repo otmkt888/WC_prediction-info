@@ -2,7 +2,7 @@ import { parseMatchMD } from './parser.js';
 
 let TEAMS = {};
 let schedule = [];
-let state = { dateKey: '', matchId: '', tab: 'home' };
+let state = { dateKey: '', matchId: '', tab: 'summary' };
 let listeners = [];
 
 export async function loadData() {
@@ -25,7 +25,7 @@ export async function loadData() {
 
   // Default to first match
   const first = schedule[0];
-  state = { dateKey: first.dateKey, matchId: first.id, tab: 'home' };
+  state = { dateKey: first.dateKey, matchId: first.id, tab: 'summary' };
 }
 
 export function getTeams() { return TEAMS; }

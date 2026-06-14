@@ -154,10 +154,10 @@ export function renderTabs() {
   const h = TEAMS[m.homeCode], a = TEAMS[m.awayCode];
   const st = getState();
   const tabs = [
+    { id: 'summary', label: '🏆 總結', color: '#F59E0B' },
     { id: 'home', label: `${h.flag} ${h.zh}球員`, color: h.color },
     { id: 'away', label: `${a.flag} ${a.zh}球員`, color: a.color },
     { id: 'other', label: '📊 其他分析', color: '#F59E0B' },
-    { id: 'summary', label: '🏆 總結', color: '#F59E0B' },
   ];
   return tabs.map(t => {
     const active = t.id === st.tab;

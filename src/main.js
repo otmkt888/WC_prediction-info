@@ -29,13 +29,13 @@ function bindEvents() {
     btn.addEventListener('click', () => {
       const dateKey = btn.dataset.date;
       const first = getSchedule().find(m => m.dateKey === dateKey);
-      setState({ dateKey, matchId: first ? first.id : getState().matchId, tab: 'home' });
+      setState({ dateKey, matchId: first ? first.id : getState().matchId, tab: 'summary' });
     });
   });
 
   document.querySelectorAll('[data-match]').forEach(btn => {
     btn.addEventListener('click', () => {
-      setState({ matchId: btn.dataset.match, tab: 'home' });
+      setState({ matchId: btn.dataset.match, tab: 'summary' });
     });
   });
 
