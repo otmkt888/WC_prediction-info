@@ -19,5 +19,6 @@
   "ECU": { "code": "ECU", "zh": "厄瓜多", "en": "ECUADOR", "flag": "🇪🇨", "color": "#FACC15", "rank": "南美勁旅", "barColor": "linear-gradient(90deg,#FACC15,#1B4FB6)" },
   "NED": { "code": "NED", "zh": "荷蘭", "en": "NETHERLANDS", "flag": "🇳🇱", "color": "#FF6B00", "rank": "奪冠熱門", "barColor": "linear-gradient(90deg,#FF6B00,#FFFFFF)" },
   "SWE": { "code": "SWE", "zh": "瑞典", "en": "SWEDEN", "flag": "🇸🇪", "color": "#3B82F6", "rank": "北歐強隊", "barColor": "linear-gradient(90deg,#3B82F6,#FACC15)" },
-  "TUN": { "code": "TUN", "zh": "突尼西亞", "en": "TUNISIA", "flag": "🇹🇳", "color": "#EF4444", "rank": "非洲黑馬", "barColor": "linear-gradient(90deg,#EF4444,#FFFFFF)" }
+  "TUN": { "code": "TUN", "zh": "突尼西亞", "en": "TUNISIA", "flag": "🇹🇳", "color": "#EF4444", "rank": "非洲黑馬", "barColor": "linear-gradient(90deg,#EF4444,#FFFFFF)" },
+  "CPV": { "code": "CPV", "zh": "維德角", "en": "CABO VERDE", "flag": "🇨🇻", "color": "#002A8F", "rank": "首次參賽", "barColor": "linear-gradient(90deg,#002A8F,#D21034)" }
 }
