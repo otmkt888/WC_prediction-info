@@ -235,7 +235,8 @@
     "date": "2026-06-19",
     "files": [
       "m-cze-rsa.md",
-      "m-cze-rsa-2.md"
+      "m-cze-rsa-2.md",
+      "m-cze-rsa-3.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -311,7 +312,8 @@
     "id": "m-tur-par",
     "date": "2026-06-20",
     "files": [
-      "m-tur-par.md"
+      "m-tur-par.md",
+      "m-tur-par-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -321,7 +323,8 @@
     "id": "m-ned-swe",
     "date": "2026-06-21",
     "files": [
-      "m-ned-swe.md"
+      "m-ned-swe.md",
+      "m-ned-swe-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -331,7 +334,8 @@
     "id": "m-ger-civ",
     "date": "2026-06-21",
     "files": [
-      "m-ger-civ.md"
+      "m-ger-civ.md",
+      "m-ger-civ-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -341,7 +345,8 @@
     "id": "m-ecu-cuw",
     "date": "2026-06-21",
     "files": [
-      "m-ecu-cuw.md"
+      "m-ecu-cuw.md",
+      "m-ecu-cuw-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -351,7 +356,8 @@
     "id": "m-tun-jpn",
     "date": "2026-06-21",
     "files": [
-      "m-tun-jpn.md"
+      "m-tun-jpn.md",
+      "m-tun-jpn-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
