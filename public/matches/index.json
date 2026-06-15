@@ -207,5 +207,41 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null
+  },
+  {
+    "id": "m-cze-rsa",
+    "date": "2026-06-19",
+    "files": [
+      "m-cze-rsa.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-sui-bih",
+    "date": "2026-06-19",
+    "files": [
+      "m-sui-bih.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-can-qat",
+    "date": "2026-06-19",
+    "files": [
+      "m-can-qat.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-mex-kor",
+    "date": "2026-06-19",
+    "files": [
+      "m-mex-kor.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null
   }
 ]

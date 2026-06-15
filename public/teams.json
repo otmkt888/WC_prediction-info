@@ -374,5 +374,21 @@
     "flag": "🇨🇴",
     "color": "#FCD116",
     "barColor": "linear-gradient(90deg,#FCD116,#003087)"
+  },
+  "CZE": {
+    "code": "CZE",
+    "zh": "捷克",
+    "en": "CZECHIA",
+    "flag": "🇨🇿",
+    "color": "#D7001B",
+    "barColor": "linear-gradient(90deg,#D7001B,#003DA5)"
+  },
+  "RSA": {
+    "code": "RSA",
+    "zh": "南非",
+    "en": "SOUTH AFRICA",
+    "flag": "🇿🇦",
+    "color": "#007A4D",
+    "barColor": "linear-gradient(90deg,#007A4D,#FFB612)"
   }
 }
