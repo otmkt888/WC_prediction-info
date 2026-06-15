@@ -1,12 +1,13 @@
-const LANG_ORDER = ['zh', 'en', 'vi'];
+const LANG_ORDER = ['zh', 'zh-cn', 'en', 'vi'];
 
 export const LANG_OPTIONS = [
-  { code: 'zh', label: '中文' },
+  { code: 'zh', label: '繁體中文' },
+  { code: 'zh-cn', label: '简体中文' },
   { code: 'en', label: 'English' },
   { code: 'vi', label: 'Tiếng Việt' },
 ];
 
-const LANG_ATTRS = { zh: 'zh-Hant', en: 'en', vi: 'vi' };
+const LANG_ATTRS = { zh: 'zh-Hant', 'zh-cn': 'zh-Hans', en: 'en', vi: 'vi' };
 
 const locales = {
   zh: {
@@ -22,52 +23,52 @@ const locales = {
     'hero.odds': '賠率',
     'hero.referee': '裁判',
     'hero.cd.days_hours': (d, h) => `${d} 天 ${h} 小時後開賽`,
-    'hero.cd.days':       (d)    => `${d} 天後開賽`,
-    'hero.cd.hours':      (h)    => `${h} 小時後開賽`,
-    'hero.cd.mins':       (m)    => `${m} 分鐘後開賽`,
+    'hero.cd.days': (d) => `${d} 天後開賽`,
+    'hero.cd.hours': (h) => `${h} 小時後開賽`,
+    'hero.cd.mins': (m) => `${m} 分鐘後開賽`,
 
     'tabs.summary': '🏆 總結',
     'tabs.players': '球員',
-    'tabs.other':   '📊 其他分析',
+    'tabs.other': '📊 其他分析',
 
     'tag.starter': '首發主力',
-    'tag.team':    '隊內核心',
-    'tag.league':  '聯賽明星',
-    'tag.squad':   '替補',
-    'tag.doubt':   '⚠ 傷疑',
+    'tag.team': '隊內核心',
+    'tag.league': '聯賽明星',
+    'tag.squad': '替補',
+    'tag.doubt': '⚠ 傷疑',
 
-    'squad.title':    '預測首發陣容',
-    'squad.formation':'陣型',
-    'squad.coach':    '主教練',
-    'squad.prob':     '入球機率',
+    'squad.title': '預測首發陣容',
+    'squad.formation': '陣型',
+    'squad.coach': '主教練',
+    'squad.prob': '入球機率',
     'squad.prob_sub': '入球機率（上場後）',
 
-    'other.score':   '比分預測分析',
-    'other.events':  '角球 · 黃牌 · 紅牌預測',
+    'other.score': '比分預測分析',
+    'other.events': '角球 · 黃牌 · 紅牌預測',
     'other.referee': '裁判資訊',
-    'other.h2h':     '歷史交鋒',
+    'other.h2h': '歷史交鋒',
     'other.battles': '關鍵對決',
 
-    'h2h.wins':  '勝',
+    'h2h.wins': '勝',
     'h2h.draws': '平',
 
-    'summary.title':      '賽事總結與最終預測',
+    'summary.title': '賽事總結與最終預測',
     'summary.pred_score': '📊 預測比分',
-    'summary.wins':       '勝',
-    'summary.most_likely':'最高可能比分',
-    'summary.corners':    '預測總角球',
-    'summary.yellows':    '預測黃牌',
-    'summary.reds':       '預測紅牌',
-    'summary.key_obs':    '關鍵觀察',
+    'summary.wins': '勝',
+    'summary.most_likely': '最高可能比分',
+    'summary.corners': '預測總角球',
+    'summary.yellows': '預測黃牌',
+    'summary.reds': '預測紅牌',
+    'summary.key_obs': '關鍵觀察',
     'summary.possession': '控球',
 
     'ai.title': 'AI 分析聲明',
-    'ai.body':  (model) => `本頁所有賽事分析、球員評分、比分預測及裁判數據，均由 <strong>${model}</strong> 根據公開資訊生成，僅供參考，不構成任何投注建議。預測結果可能與實際賽況存在差異。`,
+    'ai.body': (model) => `本頁所有賽事分析、球員評分、比分預測及裁判數據，均由 <strong>${model}</strong> 根據公開資訊生成，僅供參考，不構成任何投注建議。預測結果可能與實際賽況存在差異。`,
 
     'error.load': '載入失敗：',
 
-    'date.dows': ['週日','週一','週二','週三','週四','週五','週六'],
-    'date.mons': ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+    'date.dows': ['週日', '週一', '週二', '週三', '週四', '週五', '週六'],
+    'date.mons': ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
   },
 
   en: {
@@ -83,52 +84,113 @@ const locales = {
     'hero.odds': 'Odds',
     'hero.referee': 'Referee',
     'hero.cd.days_hours': (d, h) => `Kickoff in ${d}d ${h}h`,
-    'hero.cd.days':       (d)    => `Kickoff in ${d}d`,
-    'hero.cd.hours':      (h)    => `Kickoff in ${h}h`,
-    'hero.cd.mins':       (m)    => `Kickoff in ${m}m`,
+    'hero.cd.days': (d) => `Kickoff in ${d}d`,
+    'hero.cd.hours': (h) => `Kickoff in ${h}h`,
+    'hero.cd.mins': (m) => `Kickoff in ${m}m`,
 
     'tabs.summary': '🏆 Summary',
     'tabs.players': 'Players',
-    'tabs.other':   '📊 Analysis',
+    'tabs.other': '📊 Analysis',
 
     'tag.starter': 'Starter',
-    'tag.team':    'Team Core',
-    'tag.league':  'League Star',
-    'tag.squad':   'Bench',
-    'tag.doubt':   '⚠ Doubt',
+    'tag.team': 'Team Core',
+    'tag.league': 'League Star',
+    'tag.squad': 'Bench',
+    'tag.doubt': '⚠ Doubt',
 
-    'squad.title':    'Predicted Starting XI',
-    'squad.formation':'Formation',
-    'squad.coach':    'Head Coach',
-    'squad.prob':     'Scoring Prob',
+    'squad.title': 'Predicted Starting XI',
+    'squad.formation': 'Formation',
+    'squad.coach': 'Head Coach',
+    'squad.prob': 'Scoring Prob',
     'squad.prob_sub': 'Scoring Prob (sub)',
 
-    'other.score':   'Score Prediction',
-    'other.events':  'Corners · Yellows · Reds',
+    'other.score': 'Score Prediction',
+    'other.events': 'Corners · Yellows · Reds',
     'other.referee': 'Referee Info',
-    'other.h2h':     'Head-to-Head',
+    'other.h2h': 'Head-to-Head',
     'other.battles': 'Key Battles',
 
-    'h2h.wins':  'wins',
+    'h2h.wins': 'wins',
     'h2h.draws': 'draws',
 
-    'summary.title':      'Match Summary & Final Prediction',
+    'summary.title': 'Match Summary & Final Prediction',
     'summary.pred_score': '📊 Predicted Score',
-    'summary.wins':       'wins',
-    'summary.most_likely':'Most Likely Score',
-    'summary.corners':    'Pred. Corners',
-    'summary.yellows':    'Pred. Yellows',
-    'summary.reds':       'Pred. Reds',
-    'summary.key_obs':    'Key Observations',
+    'summary.wins': 'wins',
+    'summary.most_likely': 'Most Likely Score',
+    'summary.corners': 'Pred. Corners',
+    'summary.yellows': 'Pred. Yellows',
+    'summary.reds': 'Pred. Reds',
+    'summary.key_obs': 'Key Observations',
     'summary.possession': 'Possession',
 
     'ai.title': 'AI Analysis Disclaimer',
-    'ai.body':  (model) => `All match analysis, player ratings, score predictions, and referee data on this page are generated by <strong>${model}</strong> based on publicly available information. For reference only — not betting advice. Predictions may differ from actual results.`,
+    'ai.body': (model) => `All match analysis, player ratings, score predictions, and referee data on this page are generated by <strong>${model}</strong> based on publicly available information. For reference only — not betting advice. Predictions may differ from actual results.`,
 
     'error.load': 'Load failed: ',
 
-    'date.dows': ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],
-    'date.mons': ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+    'date.dows': ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+    'date.mons': ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+  },
+
+  'zh-cn': {
+    'nav.pred': '赛事预测',
+    'nav.matches': '场',
+
+    'hero.live_score': '即时比分',
+    'hero.final_score': '最终比分',
+    'hero.ai_analysis': 'AI 分析',
+    'hero.pred_score': '预测比分',
+    'hero.win_rate': '胜率预测',
+    'hero.draw': '平',
+    'hero.odds': '赔率',
+    'hero.referee': '裁判',
+    'hero.cd.days_hours': (d, h) => `${d} 天 ${h} 小时后开赛`,
+    'hero.cd.days': (d) => `${d} 天后开赛`,
+    'hero.cd.hours': (h) => `${h} 小时后开赛`,
+    'hero.cd.mins': (m) => `${m} 分钟后开赛`,
+
+    'tabs.summary': '🏆 总结',
+    'tabs.players': '球员',
+    'tabs.other': '📊 其他分析',
+
+    'tag.starter': '首发主力',
+    'tag.team': '队内核心',
+    'tag.league': '联赛明星',
+    'tag.squad': '替补',
+    'tag.doubt': '⚠ 伤疑',
+
+    'squad.title': '预测首发阵容',
+    'squad.formation': '阵型',
+    'squad.coach': '主教练',
+    'squad.prob': '入球概率',
+    'squad.prob_sub': '入球概率（上场后）',
+
+    'other.score': '比分预测分析',
+    'other.events': '角球 · 黄牌 · 红牌预测',
+    'other.referee': '裁判信息',
+    'other.h2h': '历史交锋',
+    'other.battles': '关键对决',
+
+    'h2h.wins': '胜',
+    'h2h.draws': '平',
+
+    'summary.title': '赛事总结与最终预测',
+    'summary.pred_score': '📊 预测比分',
+    'summary.wins': '胜',
+    'summary.most_likely': '最高可能比分',
+    'summary.corners': '预测总角球',
+    'summary.yellows': '预测黄牌',
+    'summary.reds': '预测红牌',
+    'summary.key_obs': '关键观察',
+    'summary.possession': '控球',
+
+    'ai.title': 'AI 分析声明',
+    'ai.body': (model) => `本页所有赛事分析、球员评分、比分预测及裁判数据，均由 <strong>${model}</strong> 根据公开信息生成，仅供参考，不构成任何投注建议。预测结果可能与实际赛况存在差异。`,
+
+    'error.load': '载入失败：',
+
+    'date.dows': ['周日', '周一', '周二', '周三', '周四', '周五', '周六'],
+    'date.mons': ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
   },
 
   vi: {
@@ -144,56 +206,56 @@ const locales = {
     'hero.odds': 'Tỷ Lệ Cược',
     'hero.referee': 'Trọng Tài',
     'hero.cd.days_hours': (d, h) => `Khai cuộc sau ${d}n ${h}g`,
-    'hero.cd.days':       (d)    => `Khai cuộc sau ${d}n`,
-    'hero.cd.hours':      (h)    => `Khai cuộc sau ${h}g`,
-    'hero.cd.mins':       (m)    => `Khai cuộc sau ${m}p`,
+    'hero.cd.days': (d) => `Khai cuộc sau ${d}n`,
+    'hero.cd.hours': (h) => `Khai cuộc sau ${h}g`,
+    'hero.cd.mins': (m) => `Khai cuộc sau ${m}p`,
 
     'tabs.summary': '🏆 Tổng Kết',
     'tabs.players': 'Cầu Thủ',
-    'tabs.other':   '📊 Phân Tích',
+    'tabs.other': '📊 Phân Tích',
 
     'tag.starter': 'Chính Thức',
-    'tag.team':    'Cốt Lõi',
-    'tag.league':  'Ngôi Sao',
-    'tag.squad':   'Dự Bị',
-    'tag.doubt':   '⚠ Nghi Ngờ',
+    'tag.team': 'Cốt Lõi',
+    'tag.league': 'Ngôi Sao',
+    'tag.squad': 'Dự Bị',
+    'tag.doubt': '⚠ Nghi Ngờ',
 
-    'squad.title':    'Đội Hình Dự Kiến',
-    'squad.formation':'Sơ Đồ',
-    'squad.coach':    'Huấn Luyện Viên',
-    'squad.prob':     'Xác Suất Ghi Bàn',
+    'squad.title': 'Đội Hình Dự Kiến',
+    'squad.formation': 'Sơ Đồ',
+    'squad.coach': 'Huấn Luyện Viên',
+    'squad.prob': 'Xác Suất Ghi Bàn',
     'squad.prob_sub': 'Xác Suất Ghi Bàn (vào sân)',
 
-    'other.score':   'Phân Tích Tỷ Số',
-    'other.events':  'Phạt Góc · Thẻ Vàng · Thẻ Đỏ',
+    'other.score': 'Phân Tích Tỷ Số',
+    'other.events': 'Phạt Góc · Thẻ Vàng · Thẻ Đỏ',
     'other.referee': 'Thông Tin Trọng Tài',
-    'other.h2h':     'Lịch Sử Đối Đầu',
+    'other.h2h': 'Lịch Sử Đối Đầu',
     'other.battles': 'Đối Kháng Chính',
 
-    'h2h.wins':  'thắng',
+    'h2h.wins': 'thắng',
     'h2h.draws': 'hòa',
 
-    'summary.title':      'Tổng Kết & Dự Đoán Cuối',
+    'summary.title': 'Tổng Kết & Dự Đoán Cuối',
     'summary.pred_score': '📊 Tỷ Số Dự Đoán',
-    'summary.wins':       'thắng',
-    'summary.most_likely':'Tỷ Số Khả Năng Cao',
-    'summary.corners':    'Phạt Góc Dự Đoán',
-    'summary.yellows':    'Thẻ Vàng Dự Đoán',
-    'summary.reds':       'Thẻ Đỏ Dự Đoán',
-    'summary.key_obs':    'Quan Sát Chính',
+    'summary.wins': 'thắng',
+    'summary.most_likely': 'Tỷ Số Khả Năng Cao',
+    'summary.corners': 'Phạt Góc Dự Đoán',
+    'summary.yellows': 'Thẻ Vàng Dự Đoán',
+    'summary.reds': 'Thẻ Đỏ Dự Đoán',
+    'summary.key_obs': 'Quan Sát Chính',
     'summary.possession': 'Kiểm Soát Bóng',
 
     'ai.title': 'Tuyên Bố Phân Tích AI',
-    'ai.body':  (model) => `Tất cả phân tích trận đấu, đánh giá cầu thủ, dự đoán tỷ số và dữ liệu trọng tài trên trang này được tạo bởi <strong>${model}</strong> dựa trên thông tin công khai. Chỉ để tham khảo — không phải lời khuyên cá cược. Dự đoán có thể khác với kết quả thực tế.`,
+    'ai.body': (model) => `Tất cả phân tích trận đấu, đánh giá cầu thủ, dự đoán tỷ số và dữ liệu trọng tài trên trang này được tạo bởi <strong>${model}</strong> dựa trên thông tin công khai. Chỉ để tham khảo — không phải lời khuyên cá cược. Dự đoán có thể khác với kết quả thực tế.`,
 
     'error.load': 'Tải thất bại: ',
 
-    'date.dows': ['CN','T2','T3','T4','T5','T6','T7'],
-    'date.mons': ['Th1','Th2','Th3','Th4','Th5','Th6','Th7','Th8','Th9','Th10','Th11','Th12'],
+    'date.dows': ['CN', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'],
+    'date.mons': ['Th1', 'Th2', 'Th3', 'Th4', 'Th5', 'Th6', 'Th7', 'Th8', 'Th9', 'Th10', 'Th11', 'Th12'],
   },
 };
 
-const LANG_LABELS = { zh: '中', en: 'EN', vi: 'VI' };
+const LANG_LABELS = { zh: '繁中', 'zh-cn': '简中', en: 'EN', vi: 'VI' };
 
 let currentLang = localStorage.getItem('wc-lang') || 'en';
 let langListeners = [];

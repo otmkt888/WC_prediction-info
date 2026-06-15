@@ -21,7 +21,11 @@
       "Bash(wait)",
       "Bash(curl -s \"https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json\")",
       "Bash(python3 -c ' *)",
-      "Bash(node scripts/update-scores.mjs)"
+      "Bash(node scripts/update-scores.mjs)",
+      "Bash(grep '\\\\.md$')",
+      "Bash(python3 -c \"import opencc; print\\('opencc available'\\)\")",
+      "Bash(pip3 install *)",
+      "Bash(python3 -c \"import opencc; cc = opencc.OpenCC\\('t2s'\\); print\\(cc.convert\\('賽事預測'\\)\\)\")"
     ],
     "additionalDirectories": [
       "/private/tmp/generated-assets",

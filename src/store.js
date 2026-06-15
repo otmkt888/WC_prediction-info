@@ -18,6 +18,10 @@ async function fetchMatchFile(base, filename, lang) {
       if (r.ok) return r.text();
     } catch {}
   }
+  // zh-cn falls back directly to Traditional Chinese content, skipping English
+  if (lang === 'zh-cn') {
+    return fetch(`${base}matches/${filename}`, { cache: 'no-cache' }).then(r => r.text());
+  }
   // Fall back to English before the original zh file
   if (lang !== 'en' && lang !== 'zh') {
     const enFile = filename.replace('.md', '.en.md');
