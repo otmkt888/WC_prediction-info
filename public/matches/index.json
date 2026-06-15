@@ -283,7 +283,8 @@
     "id": "m-mex-kor",
     "date": "2026-06-19",
     "files": [
-      "m-mex-kor.md"
+      "m-mex-kor.md",
+      "m-mex-kor-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -293,7 +294,8 @@
     "id": "m-usa-aus",
     "date": "2026-06-20",
     "files": [
-      "m-usa-aus.md"
+      "m-usa-aus.md",
+      "m-usa-aus-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -303,7 +305,8 @@
     "id": "m-sco-mar",
     "date": "2026-06-20",
     "files": [
-      "m-sco-mar.md"
+      "m-sco-mar.md",
+      "m-sco-mar-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -313,7 +316,8 @@
     "id": "m-bra-hai",
     "date": "2026-06-20",
     "files": [
-      "m-bra-hai.md"
+      "m-bra-hai.md",
+      "m-bra-hai-2.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
