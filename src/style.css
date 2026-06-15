@@ -72,36 +72,76 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   padding: 3px 9px;
   vertical-align: middle;
 }
-.lang-select {
+.lang-dropdown {
+  position: relative;
   display: inline-block;
   margin-left: 10px;
+  vertical-align: middle;
+}
+.lang-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 10px;
   font-size: 11px;
   font-weight: 700;
   color: var(--gold);
   letter-spacing: 0.5px;
   border: 1px solid rgba(245,158,11,0.4);
   border-radius: 999px;
-  padding: 3px 22px 3px 10px;
-  vertical-align: middle;
-  background-color: rgba(245,158,11,0.08);
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23F59E0B' stroke-width='1.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
-  background-repeat: no-repeat;
-  background-position: right 8px center;
+  background: rgba(245,158,11,0.08);
   cursor: pointer;
-  appearance: none;
-  -webkit-appearance: none;
-  outline: none;
   transition: background-color 0.15s, border-color 0.15s;
+  white-space: nowrap;
 }
-.lang-select:hover {
-  background-color: rgba(245,158,11,0.18);
+.lang-trigger:hover {
+  background: rgba(245,158,11,0.18);
   border-color: rgba(245,158,11,0.7);
 }
-.lang-select option {
-  background: #0f1629;
-  color: #f1f5f9;
+.lang-chevron {
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
+}
+.lang-dropdown.open .lang-chevron {
+  transform: rotate(180deg);
+}
+.lang-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: #111827;
+  border: 1px solid rgba(245,158,11,0.3);
+  border-radius: 10px;
+  padding: 4px;
+  min-width: 130px;
+  z-index: 999;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.55);
+}
+.lang-dropdown.open .lang-menu {
+  display: block;
+}
+.lang-option {
+  display: block;
+  width: 100%;
+  padding: 8px 12px;
+  text-align: left;
+  font-size: 12px;
   font-weight: 500;
-  letter-spacing: 0;
+  color: var(--muted);
+  border-radius: 7px;
+  transition: background 0.1s, color 0.1s;
+  cursor: pointer;
+  letter-spacing: 0.3px;
+}
+.lang-option:hover {
+  background: rgba(245,158,11,0.1);
+  color: var(--gold);
+}
+.lang-option.active {
+  color: var(--gold);
+  font-weight: 700;
+  background: rgba(245,158,11,0.08);
 }
 
 /* Stage filter */

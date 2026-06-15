@@ -90,15 +90,22 @@ export function renderNav() {
   }).join('');
 
   const currentLang = getLang();
+  const currentLabel = LANG_OPTIONS.find(o => o.code === currentLang)?.label || currentLang;
   const langOptions = LANG_OPTIONS.map(o =>
-    `<option value="${o.code}"${o.code === currentLang ? ' selected' : ''}>${o.label}</option>`
+    `<button class="lang-option${o.code === currentLang ? ' active' : ''}" data-lang="${o.code}">${o.label}</button>`
   ).join('');
 
   return `
     <div class="nav-brand">
       <span class="brand-wc">WC 2026</span>
       <span class="brand-pred">${t('nav.pred')}</span>
-      <select class="lang-select">${langOptions}</select>
+      <div class="lang-dropdown">
+        <button class="lang-trigger">
+          <span class="lang-label">${currentLabel}</span>
+          <svg class="lang-chevron" width="10" height="6" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="#F59E0B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="lang-menu">${langOptions}</div>
+      </div>
     </div>
     ${renderStageFilter()}
     <div class="nav-dates scrollx">${dateBtns}</div>

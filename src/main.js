@@ -78,8 +78,22 @@ function bindEvents() {
     });
   });
 
-  document.querySelectorAll('.lang-select').forEach(sel => {
-    sel.addEventListener('change', () => setLang(sel.value));
+  document.querySelectorAll('.lang-trigger').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      const dropdown = btn.closest('.lang-dropdown');
+      const isOpen = dropdown.classList.toggle('open');
+      if (isOpen) {
+        document.addEventListener('click', () => dropdown.classList.remove('open'), { once: true });
+      }
+    });
+  });
+
+  document.querySelectorAll('[data-lang]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      btn.closest('.lang-dropdown')?.classList.remove('open');
+      setLang(btn.dataset.lang);
+    });
   });
 }
 
