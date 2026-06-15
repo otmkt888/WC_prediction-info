@@ -136,7 +136,6 @@ export function renderHero() {
       <div class="hero-team">
         <div class="hero-flag">${h.flag}</div>
         <div class="hero-en" style="color:${h.color}">${h.en}</div>
-        <div class="hero-meta">${teamName(h)} · ${h.rank}</div>
       </div>
       <div class="hero-vs">
         ${isLive ? '<div class="hero-live-badge"><span class="hero-live-dot"></span>LIVE</div>' : ''}
@@ -150,7 +149,6 @@ export function renderHero() {
       <div class="hero-team">
         <div class="hero-flag">${a.flag}</div>
         <div class="hero-en" style="color:${a.color}">${a.en}</div>
-        <div class="hero-meta">${teamName(a)} · ${a.rank}</div>
       </div>
     </div>
     <div class="hero-info">📍 ${m.venue} &nbsp;|&nbsp; <span style="color:#F59E0B">${m.dateKey} · ${m.time} MYT</span> &nbsp;|&nbsp; ${t('hero.referee')}: ${m.referee}</div>
