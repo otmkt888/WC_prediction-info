@@ -39,14 +39,6 @@
     "color": "#1FA148",
     "barColor": "linear-gradient(90deg,#1FA148,#F59E0B)"
   },
-  "SRB": {
-    "code": "SRB",
-    "zh": "塞爾維亞",
-    "en": "SERBIA",
-    "flag": "🇷🇸",
-    "color": "#C6363C",
-    "barColor": "linear-gradient(90deg,#C6363C,#F59E0B)"
-  },
   "FRA": {
     "code": "FRA",
     "zh": "法國",

@@ -1,5 +1,21 @@
 [
   {
+    "id": "m-mex-rsa",
+    "date": "2026-06-12",
+    "files": [],
+    "actualScoreHome": 2,
+    "actualScoreAway": 0,
+    "stage": "group-stage"
+  },
+  {
+    "id": "m-kor-cze",
+    "date": "2026-06-12",
+    "files": [],
+    "actualScoreHome": 2,
+    "actualScoreAway": 1,
+    "stage": "group-stage"
+  },
+  {
     "id": "m-can-bih",
     "date": "2026-06-13",
     "files": [
@@ -133,10 +149,10 @@
     "stage": "group-stage"
   },
   {
-    "id": "m-iri-nzl",
+    "id": "m-irn-nzl",
     "date": "2026-06-16",
     "files": [
-      "m-iri-nzl.md"
+      "m-irn-nzl.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -331,10 +347,10 @@
     "stage": "group-stage"
   },
   {
-    "id": "m-ecu-cur",
+    "id": "m-ecu-cuw",
     "date": "2026-06-21",
     "files": [
-      "m-ecu-cur.md"
+      "m-ecu-cuw.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

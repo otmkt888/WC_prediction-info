@@ -1,0 +1,102 @@
+name: Sync WC 2026 Scores
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # 每十分鐘執行一次
+  workflow_dispatch:      # 允許手動觸發
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch and sync scores
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          echo "Fetching matches for $TODAY..."
+
+          curl -s \
+            "https://api.football-data.org/v4/competitions/WC/matches?date=$TODAY" \
+            -H "X-Auth-Token: $FOOTBALL_DATA_TOKEN" \
+            -o /tmp/api_response.json
+
+          python3 - <<'EOF'
+          import json, sys
+
+          # API TLA -> 本地 TLA 對照表（API 代號與 index.json 不同時在此補上）
+          TLA_MAP = {
+              "URY": "uru",  # Uruguay: API 用 URY，index 用 uru
+          }
+
+          def normalize(tla):
+              return TLA_MAP.get(tla.upper(), tla.lower())
+
+          with open("/tmp/api_response.json") as f:
+              data = json.load(f)
+
+          finished = [m for m in data.get("matches", []) if m["status"] == "FINISHED"]
+
+          if not finished:
+              print("No finished matches today")
+              sys.exit(0)
+
+          with open("public/matches/index.json") as f:
+              index = json.load(f)
+
+          index_map = {entry["id"]: entry for entry in index}
+          updated = []
+
+          for m in finished:
+              home_tla = normalize(m["homeTeam"]["tla"])
+              away_tla = normalize(m["awayTeam"]["tla"])
+              match_id = f"m-{home_tla}-{away_tla}"
+
+              entry = index_map.get(match_id)
+              if not entry:
+                  print(f"WARNING: no match found for {match_id} "
+                        f"(API: {m['homeTeam']['tla']} vs {m['awayTeam']['tla']}, "
+                        f"name: {m['homeTeam']['name']} vs {m['awayTeam']['name']})")
+                  continue
+
+              api_home = m["score"]["fullTime"]["home"]
+              api_away = m["score"]["fullTime"]["away"]
+
+              if entry["actualScoreHome"] != api_home or entry["actualScoreAway"] != api_away:
+                  entry["actualScoreHome"] = api_home
+                  entry["actualScoreAway"] = api_away
+                  updated.append(f"{match_id}: {api_home}-{api_away}")
+
+          if not updated:
+              print("No new scores to update")
+              sys.exit(0)
+
+          with open("public/matches/index.json", "w") as f:
+              json.dump(index, f, ensure_ascii=False, indent=2)
+
+          print("Updated:")
+          for u in updated:
+              print(f"  {u}")
+
+          with open("/tmp/has_updates", "w") as f:
+              f.write("1")
+          EOF
+
+      - name: Commit and push if updated
+        run: |
+          if [ ! -f /tmp/has_updates ]; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+
+          git config user.email "dodo820518@gmail.com"
+          git config user.name "Eason518"
+          git add public/matches/index.json
+          git commit -m "chore: sync WC 2026 scores from football-data.org"
+          git push

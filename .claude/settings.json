@@ -48,11 +48,13 @@
       "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction log --oneline -3)",
       "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(list\\(d.keys\\(\\)\\)\\)\")",
       "Skill(schedule)",
-      "Skill(schedule:*)"
+      "Skill(schedule:*)",
+      "Bash(rm /Users/eason.chen/Documents/GitHub/wc-prediction/.git/HEAD.lock && echo \"Removed\")"
     ],
     "additionalDirectories": [
       "/private/tmp/generated-assets",
-      "/Users/eason.chen/Documents/GitHub/wc-prediction/public"
+      "/Users/eason.chen/Documents/GitHub/wc-prediction/public",
+      "/Users/eason.chen/Documents/GitHub/wc-prediction/.git"
     ]
   }
 }

@@ -1,5 +1,5 @@
 ---
-id: m-iri-nzl
+id: m-irn-nzl
 date: 2026-06-16
 time: "09:00"
 group: G
