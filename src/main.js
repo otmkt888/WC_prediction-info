@@ -57,12 +57,25 @@ function bindEvents() {
   });
 }
 
+function syncStickyHeights() {
+  const banner = document.getElementById('banner-wrap');
+  const nav = document.getElementById('nav-wrap');
+  if (banner) document.documentElement.style.setProperty('--banner-h', banner.getBoundingClientRect().height + 'px');
+  if (nav) document.documentElement.style.setProperty('--nav-h', nav.getBoundingClientRect().height + 'px');
+}
+
 async function init() {
   try {
     await loadData();
     subscribe(update);
     onLangChange(() => reloadMatchData().then(update));
     update();
+    const banner = document.getElementById('banner-wrap');
+    const navWrap = document.getElementById('nav-wrap');
+    const observer = new ResizeObserver(syncStickyHeights);
+    if (banner) observer.observe(banner);
+    if (navWrap) observer.observe(navWrap);
+    syncStickyHeights();
   } catch (e) {
     console.error(e);
     $content.innerHTML = `<div style="color:#f87171;padding:40px;text-align:center">${t('error.load')}${e.message}</div>`;

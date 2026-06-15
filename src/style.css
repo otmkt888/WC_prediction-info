@@ -32,7 +32,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 /* ── Sticky Nav ── */
 #nav-wrap {
   position: sticky;
-  top: 0;
+  top: var(--banner-h, 0px);
   z-index: 200;
   background: rgba(7,11,20,0.97);
   border-bottom: 1px solid var(--border);
@@ -159,12 +159,17 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 
 /* ── Banner ── */
 #banner-wrap {
-  max-width: 920px;
-  margin: 0 auto;
-  padding: 12px 16px 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(7,11,20,0.97);
+  backdrop-filter: blur(8px);
+  padding: 8px 16px;
 }
 #banner-link {
   display: block;
+  max-width: 920px;
+  margin: 0 auto;
   border-radius: 10px;
   overflow: hidden;
   transition: opacity 0.15s, transform 0.15s;
@@ -351,7 +356,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 /* ── Tabs ── */
 #tabs-wrap {
   position: sticky;
-  top: 0;
+  top: calc(var(--banner-h, 0px) + var(--nav-h, 0px));
   z-index: 150;
   background: #070b14;
   border-bottom: 1px solid var(--border);
