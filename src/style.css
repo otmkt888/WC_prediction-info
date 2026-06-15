@@ -157,6 +157,29 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 .chip-time { font-family: 'JetBrains Mono'; font-size: 10px; color: var(--dim); margin-left: 2px; }
 .chip-time-active { color: var(--gold); }
 
+/* ── Banner ── */
+#banner-wrap {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 12px 16px 0;
+}
+#banner-link {
+  display: block;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: opacity 0.15s, transform 0.15s;
+}
+#banner-link:hover {
+  opacity: 0.9;
+  transform: scale(1.005);
+}
+#banner-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+}
+
 /* ── Hero ── */
 #hero {
   background: linear-gradient(135deg,#001a0a 0%,#0A0E1A 45%,#1a000a 100%);

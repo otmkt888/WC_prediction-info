@@ -2,7 +2,22 @@
   "permissions": {
     "allow": [
       "Bash(xargs sed -i '' '/^actualScoreHome:/d;/^actualScoreAway:/d')",
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "Bash(mkdir -p /tmp/generated-assets)",
+      "Bash(~/.bun/bin/nano-banana \"Wide horizontal promotional banner for FIFA World Cup 2026. Dark navy background gradient from deep black to dark navy blue. Stadium silhouette crowd in background. Large golden soccer ball on left, golden trophy on right. Center text: FIFA WORLD CUP 2026 in massive bold golden Bebas Neue style font. Below: JOIN THE PREDICTION CHALLENGE in white text. Gold call-to-action text PREDICT AND WIN. Bottom right corner badge 12BET. Sports broadcast aesthetic, premium dark theme, gold accents, green highlights, cinematic wide format\" -s 2K -a 4:1 -o banner -d /tmp/generated-assets/)",
+      "Bash(cp /tmp/generated-assets/banner.jpeg /Users/eason.chen/Documents/GitHub/wc-prediction/public/banner.png && echo \"Placed successfully\")",
+      "Skill(run)",
+      "Skill(run:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5193/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5193/wc-prediction/)",
+      "Bash(chromium-cli screenshot *)",
+      "Bash(npx playwright *)",
+      "Read(//tmp/**)",
+      "Read(//private/tmp/**)",
+      "Bash(pkill -f \"vite --port 5193\")"
+    ],
+    "additionalDirectories": [
+      "/private/tmp/generated-assets"
     ]
   }
 }
