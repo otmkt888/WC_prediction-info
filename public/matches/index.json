@@ -364,6 +364,46 @@
     "stage": "group-stage"
   },
   {
+    "id": "m-esp-ksa",
+    "date": "2026-06-22",
+    "files": [
+      "sonnet/m-esp-ksa-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
+    "id": "m-bel-iri",
+    "date": "2026-06-22",
+    "files": [
+      "sonnet/m-bel-iri-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
+    "id": "m-uru-cpv",
+    "date": "2026-06-22",
+    "files": [
+      "sonnet/m-uru-cpv-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
+    "id": "m-nzl-egy",
+    "date": "2026-06-22",
+    "files": [
+      "sonnet/m-nzl-egy-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
     "id": "r32-m01",
     "date": "2026-06-29",
     "time": "03:00",
