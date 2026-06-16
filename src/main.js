@@ -2,14 +2,7 @@ import './style.css';
 import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey } from './store.js';
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render/index.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
-
-const BANNER_LINKS = {
-  zh: 'https://037go.nufrel.com/mqfzxmywyy6n',
-  'zh-cn': 'https://037go.nufrel.com/mqfzxmywyy6n',
-  en: 'https://037go.nufrel.com/mqfzxmywyy6n',
-  th: 'https://037go.tlndor.com/mqfzzhkpbf0a',
-  vi: 'https://037go.nufrel.com/mqfzyp59bmvt',
-};
+import { BANNER_LINKS } from './config.js';
 
 function syncBanner(lang) {
   const img = document.getElementById('banner-img');
