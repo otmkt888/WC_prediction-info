@@ -369,7 +369,19 @@ const locales = {
 
 const LANG_LABELS = { zh: '繁中', 'zh-cn': '简中', en: 'EN', vi: 'VI', th: 'TH' };
 
-let currentLang = localStorage.getItem('wc-lang') || 'en';
+function detectBrowserLang() {
+  const supported = Object.keys(LANG_ATTRS); // ['zh', 'zh-cn', 'en', 'vi', 'th']
+  for (const nav of navigator.languages ?? [navigator.language]) {
+    const lower = nav.toLowerCase();
+    if (lower === 'zh-tw' || lower === 'zh-hant') return 'zh';
+    if (lower === 'zh-cn' || lower === 'zh-hans' || lower === 'zh') return 'zh-cn';
+    const base = lower.split('-')[0];
+    if (supported.includes(base)) return base;
+  }
+  return 'en';
+}
+
+let currentLang = localStorage.getItem('wc-lang') ?? detectBrowserLang();
 let langListeners = [];
 
 export function getLang() { return currentLang; }
