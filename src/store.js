@@ -12,7 +12,7 @@ let BASE_URL = '/';
 let INDEX = [];
 
 async function fetchMatchFile(base, filename) {
-  return fetch(`${base}matches/${filename}`, { cache: 'no-cache' }).then(r => r.text());
+  return fetch(`${base}matches/${filename}`, { cache: 'default' }).then(r => r.text());
 }
 
 async function loadVariants(entry, lang) {
