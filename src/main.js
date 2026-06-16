@@ -47,6 +47,10 @@ function update() {
   bindEvents();
 }
 
+function trackEvent(name, params) {
+  if (typeof gtag === 'function') gtag('event', name, params);
+}
+
 function bindEvents() {
   document.querySelectorAll('[data-stage]').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -55,6 +59,7 @@ function bindEvents() {
       const first = filtered[0];
       const dateKey = first ? matchLocalDateKey(first) : getState().dateKey;
       const matchId = first ? first.id : getState().matchId;
+      trackEvent('stage_click', { stage });
       setState({ stage, dateKey, matchId, modelIndex: 0, tab: 'summary' });
     });
   });
@@ -63,25 +68,32 @@ function bindEvents() {
     btn.addEventListener('click', () => {
       const dateKey = btn.dataset.date;
       const first = getSchedule().find(m => matchLocalDateKey(m) === dateKey);
+      trackEvent('date_click', { date: dateKey });
       setState({ dateKey, matchId: first ? first.id : getState().matchId, modelIndex: 0, tab: 'summary' });
     });
   });
 
   document.querySelectorAll('[data-match]').forEach(btn => {
     btn.addEventListener('click', () => {
-      setState({ matchId: btn.dataset.match, modelIndex: 0, tab: 'summary' });
+      const matchId = btn.dataset.match;
+      trackEvent('match_click', { match_id: matchId });
+      setState({ matchId, modelIndex: 0, tab: 'summary' });
     });
   });
 
   document.querySelectorAll('[data-model]').forEach(btn => {
     btn.addEventListener('click', () => {
-      setState({ modelIndex: Number(btn.dataset.model) });
+      const modelIndex = Number(btn.dataset.model);
+      trackEvent('model_click', { model_index: modelIndex });
+      setState({ modelIndex });
     });
   });
 
   document.querySelectorAll('[data-tab]').forEach(btn => {
     btn.addEventListener('click', () => {
-      setState({ tab: btn.dataset.tab });
+      const tab = btn.dataset.tab;
+      trackEvent('tab_click', { tab_name: tab });
+      setState({ tab });
     });
   });
 
@@ -99,6 +111,7 @@ function bindEvents() {
   document.querySelectorAll('[data-lang]').forEach(btn => {
     btn.addEventListener('click', () => {
       btn.closest('.lang-dropdown')?.classList.remove('open');
+      trackEvent('language_change', { language: btn.dataset.lang });
       setLang(btn.dataset.lang);
     });
   });
