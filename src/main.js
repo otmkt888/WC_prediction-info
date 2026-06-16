@@ -1,6 +1,6 @@
 import './style.css';
 import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey } from './store.js';
-import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render.js';
+import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render/index.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 
 const BANNER_LINKS = {
