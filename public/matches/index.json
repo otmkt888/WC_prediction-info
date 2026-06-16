@@ -3,7 +3,7 @@
     "id": "m-can-bih",
     "date": "2026-06-13",
     "files": [
-      "m-can-bih.md"
+      "sonnet/m-can-bih-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -13,7 +13,7 @@
     "id": "m-usa-par",
     "date": "2026-06-13",
     "files": [
-      "m-usa-par.md"
+      "sonnet/m-usa-par-sonnet.md"
     ],
     "actualScoreHome": 4,
     "actualScoreAway": 1,
@@ -23,7 +23,7 @@
     "id": "m-qat-sui",
     "date": "2026-06-14",
     "files": [
-      "m-qat-sui.md"
+      "sonnet/m-qat-sui-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -33,7 +33,7 @@
     "id": "m-bra-mar",
     "date": "2026-06-14",
     "files": [
-      "m-bra-mar.md"
+      "sonnet/m-bra-mar-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -43,7 +43,7 @@
     "id": "m-hai-sco",
     "date": "2026-06-14",
     "files": [
-      "m-hai-sco.md"
+      "sonnet/m-hai-sco-sonnet.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 1,
@@ -53,7 +53,7 @@
     "id": "m-aus-tur",
     "date": "2026-06-14",
     "files": [
-      "m-aus-tur.md"
+      "sonnet/m-aus-tur-sonnet.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 0,
@@ -63,7 +63,7 @@
     "id": "m-ger-cuw",
     "date": "2026-06-15",
     "files": [
-      "m-ger-cuw.md"
+      "sonnet/m-ger-cuw-sonnet.md"
     ],
     "actualScoreHome": 7,
     "actualScoreAway": 1,
@@ -73,8 +73,8 @@
     "id": "m-ned-jpn",
     "date": "2026-06-15",
     "files": [
-      "m-ned-jpn.md",
-      "m-ned-jpn-2.md"
+      "opus/m-ned-jpn-opus.md",
+      "sonnet/m-ned-jpn-sonnet.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 2,
@@ -84,7 +84,7 @@
     "id": "m-civ-ecu",
     "date": "2026-06-15",
     "files": [
-      "m-civ-ecu.md"
+      "sonnet/m-civ-ecu-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 0,
@@ -94,7 +94,7 @@
     "id": "m-swe-tun",
     "date": "2026-06-15",
     "files": [
-      "m-swe-tun.md"
+      "sonnet/m-swe-tun-sonnet.md"
     ],
     "actualScoreHome": 5,
     "actualScoreAway": 1,
@@ -104,8 +104,8 @@
     "id": "m-esp-cpv",
     "date": "2026-06-16",
     "files": [
-      "m-esp-cpv.md",
-      "m-esp-cpv-2.md"
+      "sonnet/m-esp-cpv-sonnet.md",
+      "gemini/m-esp-cpv-gemini.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,
@@ -115,8 +115,8 @@
     "id": "m-bel-egy",
     "date": "2026-06-16",
     "files": [
-      "m-bel-egy.md",
-      "m-bel-egy-2.md"
+      "sonnet/m-bel-egy-sonnet.md",
+      "gpt/m-bel-egy-gpt.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -126,7 +126,7 @@
     "id": "m-ksa-uru",
     "date": "2026-06-16",
     "files": [
-      "m-ksa-uru.md"
+      "sonnet/m-ksa-uru-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -136,7 +136,7 @@
     "id": "m-irn-nzl",
     "date": "2026-06-16",
     "files": [
-      "m-irn-nzl.md"
+      "sonnet/m-irn-nzl-sonnet.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 2,
@@ -146,8 +146,8 @@
     "id": "m-fra-sen",
     "date": "2026-06-17",
     "files": [
-      "m-fra-sen.md",
-      "m-fra-sen-2.md"
+      "opus/m-fra-sen-opus.md",
+      "sonnet/m-fra-sen-sonnet.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,
@@ -157,8 +157,8 @@
     "id": "m-irq-nor",
     "date": "2026-06-17",
     "files": [
-      "m-irq-nor.md",
-      "m-irq-nor-2.md"
+      "opus/m-irq-nor-opus.md",
+      "sonnet/m-irq-nor-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -168,8 +168,8 @@
     "id": "m-arg-alg",
     "date": "2026-06-17",
     "files": [
-      "m-arg-alg.md",
-      "m-arg-alg-2.md"
+      "opus/m-arg-alg-opus.md",
+      "sonnet/m-arg-alg-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -179,8 +179,8 @@
     "id": "m-aut-jor",
     "date": "2026-06-17",
     "files": [
-      "m-aut-jor.md",
-      "m-aut-jor-2.md"
+      "opus/m-aut-jor-opus.md",
+      "sonnet/m-aut-jor-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -190,8 +190,8 @@
     "id": "m-por-cod",
     "date": "2026-06-18",
     "files": [
-      "m-por-cod.md",
-      "m-por-cod-2.md"
+      "opus/m-por-cod-opus.md",
+      "sonnet/m-por-cod-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -201,8 +201,8 @@
     "id": "m-eng-cro",
     "date": "2026-06-18",
     "files": [
-      "m-eng-cro.md",
-      "m-eng-cro-2.md"
+      "opus/m-eng-cro-opus.md",
+      "sonnet/m-eng-cro-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -212,8 +212,8 @@
     "id": "m-gha-pan",
     "date": "2026-06-18",
     "files": [
-      "m-gha-pan.md",
-      "m-gha-pan-2.md"
+      "opus/m-gha-pan-opus.md",
+      "sonnet/m-gha-pan-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -223,8 +223,8 @@
     "id": "m-uzb-col",
     "date": "2026-06-18",
     "files": [
-      "m-uzb-col.md",
-      "m-uzb-col-2.md"
+      "opus/m-uzb-col-opus.md",
+      "sonnet/m-uzb-col-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -234,8 +234,8 @@
     "id": "m-cze-rsa",
     "date": "2026-06-19",
     "files": [
-      "m-cze-rsa.md",
-      "m-cze-rsa-2.md",
+      "opus/m-cze-rsa-opus.md",
+      "sonnet/m-cze-rsa-sonnet.md",
       "m-cze-rsa-3.md"
     ],
     "actualScoreHome": null,
@@ -246,8 +246,8 @@
     "id": "m-sui-bih",
     "date": "2026-06-19",
     "files": [
-      "m-sui-bih.md",
-      "m-sui-bih-2.md"
+      "opus/m-sui-bih-opus.md",
+      "sonnet/m-sui-bih-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -257,8 +257,8 @@
     "id": "m-can-qat",
     "date": "2026-06-19",
     "files": [
-      "m-can-qat.md",
-      "m-can-qat-2.md"
+      "opus/m-can-qat-opus.md",
+      "sonnet/m-can-qat-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -268,8 +268,8 @@
     "id": "m-mex-kor",
     "date": "2026-06-19",
     "files": [
-      "m-mex-kor.md",
-      "m-mex-kor-2.md"
+      "opus/m-mex-kor-opus.md",
+      "sonnet/m-mex-kor-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -279,8 +279,8 @@
     "id": "m-usa-aus",
     "date": "2026-06-20",
     "files": [
-      "m-usa-aus.md",
-      "m-usa-aus-2.md"
+      "opus/m-usa-aus-opus.md",
+      "sonnet/m-usa-aus-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -290,8 +290,8 @@
     "id": "m-sco-mar",
     "date": "2026-06-20",
     "files": [
-      "m-sco-mar.md",
-      "m-sco-mar-2.md"
+      "opus/m-sco-mar-opus.md",
+      "sonnet/m-sco-mar-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -301,8 +301,8 @@
     "id": "m-bra-hai",
     "date": "2026-06-20",
     "files": [
-      "m-bra-hai.md",
-      "m-bra-hai-2.md"
+      "opus/m-bra-hai-opus.md",
+      "sonnet/m-bra-hai-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -312,8 +312,8 @@
     "id": "m-tur-par",
     "date": "2026-06-20",
     "files": [
-      "m-tur-par.md",
-      "m-tur-par-2.md"
+      "opus/m-tur-par-opus.md",
+      "sonnet/m-tur-par-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -323,8 +323,8 @@
     "id": "m-ned-swe",
     "date": "2026-06-21",
     "files": [
-      "m-ned-swe.md",
-      "m-ned-swe-2.md"
+      "opus/m-ned-swe-opus.md",
+      "sonnet/m-ned-swe-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -334,8 +334,8 @@
     "id": "m-ger-civ",
     "date": "2026-06-21",
     "files": [
-      "m-ger-civ.md",
-      "m-ger-civ-2.md"
+      "opus/m-ger-civ-opus.md",
+      "sonnet/m-ger-civ-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -345,8 +345,8 @@
     "id": "m-ecu-cuw",
     "date": "2026-06-21",
     "files": [
-      "m-ecu-cuw.md",
-      "m-ecu-cuw-2.md"
+      "opus/m-ecu-cuw-opus.md",
+      "sonnet/m-ecu-cuw-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -356,8 +356,8 @@
     "id": "m-tun-jpn",
     "date": "2026-06-21",
     "files": [
-      "m-tun-jpn.md",
-      "m-tun-jpn-2.md"
+      "opus/m-tun-jpn-opus.md",
+      "sonnet/m-tun-jpn-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
