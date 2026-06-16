@@ -34,6 +34,9 @@ Brazil, five-time World Cup champions, are coached by Italian great Carlo Ancelo
 ## home_note:vi
 Brazil, năm lần vô địch World Cup, được dẫn dắt bởi danh thủ người Ý Carlo Ancelotti, HLV nước ngoài đầu tiên của họ. Đội hình đầy sao: Vinícius Jr, Raphinha, Casemiro, Bruno Guimarães và thủ môn Alisson. Trận hòa 1-1 với Morocco ở trận mở màn là một bước hụt nhẹ (Neymar chấn thương, Igor Thiago dẫn dắt hàng công). Trước Haiti yếu hơn, họ tìm chiến thắng đậm để lấy lại tự tin. Khai cuộc 09:00 GMT+8 ngày 20/6 tại Philadelphia.
 
+## home_note:th
+บราซิล แชมป์โลก 5 สมัย อยู่ภายใต้การคุมทีมของ Carlo Ancelotti ตำนานชาวอิตาลี ซึ่งเป็นกุนซือต่างชาติคนแรกในประวัติศาสตร์ของทีม ชุดนี้เต็มไปด้วยดาวดัง ทั้ง Vinícius Jr, Raphinha, Casemiro, Bruno Guimarães และผู้รักษาประตู Alisson การเสมอ 1-1 กับโมร็อกโกในนัดแรกถือเป็นการสะดุดเล็กน้อย (Neymar บาดเจ็บพักรักษาตัว Igor Thiago รับหน้าที่แนวหน้า) เมื่อต้องพบกับเฮติที่อ่อนแอกว่า พวกเขาต้องการชนะขาดเพื่อสร้างความมั่นใจ เตะเริ่มเกม 09:00 GMT+8 วันที่ 20 มิถุนายน ที่ฟิลาเดลเฟีย
+
 ## away_note:zh
 海地時隔 52 年（1974 後）重返世界盃，由法國籍主帥 Sébastien Migné 執教，是本屆最弱隊伍之一。頭號球星為桑德蘭前鋒 Wilson Isidor 與狼隊中場 Bellegarde；老將 Pierrot、Nazon 經驗豐富。首戰 0-1 不敵蘇格蘭，球員多在法乙、USL 等聯賽效力，面對巴西實力差距懸殊。
 
@@ -46,6 +49,9 @@ Haiti return to the World Cup after 52 years (since 1974), coached by Frenchman 
 ## away_note:vi
 Haiti trở lại World Cup sau 52 năm (kể từ 1974), do HLV người Pháp Sébastien Migné dẫn dắt, nằm trong số những đội yếu nhất giải. Ngôi sao của họ là tiền đạo Sunderland Wilson Isidor và tiền vệ Wolves Bellegarde, với các lão tướng Pierrot và Nazon thêm kinh nghiệm. Sau trận thua 0-1 trước Scotland, với cầu thủ rải rác ở Ligue 2, USL và các giải khác, họ đối mặt khoảng cách lớn trước Brazil.
 
+## away_note:th
+เฮติกลับมาฟุตบอลโลกอีกครั้งหลังจากห่างหายไป 52 ปี (นับตั้งแต่ปี 1974) โดยมี Sébastien Migné กุนซือชาวฝรั่งเศสเป็นผู้คุมทีม และถือเป็นหนึ่งในทีมที่อ่อนแอที่สุดในทัวร์นาเมนต์นี้ ดาวเด่นของพวกเขาคือ Wilson Isidor กองหน้าจาก Sunderland และ Bellegarde มิดฟิลด์จาก Wolves โดยมีทหารผ่านศึกอย่าง Pierrot และ Nazon เสริมประสบการณ์ หลังแพ้สกอตแลนด์ 0-1 ในนัดแรก ด้วยนักเตะที่กระจายตัวอยู่ใน Ligue 2, USL และลีกอื่นๆ พวกเขาต้องเผชิญกับช่องว่างด้านคุณภาพที่ยิ่งใหญ่เมื่อต้องสู้กับบราซิล
+
 ## odds_note:zh
 賠率顯示：巴西勝 1.18、平局 7.00、海地勝 15.00。巴西為壓倒性熱門，個人能力與整體實力全面碾壓。海地僅能靠密集防守與運氣降低失球，爆冷機率極低。看點在巴西能贏幾球，以及 Vinícius、Raphinha 能否找回狀態。
 
@@ -57,6 +63,9 @@ The odds read: Brazil win 1.18, draw 7.00, Haiti win 15.00. Brazil are overwhelm
 
 ## odds_note:vi
 Tỷ lệ cược: Brazil thắng 1.18, hòa 7.00, Haiti thắng 15.00. Brazil là đội được ưa chuộng áp đảo, vượt trội về cá nhân lẫn thực lực tổng thể. Haiti chỉ có thể dựa vào phòng ngự dày đặc và may mắn để giảm thiểu thiệt hại; một bất ngờ là cực kỳ khó. Điểm đáng chú ý là cách biệt chiến thắng của Brazil và liệu Vinícius cùng Raphinha có tìm lại phong độ.
+
+## odds_note:th
+อัตราต่อรอง: บราซิลชนะ 1.18, เสมอ 7.00, เฮติชนะ 15.00 บราซิลเป็นตัวเต็งแบบล้นหลาม ทั้งในด้านคุณภาพของนักเตะแต่ละคนและความแข็งแกร่งโดยรวม เฮติสามารถพึ่งพาการตั้งรับแน่นและโชคเท่านั้นเพื่อจำกัดความเสียหาย การพลิกล็อกแทบไม่มีโอกาสเกิดขึ้น สิ่งที่น่าติดตามคือบราซิลจะชนะห่างแค่ไหน และ Vinícius กับ Raphinha จะกลับมาทำฟอร์มได้หรือไม่
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Brazil thắng 1.18, hòa 7.00, Haiti thắng 15.00. Brazil l
 | ST | #9 | Igor Thiago | Brentford | 🇬🇧 | 9 | starter,league | false | Tiền đạo Brentford, chớp thời cơ và làm tường, dẫn dắt hàng công khi vắng Neymar. |
 | FWD | 備援 | Estêvão | Chelsea | 🇬🇧 | 8 | league,squad | true | Thần đồng Chelsea (chờ xác nhận thể lực), rê bóng và sáng tạo, lựa chọn thay đổi sơ đồ từ ghế dự bị. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Alisson | Liverpool | 🇬🇧 | 1 | starter,team,league | false | กำแพงเหล็กของ Liverpool หยุดลูกและส่งบอลระดับโลก เป็นเสาหลักของแนวรับบราซิล |
+| DEF | #6 | Douglas Santos | Zenit | 🇷🇺 | 3 | starter | false | แบ็คซ้าย ช่วยเหลือและเซ็นเตอร์ เจาะขึ้นฝั่งซ้าย |
+| DEF | #3 | Marquinhos | PSG | 🇫🇷 | 5 | starter,team,league | false | เซ็นเตอร์แบ็คกัปตันทีม PSG ป้องกันและจ่ายบอลระดับเยี่ยม เป็นแกนหลักของแนวรับ |
+| DEF | #4 | Gabriel Magalhães | Arsenal | 🇬🇧 | 5 | starter,league | false | เซ็นเตอร์แบ็ค Arsenal แข็งแกร่งในการชนะบอลและเกมอากาศ เป็นเสาหลักของแนวรับ |
+| DEF | #13 | Roger Ibáñez | Al Ahli | 🇸🇦 | 3 | starter | false | แบ็คขวา/เซ็นเตอร์แบ็ค มีความเร็วและการปะทะ เสริมความแข็งแกร่งให้แนวรับ |
+| MID | #5 | Casemiro | Manchester United | 🇬🇧 | 5 | starter,team,league | false | ดีเฟนซีฟมิดฟิลด์ Manchester United คอยสกัดและปกป้อง เป็นโล่กลางสนามของบราซิล |
+| MID | #8 | Bruno Guimarães | Newcastle | 🇬🇧 | 7 | starter,team,league | false | มิดฟิลด์ Newcastle ประสานงานและรุกขึ้น เป็นเครื่องยนต์กลางสนามของบราซิล |
+| RW | #11 | Raphinha | Barcelona | 🇪🇸 | 12 | starter,team,league | false | ปีกของ Barcelona หนึ่งในนักเตะที่สม่ำเสมอที่สุดในยุโรปสองฤดูกาลที่ผ่านมา เป็นศูนย์กลางการจ่ายและยิงประตูปีกขวา |
+| AM | #10 | Lucas Paquetá | West Ham | 🇬🇧 | 7 | starter,league | false | มิดฟิลด์รุกของ West Ham เชื่อมเกมและวิ่งล้ำหน้า เป็นแกนกลางสนาม |
+| LW | #7 | Vinícius Júnior | Real Madrid | 🇪🇸 | 14 | starter,team,league | false | ปีกของ Real Madrid เลี้ยงบอลและยิงประตูระดับยอดเยี่ยม เป็นภัยคุกคามการโจมตีอันดับหนึ่งของบราซิล ทำประตูได้ในนัดแรก |
+| ST | #9 | Igor Thiago | Brentford | 🇬🇧 | 9 | starter,league | false | กองหน้า Brentford ชำนาญการดักบอลและแบ็คอัพ รับหน้าที่นำแนวหน้าเมื่อ Neymar บาดเจ็บ |
+| FWD | สำรอง | Estêvão | Chelsea | 🇬🇧 | 8 | league,squad | true | อัจฉริยะหนุ่มของ Chelsea (รอยืนยันความฟิต) เลี้ยงบอลและสร้างสรรค์เกม เป็นตัวเลือกเปลี่ยนรูปแบบจากม้านั่งสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Brazil thắng 1.18, hòa 7.00, Haiti thắng 15.00. Brazil l
 | ST | #11 | Frantzdy Pierrot | Free agent | 🇭🇹 | 5 | starter,team | false | Tiền đạo kỳ cựu, 34 bàn trong 51 trận, mối đe dọa chớp thời cơ và làm tường. |
 | FWD | 備援 | Duckens Nazon | Free agent | 🇭🇹 | 5 | team,squad | true | Chân sút xuất sắc nhất lịch sử Haiti (44 bàn trong 78 trận), nhanh, tăng cường hàng công từ ghế dự bị. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Johny Placide | Free agent | 🇭🇹 | 1 | starter,team | false | กัปตันผู้รักษาประตูวัย 38 ปี ลงเล่น 81 นัด ปฏิกิริยาและประสบการณ์เป็นเสาหลักของแนวรับเฮติ |
+| DEF | #2 | Carlens Arcus | Free agent | 🇭🇹 | 2 | starter | false | แบ็คขวา ป้องกันและครอบคลุมแนวปีก |
+| DEF | #5 | Ricardo Adé | Free agent | 🇭🇹 | 2 | starter | false | เซ็นเตอร์แบ็ค แข็งแกร่งทางร่างกาย เป็นเสาหลักของแนวรับ |
+| DEF | #4 | Hannes Delcroix | Anderlecht | 🇧🇪 | 3 | starter,league | false | เซ็นเตอร์แบ็คเชื้อสายเบลเยียม ชนะบอลและจ่ายบอล เป็นแกนหลักของแนวรับ |
+| DEF | #3 | Martin Experience | Free agent | 🇭🇹 | 2 | starter | false | แบ็คซ้าย มีวินัยในการป้องกัน ครอบคลุมฝั่งซ้าย |
+| MID | #6 | Louicius Deedson | Free agent | 🇭🇹 | 4 | starter | false | มิดฟิลด์ ครอบคลุมและรุกขึ้น ทำได้ 4 ประตูในช่วงเตรียมทีม |
+| MID | #8 | Jean-Ricner Bellegarde | Wolves | 🇬🇧 | 6 | starter,team,league | false | มิดฟิลด์ Wolves เป็นแกนสร้างเกมหลักของเฮติ มีเทคนิคดีและเชี่ยวชาญการหาฟาวล์ |
+| MID | #10 | Danley Jean Jacques | Montpellier | 🇫🇷 | 3 | starter,league | false | มิดฟิลด์ ครอบคลุมและสกัด เป็นโล่กลางสนาม |
+| MID | #7 | Ruben Providence | Free agent | 🇭🇹 | 3 | starter | false | นักเตะปีก มีความเร็วและเลี้ยงบอล โจมตีในการตีโต้ |
+| ST | #9 | Wilson Isidor | Sunderland | 🇬🇧 | 7 | starter,team,league | false | กองหน้า Sunderland หนึ่งในนักเตะที่ดีที่สุดตลอดกาลของเฮติ มีความเร็วและยิงประตู เป็นหัวหอกแนวรุก |
+| ST | #11 | Frantzdy Pierrot | Free agent | 🇭🇹 | 5 | starter,team | false | กองหน้าทหารผ่านศึก ทำ 34 ประตูใน 51 นัด เป็นภัยคุกคามในการดักบอลและแบ็คอัพ |
+| FWD | สำรอง | Duckens Nazon | Free agent | 🇭🇹 | 5 | team,squad | true | ดาวซัลโวตลอดกาลของเฮติ (44 ประตูใน 78 นัด) เร็ว เสริมกำลังการโจมตีจากม้านั่งสำรอง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Brazil thắng 1.18, hòa 7.00, Haiti thắng 15.00. Brazil l
 | 5-0 🇧🇷 | Brazil Thắng | 7 | #009C3B | | home |
 | Khác | — | 17 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 3-0 🇧🇷 | บราซิลชนะ | 19 | #009C3B | โอกาสสูงสุด | home |
+| 2-0 🇧🇷 | บราซิลชนะ | 17 | #009C3B | อันดับสอง | home |
+| 4-0 🇧🇷 | บราซิลชนะ | 14 | #009C3B | | home |
+| 3-1 🇧🇷 | บราซิลชนะ | 10 | #009C3B | | home |
+| 4-1 🇧🇷 | บราซิลชนะ | 8 | #009C3B | | home |
+| 1-0 🇧🇷 | บราซิลชนะ | 8 | #009C3B | | home |
+| 5-0 🇧🇷 | บราซิลชนะ | 7 | #009C3B | | home |
+| อื่นๆ | — | 17 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược: Brazil thắng 1.18, hòa 7.00, Haiti thắng 15.00. Brazil l
 | 🟡 | 2–4 | Dự đoán số thẻ vàng | Phòng ngự và lỗi chiến thuật của Haiti khiến thẻ vàng tích lũy; Brazil ít thẻ. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Nếu Haiti bị kéo căng, một chiếc thẻ là có thể; xác suất thẻ đỏ thấp nhưng có. |
 | ⚠️ | 16–20 | Số phạm lỗi/trận của trọng tài | Kiểm soát bóng của Brazil và lỗi phòng ngự của Haiti tạo số lỗi trung bình. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–13 | จำนวนเตะมุมที่คาดการณ์ | การครองบอลและการโจมตีที่ครอบงำของบราซิลสร้างเตะมุมจำนวนมาก ในขณะที่เฮติถอยลึกจึงได้น้อยมาก |
+| 🟡 | 2–4 | จำนวนใบเหลืองที่คาดการณ์ | การตั้งรับและฟาวล์เชิงยุทธวิธีของเฮติทำให้ใบเหลืองสะสม ส่วนบราซิลได้รับใบเหลืองน้อย |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | หากเฮติถูกกดดันจนทนไม่ไหวอาจเกิดการโดนใบ โอกาสใบแดงต่ำแต่มีความเป็นไปได้ |
+| ⚠️ | 16–20 | จำนวนฟาวล์/นัด | การครองบอลของบราซิลและฟาวล์ตั้งรับของเฮติทำให้จำนวนฟาวล์อยู่ในระดับปานกลาง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược: Brazil thắng 1.18, hòa 7.00, Haiti thắng 15.00. Brazil l
 | Thẻ trung bình/trận | TBC | #60a5fa |
 | Phạm lỗi trung bình/trận | TBC | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: รอประกาศ (TBC)
+- country: 🏳️ FIFA จะแต่งตั้งก่อนการแข่งขัน
+- note: กรรมการยังไม่ได้รับการประกาศอย่างเป็นทางการจาก FIFA โดยปกติจะแต่งตั้ง 1–2 วันก่อนเริ่มเกม เนื่องจากความแตกต่างด้านคุณภาพที่ยิ่งใหญ่ เกมควรอยู่ภายใต้การควบคุมของบราซิลอย่างสมบูรณ์ คาดว่าจะมีการให้ใบเหลืองส่วนใหญ่สำหรับฟาวล์เชิงยุทธวิธีของเฮติ สถิติจะอัปเดตเมื่อยืนยันแล้ว
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | TBC | #F1F5F9 |
+| ใบเหลืองรวม | TBC | #EAB308 |
+| ใบเหลือง-แดง | TBC | orange |
+| ใบแดงรวม | TBC | #EF4444 |
+| เฉลี่ยใบ/นัด | TBC | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | TBC | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 2
@@ -353,6 +429,13 @@ Tỷ lệ cược: Brazil thắng 1.18, hòa 7.00, Haiti thắng 15.00. Brazil l
 - draws: 0
 - awayWins: 0
 - note: Brazil thắng tất cả các lần gặp trước với cách biệt lớn, bao gồm trận thắng 6-0 trước Haiti ở "Trận đấu Hòa bình" 2004. Lần này Brazil hòa 1-1 với Morocco và Haiti thua 0-1 trước Scotland. Khoảng cách rất lớn, và Brazil tìm chiến thắng đậm để lấy lại phong độ và hiệu số.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 2
+- draws: 0
+- awayWins: 0
+- note: บราซิลชนะทุกนัดที่เคยพบกันด้วยคะแนนห่างมาก รวมถึงการชนะเฮติ 6-0 ใน "แมตช์แห่งสันติภาพ" ปี 2004 ครั้งนี้บราซิลเสมอ 1-1 กับโมร็อกโกและเฮติแพ้สกอตแลนด์ 0-1 ช่องว่างด้านคุณภาพยังคงกว้างมาก และบราซิลต้องการชนะขาดเพื่อฟื้นฟูฟอร์มและผลต่างประตู
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược: Brazil thắng 1.18, hòa 7.00, Haiti thắng 15.00. Brazil l
 | Wilson Isidor | 🇭🇹 ST | Marquinhos | 🇧🇷 CB | Ngọn giáo Haiti đối đầu trung vệ đội trưởng PSG, hy vọng phản công duy nhất của Haiti trước phòng ngự đẳng cấp. |
 | Bellegarde | 🇭🇹 MID | Casemiro | 🇧🇷 MID | Hạt nhân sáng tạo Haiti đối đầu tiền vệ trụ Brazil, Haiti có tổ chức tấn công được hay không phụ thuộc vào đây. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Vinícius Júnior | 🇧🇷 LW | Carlens Arcus | 🇭🇹 RB | ซูเปอร์สตาร์ Real Madrid เผชิญหน้ากับแบ็คขวาของเฮติ การเลี้ยงบอลของ Vinícius เป็นภัยคุกคามที่ล้นหลาม |
+| Raphinha | 🇧🇷 RW | Martin Experience | 🇭🇹 LB | ปีก Barcelona เผชิญหน้ากับแบ็คซ้ายของเฮติ การจ่ายและยิงประตูปีกขวาของเขายากที่จะหยุดได้ |
+| Wilson Isidor | 🇭🇹 ST | Marquinhos | 🇧🇷 CB | หัวหอกของเฮติเผชิญหน้ากับกัปตันเซ็นเตอร์แบ็ค PSG เป็นความหวังเดียวของเฮติในการตีโต้เมื่อต้องสู้กับแนวรับระดับยอดเยี่ยม |
+| Bellegarde | 🇭🇹 MID | Casemiro | 🇧🇷 MID | แกนสร้างเกมของเฮติเผชิญหน้ากับดีเฟนซีฟมิดฟิลด์ของบราซิล โอกาสที่เฮติจะสร้างการโจมตีได้ขึ้นอยู่กับการดวลคู่นี้ |
+
 ## summary_verdict:zh
 巴西雖首戰被摩洛哥 1-1 逼平略顯不順，但實力依舊是世界頂級。Ancelotti 麾下 Vinícius、Raphinha、Casemiro、Bruno Guimarães 等球星雲集，個人能力與整體實力對海地形成壓倒性碾壓。
 
@@ -413,6 +504,13 @@ Dù Brazil hơi hụt bước với trận hòa 1-1 trước Morocco, chất lư
 Haiti trở lại World Cup sau 52 năm, với cầu thủ phần lớn là cầu thủ tự do hoặc thi đấu ở các giải hạng dưới; Isidor và Bellegarde là những cái tên duy nhất ở giải hàng đầu. Sau trận thua 0-1 trước Scotland, họ về cơ bản chỉ có thể phòng ngự số đông trước Brazil.
 
 Dự đoán: Brazil thắng 3-0. Khả năng kiểm soát bóng và năng lực cá nhân giúp Brazil muốn làm gì thì làm, hàng công Vinícius–Raphinha phá lưới dễ dàng và lấy lại phong độ cùng hiệu số. Haiti tập trung giảm thiểu thiệt hại, và thua trắng hoặc thậm chí cách biệt lớn hơn là hợp lý. Trọng tài chưa được xác nhận; với khoảng cách lớn, dự kiến số thẻ thấp.
+
+## summary_verdict:th
+แม้บราซิลจะสะดุดเล็กน้อยกับการเสมอ 1-1 กับโมร็อกโก แต่คุณภาพของพวกเขายังคงอยู่ในระดับโลก ภายใต้การนำของ Ancelotti ดาวดังอย่าง Vinícius, Raphinha, Casemiro และ Bruno Guimarães สร้างความไม่สมดุลอย่างล้นหลามเมื่อเทียบกับเฮติทั้งในด้านคุณภาพส่วนบุคคลและความแข็งแกร่งโดยรวม
+
+เฮติกลับมาฟุตบอลโลกหลังจากห่างหาย 52 ปี โดยนักเตะส่วนใหญ่เป็นผู้เล่นอิสระหรืออยู่ในลีกระดับล่าง Isidor และ Bellegarde เป็นเพียงชื่อเดียวที่อยู่ในลีกสูงสุด หลังแพ้สกอตแลนด์ 0-1 พวกเขาโดยพื้นฐานสามารถทำได้เพียงตั้งรับเป็นกลุ่มเมื่อต้องสู้กับบราซิล
+
+การทำนาย: บราซิลชนะ 3-0 การครองบอลและคุณภาพส่วนบุคคลของบราซิลให้พวกเขาทำสิ่งที่ต้องการได้ โดยแนวรุก Vinícius–Raphinha ทะลุแนวรับได้อย่างง่ายดายและฟื้นฟูฟอร์มกับผลต่างประตู เฮติมุ่งเน้นการจำกัดความเสียหาย และการแพ้แบบไม่มีประตูหรือแม้แต่ห่างมากกว่านี้ก็มีเหตุผล กรรมการยังไม่ได้รับการยืนยัน เมื่อพิจารณาถึงช่องว่างที่กว้าง คาดว่าจำนวนใบจะต่ำ
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Brazil thắng 3-0. Khả năng kiểm soát bóng và năng lực 
 | 🇭🇹 Khoảnh khắc lịch sử | Haiti trở lại sau 52 năm; đối đầu Brazil tự nó đã là cột mốc cho bóng đá của họ. |
 | 🛡️ Haiti cố thủ | Placide trong khung gỗ và hàng thủ dày đặc là cách duy nhất của Haiti để giảm thiểu thiệt hại. |
 | 📏 Trọng tài chờ xác nhận | Trọng tài chưa được FIFA công bố; với khoảng cách lớn, dự kiến số thẻ thấp. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🟡 บราซิลห้าดาว | คุณภาพส่วนบุคคลของแชมป์ห้าสมัยล้นหลาม นี่คือโอกาสชนะขาดและเพิ่มผลต่างประตู |
+| ⚡ Vinícius นำทีม | การเลี้ยงบอลและยิงประตูของดาวดัง Real Madrid ที่ทำประตูได้ในนัดแรก บ่งบอกว่าจะมีผู้ทำประตูหลายคนในนัดนี้ |
+| 🤕 Neymar พักรักษาตัว | Neymar บาดเจ็บพักรักษาตัว ความฟิตของ Rodrygo และ Estêvão ยังไม่แน่นอน Igor Thiago รับหน้าที่นำแนวหน้า |
+| 🇭🇹 ช่วงเวลาประวัติศาสตร์ | เฮติกลับมาหลังจาก 52 ปี การเผชิญหน้ากับบราซิลเองก็เป็นเหตุการณ์สำคัญสำหรับวงการฟุตบอลของพวกเขา |
+| 🛡️ เฮติตั้งรับเต็มตัว | Placide ในกรงประตูและการตั้งรับแน่นเป็นวิธีเดียวของเฮติในการจำกัดความเสียหาย |
+| 📏 กรรมการรอประกาศ | ผู้ตัดสินยังไม่ได้รับการยืนยัน เมื่อพิจารณาถึงช่องว่างด้านคุณภาพ คาดว่าจำนวนใบจะต่ำ |

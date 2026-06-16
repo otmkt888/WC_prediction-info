@@ -34,6 +34,9 @@ Ivory Coast return to the World Cup after a 12-year absence, carrying the pride 
 ## home_note:vi
 Bờ Biển Ngà trở lại World Cup sau 12 năm vắng bóng, mang theo hào quang vô địch AFCON 2024. HLV Faé sử dụng sơ đồ 4-3-3, hàng công do Yan Diomandé — Cầu thủ xuất sắc nhất Bundesliga — và tiền vệ cánh Amad Diallo của Man United đảm nhiệm. Tuyến giữa với Kessié, Sangaré và Seko Fofana có sức mạnh đồng đều. Đội đã thắng Pháp 2-1 trong trận giao hữu trước giải, tinh thần rất cao.
 
+## home_note:th
+ไอวอรีโคสต์กลับมาร่วมฟุตบอลโลกอีกครั้งหลังห่างหายไป 12 ปี พร้อมความภาคภูมิใจจากการคว้าแชมป์ AFCON 2024 โค้ช Faé วางแผนเกม 4-3-3 โดยมีแนวรุกนำโดย Yan Diomandé ผู้ได้รับรางวัลนักเตะหน้าใหม่ยอดเยี่ยมบุนเดสลีกา และ Amad Diallo ปีกจาก Manchester United ส่วนสามเส้ากลางอย่าง Kessié, Sangaré และ Seko Fofana มีความสมดุลเป็นอย่างดี การเอาชนะฝรั่งเศส 2-1 ในเกมอุ่นเครื่องก่อนทัวร์นาเมนต์ช่วยยกขวัญกำลังใจทีมได้อย่างมาก
+
 ## away_note:zh
 厄瓜多在 Beccacece 帶領下 19 場不敗，資格賽僅失 5 球，為全 CONMEBOL 最佳防線。後防坐擁 PSG 的 Pacho 和勒沃庫森的 Hincapié，中場 Caicedo 身價逾億英鎊。進攻仰賴 36 歲老將 Valencia 和 18 歲天才 Kendry Páez 的靈感發揮。
 
@@ -46,6 +49,9 @@ Ecuador are unbeaten in 19 matches under Beccacece, conceding only 5 goals throu
 ## away_note:vi
 Ecuador bất bại trong 19 trận dưới thời Beccacece, chỉ để lủng lưới 5 bàn ở vòng loại — hàng thủ tốt nhất CONMEBOL. Hàng thủ sở hữu Pacho của PSG và Hincapié của Leverkusen, tiền vệ Caicedo có giá trị chuyển nhượng hơn 100 triệu bảng. Tấn công phụ thuộc vào sự sáng tạo của lão tướng 36 tuổi Valencia và thiên tài 18 tuổi Kendry Páez.
 
+## away_note:th
+เอกวาดอร์ไม่แพ้ใครในรอบ 19 นัดภายใต้การคุมทีมของ Beccacece โดยเสียประตูเพียง 5 ลูกตลอดรอบคัดเลือก นับเป็นสถิติการป้องกันที่ดีที่สุดใน CONMEBOL แนวรับมี Pacho จาก PSG และ Hincapié จาก Bayer Leverkusen เป็นหลัก ขณะที่กองกลาง Caicedo มีมูลค่าสูงกว่า 100 ล้านปอนด์ ส่วนแนวรุกพึ่งพาแรงบันดาลใจของกัปตันทีมวัย 36 ปีอย่าง Valencia และอัจฉริยะวัย 18 ปีอย่าง Kendry Páez
+
 ## odds_note:zh
 賠率顯示：象牙海岸勝 3.70、平局 2.80、厄瓜多勝 2.35。厄瓜多憑藉豐富資格賽表現和堅實防線成為輕微大熱，但兩隊實力相當，平局亦是主要預測。
 
@@ -57,6 +63,9 @@ The odds read: Ivory Coast win 3.70, Draw 2.80, Ecuador win 2.35. Ecuador are sl
 
 ## odds_note:vi
 Tỷ lệ cược: Bờ Biển Ngà thắng 3.70, hòa 2.80, Ecuador thắng 2.35. Ecuador được đánh giá nhỉnh hơn nhờ thành tích vòng loại ổn định và hàng thủ vững chắc, tuy nhiên hai đội khá cân bằng và hòa vẫn là một kết quả được dự đoán nhiều.
+
+## odds_note:th
+อัตราต่อรอง: ไอวอรีโคสต์ชนะ 3.70, เสมอ 2.80, เอกวาดอร์ชนะ 2.35 เอกวาดอร์เป็นตัวเต็งเล็กน้อยจากผลงานในรอบคัดเลือกที่แข็งแกร่งและสถิติป้องกันที่มั่นคง แต่สองทีมมีความสมสู้กันและผลเสมอก็ยังเป็นการทำนายที่ได้รับความนิยม
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Bờ Biển Ngà thắng 3.70, hòa 2.80, Ecuador thắng 2.3
 | LW | #17 | Yan Diomandé | RB Leipzig | 🇩🇪 | 18 | starter,league | false | Cầu thủ xuất sắc nhất Bundesliga 2025/26, tốc độ bùng nổ, vũ khí đột phá cánh trái, ngôi sao sáng nhất sân. |
 | FWD | 備援 | Ange-Yoan Bonny | Inter Milan | 🇮🇹 | 12 | league,squad | true | Tiền đạo trẻ Inter Milan, ra mắt World Cup lần này, sức mạnh từ ghế dự bị mạnh mẽ. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Yahia Fofana | Rizespor | 🇹🇷 | 1 | starter,team | false | ผู้รักษาประตูหมายเลขหนึ่งของไอวอรีโคสต์ ตัวหลักในลีกตุรกีซือเปร์ลีก รีเฟล็กซ์คมกริบ เปิดตัวในฟุตบอลโลกครั้งนี้ |
+| DEF | #2 | Guela Doué | Racing Strasbourg | 🇫🇷 | 3 | starter | false | แบ็กขวาหน้าใหม่วัยหนุ่ม เร็ว บุกขึ้นอย่างกระตือรือร้น น้องชายของ Zeki Doué นักเตะดาวรุ่งที่น่าจับตา |
+| DEF | #5 | Ousmane Diomandé | Sporting CP | 🇵🇹 | 4 | starter,league | false | กองหลังตัวหลักของ Sporting เสาหลักแนวรับ แข็งแกร่งทางกายภาพ เป็นภัยคุกคามจากลูกเตะมาตรฐาน |
+| DEF | #3 | Evan Ndicka | AS Roma | 🇮🇹 | 4 | starter,league | false | กองหลังซ้ายตัวหลักของ Roma มีทักษะลูกบอลที่ดี เป็นผู้นำด้านเทคนิคในแนวรับ |
+| DEF | #7 | Ghislain Konan | Gil Vicente | 🇵🇹 | 2 | starter,team | false | แบ็กซ้ายที่สมดุลทั้งรุกและรับ เชื่อมเกมได้ดีเพื่อส่งบอลเปิดเกมรุกทางปีกซ้าย |
+| CM | #8 | Franck Kessié | Al Ahli | 🇸🇦 | 8 | starter,team | false | แกนหลักแชมป์ AFCON อดีตดาวค้างฟ้าของ Barcelona เครื่องยนต์กลางสนาม แข็งแกร่งทางกายภาพ |
+| CM | #6 | Ibrahim Sangaré | Nottingham Forest | 🇬🇧 | 6 | starter,league | false | กองกลางรับตัวหลักใน Premier League ครอบคลุมพื้นที่กว้าง คุ้มกันแนวรับ |
+| CM | #15 | Seko Fofana | Stade Rennais | 🇫🇷 | 9 | starter,team | false | กองกลางจัดเกมใน Ligue 1 บุกขึ้นแข็งแกร่ง และเป็นภัยคุกคามโดยตรงทางยิงประตู |
+| RW | #16 | Amad Diallo | Manchester United | 🇬🇧 | 16 | starter,league | false | ปีกดาวเด่นของ Manchester United โดดเด่นใน AFCON รวมความเร็วเข้ากับสถิติการทำประตูที่น่าประทับใจ |
+| ST | #9 | Oumar Diakité | Cercle Brugge | 🇧🇪 | 13 | starter,team | false | กองหน้าตัวหลักใน Belgian Pro League รับบทบาทกองหน้าตัวกลางแทน Haller อันตรายจากการโหม่งลูกหัว |
+| LW | #17 | Yan Diomandé | RB Leipzig | 🇩🇪 | 18 | starter,league | false | นักเตะหน้าใหม่ยอดเยี่ยมบุนเดสลีกา 2025/26 ความเร็วระเบิด ทักษะเลี้ยงบอลปีกซ้ายที่น่ากลัว ดาวเด่นที่สุดในสนาม |
+| FWD | สำรอง | Ange-Yoan Bonny | Inter Milan | 🇮🇹 | 12 | league,squad | true | กองหน้าเยาวชนของ Inter Milan ใน Serie A เปิดตัวในฟุตบอลโลกครั้งนี้ แรงกระแทกเมื่อออกมาจากม้านั่งสำรองได้ดี |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Bờ Biển Ngà thắng 3.70, hòa 2.80, Ecuador thắng 2.3
 | ST | #13 | Enner Valencia | Club Internacional | 🇧🇷 | 18 | starter,team | false | Đội trưởng lão tướng 36 tuổi, vua phá lưới lịch sử Ecuador, 6 bàn tại World Cup, bản năng ghi bàn ở giải đấu lớn tuyệt vời. |
 | FWD | 備援 | Nilson Angulo | Sunderland | 🇬🇧 | 8 | squad | true | Trụ cột Championship, tiền đạo dự bị tốc độ, sức mạnh từ ghế dự bị mạnh mẽ. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Hernán Galíndez | Aucas | 🇪🇨 | 1 | starter,team | false | ผู้รักษาประตูอาวุโสวัย 36 ปี อ่านเกมได้ยอดเยี่ยม เซฟลูกสำคัญหลายครั้ง เป็นเสาหลักของเอกวาดอร์ |
+| DEF | #2 | Joel Ordóñez | Benfica | 🇵🇹 | 2 | starter,league | false | แบ็กขวาหนุ่มของ Benfica มีศักยภาพสูง กระตือรือร้นในการป้องกัน |
+| DEF | #4 | Willian Pacho | PSG | 🇫🇷 | 4 | starter,league | false | กองหลังตัวหลักของ PSG และผู้มีส่วนสำคัญในนัดชิงชนะเลิศ Champions League 2025 หนึ่งในกองหลังที่ดีที่สุดในอเมริกาใต้ แข็งแกร่งมาก |
+| DEF | #3 | Piero Hincapié | Bayer Leverkusen | 🇩🇪 | 4 | starter,league | false | ดาวเด่นของ Bayer Leverkusen เร็วและมั่นคงเมื่อครองบอล เคยเล่นในนัดชิงชนะเลิศ Champions League หนึ่งในคู่หูกองหลังที่น่าเกรงขาม |
+| DEF | #16 | Pervis Estupiñán | Brighton | 🇬🇧 | 3 | starter,league | false | แบ็กซ้ายตัวหลักของ Brighton แข็งแกร่งในการรุก สำคัญต่อการสร้างเกมฝั่งซ้ายของเอกวาดอร์ |
+| CM | #10 | Moisés Caicedo | Chelsea | 🇬🇧 | 7 | starter,league | false | ตัวหลักมูลค่า 100 ล้านปอนด์ขึ้นไปของ Chelsea โดดเด่นในการสกัดและตัดเกม นักเตะสำคัญที่สุดของเอกวาดอร์ และเครื่องยนต์กลางสนาม |
+| CM | #8 | Jordy Alcívar | Getafe | 🇪🇸 | 5 | starter | false | กองกลางใน La Liga ช่วย Caicedo ควบคุมจังหวะเกมและคุ้มกันแนวรับอย่างมั่นคง |
+| RW | #11 | Gonzalo Plata | Sporting CP | 🇵🇹 | 11 | starter,league | false | ปีกขวาของ Sporting เร็ว แข็งแกร่งในสถานการณ์ 1v1 อาวุธหลักในการโต้กลับอย่างรวดเร็วทางปีกขวาของเอกวาดอร์ |
+| AM | #20 | Kendry Páez | River Plate (loan) | 🇦🇷 | 10 | starter,league | false | อัจฉริยะวัย 18 ปีของ Chelsea มีพรสวรรค์ด้านเทคนิค เป็นแหล่งสร้างสรรค์เกมกลางสนาม นักเตะหน้าใหม่ที่ถูกจับตามองมากที่สุดในทัวร์นาเมนต์นี้ |
+| LW | #7 | Alan Minda | Reims | 🇫🇷 | 8 | starter,team | false | ปีกซ้ายใน Ligue 1 เร็วและคล่องตัว สร้างความกว้างและวิ่งอย่างไม่หยุดหย่อน |
+| ST | #13 | Enner Valencia | Club Internacional | 🇧🇷 | 18 | starter,team | false | กัปตันทีมอาวุโสวัย 36 ปี ดาวยิงตลอดกาลของเอกวาดอร์ ทำ 6 ประตูในฟุตบอลโลก มีสัญชาตญาณในเกมสำคัญที่ยอดเยี่ยม |
+| FWD | สำรอง | Nilson Angulo | Sunderland | 🇬🇧 | 8 | squad | true | ตัวหลักใน Championship กองหน้าสำรองที่มีความเร็ว มีแรงกระแทกจากม้านั่งสำรองที่แข็งแกร่ง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Bờ Biển Ngà thắng 3.70, hòa 2.80, Ecuador thắng 2.3
 | 0-2 🇪🇨 | Ecuador Thắng | 7 | #FACC15 | | away |
 | Khác | — | 10 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 0-0 | เสมอ | 19 | #6b7280 | โอกาสสูงสุด | draw |
+| 1-1 | เสมอ | 17 | #6b7280 | อันดับสอง | draw |
+| 0-1 🇪🇨 | เอกวาดอร์ชนะ | 15 | #FACC15 | | away |
+| 1-0 🇨🇮 | ไอวอรีโคสต์ชนะ | 12 | #F97316 | | home |
+| 1-2 🇪🇨 | เอกวาดอร์ชนะ | 11 | #FACC15 | | away |
+| 2-1 🇨🇮 | ไอวอรีโคสต์ชนะ | 9 | #F97316 | | home |
+| 0-2 🇪🇨 | เอกวาดอร์ชนะ | 7 | #FACC15 | | away |
+| อื่นๆ | — | 10 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược: Bờ Biển Ngà thắng 3.70, hòa 2.80, Ecuador thắng 2.3
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Letexier trung bình 4.0 thẻ/trận, rút thẻ nghiêm khắc. Hai đội đối đầu quyết liệt có thể dẫn đến nhiều thẻ vàng. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Letexier rút thẻ đỏ trong 33% trận đấu, có nguy cơ nếu cường độ leo thang, cần chú ý lỗi phạm từ hàng thủ. |
 | ⚠️ | 22–26 | Số lỗi phạm/trận của trọng tài | Letexier rất nghiêm khắc, trung bình 22~26 lỗi/trận, tranh chấp tuyến giữa quyết liệt. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 7–10 | จำนวนเตะมุมที่คาดการณ์ | ทั้งสองทีมเน้นการป้องกัน ทำให้จำนวนเตะมุมอยู่ในระดับต่ำ การเล่นปีกอย่างรวดเร็วของไอวอรีโคสต์อาจสร้างโอกาสเตะมุม แต่แนวรับของเอกวาดอร์แน่นหนา |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | Letexier เฉลี่ยใบเหลือง 4.0 ใบต่อแมตช์ และเข้มงวดในการตัดสิน การแข่งขันที่เข้มข้นระหว่างสองทีมน่าจะทำให้มีใบเหลืองหลายใบ |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | Letexier ให้ใบแดงใน 33% ของแมตช์ที่ตัดสิน หากการต่อสู้ทางกายภาพรุนแรงขึ้นอาจมีความเสี่ยง โดยเฉพาะจากฟาวล์ของแนวรับ |
+| ⚠️ | 22–26 | ฟาวล์กรรมการ/แมตช์ | Letexier เข้มงวดกับการตัดสินและเฉลี่ย 22–26 ฟาวล์ต่อเกม สะท้อนให้เห็นถึงการต่อสู้กลางสนามที่เข้มข้น |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược: Bờ Biển Ngà thắng 3.70, hòa 2.80, Ecuador thắng 2.3
 | Thẻ trung bình/trận | 4.0 | #60a5fa |
 | Lỗi trung bình/trận | ~24 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: François Letexier
+- country: 🇫🇷 ฝรั่งเศส · UEFA Elite · FIFA นานาชาติ
+- note: หนึ่งในกรรมการที่ดีที่สุดในโลกในปัจจุบัน ทำหน้าที่ในนัดชิงชนะเลิศ UEFA Euro 2024 (สเปน vs อังกฤษ) และได้รับการเสนอชื่อเป็นกรรมการยอดเยี่ยมของโลก IFFHS ปี 2024 เป็นที่รู้จักในการจัดการใบ์อย่างเข้มงวด โดยให้ใบแดงใน 33% ของแมตช์ และการตัดสินใจอย่างกล้าหาญ
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 285+ | #F1F5F9 |
+| ใบเหลืองรวม | 1138+ | #EAB308 |
+| ใบเหลือง-แดง | 29 | orange |
+| ใบแดงรวม | 62 | #EF4444 |
+| เฉลี่ยใบ/นัด | 4.0 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~24 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄（首次正式比賽）
 - homeWins: 0
@@ -353,6 +429,13 @@ Tỷ lệ cược: Bờ Biển Ngà thắng 3.70, hòa 2.80, Ecuador thắng 2.3
 - draws: 0
 - awayWins: 0
 - note: Hai đội gặp nhau lần đầu trong trận đấu chính thức, không có dữ liệu lịch sử. Bờ Biển Ngà thắng Pháp 2-1 trước giải; Ecuador thắng Saudi Arabia 2-1 và Guatemala 3-0 trước giải, cả hai đội đều đang trong trạng thái tốt.
+
+## h2h:th
+- title: สถิติพบกัน (การพบกันอย่างเป็นทางการครั้งแรก)
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: นี่คือการพบกันอย่างเป็นทางการครั้งแรกระหว่างสองทีม ไม่มีข้อมูลประวัติศาสตร์ ก่อนทัวร์นาเมนต์ ไอวอรีโคสต์ชนะฝรั่งเศส 2-1 ส่วนเอกวาดอร์ชนะซาอุดีอาระเบีย 2-1 และกัวเตมาลา 3-0 ทั้งสองทีมมาในฟอร์มที่ดี
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược: Bờ Biển Ngà thắng 3.70, hòa 2.80, Ecuador thắng 2.3
 | Amad Diallo | 🇨🇮 RW | Pervis Estupiñán | 🇪🇨 LB | Tiền vệ cánh Man United Premier League vs hậu vệ trái Brighton, đột phá cánh phải là con đường tấn công khác của Bờ Biển Ngà. |
 | Enner Valencia | 🇪🇨 ST | Ousmane Diomandé | 🇨🇮 CB | Bản năng World Cup của lão tướng 36 tuổi vs trung vệ trẻ Sporting, Valencia nguy hiểm nhất từ các tình huống phạt góc và đánh đầu. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Yan Diomandé | 🇨🇮 LW | Joel Ordóñez | 🇪🇨 RB | ความเร็วระเบิดของนักเตะหน้าใหม่ยอดเยี่ยมบุนเดสลีกา vs แบ็กขวาหนุ่มของ Benfica ปีกซ้ายของไอวอรีโคสต์คือจุดที่มีโอกาสทะลุทะลวงมากที่สุด |
+| Moisés Caicedo | 🇪🇨 DM | Franck Kessié | 🇨🇮 CM | กองกลางมูลค่า 100 ล้านปอนด์ขึ้นไปของ Chelsea vs อดีตดาวเด่นของ Barcelona การต่อสู้กลางสนามจะเป็นตัวกำหนดทิศทางของแมตช์ |
+| Amad Diallo | 🇨🇮 RW | Pervis Estupiñán | 🇪🇨 LB | ปีกของ Manchester United ใน Premier League vs แบ็กซ้ายของ Brighton การดวลปีกขวาเป็นอีกช่องทางสำคัญในการรุกของไอวอรีโคสต์ |
+| Enner Valencia | 🇪🇨 ST | Ousmane Diomandé | 🇨🇮 CB | สัญชาตญาณฟุตบอลโลกของกองหน้าอาวุโสวัย 36 ปี vs กองหลังหนุ่มของ Sporting ภัยคุกคามจากการโหม่งของ Valencia ในลูกเตะมาตรฐานคืออันตรายที่ยิ่งใหญ่ที่สุด |
+
 ## summary_verdict:zh
 象牙海岸帶著 AFCON 冠軍信心和賽前擊敗法國的氣勢出征，攻擊線由 Yan Diomandé（德甲最佳新人）和 Amad Diallo（曼聯）組成雙翼，速度快、創造力強。但中鋒因 Haller 落選而削弱，大賽經驗有限。
 
@@ -413,6 +504,13 @@ Bờ Biển Ngà ra trận với sự tự tin từ chức vô địch AFCON và
 Ecuador là một trong những đội khó chịu nhất giải đấu lần này, bất bại 19 trận, chỉ để lủng lưới 5 bàn ở vòng loại, cặp trung vệ Pacho+Hincapié đều là công thần chung kết Champions League, Caicedo kiểm soát tuyến giữa ở đẳng cấp cao. Chỉ là tấn công tương đối nghèo nàn, phải dựa vào phong độ vẫn còn sung sức của Valencia hoặc một tia chớp thiên tài từ Páez.
 
 Dự đoán: Hòa 1-1. Hàng thủ Ecuador kiên cố, Bờ Biển Ngà khó ghi nhiều bàn; nhưng tốc độ và khả năng sáng tạo của Bờ Biển Ngà đủ để gỡ hòa. Hòa là kết quả hợp lý nhất, cả hai đội đều có thể chấp nhận làm điểm khởi đầu để vượt qua vòng bảng.
+
+## summary_verdict:th
+ไอวอรีโคสต์มาพร้อมความมั่นใจในฐานะแชมป์ AFCON และโมเมนตัมจากชัยชนะก่อนทัวร์นาเมนต์เหนือฝรั่งเศส แนวรุกประกอบด้วยคู่ปีกสองข้างอย่าง Yan Diomandé (นักเตะหน้าใหม่ยอดเยี่ยมบุนเดสลีกา) และ Amad Diallo (Manchester United) ทั้งเร็ว สร้างสรรค์ และอันตราย อย่างไรก็ตาม การขาดหายไปของ Haller ทำให้ตำแหน่งกองหน้าตัวกลางอ่อนแอลง และประสบการณ์ในทัวร์นาเมนต์ใหญ่ยังมีจำกัด
+
+เอกวาดอร์คือหนึ่งในทีมที่ยากที่สุดจะเอาชนะในทัวร์นาเมนต์นี้ ไม่แพ้ใครใน 19 นัด เสียประตูเพียง 5 ลูกในรอบคัดเลือก คู่กองหลัง Pacho และ Hincapié ต่างเคยลงเล่นในนัดชิงชนะเลิศ Champions League และความสามารถของ Caicedo ในการควบคุมกลางสนามอยู่ในระดับโลก จุดอ่อนคือการรุกที่ค่อนข้างทื่อ พึ่งพาสัญชาตญาณของ Valencia ผู้อาวุโส หรือประกายแห่งอัจฉริยะจาก Páez
+
+การทำนาย: เสมอ 1-1 แนวรับของเอกวาดอร์แน่นหนาเกินกว่าที่ไอวอรีโคสต์จะทำประตูได้มากกว่าหนึ่งลูก แต่ความเร็วและความคิดสร้างสรรค์ของไอวอรีโคสต์เพียงพอที่จะตีเสมอได้ ผลเสมอคือผลลัพธ์ที่สมเหตุสมผลที่สุดและเป็นจุดเริ่มต้นที่ยุติธรรมสำหรับความทะเยอทะยานในรอบแบ่งกลุ่มของทั้งสองทีม
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Hòa 1-1. Hàng thủ Ecuador kiên cố, Bờ Biển Ngà khó ghi
 | 👴 Cơ hội cuối cùng của Valencia | Lão tướng 36 tuổi với 6 bàn tại World Cup, có thể là lần cuối tham dự, bản năng ghi bàn ở giải đấu lớn không thể coi thường. |
 | ⚖️ Nguy cơ thẻ đỏ từ trọng tài | Letexier rút thẻ đỏ trong 33% trận đấu, hai đội đối đầu quyết liệt có thể có thẻ đỏ làm thay đổi cục diện. |
 | 🏆 Tác động đến thế trận Bảng E | Đội thắng trận này tăng đáng kể cơ hội vượt qua vòng bảng, cả hai đội đều hiểu rõ tầm quan trọng của trận đấu này và sẽ thận trọng thi đấu. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🦁 โมเมนตัมของไอวอรีโคสต์ | กลับมาร่วมฟุตบอลโลกอีกครั้งหลังห่างหายไป 12 ปี ชัยชนะ 2-1 เหนือฝรั่งเศสช่วยยกขวัญ และ Yan Diomandé คือนักเตะที่อันตรายที่สุดในสนาม |
+| 🛡️ กำแพงเหล็กของเอกวาดอร์ | เสียเพียง 5 ประตูใน 18 นัดรอบคัดเลือก Pacho และ Hincapié ต่างเคยลงเล่นในนัดชิงชนะเลิศ Champions League ยากมากที่จะเจาะทะลุ |
+| ⚡ ความอัจฉริยะของ Kendry Páez | อัจฉริยะวัย 18 ปีของ Chelsea และดาวรุ่งที่อายุน้อยที่สุดในทัวร์นาเมนต์ ทุกสายตาจับจ้องว่าเขาจะสามารถเปล่งประกายในการเปิดตัวฟุตบอลโลกหรือไม่ |
+| 👴 โอกาสสุดท้ายของ Valencia | กองหน้าวัย 36 ปีที่ทำไปแล้ว 6 ประตูในฟุตบอลโลก และนี่อาจเป็นทัวร์นาเมนต์สุดท้ายของเขา สัญชาตญาณในเกมสำคัญไม่ควรประมาท |
+| ⚖️ ความเสี่ยงใบแดง | Letexier ให้ใบแดงใน 33% ของแมตช์ การต่อสู้อย่างดุเดือดอาจเห็นใบแดงเปลี่ยนแปลงเกม |
+| 🏆 ผลกระทบต่อกลุ่ม E | ผู้ชนะในแมตช์นี้จะยกระดับโอกาสผ่านเข้ารอบได้อย่างมาก ทั้งสองทีมรู้ดีถึงเดิมพันและจะเข้าแข่งขันด้วยความระมัดระวัง |

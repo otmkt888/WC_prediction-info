@@ -34,6 +34,9 @@ The Netherlands enter as European heavyweights aiming to finally claim their fir
 ## home_note:vi
 Hà Lan ra sân với tư cách là đội hùng mạnh châu Âu, ba lần á quân World Cup, quyết tâm lần đầu đăng quang. Ronald Koeman dẫn dắt đội với 14 cầu thủ Ngoại hạng Anh, do Virgil van Dijk làm đội trưởng. Các trận vắng mặt quan trọng: Xavi Simons (đứt dây chằng chéo trước) và Jurrien Timber (chấn thương bẹn), thay bằng Geertruida. Trận mở màn hòa Nhật Bản 2-2 đòi hỏi phải thắng trận này. Hàng công xây dựng xung quanh Gakpo, Depay và sức sáng tạo của Reijnders cùng De Jong ở tuyến giữa.
 
+## home_note:th
+เนเธอร์แลนด์ลงสนามในฐานะมหาอำนาจยุโรปที่มุ่งหวังจะคว้าแชมป์โลกครั้งแรกหลังจากเป็นรองแชมป์มาแล้วถึงสามครั้ง Ronald Koeman นำทัพที่มีนักเตะในพรีเมียร์ลีกถึง 14 คน โดยมี Virgil van Dijk เป็นกัปตันทีม ผู้เล่นที่ขาดหายคนสำคัญได้แก่ Xavi Simons (เอ็นไขว้หน้าฉีก) และ Jurrien Timber (บาดเจ็บขาหนีบ) โดยมี Geertruida เข้ามาแทนที่ การเสมอ 2-2 กับญี่ปุ่นในนัดเปิดสนามทำให้จำเป็นต้องชนะในแมตช์นี้ แนวรุกสร้างขึ้นรอบ Gakpo, Depay และพลังสร้างสรรค์ของ Reijnders และ De Jong ในแนวกลาง
+
 ## away_note:zh
 瑞典在 Graham Potter 帶領下，以歐洲附加賽第 B 組冠軍晉身世界盃，FIFA 排名 38。最大亮點是 Gyökeres（阿仙奴）與 Isak（利物浦）的雙中鋒搭檔——歐洲頂級殺傷力組合。首戰 2-2 平突尼西亞。Potter 的 4-2-3-1 體系注重整體性與高強度壓迫，Bergvall（熱刺）與 Ayari（布萊頓）是中場紐帶。本場是可能的出線生死戰。
 
@@ -46,6 +49,9 @@ Sweden qualified as UEFA playoff Path B winners under Graham Potter, ranked 38th
 ## away_note:vi
 Thụy Điển giành vé dự World Cup với tư cách nhà vô địch playoff UEFA đường B dưới sự dẫn dắt của Graham Potter, xếp hạng FIFA 38. Điểm nhấn lớn nhất là cặp tiền đạo Gyökeres (Arsenal) và Isak (Liverpool) — một bộ đôi tấn công hàng đầu châu Âu. Trận mở màn hòa Tunisia 2-2 khiến trận này có ý nghĩa sống còn. Sơ đồ 4-2-3-1 của Potter nhấn mạnh vào cấu trúc và pressing cường độ cao, với Bergvall (Spurs) và Ayari (Brighton) là mối liên kết giữa sân. Thắng trận này có thể chắc vé vòng knock-out; thua thì gần như hết cơ hội.
 
+## away_note:th
+สวีเดนผ่านเข้าร่วมการแข่งขันในฐานะแชมป์รอบเพลย์ออฟ UEFA เส้นทาง B ภายใต้การคุมทีมของ Graham Potter โดยอยู่ในอันดับ FIFA ที่ 38 จุดเด่นสูงสุดคือคู่หัวหอก Gyökeres (Arsenal) และ Isak (Liverpool) ที่ถือเป็นดูโอทีมรุกชั้นนำของยุโรป การเสมอ 2-2 กับตูนิเซียในนัดเปิดสนามทำให้แมตช์นี้มีนัยสำคัญต่อการผ่านรอบ รูปแบบ 4-2-3-1 ของ Potter เน้นโครงสร้างทีมและการกดดันความเข้มสูง โดยมี Bergvall (Spurs) และ Ayari (Brighton) เป็นตัวเชื่อมในแนวกลาง การชนะในแมตช์นี้อาจการันตีการผ่านเข้ารอบ ขณะที่การแพ้จะแทบปิดประตูความหวังรอบน็อคเอาท์
+
 ## odds_note:zh
 賠率顯示：荷蘭勝 1.65、平局 3.80、瑞典勝 5.50。荷蘭為大熱，憑藉更豐富的世界盃大賽經驗與整體陣容深度佔優。然而瑞典的 Gyökeres + Isak 鋒線對任何後防都是威脅，不能輕視。本場實質是小組出線爭奪的關鍵對決。
 
@@ -57,6 +63,9 @@ The odds show: Netherlands win 1.65, draw 3.80, Sweden win 5.50. The Dutch are c
 
 ## odds_note:vi
 Tỷ lệ cược: Hà Lan thắng 1.65, hòa 3.80, Thụy Điển thắng 5.50. Hà Lan là đội được đặt cược, nhờ kinh nghiệm World Cup và chiều sâu đội hình vượt trội. Tuy nhiên, bộ đôi Gyökeres và Isak của Thụy Điển là mối đe dọa thực sự với bất kỳ hàng thủ nào. Trên thực tế đây là trận đấu then chốt để giành vé vòng knock-out ở Bảng F.
+
+## odds_note:th
+อัตราต่อรองแสดงให้เห็นว่า เนเธอร์แลนด์ชนะ 1.65, เสมอ 3.80, สวีเดนชนะ 5.50 ทีมดัตช์เป็นเต็งชัดเจนด้วยประวัติการแข่งขันฟุตบอลโลกและความลึกของทีมที่เหนือกว่า อย่างไรก็ตาม ดูโอทีมรุก Gyökeres และ Isak ของสวีเดนเป็นภัยคุกคามร้ายแรงต่อแนวรับทุกทีม ในความเป็นจริงนี่คือการเผชิญหน้าที่สำคัญเพื่อการผ่านเข้ารอบกลุ่ม F และสวีเดนอันตรายพอที่จะสร้างความพลิกผันได้
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Hà Lan thắng 1.65, hòa 3.80, Thụy Điển thắng 5.50.
 | LW | #11 | Cody Gakpo | Liverpool | 🇬🇧 | 14 | starter,league | false | Tiền đạo Liverpool và mũi nhọn tấn công cánh trái, kết hợp tốc độ và dứt điểm; ngôi sao số một của Hà Lan tại giải đấu này. |
 | FWD | Sub | Wout Weghorst | Ajax | 🇳🇱 | 7 | squad | true | Tiền đạo target man Ajax, mối đe dọa không chiến khi vào sân thay, vũ khí phạt góc có thể thay đổi cục diện trận đấu. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Bart Verbruggen | Brighton | 🇬🇧 | 1 | starter,league | false | ผู้รักษาประตูตัวเลือกแรกของ Brighton และทีมชาติเนเธอร์แลนด์ หนุ่มและฉับไว เป็นเสาหลักของแนวรับ |
+| DEF | #2 | Denzel Dumfries | Inter Milan | 🇮🇹 | 5 | starter,league | false | แบ็คขวา Inter Milan แข็งแกร่งทั้งรุกและรับ เป็นกำลังสำคัญใน Serie A การทะยานขึ้นบุกของเขาคือกุญแจสำคัญของปีกขวาทีมชาติเนเธอร์แลนด์ |
+| DEF | #4 | Virgil van Dijk | Liverpool | 🇬🇧 | 5 | starter,team,league | false | กัปตันทีมและเซ็นเตอร์แบ็คตัวหลักของ Liverpool เป็นผู้นำแนวรับระดับโลก โดดเด่นทั้งในอากาศและการส่งบอล |
+| DEF | #6 | Jan Paul van Hecke | Brighton | 🇬🇧 | 4 | starter,league | false | เซ็นเตอร์แบ็คตัวหลักของ Brighton มีสมาธิดีในนัดเปิดสนาม คู่หูกับ van Dijk ในแนวรับ |
+| DEF | #5 | Nathan Ake | Manchester City | 🇬🇧 | 4 | starter,league | false | แบ็คซ้าย Manchester City เทคนิคยอดเยี่ยม สมดุลทั้งรุกและรับ ผู้เล่นประจำใน Champions League |
+| CM | #21 | Frenkie de Jong | Barcelona | 🇪🇸 | 9 | starter,team,league | false | สมองกลางสนามของ Barcelona ระดับสูงสุดด้านการครองบอลและการส่ง เป็นตัวควบคุมจังหวะตลอดเกม |
+| CM | #11 | Ryan Gravenberch | Liverpool | 🇬🇧 | 8 | starter,league | false | กองกลาง Liverpool ครอบคลุมพื้นที่กว้างและวิ่งอย่างกระตือรือร้น เป็นตัวจัดระเบียบแนวกลางด้านรับ |
+| AM | #14 | Tijjani Reijnders | Manchester City | 🇬🇧 | 12 | starter,league | false | กองกลางรุก Manchester City ฤดูกาลพรีเมียร์ลีกโดดเด่น เป็นนักเตะสร้างสรรค์ที่สุดของทีมชาติเนเธอร์แลนด์ในทัวร์นาเมนต์นี้ |
+| RW | #19 | Donyell Malen | Roma | 🇮🇹 | 11 | starter,league | false | กองหน้า Roma ทำได้ 13 ประตูใน Serie A ความเร็วยอดเยี่ยม เป็นภัยคุกคามหลักจากปีกขวา |
+| ST | #9 | Memphis Depay | Corinthians | 🇧🇷 | 13 | starter,team | false | นักเตะทำประตูสูงสุดตลอดกาลของเนเธอร์แลนด์ อายุ 32 ปี กลับมาจากการบาดเจ็บ ผสมผสานการยิงและความสร้างสรรค์ |
+| LW | #11 | Cody Gakpo | Liverpool | 🇬🇧 | 14 | starter,league | false | กองหน้า Liverpool และหัวหอกรุกฝั่งซ้าย ผสมผสานความเร็วและการยิงประตู เป็นดาวเด่นอันดับหนึ่งของทีมชาติเนเธอร์แลนด์ในทัวร์นาเมนต์นี้ |
+| FWD | สำรอง | Wout Weghorst | Ajax | 🇳🇱 | 7 | squad | true | สไตล์ target man ของ Ajax เป็นภัยคุกคามในอากาศเมื่อออกมาเปลี่ยนตัว เป็นอาวุธในลูกเตะมุมที่สามารถเปลี่ยนสถานการณ์ของเกม |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Hà Lan thắng 1.65, hòa 3.80, Thụy Điển thắng 5.50.
 | LW | #17 | Viktor Gyökeres | Arsenal | 🇬🇧 | 18 | starter,team,league | false | Tiền đạo Arsenal và chân sút hàng đầu Ngoại hạng Anh, kết hợp sức mạnh và tốc độ, anh hùng hat-trick trong playoff World Cup. |
 | MID | Sub | Mattias Svanberg | Wolfsburg | 🇩🇪 | 7 | squad | true | Tiền vệ Wolfsburg ở Bundesliga, sáng tạo khi vào sân thay, có thể lấp vào vị trí tấn công hoặc tuyến giữa. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Jacob Widell Zetterstrom | Derby County | 🇬🇧 | 1 | starter | false | ผู้รักษาประตูตัวเลือกแรกของสวีเดน เป็นกำลังสำคัญของ Derby County ใน Championship มั่นคงและน่าไว้วางใจ |
+| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | เซ็นเตอร์แบ็ค Atalanta เป็นกำลังสำคัญใน Serie A แข็งแกร่งในการปะทะ เป็นเสาหลักของแนวรับ |
+| DEF | #3 | Carl Starfelt | Celta Vigo | 🇪🇸 | 3 | starter | false | เซ็นเตอร์แบ็คของ Celta Vigo ใน La Liga คู่หูกับ Hien เป็นแนวรับที่น่าไว้วางใจ |
+| DEF | #2 | Gabriel Gudmundsson | Leeds United | 🇬🇧 | 3 | starter,league | false | กองหลัง Leeds United เป็นตัวสำคัญในฤดูกาลเลื่อนชั้น รุกรับแข็งขันจากปีกขวา |
+| DEF | #7 | Daniel Svensson | Borussia Dortmund | 🇩🇪 | 4 | starter,league | false | กองหลัง Dortmund เป็นกำลังสำคัญใน Bundesliga สามารถรุกและรับได้จากปีกซ้าย |
+| CM | #8 | Jesper Kalström | Udinese | 🇮🇹 | 6 | starter | false | โล่กำบังกองกลางรับ มีวินัยในการวางตำแหน่งที่ดี ปกป้องความสมดุลของแนวรับ |
+| CM | #10 | Lucas Bergvall | Tottenham | 🇬🇧 | 8 | starter,league | false | กองกลางหนุ่มของ Tottenham เทคนิคประณีต เชื่อมต่อแนวรับกับแนวรุก เป็นศูนย์กลางของแนวกลาง |
+| AM | #6 | Yasin Ayari | Brighton | 🇬🇧 | 9 | starter,league | false | กองกลางรุกของ Brighton เทคนิคยอดเยี่ยม การทะยานขึ้นและความสร้างสรรค์เป็นฟันเฟืองสำคัญในการโต้กลับของสวีเดน |
+| RW | #7 | Anthony Elanga | Newcastle | 🇬🇧 | 10 | starter,league | false | กองหน้า Newcastle เป็นกำลังสำคัญในพรีเมียร์ลีก ความเร็วระเบิด เป็นภัยคุกคามจากปีกขวาต่อแนวรับของเนเธอร์แลนด์ |
+| ST | #9 | Alexander Isak | Liverpool | 🇬🇧 | 16 | starter,team,league | false | กองหน้า Liverpool และดาวเด่นพรีเมียร์ลีก กลับมาจากการบาดเจ็บ เร็วและมีพรสวรรค์ด้านเทคนิคพร้อมความสามารถในการยิงที่โดดเด่น |
+| LW | #17 | Viktor Gyökeres | Arsenal | 🇬🇧 | 18 | starter,team,league | false | สไตรเกอร์ Arsenal และดาวยิงอันดับหนึ่งในพรีเมียร์ลีก ผสมผสานพลังและความเร็ว เป็นฮีโร่แฮตทริกในรอบเพลย์ออฟฟุตบอลโลก |
+| MID | สำรอง | Mattias Svanberg | Wolfsburg | 🇩🇪 | 7 | squad | true | กองกลาง Wolfsburg ใน Bundesliga ตัวเลือกสร้างสรรค์เมื่อเปลี่ยนตัว สามารถเติมในตำแหน่งรุกหรือกลางสนาม |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Hà Lan thắng 1.65, hòa 3.80, Thụy Điển thắng 5.50.
 | 0-1 🇸🇪 | Thụy Điển Thắng | 7 | #006AA7 | | away |
 | Khác | — | 10 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-1 🇳🇱 | เนเธอร์แลนด์ชนะ | 20 | #FF6B00 | โอกาสสูงสุด | home |
+| 2-0 🇳🇱 | เนเธอร์แลนด์ชนะ | 17 | #FF6B00 | อันดับสอง | home |
+| 1-0 🇳🇱 | เนเธอร์แลนด์ชนะ | 14 | #FF6B00 | | home |
+| 1-1 | เสมอ | 13 | #6b7280 | | draw |
+| 3-1 🇳🇱 | เนเธอร์แลนด์ชนะ | 10 | #FF6B00 | | home |
+| 1-2 🇸🇪 | สวีเดนชนะ | 9 | #006AA7 | | away |
+| 0-1 🇸🇪 | สวีเดนชนะ | 7 | #006AA7 | | away |
+| อื่นๆ | — | 10 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược: Hà Lan thắng 1.65, hòa 3.80, Thụy Điển thắng 5.50.
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Makkelie rút thẻ ở mức trung bình, tranh chấp gay gắt với nhiều đối kháng thể chất ở tuyến giữa làm tăng nguy cơ thẻ vàng. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Cả hai đội nhìn chung kỷ luật tốt, nhưng áp lực phòng thủ của Thụy Điển có thể dẫn đến pha phạm lỗi quyết liệt, nguy cơ thẻ đỏ thấp. |
 | ⚠️ | 20–25 | Số phạm lỗi/trận của trọng tài | Trận đấu châu Âu cạnh tranh cao với nhiều tranh chấp tuyến giữa, dự kiến số phạm lỗi ở mức trung bình. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–12 | จำนวนเตะมุมที่คาดการณ์ | การรุกแบบครองบอลของเนเธอร์แลนด์จะสร้างเตะมุมได้มากกว่า รูปแบบโต้กลับของสวีเดนหมายความว่าจะได้น้อยกว่า แต่ทั้งสองทีมต่างก็กระตือรือร้น |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | Makkelie ให้ใบเหลืองในอัตราปานกลาง การแข่งขันที่ดุเดือดพร้อมการต่อสู้ในแนวกลางและการปะทะทางร่างกายบ่อยครั้งเพิ่มความเสี่ยงด้านใบ |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | ทั้งสองฝ่ายโดยทั่วไปมีวินัยดี แต่แรงกดดันในการรับของสวีเดนอาจนำไปสู่การฟาวล์อย่างรุนแรง ความเสี่ยงใบแดงต่ำ |
+| ⚠️ | 20–25 | จำนวนฟาวล์ต่อนัดของกรรมการ | การปะทะของยุโรปที่มีการแข่งขันสูงพร้อมการต่อสู้ในแนวกลางที่ดุเดือด คาดว่าจำนวนฟาวล์จะอยู่ในระดับปานกลาง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược: Hà Lan thắng 1.65, hòa 3.80, Thụy Điển thắng 5.50.
 | Thẻ trung bình/trận | ~3.8 | #60a5fa |
 | Phạm lỗi trung bình/trận | ~22 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Danny Makkelie
+- country: 🇳🇱 เนเธอร์แลนด์ · UEFA Elite · FIFA นานาชาติ
+- note: หนึ่งในกรรมการชั้นนำของเนเธอร์แลนด์ เคยตัดสินในฟุตบอลโลก 2022 และนัดชิงชนะเลิศ Champions League 2021 (Man City vs Chelsea) ควบคุมการแข่งขันได้ดีด้วยการตัดสินที่เด็ดขาด การมอบหมายให้ตัดสินการแข่งขันของทีมดัตช์เป็นการจัดการพิเศษ โดย UEFA รับรองความเป็นกลางของเขา ให้ใบในอัตราปานกลาง
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 250+ | #F1F5F9 |
+| ใบเหลืองรวม | 950+ | #EAB308 |
+| ใบเหลือง-แดง | 25+ | orange |
+| ใบแดงรวม | 45+ | #EF4444 |
+| เฉลี่ยใบ/นัด | ~3.8 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~22 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 3
@@ -353,6 +429,13 @@ Tỷ lệ cược: Hà Lan thắng 1.65, hòa 3.80, Thụy Điển thắng 5.50.
 - draws: 0
 - awayWins: 0
 - note: Lịch sử đối đầu Hà Lan thắng ba trận, bao gồm chiến thắng 1-0 ở vòng bảng World Cup 2010 trước Thụy Điển. Các trận đấu gần đây ít, nhưng Hà Lan có ưu thế rõ ràng về chất lượng tổng thể và kinh nghiệm World Cup. Với Hà Lan hòa Nhật Bản 2-2 và Thụy Điển hòa Tunisia 2-2, bảng đấu rất cân bằng — trận này là trận then chốt thực sự để giành vé vòng knock-out ở Bảng F.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 3
+- draws: 0
+- awayWins: 0
+- note: ในประวัติการพบกัน เนเธอร์แลนด์นำด้วยสามชัยชนะ รวมถึงการชนะ 1-0 ในรอบแบ่งกลุ่มของฟุตบอลโลก 2010 กับสวีเดน การพบกันในช่วงล่าสุดนั้นหายาก แต่ทีมดัตช์มีความได้เปรียบโดยรวมที่ชัดเจนด้านคุณภาพและประสบการณ์ฟุตบอลโลก ด้วยเนเธอร์แลนด์เสมอ 2-2 กับญี่ปุ่น และสวีเดนเสมอ 2-2 กับตูนิเซียในนัดเปิดสนาม ตารางคะแนนถูกจัดวางเท่าๆ กัน แมตช์นี้คือการแข่งขันที่ตัดสินจริงๆ เพื่อการผ่านเข้ารอบกลุ่ม F
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược: Hà Lan thắng 1.65, hòa 3.80, Thụy Điển thắng 5.50.
 | Tijjani Reijnders | 🇳🇱 AM | Jesper Kalström | 🇸🇪 CM | Tiền vệ sáng tạo Man City đối đầu bức tường tuyến giữa Thụy Điển — ai kiểm soát nhịp điệu tuyến giữa sẽ quyết định chiều hướng trận đấu. |
 | Alexander Isak | 🇸🇪 ST | Nathan Ake | 🇳🇱 LB | Tiền đạo tốc độ Liverpool đối đầu hậu vệ trái Man City — khả năng cắt vào của Isak sẽ thử thách sự bình tĩnh phòng thủ của Ake. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Cody Gakpo | 🇳🇱 LW | Gabriel Gudmundsson | 🇸🇪 RB | ปีกระเบิดความเร็วของ Liverpool เผชิญกับแบ็คขวา Leeds United ความสามารถในการเจาะทะลุของ Gakpo คืออาวุธที่คมที่สุดของเนเธอร์แลนด์ |
+| Viktor Gyökeres | 🇸🇪 ST | Virgil van Dijk | 🇳🇱 CB | ดาวยิงอันดับหนึ่งของพรีเมียร์ลีก เผชิญกับเซ็นเตอร์แบ็คระดับโลก เป็นการปะทะที่ยิ่งใหญ่ โดยมีประเด็นว่า Gyökeres จะเอาชนะ van Dijk ได้หรือไม่เป็นเรื่องราวหลัก |
+| Tijjani Reijnders | 🇳🇱 AM | Jesper Kalström | 🇸🇪 CM | กองกลางสร้างสรรค์ Man City เผชิญกับโล่กำบังแนวกลางของสวีเดน ใครควบคุมจังหวะแนวกลางได้จะเป็นผู้กำหนดทิศทางของเกม |
+| Alexander Isak | 🇸🇪 ST | Nathan Ake | 🇳🇱 LB | กองหน้าความเร็วของ Liverpool เผชิญกับแบ็คซ้าย Man City ความสามารถในการตัดเข้าในของ Isak จะทดสอบสมาธิการรับของ Ake |
+
 ## summary_verdict:zh
 荷蘭擁有較深的陣容、更豐富的世界盃大賽經驗，Gakpo、Reijnders 與 Depay 組成進攻核心，後防由 van Dijk 鎮守，在本場理論上佔有優勢。首戰平日本顯示荷蘭尚未進入最佳狀態，有待改善。
 
@@ -413,6 +504,13 @@ Hà Lan có chiều sâu đội hình lớn hơn và nhiều thành tích World 
 Tuy nhiên, Thụy Điển tung ra bộ đôi Gyökeres–Isak — hai tiền đạo hàng đầu châu Âu có thể ghi bàn bất cứ lúc nào. Trận mở màn hòa Tunisia 2-2 cho thấy điểm yếu phòng thủ, nhưng cũng là mối đe dọa tấn công rõ ràng. Nếu hàng thủ Hà Lan lơ là, Thụy Điển hoàn toàn có khả năng tận dụng.
 
 Dự đoán: Hà Lan thắng 2-1. Hà Lan có ưu thế nhỏ về tổng thể, và sự kết hợp Gakpo–Reijnders sẽ tạo ra bàn thắng. Nhưng Gyökeres hoặc Isak rất có thể ghi bàn, biến đây thành trận đấu hấp dẫn và nhiều bàn thắng thay vì chiến thắng dễ dàng của Hà Lan.
+
+## summary_verdict:th
+เนเธอร์แลนด์มีความลึกของทีมที่มากกว่าและประวัติฟุตบอลโลกที่ดีกว่า โดยมี Gakpo, Reijnders และ Depay เป็นแกนหลักของแนวรุก ขณะที่ van Dijk เป็นเสาหลักของแนวรับ ทำให้พวกเขาเป็นตัวเต็งในเชิงทฤษฎี การเสมอ 2-2 ในนัดเปิดสนามกับญี่ปุ่นบ่งชี้ว่าพวกเขายังไม่ถึงฟอร์มสูงสุด
+
+อย่างไรก็ตาม สวีเดนส่งคู่หูสไตรเกอร์ Gyökeres–Isak ออกมา ซึ่งเป็นสองสไตรเกอร์ชั้นนำของยุโรปที่สามารถทำประตูได้ในทุกช่วงเวลา การเสมอ 2-2 กับตูนิเซียในนัดเปิดสนามแสดงให้เห็นถึงความเปราะบางของแนวรับ แต่ก็เปิดเผยภัยคุกคามในการรุกที่ชัดเจนเช่นกัน หากแนวรับดัตช์เผลอ สวีเดนมีความสามารถเต็มเปี่ยมที่จะลงโทษ
+
+การทำนาย: เนเธอร์แลนด์ชนะ 2-1 ทีมดัตช์มีความได้เปรียบเล็กน้อยโดยรวม และการผสมผสาน Gakpo–Reijnders ควรจะสร้างประตูได้ แต่ Gyökeres หรือ Isak มีแนวโน้มสูงที่จะทำประตู ทำให้นี่เป็นการแข่งขันที่น่าตื่นเต้นและเต็มไปด้วยประตู มากกว่าชัยชนะที่สบายๆ ของเนเธอร์แลนด์
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Hà Lan thắng 2-1. Hà Lan có ưu thế nhỏ về tổng thể,
 | 🏆 Trận đấu quyết định của bảng | Cả hai đội hòa ở trận mở màn, nên đội thắng trận này gần như chắc chắn vào vòng knock-out — đội thua sẽ chịu áp lực khủng khiếp. |
 | 🦁 Isak trở lại đúng lúc | Tiền đạo Liverpool trở lại sau chấn thương ở trận thứ hai; phong độ của anh cần theo dõi, nhưng tiềm năng vẫn rất lớn. |
 | 🇸🇪 Hai mũi nhọn của Thụy Điển | Gyökeres và Isak cùng ra sân là một trong những cặp tiền đạo được mong đợi nhất tại World Cup này. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🇳🇱 ช่วงเวลาของ Gakpo | กองหน้า Liverpool คึกคักในนัดเปิดสนาม หากเขารักษาระดับนั้นได้ เขาคือแหล่งรุกที่อันตรายที่สุดของทีมดัตช์ |
+| ⚡ Gyökeres ปะทะ van Dijk | สไตรเกอร์ชั้นนำของพรีเมียร์ลีก เผชิญกับเซ็นเตอร์แบ็คที่ดีที่สุดของฟุตบอลโลก เป็นการดวลส่วนตัวที่โดดเด่นที่สุดในนัดนี้ |
+| 🎯 Reijnders เป็นตัวเชื่อมสำคัญ | กองกลางรุก Man City มีบทบาทเป็นตัวเชื่อมหลักในยุทธวิธีของเนเธอร์แลนด์ในทัวร์นาเมนต์นี้ แสดงความสร้างสรรค์ตั้งแต่นัดเปิดสนาม |
+| 🏆 เกมชี้ชะตาของกลุ่ม | ทั้งสองทีมเสมอในนัดเปิดสนาม ดังนั้นผู้ชนะในที่นี้แทบจะการันตีการผ่านเข้ารอบ ส่วนผู้แพ้จะเผชิญกับแรงกดดันมหาศาลในรอบน็อคเอาท์ |
+| 🦁 Isak กลับมาปฏิบัติการ | กองหน้า Liverpool กลับมาจากการบาดเจ็บในแมตช์ที่สอง ฟอร์มของเขาจะต้องติดตามดู แต่ศักยภาพของเขายังคงมหาศาล |
+| 🇸🇪 หัวหอกคู่ของสวีเดน | Gyökeres และ Isak ลงเล่นด้วยกันเป็นหนึ่งในคู่สไตรเกอร์ที่ถูกคาดหวังมากที่สุดในฟุตบอลโลกครั้งนี้ |

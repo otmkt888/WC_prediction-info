@@ -34,6 +34,9 @@ Haiti return to the World Cup for the first time in 52 years, making their quali
 ## home_note:vi
 Haiti trở lại World Cup sau 52 năm vắng bóng, đây là một trong những câu chuyện vòng loại cảm động nhất của giải đấu lần này. HLV Migné áp dụng sơ đồ 4-4-2 phòng ngự phản công, toàn đội hoàn thành vòng loại trên sân trung lập, 6 trận chỉ để thủng lưới 3 bàn. Trụ cột Bellegarde (Wolves, Premier League) và Isidor (Sunderland, Championship) mang đến kinh nghiệm từ các giải đấu hàng đầu châu Âu, trong khi chân sút lịch sử Nazon (44 bàn/78 trận) dẫn dắt hàng công. Chiến thắng 4-0 trước New Zealand trong trận giao hữu thể hiện sức chiến đấu, nhưng trận thua 2-1 trước Peru lộ ra điểm yếu phòng thủ.
 
+## home_note:th
+เฮติกลับมาร่วมฟุตบอลโลกอีกครั้งหลังห่างหายไป 52 ปี นับเป็นหนึ่งในเรื่องราวการผ่านรอบคัดเลือกที่น่าประทับใจที่สุดของการแข่งขันครั้งนี้ โค้ช Migné ใช้รูปแบบ 4-4-2 เน้นรับแล้วโต้กลับ โดยทีมทำการแข่งขันรอบคัดเลือกทั้งหมดในสนามกลาง เสียประตูเพียง 3 ลูกใน 6 นัด ผู้เล่นหลักอย่าง Bellegarde (Wolves, Premier League) และ Isidor (Sunderland, Championship) นำประสบการณ์จากลีกยุโรปชั้นนำมาใช้ ขณะที่ดาวซัลโวตลอดกาล Nazon (44 ประตู / 78 นัด) นำแนวรุก ชัยชนะ 4-0 เหนือ New Zealand ในเกมกระชับมิตรแสดงถึงจิตใจสู้ แต่การแพ้ Peru 2-1 ก็เปิดเผยจุดอ่อนด้านการป้องกัน
+
 ## away_note:zh
 蘇格蘭終結長達 28 年的世界盃缺席，以戲劇性方式在最後一輪以 4-2 擊敗丹麥奪得資格。主帥 Clarke 手握英超、意甲多名頂尖球員：隊長 Robertson（利物浦）、靈魂人物 McTominay（拿坡里意甲）、McGinn（阿士東維拉英超），整體實力遠超海地。預選賽出色（6 場 4 勝 1 和 1 負，13 球），狀態極佳。
 
@@ -46,6 +49,9 @@ Scotland end a 28-year World Cup absence, securing qualification in dramatic fas
 ## away_note:vi
 Scotland chấm dứt 28 năm vắng mặt tại World Cup bằng màn kịch tính đánh bại Đan Mạch 4-2 ở lượt cuối vòng loại để giành vé dự giải. HLV Clarke sở hữu nhiều cầu thủ hàng đầu đến từ Premier League và Serie A: đội trưởng Robertson (Liverpool), linh hồn đội McTominay (Napoli, Serie A), McGinn (Aston Villa, Premier League), thực lực tổng thể vượt trội so với Haiti. Vòng loại xuất sắc (6 trận 4 thắng 1 hòa 1 thua, 13 bàn), phong độ đang rất tốt.
 
+## away_note:th
+สกอตแลนด์ยุติการขาดหายจากฟุตบอลโลกนาน 28 ปี ด้วยการผ่านรอบคัดเลือกอย่างดราม่าหลังเอาชนะ Denmark 4-2 ในรอบสุดท้าย โค้ช Clarke มีดาราระดับ Premier League และ Serie A หลายคน ได้แก่ กัปตัน Robertson (Liverpool), แกนหลักของทีม McTominay (Napoli, Serie A) และ McGinn (Aston Villa, Premier League) ทำให้สกอตแลนด์มีระดับคุณภาพโดยรวมที่เหนือกว่าเฮติอย่างชัดเจน แคมเปญคัดเลือกที่โดดเด่น (4 ชนะ 1 เสมอ 1 แพ้ใน 6 นัด ยิง 13 ประตู) และพวกเขามาถึงในฟอร์มที่ยอดเยี่ยม
+
 ## odds_note:zh
 賠率顯示：海地勝 5.25、平局 3.50、蘇格蘭勝 1.65。蘇格蘭是明確大熱，市場機率蘇格蘭勝 62%、平局 22%、海地勝 17%。但世界盃首場通常謹慎，低入球賽事機率高。
 
@@ -57,6 +63,9 @@ The odds stand at: Haiti win 5.25, Draw 3.50, Scotland win 1.65. Scotland are cl
 
 ## odds_note:vi
 Tỷ lệ cược: Haiti thắng 5.25, hòa 3.50, Scotland thắng 1.65. Scotland là cửa trên rõ ràng, xác suất thị trường: Scotland thắng 62%, hòa 22%, Haiti thắng 17%. Tuy nhiên, trận mở màn World Cup thường thận trọng, khả năng ít bàn thắng khá cao.
+
+## odds_note:th
+อัตราต่อรอง: เฮติชนะ 5.25, เสมอ 3.50, สกอตแลนด์ชนะ 1.65 สกอตแลนด์เป็นตัวเก็งที่ชัดเจน โดยความน่าจะเป็นของตลาดโดยนัย: สกอตแลนด์ชนะ 62%, เสมอ 22%, เฮติชนะ 17% อย่างไรก็ตาม นัดเปิดสนามฟุตบอลโลกมักจะเล่นอย่างระมัดระวัง และผลการแข่งขันที่มีประตูน้อยเป็นเรื่องที่น่าจะเกิดขึ้น
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Haiti thắng 5.25, hòa 3.50, Scotland thắng 1.65. Scotlan
 | ST | #9 | Duckens Nazon | Esteghlal | 🇮🇷 | 18 | starter,team | false | Chân sút lịch sử Haiti (44 bàn/78 cap), nhạy cảm trong các trận lớn, trung tâm phản công, không thể xem thường. |
 | FWD | 備援 | Frantzdy Pierrot | Çaykur Rizespor | 🇹🇷 | 8 | squad | true | Tiền đạo Super Lig Thổ Nhĩ Kỳ, dự bị tốc độ, sức tấn công từ băng ghế. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Johny Placide | SC Bastia | 🇫🇷 | 1 | starter,team | false | กัปตันทีมวัยเก๋า 38 ปี ผู้ถือสถิติลงเล่นมากที่สุดให้เฮติ (81 นัด) อ่านเกมยอดเยี่ยม เซฟสำคัญหลายครั้ง |
+| DEF | #2 | Carlens Arcus | Angers | 🇫🇷 | 2 | starter | false | แบ็คขวา Ligue 2 ฝรั่งเศส รุกรับแข็งขัน จำกัดการโจมตีแนวปีกซ้ายของคู่แข่งได้ดี |
+| DEF | #4 | Ricardo Adé | LDU Quito | 🇪🇨 | 3 | starter | false | เล่นในลีกเอกวาดอร์ คู่เซ็นเตอร์แบ็ค ป้องกันมั่นคง แข็งแกร่งในการโหม่งลูกตาย |
+| DEF | #5 | Hannes Delcroix | Lugano | 🇨🇭 | 3 | starter | false | เซ็นเตอร์แบ็คตัวหลัก Swiss Super League เท้าสองข้างคล่องแคล่ว จัดระบบแนวรับ ครอบคลุมพื้นที่ป้องกันได้กว้าง |
+| DEF | #13 | Duke Lacroix | Colorado Springs | 🇺🇸 | 2 | starter,team | false | แบ็คซ้าย MLS วิ่งแข็งขัน ป้องกันเชื่อถือได้ รับมือกับภัยคุกคามจากปีกได้ดี |
+| CM | #10 | Jean-Ricner Bellegarde | Wolverhampton Wanderers | 🇬🇧 | 12 | starter,league | false | ตัวหลัก Wolves Premier League ลงเล่น 25 นัดฤดูกาลนี้ ความสามารถในการครองบอลยอดเยี่ยม เป็นกองกลางคุณภาพสูงสุดของเฮติและภัยคุกคามใหญ่ที่สุดตลอดเกม |
+| CM | #8 | Danley Jean Jacques | Philadelphia Union | 🇺🇸 | 5 | starter | false | กองกลาง Philadelphia Union MLS สนับสนุน Bellegarde ในการครองบอลและคุ้มกันแนวรับ |
+| MF | #21 | Josue Casimir | Auxerre | 🇫🇷 | 6 | starter | false | ตัวหลัก Auxerre Ligue 1 ลงเล่น 30 นัดฤดูกาลนี้ จัดระบบการเปลี่ยนผ่านกองกลางและเชื่อมต่อกับแนวรุก |
+| MF | #15 | Ruben Providence | Almere City | 🇳🇱 | 5 | starter | false | กองกลางขวา Eredivisie เนเธอร์แลนด์ ความเร็วสูง สร้างความกว้างที่ปีกและวิ่งรุกหน้า |
+| ST | #11 | Wilson Isidor | Sunderland | 🇬🇧 | 14 | starter,league | false | กองหน้า Sunderland Championship 5 ประตูใน 30 นัดฤดูกาลนี้ เปลี่ยนมาเล่นให้เฮติจากฝรั่งเศส ความเร็วสูง เหมาะกับการโต้กลับ |
+| ST | #9 | Duckens Nazon | Esteghlal | 🇮🇷 | 18 | starter,team | false | ดาวซัลโวตลอดกาลของเฮติ (44 ประตู / 78 นัด) สัญชาตญาณในเกมใหญ่ยอดเยี่ยม แกนหลักของการโต้กลับ ไม่ควรมองข้าม |
+| FWD | สำรอง | Frantzdy Pierrot | Çaykur Rizespor | 🇹🇷 | 8 | squad | true | กองหน้า Turkish Super Lig ตัวสำรองที่เน้นความเร็ว สร้างแรงกระแทกจากม้านั่งสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Haiti thắng 5.25, hòa 3.50, Scotland thắng 1.65. Scotlan
 | ST | #9 | Lawrence Shankland | Hearts | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 20 | starter,team | false | Tiền đạo Hearts, thể hiện nổi bật tại Premiership Scotland mùa này, nhạy cảm trong vòng cấm, ứng viên hàng đầu đá trung phong chính. |
 | FWD | 備援 | Che Adams | Torino | 🇮🇹 | 12 | league,squad | true | Tiền đạo Torino Serie A, lựa chọn tấn công dự bị, tốc độ và sức đột phá cao, mối đe dọa từ băng ghế. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Angus Gunn | Nottingham Forest | 🇬🇧 | 1 | starter,league | false | ตัวหลัก Nottingham Forest Premier League รีเฟล็กซ์คมและจับบอลยอดเยี่ยม คาดว่าจะเอาชนะ Craig Gordon เพื่อได้ตำแหน่งตัวจริง |
+| DEF | #2 | Aaron Hickey | Brentford | 🇬🇧 | 3 | starter,league | false | แบ็คขวา Brentford Premier League ความเร็วสูงและความสามารถวิ่งรุกหน้าดี สำคัญสำหรับการรุกแนวปีกขวาของสกอตแลนด์ |
+| DEF | #5 | Grant Hanley | Hibernian | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 3 | starter,team | false | เซ็นเตอร์แบ็คทหารผ่านศึก Hibernian Scottish Premiership ประสบการณ์สูง ป้องกันมั่นคง และอันตรายจากลูกตาย |
+| DEF | #6 | Scott McKenna | Dinamo Zagreb | 🇭🇷 | 4 | starter | false | เซ็นเตอร์แบ็คในลีกโครเอเชีย รวดเร็วและแกร่งในการดวลตัวต่อตัว เป็นคู่หูกับ Hanley ในแนวรับ |
+| DEF | #3 | Andy Robertson（C） | Liverpool | 🇬🇧 | 5 | starter,league | false | แบ็คซ้ายตัวหลักของ Liverpool และกัปตันทีมสกอตแลนด์ 92 นัด หนึ่งในแบ็คซ้ายดีที่สุดใน Premier League ความสามารถในการแอสซิสต์ระดับโลก |
+| CM | #8 | Lewis Ferguson | Bologna | 🇮🇹 | 6 | starter,league | false | ตัวหลัก Bologna Serie A ครอบคลุมพื้นที่ป้องกันกว้าง คุ้มกันแนวรับและทำหน้าที่เป็นสะพานกองกลาง |
+| CM | #7 | Ryan Christie | Bournemouth | 🇬🇧 | 7 | starter,league | false | ตัวหลัก Bournemouth Premier League ทำงานหนักสูง สนับสนุน McTominay ในการจัดระบบการโจมตี |
+| AM | #10 | Scott McTominay | Napoli | 🇮🇹 | 28 | starter,league | false | ดาราของ Napoli Serie A และแกนหลักของสกอตแลนด์ กองกลางตัวรุกที่ทำประตูได้สองหลักในฤดูกาลนี้ เป็นภัยคุกคามที่ใหญ่ที่สุดของสกอตแลนด์และผู้เล่นที่น่าจับตามองที่สุดในแมตช์นี้ |
+| MF | #11 | John McGinn | Aston Villa | 🇬🇧 | 15 | starter,league | false | ตัวหลัก Aston Villa Premier League ยิงระยะไกลทรงพลังและวิ่งรุกเข้ากองกลางอย่างอันตราย เป็นผู้เล่นหลักคนที่สองของสกอตแลนด์ |
+| MF | #14 | Ben Gannon-Doak | Bournemouth | 🇬🇧 | 10 | starter,league | false | ปีก Bournemouth Premier League ความเร็วระเบิดและการเลี้ยงบอล 1v1 แข็งแกร่ง อาวุธสำคัญของสกอตแลนด์บนปีกขวา |
+| ST | #9 | Lawrence Shankland | Hearts | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 20 | starter,team | false | กองหน้า Hearts ที่โดดเด่นใน Scottish Premiership ฤดูกาลนี้ คมในกรอบเขตโทษ เป็นตัวเต็งอันดับต้นสำหรับตำแหน่งเซ็นเตอร์ฟอร์เวิร์ด |
+| FWD | สำรอง | Che Adams | Torino | 🇮🇹 | 12 | league,squad | true | กองหน้า Torino Serie A ตัวเลือกรุกจากม้านั่งสำรองด้วยความเร็วและแรงกระแทกทางกายภาพ เป็นภัยคุกคามสำคัญในฐานะตัวสำรอง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Haiti thắng 5.25, hòa 3.50, Scotland thắng 1.65. Scotlan
 | 1-0 🇭🇹 | Haiti Thắng | 5 | #D21034 | Bất Ngờ | home |
 | Khác | — | 15 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 0-2 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | สกอตแลนด์ชนะ | 22 | #003DA5 | โอกาสสูงสุด | away |
+| 0-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | สกอตแลนด์ชนะ | 20 | #003DA5 | อันดับสอง | away |
+| 1-2 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | สกอตแลนด์ชนะ | 12 | #003DA5 | | away |
+| 0-0 | เสมอ | 10 | #6b7280 | | draw |
+| 1-1 | เสมอ | 8 | #6b7280 | | draw |
+| 0-3 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | สกอตแลนด์ชนะ | 8 | #003DA5 | | away |
+| 1-0 🇭🇹 | เฮติชนะ | 5 | #D21034 | ผลพลิก | home |
+| อื่นๆ | — | 15 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược: Haiti thắng 5.25, hòa 3.50, Scotland thắng 1.65. Scotlan
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Ghorbal trung bình 3.5 thẻ vàng/trận, phong cách rút thẻ ổn định. Haiti trung bình 2 thẻ vàng/trận, Scotland 1.8 thẻ, bầu không khí căng thẳng của trận mở màn dự kiến số thẻ sẽ cao hơn. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Khả năng Ghorbal rút thẻ đỏ tương đối thấp, Haiti có thể có nguy cơ phạm lỗi chiến thuật nếu bị dẫn lâu, nhưng nhìn chung dự kiến không có thẻ đỏ. |
 | ⚠️ | 20–24 | Số lỗi/trận trọng tài thổi | Ghorbal cầm còi nghiêm ngặt, trung bình khoảng 20~24 lỗi/trận, chiến lược phòng thủ phản công của Haiti có thể dẫn đến nhiều lỗi hơn. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–11 | จำนวนเตะมุมที่คาดการณ์ | การเล่นปีกผ่าน Robertson และ Hickey ของสกอตแลนด์จะสร้างเตะมุมจำนวนมาก สกอตแลนด์เฉลี่ย 5.1 เตะมุมต่อเกมใน 10 นัดล่าสุด ในขณะที่คู่แข่งของเฮติเฉลี่ยเสียเตะมุม 5.9 ครั้งต่อเกม คาดว่าสกอตแลนด์จะครองสถานการณ์ลูกตาย |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | Ghorbal เฉลี่ย 3.5 ใบเหลืองต่อแมตช์และออกใบอย่างสม่ำเสมอ เฮติเฉลี่ย 2 ใบเหลืองต่อเกมและสกอตแลนด์ 1.8 ใบ ความตึงเครียดของนัดเปิดสนามชี้ว่าจำนวนใบอาจสูงกว่าปกติ |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | Ghorbal มีอัตราใบแดงต่ำ เฮติอาจเสี่ยงฟาวล์เชิงยุทธวิธีหากตามหลังมากๆ แต่โดยรวมไม่คาดว่าจะมีใบแดง |
+| ⚠️ | 20–24 | เฉลี่ยฟาวล์/นัดของกรรมการ | Ghorbal บังคับใช้กฎอย่างเคร่งครัด เฉลี่ยประมาณ 20-24 ฟาวล์ต่อแมตช์ แนวทางการป้องกันแล้วโต้กลับของเฮติอาจทำให้จำนวนฟาวล์สูงขึ้น |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược: Haiti thắng 5.25, hòa 3.50, Scotland thắng 1.65. Scotlan
 | Thẻ TB/trận | 3.5 | #60a5fa |
 | Lỗi TB/trận | ~22 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Mustapha Ghorbal
+- country: 🇩🇿 แอลจีเรีย · CAF · FIFA นานาชาติ
+- note: กรรมการชาวแอลจีเรีย ระดับ FIFA นานาชาติ เคยตัดสิน 2 นัดในรอบแบ่งกลุ่มฟุตบอลโลก 2022 ที่กาตาร์ (รวมออกใบเหลือง 4 ใบ) เฉลี่ย 3.5 ใบเหลืองต่อแมตช์ใน 10 นัดล่าสุด มีรูปแบบการออกบัตรที่สม่ำเสมอ อายุ 40 ปี มีประสบการณ์การตัดสินที่ยาวนานและไม่ขึ้นชื่อว่าออกบัตรอย่างก้าวร้าว
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 180+ | #F1F5F9 |
+| ใบเหลืองรวม | 620+ | #EAB308 |
+| ใบเหลือง-แดง | 12 | orange |
+| ใบแดงรวม | 22 | #EF4444 |
+| เฉลี่ยใบ/นัด | 3.5 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~22 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄（首次正式比賽）
 - homeWins: 0
@@ -353,6 +429,13 @@ Tỷ lệ cược: Haiti thắng 5.25, hòa 3.50, Scotland thắng 1.65. Scotlan
 - draws: 0
 - awayWins: 0
 - note: Hai đội chưa từng gặp nhau chính thức, không có dữ liệu lịch sử để tham khảo. Trận giao hữu gần nhất Scotland: thắng Đan Mạch 4-2 (vòng loại cuối); Haiti gần nhất: thắng New Zealand 4-0, thua Peru 2-1. Cả hai đội đều trở lại World Cup sau nhiều năm vắng bóng.
+
+## h2h:th
+- title: สถิติพบกัน (การพบกันอย่างเป็นทางการครั้งแรก)
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: สองทีมไม่เคยพบกันในการแข่งขันอย่างเป็นทางการ จึงไม่มีข้อมูลประวัติศาสตร์สำหรับอ้างอิง ผลล่าสุดของสกอตแลนด์: ชนะ Denmark 4-2 (รอบคัดเลือกรอบสุดท้าย) ผลล่าสุดของเฮติ: ชนะ New Zealand 4-0, แพ้ Peru 2-1 ทั้งสองทีมกลับมาร่วมฟุตบอลโลกหลังห่างหายไปนาน
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược: Haiti thắng 5.25, hòa 3.50, Scotland thắng 1.65. Scotlan
 | Andy Robertson | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 LB | Carlens Arcus | 🇭🇹 RB | Hậu vệ trái Liverpool dâng lên tấn công kiến tạo vs hậu vệ phải Ligue 2 Pháp, sự áp đặt của Robertson là động cơ tấn công của Scotland. |
 | Wilson Isidor | 🇭🇹 ST | Grant Hanley | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 CB | Tốc độ tiền đạo Championship vs trung vệ lão luyện, nếu Isidor có thể vượt qua hàng thủ trong phản công, đó là cơ hội duy nhất để Haiti tạo bất ngờ. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Scott McTominay | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 AM | Jean-Ricner Bellegarde | 🇭🇹 CM | กองกลางตัวรุก Napoli Serie A vs กองกลาง Wolves Premier League การต่อสู้เพื่อการครองกองกลางคือการปะทะสำคัญของแมตช์ โดย McTominay มีภัยคุกคามการทำประตูที่สูงกว่ามาก |
+| Ben Gannon-Doak | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 RW | Duke Lacroix | 🇭🇹 LB | ปีก Premier League ความเร็วระเบิด vs แบ็คซ้าย MLS ปีกขวาของสกอตแลนด์คือช่องทางใหญ่ที่สุดสำหรับการบุกทะลวง โดยมีช่องว่างทางเทคนิคที่ชัดเจนระหว่างทั้งคู่ |
+| Andy Robertson | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 LB | Carlens Arcus | 🇭🇹 RB | แบ็คซ้ายตัวหลักของ Liverpool ที่วิ่งรุกหน้า vs แบ็คขวา Ligue 2 การบุกของ Robertson คือเครื่องยนต์ของการโจมตีของสกอตแลนด์ |
+| Wilson Isidor | 🇭🇹 ST | Grant Hanley | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 CB | ภัยคุกคามความเร็วของกองหน้า Championship vs เซ็นเตอร์แบ็คทหารผ่านศึก หาก Isidor สามารถทะลวงแนวรับในการโต้กลับได้ นั่นคือโอกาสเดียวที่แท้จริงของเฮติในการสร้างความประหลาดใจ |
+
 ## summary_verdict:zh
 蘇格蘭以 28 年缺席後重返世界盃，帶著 McTominay（拿坡里）、Robertson（利物浦）、McGinn（阿士東維拉）等英超、意甲球員組成的強陣登場。全隊平均年齡 29 歲，預選賽 4 勝 1 和 1 負，13 進 5 失，狀態火熱。
 
@@ -413,6 +504,13 @@ Scotland trở lại World Cup sau 28 năm vắng bóng với đội hình mạn
 Câu chuyện của Haiti mang màu sắc cảm động hơn - trở lại sân chơi World Cup sau 52 năm, trong bối cảnh bất ổn trong nước, họ hoàn thành toàn bộ vòng loại trên sân trung lập, mỗi trận đấu là một kỳ tích. Bellegarde (Premier League) và Isidor (Championship) mang đến trình độ giải châu Âu, Nazon là nhân vật nguy hiểm khó lường. Nhưng khoảng cách thực lực tổng thể rõ ràng, 5 cầu thủ từ năm giải lớn so với 10 của Scotland, sự chênh lệch hiện ra ngay trước mắt.
 
 Dự đoán: Scotland 2-0 Haiti. Tuyến giữa và tấn công Scotland dưới sự dẫn dắt của McTominay nên tạo ra nhiều cơ hội, hàng thủ Haiti tuy chắc chắn nhưng khó chịu được sức ép liên tục ở cấp độ Premier League. Nếu Haiti giữ được trong hiệp một, họ vẫn có cơ hội hiệp hai, nhưng nhìn chung khả năng Scotland thắng cách biệt là cao nhất.
+
+## summary_verdict:th
+สกอตแลนด์กลับมาร่วมฟุตบอลโลกหลังห่างหาย 28 ปี โดยส่งทีมที่แข็งแกร่งซึ่งมี McTominay (Napoli), Robertson (Liverpool), McGinn (Aston Villa) และผู้เล่นจาก Premier League และ Serie A คนอื่นๆ ทีมมีอายุเฉลี่ย 29 ปี และสถิติรอบคัดเลือก 4 ชนะ 1 เสมอ 1 แพ้ ยิง 13 ประตู เสีย 5 ประตู สะท้อนให้เห็นฟอร์มที่ยอดเยี่ยม
+
+เรื่องราวของเฮติมีอารมณ์ความรู้สึกมากกว่า โดยก้าวกลับขึ้นเวทีฟุตบอลโลกหลัง 52 ปี ผ่านรอบคัดเลือกทั้งหมดในสนามกลางท่ามกลางความไม่มั่นคงภายในประเทศ ทุกแมตช์คือความมหัศจรรย์ในตัวเอง Bellegarde (Premier League) และ Isidor (Championship) นำคุณภาพลีกยุโรปมาใช้ และ Nazon ยังคงเป็นอันตรายที่คาดเดาไม่ได้ อย่างไรก็ตาม ช่องว่างโดยรวมในความลึกของทีมนั้นชัดเจน 5 ผู้เล่นจากห้าลีกชั้นนำของยุโรปเทียบกับ 10 ของสกอตแลนด์ ความแตกต่างที่เห็นได้ชัดเจน
+
+การทำนาย: สกอตแลนด์ 2-0 เฮติ การโจมตีของสกอตแลนด์ นำโดย McTominay ควรสร้างโอกาสที่ชัดเจนหลายครั้ง ระบบป้องกันของเฮตินั้นมั่นคงแต่ไม่น่าจะทนต่อแรงกดดันระดับ Premier League อย่างต่อเนื่อง หากเฮติสามารถยืนหยัดในครึ่งแรกได้ พวกเขาจะมีโอกาสต่อสู้ในครึ่งหลัง แต่โดยรวมแล้วผลลัพธ์ที่เป็นไปได้มากที่สุดคือสกอตแลนด์ทำประตูได้มากกว่าหนึ่งลูกเพื่อคว้าชัยชนะอย่างสะอาด
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Scotland 2-0 Haiti. Tuyến giữa và tấn công Scotland dưới
 | 👑 Robertson - Đội trưởng lên ngôi | Lão tướng 92 cap, World Cup có thể là sân khấu quan trọng nhất sau khi chia tay Liverpool, tấn công biên trái sẽ là điểm phát động tấn công chính của Scotland. |
 | ⚖️ Trọng tài rút thẻ ổn định | Ghorbal trung bình 3.5 thẻ vàng/trận, phong cách phạm lỗi chiến thuật của Haiti có thể tích lũy thẻ vàng, cần đề phòng cầu thủ phòng thủ bị treo giò ngay trận đầu. |
 | 🏆 Ảnh hưởng đến cục diện bảng C | Trước hai đối thủ mạnh khác ở bảng C là Brazil và Morocco, trận này là trận "phải thắng" duy nhất của Scotland, áp lực rất lớn không thể để mất điểm. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🎺 การกลับมาของตำนานเฮติ | กลับมาร่วมฟุตบอลโลกหลัง 52 ปี โดยผ่านการแข่งขันรอบคัดเลือกทั้งหมดในสนามกลาง เป็นเรื่องราวการผ่านรอบคัดเลือกที่น่าประทับใจที่สุดของการแข่งขันครั้งนี้ |
+| ⭐ McTominay ผู้เล่นสำคัญ | กองกลาง Napoli ทำประตูได้สองหลักในฤดูกาลนี้และโหม่งลูกสำคัญในรอบคัดเลือก เป็นตัวเก็งทำประตูสูงสุด (ราคาราว +215) และเป็นภัยคุกคามที่ใหญ่ที่สุดของสกอตแลนด์ |
+| 🦊 คุณภาพ Premier League ของ Bellegarde | ผู้เล่น Premier League คนเดียวของเฮติ ยอดเยี่ยมกับบอลที่เท้า หากเขาสามารถทำลายจังหวะของสกอตแลนด์ในกองกลางได้ เขาคือความหวังเดียวของเฮติในการพลิกสถานการณ์ |
+| 👑 ช่วงเวลากัปตันของ Robertson | ทหารผ่านศึก 92 นัด พบว่าฟุตบอลโลกอาจเป็นเวทีที่สำคัญที่สุดหลังจากออกจาก Liverpool การวิ่งรุกปีกซ้ายของเขาจะเป็นจุดปล่อยหลักของการโจมตีของสกอตแลนด์ |
+| ⚖️ รูปแบบการออกบัตรของกรรมการที่สม่ำเสมอ | Ghorbal เฉลี่ย 3.5 ใบเหลืองต่อเกม แนวโน้มของเฮติที่จะฟาวล์เชิงยุทธวิธีอาจทำให้บัตรสะสม ผู้เล่นฝ่ายรับต้องระวังเพื่อหลีกเลี่ยงการโดนแบนในนัดเปิดสนาม |
+| 🏆 พลวัตของกลุ่ม C | เมื่อเผชิญกับ Brazil และ Morocco ที่เป็นทีมแข็งแกร่งของกลุ่ม C ในภายหลัง นี่คือการแข่งขัน "ต้องชนะ" เพียงนัดเดียวของสกอตแลนด์ แรงกดดันในการคว้าสามแต้มนั้นมหาศาล |

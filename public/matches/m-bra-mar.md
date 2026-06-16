@@ -34,6 +34,9 @@ Brazil make their first World Cup appearance under legendary manager Carlo Ancel
 ## home_note:vi
 Brazil ra quân World Cup lần đầu tiên dưới sự dẫn dắt của huấn luyện viên huyền thoại Carlo Ancelotti, với mục tiêu chấm dứt 24 năm chờ đợi để giành chức vô địch thứ sáu "Hexa". Đội hình sở hữu hai siêu sao cánh Vinícius Júnior (Real Madrid) và Raphinha (Barcelona), sức tấn công thuộc hàng mạnh nhất giải đấu. Tiền đạo chủ lực Neymar vắng mặt ở trận đầu do chấn thương bắp chân, Igor Thiago được đưa vào thay thế. Ancelotti sử dụng sơ đồ 4-2-3-1, với Casemiro và Bruno Guimarães làm bộ đôi tiền vệ phòng thủ để ổn định tuyến giữa, tạo điều kiện cho hai cánh tung hoành.
 
+## home_note:th
+บราซิลลงสนามฟุตบอลโลกครั้งแรกภายใต้การคุมทีมของ Carlo Ancelotti ผู้จัดการทีมระดับตำนาน โดยมีเป้าหมายยุติความแห้งแล้งแชมป์ 24 ปีและคว้าแชมป์สมัยที่ 6 "Hexa" ทีมมีแข้งปีกระดับซูเปอร์สตาร์ถึงสองคนคือ Vinícius Júnior (Real Madrid) และ Raphinha (Barcelona) ทำให้แนวรุกถือเป็นหนึ่งในทีมที่น่ากลัวที่สุดในทัวร์นาเมนต์นี้ Neymar กองหน้าตัวหลักพลาดเกมเปิดสนามเนื่องจากอาการบาดเจ็บน่องขา โดยมี Igor Thiago เข้ามาทดแทน Ancelotti ใช้รูปแบบ 4-2-3-1 โดยจับคู่ Casemiro และ Bruno Guimarães เป็นดับเบิ้ลพิฟอตเพื่อเสริมความมั่นคงในแดนกลางและเปิดอิสระให้แข้งปีกทั้งสองได้บุกโจมตี
+
 ## away_note:zh
 摩洛哥繼 2022 年首支闖進世界盃四強的非洲球隊後再度出征，本屆被視為黑馬強隊。惟主帥 Walid Regragui 已離任，由 Mohamed Ouahbi 接任，磨合時間有限。主力中衛 Nayef Aguerd（恥骨炎）確定缺席，防線有所削弱。摩洛哥在近 29 場國際賽 90 分鐘內保持不敗，依靠 Hakimi 右路推進、Brahim Diaz 創造力及 Saibari 前場把握力維持競爭力。
 
@@ -46,6 +49,9 @@ Morocco return to the World Cup off the back of becoming the first African natio
 ## away_note:vi
 Morocco trở lại World Cup sau kỳ tích lọt vào bán kết năm 2022 — đội châu Phi đầu tiên làm được điều đó — và tiếp tục được coi là ứng cử viên bất ngờ đáng gờm. Tuy nhiên huấn luyện viên trưởng Walid Regragui đã rời nhiệm, Mohamed Ouahbi tiếp quản với thời gian hòa nhập hạn chế. Trung vệ chủ lực Nayef Aguerd (chấn thương xương mu) chắc chắn vắng mặt, hàng thủ bị suy yếu đáng kể. Morocco duy trì phong độ bất bại trong 29 trận quốc tế liên tiếp tính sau 90 phút, dựa vào khả năng tấn công biên phải của Hakimi, sự sáng tạo của Brahim Diaz và khả năng dứt điểm của Saibari.
 
+## away_note:th
+โมร็อกโกกลับมาร่วมฟุตบอลโลกหลังจากสร้างประวัติศาสตร์เป็นชาติแอฟริกาแรกที่เข้ารอบรองชนะเลิศในปี 2022 และยังคงถูกมองว่าเป็นทีมม้านอกสนามที่น่ากลัว อย่างไรก็ตาม Walid Regragui ผู้จัดการทีมหลักได้ลาออกและถูกแทนที่ด้วย Mohamed Ouahbi ทำให้มีเวลาจำกัดในการทำงานร่วมกันภายใต้ผู้จัดการทีมคนใหม่ Nayef Aguerd กองหลังกลางตัวหลัก (โรคกระดูกหัวหน่าวอักเสบ) ยืนยันว่าต้องพักรักษาตัว ทำให้แนวรับอ่อนแอลง โมร็อกโกไม่แพ้ใครในเวลา 90 นาทีใน 29 นัดระหว่างประเทศที่ผ่านมา โดยอาศัยการบุกชายขอบขวาของ Hakimi ความสร้างสรรค์ของ Brahim Diaz และความแม่นยำในการทำประตูของ Saibari
+
 ## odds_note:zh
 賠率顯示：巴西勝 1.57、平局 4.20、摩洛哥勝 5.50。巴西是明顯大熱門，但摩洛哥 2022 年曾淘汰西班牙和葡萄牙，不可小覷。戰術謹慎下低比分巴西勝出機率最高，亦有機率出現平局冷門。
 
@@ -57,6 +63,9 @@ The odds read: Brazil win 1.57, Draw 4.20, Morocco win 5.50. Brazil are clear fa
 
 ## odds_note:vi
 Tỷ lệ cược: Brazil thắng 1.57, hòa 4.20, Morocco thắng 5.50. Brazil là đội được kỳ vọng rõ ràng, nhưng Morocco từng loại Tây Ban Nha và Bồ Đào Nha tại World Cup 2022, không thể xem thường. Với lối chơi thận trọng, khả năng Brazil thắng tỷ số thấp là cao nhất, đồng thời cũng có xác suất xảy ra bất ngờ hòa.
+
+## odds_note:th
+ราคาต่อรอง: บราซิลชนะ 1.57, เสมอ 4.20, โมร็อกโกชนะ 5.50 บราซิลเป็นตัวเก็งชัดเจน แต่โมร็อกโกเคยเขี่ยสเปนและโปรตุเกสออกในฟุตบอลโลก 2022 จึงไม่ควรมองข้าม ภายใต้แนวทางเล่นที่ระมัดระวังทางยุทธวิธี ผลบราซิลชนะสกอร์ต่ำมีโอกาสสูงที่สุด โดยยังมีความน่าจะเป็นที่จะเกิดผลเสมออย่างเหนือความคาดหมายด้วย
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -130,6 +139,24 @@ Tỷ lệ cược: Brazil thắng 1.57, hòa 4.20, Morocco thắng 5.50. Brazil 
 | FWD | 備援 | Endrick | Real Madrid | 🇪🇸 | 16 | league,squad | true | Tài năng trẻ Real Madrid, 18 tuổi với sức bứt phá mạnh mẽ, vào sân có thể tạo ra điều kỳ diệu. |
 | FWD | 備援 | Gabriel Martinelli | Arsenal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 10 | league,squad | true | Cánh chủ lực Arsenal, tốc độ nhanh, khả năng돌파 cánh trái tốt, sức tấn công khi vào sân dự bị đáng kể. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Alisson Becker | Liverpool | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 1 | starter,league | false | ผู้รักษาประตูระดับโลก ตัวหลักของ Liverpool ใน Premier League มีความสม่ำเสมอในการเซฟสูงมาก และมีประสบการณ์ฟุตบอลโลกมาอย่างโชกโชน |
+| DEF | #2 | Danilo | Juventus | 🇮🇹 | 2 | starter,league | false | แบ็กขวาเก๋าลีก Serie A มีประสบการณ์เกมใหญ่มากมาย สมดุลดีทั้งรุกและรับ เป็นแกนนำระดับกัปตันในแนวรับของบราซิล |
+| DEF | #4 | Marquinhos | PSG | 🇫🇷 | 4 | starter,league | false | กัปตันทีม PSG และกองหลังกลางตัวหลัก เป็นหนึ่งในกองหลังที่ดีที่สุดของ Ligue 1 เป็นเสาหลักแนวรับและเป็นภัยคุกคามด้านเฮดบอลในเซตพีซ |
+| DEF | #5 | Gabriel Magalhaes | Arsenal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 3 | starter,league | false | กองหลังกลางตัวหลักของ Arsenal ใน Premier League มีความโดดเด่นทางกายภาพ เก่งในการต่อสู้ทางอากาศ เป็นดาวดังลีกสูงสุดอังกฤษ |
+| DEF | #6 | Alex Sandro | 自由身 | 🇧🇷 | 1 | starter,team | false | แบ็กซ้ายเก๋าเกม มีประสบการณ์เกมใหญ่อย่างเพียบพร้อม เน้นการป้องกันเป็นหลัก แรงบุกลดลงบ้าง |
+| CM | #5 | Casemiro | Manchester United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league | false | อดีต Real Madrid ปัจจุบันอยู่ Manchester United ตำแหน่งกองกลางรับระดับเอลิต เก่งสกัดบอลและปกป้องแนวรับ มีประสบการณ์เกมใหญ่ที่เทียบไม่ได้ |
+| CM | #14 | Bruno Guimarães | Newcastle | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 8 | starter,league | false | หัวใจของ Newcastle ใน Premier League ส่งบอลแม่นยำและมีคุณภาพทั้งสองทาง จับคู่เป็นดับเบิ้ลพิฟอตที่แข็งแกร่งกับ Casemiro |
+| AM | #10 | Lucas Paquetá | West Ham | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 12 | starter,league | false | กองกลางรุกตัวหลักใน Premier League เทคนิคละเมียด วิ่งเข้าหาประตูดี เป็นผู้เล่นสร้างสรรค์ที่สุดในแดนกลางของบราซิล |
+| RW | #11 | Raphinha | Barcelona | 🇪🇸 | 28 | starter,league | false | ปีกขวาตัวหลักของ Barcelona ทำได้ 13 ประตู 3 แอสซิสต์ใน La Liga ฤดูกาลนี้ ฟอร์มยอดเยี่ยม เป็นภัยคุกคามโดยตรงต่อแนวรับใดก็ตาม |
+| LW | #7 | Vinícius Júnior | Real Madrid | 🇪🇸 | 30 | starter,league | false | ซูเปอร์สตาร์ Real Madrid ทำได้ 16 ประตู 5 แอสซิสต์ใน La Liga ฤดูกาลนี้ ความเร็วระเบิด เป็นหนึ่งในนักเตะที่อันตรายที่สุดในทัวร์นาเมนต์นี้ |
+| ST | #19 | Matheus Cunha | Wolverhampton | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 18 | starter,league | false | กองหน้าตัวหลักของ Wolves ใน Premier League เคลื่อนที่ฉลาด ทำประตูในกรอบเขตโทษได้ดี รับหน้าที่แทน Neymar ในตำแหน่งตัวจริง |
+| FWD | สำรอง | Igor Thiago | Club Brugge | 🇧🇪 | 14 | squad | true | กองหน้าตัวหลักใน Belgian Pro League ตัวเลือกสำรองหลังจาก Neymar ยืนยันว่าพักรักษาตัว เป็นภัยคุกคามในการต่อสู้ทางอากาศและเซตพีซ |
+| FWD | สำรอง | Endrick | Real Madrid | 🇪🇸 | 16 | league,squad | true | พรสวรรค์หนุ่มของ Real Madrid อายุ 18 ปีมีพลังบุกทะลวงจากม้านั่งสำรอง สามารถสร้างความมหัศจรรย์เมื่อลงมาเป็นตัวสำรอง |
+| FWD | สำรอง | Gabriel Martinelli | Arsenal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 10 | league,squad | true | ปีกตัวหลักของ Arsenal ใน Premier League เร็ว ทะลวงแนวรับฝั่งซ้ายได้ดี เป็นตัวสร้างแรงกระแทกที่ดีเมื่อออกมาเป็นตัวสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -194,6 +221,22 @@ Tỷ lệ cược: Brazil thắng 1.57, hòa 4.20, Morocco thắng 5.50. Brazil 
 | ST | #9 | Ilias Saibari | PSV Eindhoven | 🇳🇱 | 20 | starter,league | false | Cầu thủ hay nhất Eredivisie mùa này, chủ lực PSV, 15 bàn 8 kiến tạo, điểm ghi bàn chính của Morocco. |
 | FWD | 備援 | Ayoub El Kaabi | Olympiacos | 🇬🇷 | 10 | squad | true | Vua phá lưới Super League Hy Lạp, 18 bàn mùa này, dứt điểm tốt khi vào sân, sức tấn công đáng kể trong các trận đấu lớn. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Yassine Bounou (Bono) | Al-Hilal | 🇸🇦 | 1 | starter,team | false | ผู้รักษาประตูตัวหลักของโมร็อกโกและ Al-Hilal ใน Saudi Pro League วีรบุรุษฟุตบอลโลก 2022 มีสถิติเซฟลูกโทษที่ยอดเยี่ยม |
+| DEF | #2 | Noussair Mazraoui | Manchester United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 2 | starter,league | false | แบ็กซ้าย Manchester United (มีข้อสงสัยเรื่องอาการบาดเจ็บ) บุกขึ้นได้แข็งแกร่ง สมดุลดีทั้งสองด้าน เป็นแรงขับเคลื่อนสำคัญของการบุกชายขอบซ้ายโมร็อกโก |
+| DEF | #4 | Issa Diop | Fulham | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 3 | starter,league | false | กองหลังกลางของ Fulham ใน Premier League รับหน้าที่แทน Aguerd ที่บาดเจ็บ เก่งในการต่อสู้ทางอากาศ สไตล์การป้องกันที่แข็งแกร่งทางกายภาพ |
+| DEF | #5 | Chadi Riad | Real Betis | 🇪🇸 | 3 | starter,league | false | กองหลังกลางตัวหลักของ Real Betis ใน La Liga อายุน้อยและมีแววดี ครอบคลุมตำแหน่งได้ดีเยี่ยม เป็นดาวรุ่งในแนวรับ |
+| DEF | #3 | Achraf Hakimi | PSG | 🇫🇷 | 8 | starter,league | false | แบ็กขวาซูเปอร์สตาร์ PSG ความเร็วระเบิด มีบอลจากแนวกว้างระดับโลก เป็นผู้เล่นที่อันตรายที่สุดของโมร็อกโกในสนาม |
+| CM | #8 | Nabil El Aynaoui | Stade Rennais | 🇫🇷 | 5 | starter,league | false | กองกลาง Ligue 1 มีพื้นที่ป้องกันกว้าง ช่วยปกป้องแนวรับสี่คนด้วยสถิติการสกัดบอลที่ยอดเยี่ยม |
+| CM | #15 | Amine Bouaddi | Napoli | 🇮🇹 | 6 | starter,league | false | กองกลางหนุ่มของ Napoli ใน Serie A มีพรสวรรค์ด้านเทคนิค ควบคุมจังหวะได้ดีเยี่ยม เป็นพรสวรรค์รุ่นใหม่ในแดนกลางโมร็อกโก |
+| LW | #10 | Bilal El Khannouss | Leicester City | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 12 | starter,league | false | ตัวหลักของ Leicester City ใน Premier League จังหวะวิ่งบุกดีเยี่ยม เป็นผู้สร้างโอกาสบุกชายขอบซ้ายของโมร็อกโกที่สำคัญ |
+| AM | #17 | Azzedine Ounahi | Marseille | 🇫🇷 | 10 | starter,league | false | ตัวหลักของ Marseille ใน Ligue 1 ตำแหน่งกองกลางรุก เป็นดาวรุ่งที่โดดเด่นของฟุตบอลโลก 2022 เป็นภัยคุกคามด้วยการยิงระยะไกลและปานกลาง |
+| RW | #11 | Brahim Diaz | Real Madrid | 🇪🇸 | 18 | starter,league | false | ตัวหลักของ Real Madrid มีความสร้างสรรค์ระดับเอลิตใน La Liga เก่งตัดเข้าในกรอบเขตโทษ เป็นผู้เล่นที่มีชั้นนำดาวที่สุดของโมร็อกโก |
+| ST | #9 | Ilias Saibari | PSV Eindhoven | 🇳🇱 | 20 | starter,league | false | ผู้เล่นยอดเยี่ยมของ Eredivisie ฤดูกาลนี้กับ PSV ทำได้ 15 ประตู 8 แอสซิสต์ เป็นภัยคุกคามหลักในการทำประตูของโมร็อกโก |
+| FWD | สำรอง | Ayoub El Kaabi | Olympiacos | 🇬🇷 | 10 | squad | true | ดาวซัลโว Greek Super League ทำได้ 18 ประตูฤดูกาลนี้ แม่นยำเมื่อออกมาเป็นตัวสำรอง สามารถสร้างความเสียหายในช่วงเวลาสำคัญได้ |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -242,6 +285,18 @@ Tỷ lệ cược: Brazil thắng 1.57, hòa 4.20, Morocco thắng 5.50. Brazil 
 | 0-0 | Hòa | 6 | #6b7280 | | draw |
 | Khác | — | 6 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-1 🇧🇷 | บราซิลชนะ | 28 | #009C3B | โอกาสสูงสุด | home |
+| 2-0 🇧🇷 | บราซิลชนะ | 18 | #009C3B | อันดับสอง | home |
+| 1-0 🇧🇷 | บราซิลชนะ | 15 | #009C3B | | home |
+| 3-1 🇧🇷 | บราซิลชนะ | 12 | #009C3B | | home |
+| 1-1 | เสมอ | 10 | #6b7280 | | draw |
+| 0-1 🇲🇦 | โมร็อกโกชนะ | 5 | #C1272D | | away |
+| 0-0 | เสมอ | 6 | #6b7280 | | draw |
+| อื่นๆ | — | 6 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -273,6 +328,14 @@ Tỷ lệ cược: Brazil thắng 1.57, hòa 4.20, Morocco thắng 5.50. Brazil 
 | 🟡 | 3–4 | Dự đoán số thẻ vàng | Vinčić trung bình 4.1 thẻ vàng mỗi trận, mức độ rút thẻ từ trung bình đến nghiêm khắc. Morocco trung bình 14.2 lần phạm lỗi, dự kiến ít nhất 1–2 thẻ vàng. |
 | 🟥 | 0 | Dự đoán số thẻ đỏ | Vinčić chưa rút thẻ đỏ nào ở World Cup cho đến nay, trong bầu không khí vòng bảng cả hai đội sẽ kiềm chế, xác suất thẻ đỏ thấp. |
 | ⚠️ | 23–27 | Số lần phạm lỗi/trận của trọng tài | Vinčić trung bình 25.5 lần phạm lỗi mỗi trận, tranh chấp tuyến giữa quyết liệt nhưng sẽ không dễ dàng làm thay đổi cục diện trận đấu. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 7–9 | จำนวนเตะมุมที่ทำนาย | บราซิลเฉลี่ย 5.2 เตะมุมต่อเกม โมร็อกโกเฉลี่ย 6.0 ทั้งสองทีมมีความสามารถในการบุกชายขอบ ชี้ให้เห็นจำนวนเตะมุมที่ปานกลาง |
+| 🟡 | 3–4 | จำนวนใบเหลืองที่ทำนาย | Vinčić เฉลี่ย 4.1 ใบเหลืองต่อแมตช์ อยู่ในกลุ่มที่เข้มงวดปานกลาง โมร็อกโกเฉลี่ย 14.2 ฟาวล์ต่อเกม คาดว่าจะมีใบเหลืองอย่างน้อย 1–2 ใบ |
+| 🟥 | 0 | จำนวนใบแดงที่ทำนาย | Vinčić ยังไม่เคยให้ใบแดงในการทำหน้าที่ฟุตบอลโลก ทั้งสองทีมจะยับยั้งชั่งใจในบรรยากาศรอบแบ่งกลุ่ม ทำให้ใบแดงเป็นไปได้ยาก |
+| ⚠️ | 23–27 | ฟาวล์ของกรรมการ/นัด | Vinčić เฉลี่ย 25.5 ฟาวล์ต่อเกม การต่อสู้ในแดนกลางจะดุเดือด แต่เขามีแนวโน้มไม่ให้จำนวนใบต่างๆ ส่งผลต่อการไหลของเกม |
 
 ## referee:zh
 - icon: ⚖️
@@ -334,6 +397,21 @@ Tỷ lệ cược: Brazil thắng 1.57, hòa 4.20, Morocco thắng 5.50. Brazil 
 | Thẻ trung bình/trận | 4.1 | #60a5fa |
 | Phạm lỗi trung bình/trận | ~25.5 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Slavko Vinčić
+- country: 🇸🇮 สโลวีเนีย · UEFA Elite · FIFA นานาชาติ
+- note: หนึ่งในผู้ตัดสินที่น่าเชื่อถือที่สุดของยุโรป เขาทำหน้าที่ในรอบชิงชนะเลิศ UEFA Champions League 2024 (Real Madrid vs Dortmund) และรอบ 8 ทีมสุดท้ายของ UCL 2026 (Bayern vs Real Madrid) สไตล์การทำงานสงบนิ่งและยุติธรรม หลีกเลี่ยงการแทรกแซงที่ไม่จำเป็น แต่เด็ดขาดเมื่อต้องตัดสินใจให้ใบ จนถึงตอนนี้ยังไม่เคยให้ใบแดงในการทำหน้าที่ฟุตบอลโลก ซึ่งเป็นสัญญาณที่ดีสำหรับทั้งสองทีม
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 330+ | #F1F5F9 |
+| ใบเหลืองรวม | 1364 | #EAB308 |
+| ใบเหลือง-แดง | 33 | orange |
+| ใบแดงรวม | 34 | #EF4444 |
+| เฉลี่ยใบ/นัด | 4.1 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~25.5 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 1
@@ -361,6 +439,13 @@ Tỷ lệ cược: Brazil thắng 1.57, hòa 4.20, Morocco thắng 5.50. Brazil 
 - draws: 0
 - awayWins: 1
 - note: Hai đội từng gặp nhau hai lần, mỗi đội thắng một trận. Brazil đại thắng 3-0 tại World Cup 1998; Morocco ngược dòng thắng 2-1 trong trận giao hữu 2023. Trước trận, Brazil đã đánh bại Croatia, Panama và Ai Cập trong các trận giao hữu chuẩn bị; Morocco liên tục gặp chấn thương trong giai đoạn chuẩn bị và vừa thay huấn luyện viên trưởng.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 1
+- draws: 0
+- awayWins: 1
+- note: สองทีมเคยพบกันสองครั้งในประวัติศาสตร์ โดยแต่ละทีมชนะหนึ่งครั้ง บราซิลเอาชนะโมร็อกโก 3-0 ในฟุตบอลโลก 1998 ส่วนโมร็อกโกชนะในเกมกระชับมิตร 2-1 ในปี 2023 ในเกมอุ่นเครื่อง บราซิลเอาชนะโครเอเชีย ปานามา และอียิปต์ ขณะที่การเตรียมทีมของโมร็อกโกถูกขัดขวางด้วยอาการบาดเจ็บและการเปลี่ยนผู้จัดการทีม
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -394,6 +479,14 @@ Tỷ lệ cược: Brazil thắng 1.57, hòa 4.20, Morocco thắng 5.50. Brazil 
 | Bruno Guimarães | 🇧🇷 CM | Amine Bouaddi | 🇲🇦 CM | Trụ cột tuyến giữa Premier League vs tiền vệ trẻ Serie A, cuộc tranh giành kiểm soát tuyến giữa, Brazil có lợi thế áp đảo. |
 | Ilias Saibari | 🇲🇦 ST | Marquinhos | 🇧🇷 CB | Cầu thủ hay nhất Eredivisie vs trụ cột hàng thủ PSG, cặp đấu duy nhất Morocco có thể돌파 hàng thủ Brazil. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Vinícius Júnior | 🇧🇷 LW | Achraf Hakimi | 🇲🇦 RB | ซูเปอร์สตาร์ Real Madrid vs แบ็กขวาระดับโลกของ PSG การดวลชายขอบซ้ายเป็นจุดเด่นของเกม ทั้งคู่ระดับโลกจริงๆ และการต่อสู้นี้น่าจะเป็นตัวชี้ชะตาผลการแข่งขัน |
+| Raphinha | 🇧🇷 RW | Noussair Mazraoui | 🇲🇦 LB | ดาวซัลโว La Liga vs แบ็กซ้ายของ Manchester United จุดเจาะแนวรับชายขอบขวาของบราซิล โดยสภาพร่างกายของ Mazraoui เป็นตัวแปรสำคัญ |
+| Bruno Guimarães | 🇧🇷 CM | Amine Bouaddi | 🇲🇦 CM | เครื่องยนต์แดนกลาง Premier League vs พรสวรรค์หนุ่ม Serie A การต่อสู้เพื่อควบคุมแดนกลาง ซึ่งบราซิลมีความได้เปรียบอย่างท่วมท้น |
+| Ilias Saibari | 🇲🇦 ST | Marquinhos | 🇧🇷 CB | ผู้เล่นยอดเยี่ยมของ Eredivisie vs หัวใจแนวรับของ PSG คู่ต่อสู้เดียวที่โมร็อกโกมีโอกาสทะลวงแนวรับของบราซิล |
+
 ## summary_verdict:zh
 巴西在 Ancelotti 帶領下攻擊火力是本屆最強陣容之一，Vinícius Júnior 和 Raphinha 本季狀態均達到職業生涯巔峰。失去 Neymar 的首場固然有影響，但 Matheus Cunha 的靈活跑位加上雙翼的速度，對任何防線都是巨大威脅。中場 Casemiro + Bruno Guimarães 雙後腰保護力強，後防Marquinhos + Gabriel 亦屬頂級。
 
@@ -421,6 +514,13 @@ Dưới sự dẫn dắt của Ancelotti, sức tấn công của Brazil thuộc
 Morocco vẫn là đội bóng không thể xem thường, thành tích bất bại 29 trận sau 90 phút chứng tỏ tổ chức phòng thủ xuất sắc. Tuy nhiên việc thay huấn luyện viên, Aguerd vắng mặt và sự không chắc chắn trong giai đoạn thích nghi là những ẩn số đáng lo ngại. Về tấn công, những pha xâm nhập của Brahim Diaz và Hakimi là mối đe dọa chính, nhưng tạo ra cơ hội trước cặp tiền vệ phòng thủ của Brazil là điều cực kỳ khó khăn.
 
 Dự đoán: Brazil thắng 2-1. Tốc độ hai cánh của Brazil có lợi thế rõ ràng trước hàng thủ Morocco đã phần nào suy yếu, Vinícius hoặc Raphinha sẽ ghi ít nhất một bàn. Morocco nhờ sự kiên cường phòng thủ và khả năng dứt điểm của Saibari vẫn có cơ hội gỡ hòa một bàn, nhưng cuối cùng khó cản Brazil giành chiến thắng quan trọng đầu tiên.
+
+## summary_verdict:th
+ภายใต้การนำของ Ancelotti บราซิลมีแนวรุกที่ร้ายแรงที่สุดแห่งหนึ่งในทัวร์นาเมนต์นี้ โดย Vinícius Júnior และ Raphinha ต่างอยู่ในจุดสูงสุดของอาชีพในฤดูกาลนี้ การขาดหาย Neymar ในเกมเปิดสนามเป็นเรื่องที่กระทบ แต่การเคลื่อนไหวอย่างฉลาดของ Matheus Cunha รวมกับความเร็วของปีกทั้งสองสร้างภัยคุกคามมหาศาลต่อแนวรับใดก็ตาม ดับเบิ้ลพิฟอต Casemiro–Bruno Guimarães ให้การปกป้องที่ยอดเยี่ยม ขณะที่คู่กองหลังกลาง Marquinhos–Gabriel ก็อยู่ในระดับเอลิตเช่นกัน
+
+โมร็อกโกยังคงเป็นทีมที่น่าเกรงขามไม่ควรมองข้าม สถิติ 29 นัดไม่แพ้ใครในเวลา 90 นาทีเป็นเครื่องพิสูจน์การจัดการทีมรับที่ยอดเยี่ยม อย่างไรก็ตาม การเปลี่ยนผู้จัดการทีม การบาดเจ็บของ Aguerd และความไม่แน่นอนในช่วงการปรับตัวที่สั้น เป็นความกังวลที่แท้จริง ในเชิงรุก การวิ่งบุกของ Brahim Diaz และ Hakimi เป็นภัยคุกคามหลัก แต่การสร้างโอกาสที่ชัดเจนต่อดับเบิ้ลพิฟอตของบราซิลจะเป็นเรื่องยากมาก
+
+ทำนาย: บราซิลชนะ 2-1 ปีกของบราซิลมีความได้เปรียบชัดเจนต่อแนวรับโมร็อกโกที่อ่อนแอลงบ้าง โดยคาดว่า Vinícius หรือ Raphinha จะทำประตูได้ ความแข็งแกร่งในการป้องกันของโมร็อกโกและฝีมือทำประตูของ Saibari ให้โอกาสที่เป็นจริงในการตีตามได้หนึ่งลูก แต่ท้ายที่สุดพวกเขาไม่น่าจะสามารถป้องกันบราซิลจากการคว้าชัยชนะสำคัญในนัดเปิดสนามได้
 
 ## observations:zh
 | title | detail |
@@ -461,3 +561,13 @@ Dự đoán: Brazil thắng 2-1. Tốc độ hai cánh của Brazil có lợi th
 | 🛡️ Lỗ hổng khi Aguerd vắng mặt | Trung vệ tốt nhất Morocco vắng mặt vì chấn thương xương mu, cặp hàng thủ mới chưa từng cùng ra sân trong trận đấu chính thức lớn, đây là điểm yếu Brazil có thể khai thác. |
 | ⚡ Hakimi con dao hai lưỡi | Hậu vệ phải PSG có khả năng kiến tạo hàng đầu thế giới, nhưng khi dâng cao tấn công mạnh mẽ, khoảng trống phía sau lưng chính xác là điểm yêu thích돌파 của Vinícius. |
 | 🏆 Cục diện ra sân bảng C | Trận còn lại của bảng C là Scotland vs Haiti, đội thắng trận này gần như chắc chắn vào vòng trong, cả hai đội đều hiểu rõ tầm quan trọng của trận đấu này. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| ⭐ Vinícius กำหนดทิศทางเกม | 16 ประตูใน La Liga ฤดูกาลนี้ ความเร็วและเทคนิคอยู่ในจุดสูงสุดของอาชีพ ทำให้เขาเป็นผู้เล่นที่อันตรายที่สุดในสนามและสามารถฉีกแนวรับโมร็อกโกออกได้คนเดียว |
+| 🤕 ผลกระทบจากการขาดหายของ Neymar | ดาวนำทีมของบราซิลพลาดนัดเปิดสนามเพราะบาดเจ็บ ทำให้ Ancelotti ต้องปรับโครงสร้างการรุกใหม่ แม้ว่าตัวสำรองยังคงมีความสามารถสูงมาก |
+| 🦁 การพนันด้านผู้จัดการทีมของโมร็อกโก | การจากไปของ Regragui และการแต่งตั้ง Ouahbi ทำให้มีเวลาปรับตัวน้อยมาก และความไม่แน่นอนในการปฏิบัติทางยุทธวิธียังคงเป็นความกังวลที่แท้จริง |
+| 🛡️ การขาดหายของ Aguerd สร้างจุดอ่อน | กองหลังกลางที่ดีที่สุดของโมร็อกโกต้องพักรักษาตัวด้วยโรคกระดูกหัวหน่าวอักเสบ คู่กองหลังกลางที่มาแทนไม่เคยลงสนามด้วยกันในทัวร์นาเมนต์รายการใหญ่ ซึ่งเป็นจุดอ่อนที่บราซิลสามารถใช้ประโยชน์ได้ |
+| ⚡ ดาบสองคมของ Hakimi | การวิ่งทับเส้นของแบ็กขวา PSG นั้นยอดเยี่ยมในการบุก แต่พื้นที่ที่เหลือทิ้งไว้เมื่อเขาบุกขึ้นนั้นเป็นพื้นที่ที่ Vinícius ชื่นชอบในการใช้งาน |
+| 🏆 ภาพรวมการเข้ารอบกลุ่ม C | แมตช์อื่นในกลุ่ม C คือสกอตแลนด์ vs เฮติ ทีมที่ชนะที่นี่แทบจะการันตีการผ่านเข้ารอบได้แน่นอน และทั้งสองทีมต่างตระหนักดีถึงความสำคัญของเดิมพันนี้ |

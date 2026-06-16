@@ -34,6 +34,9 @@ Portugal are appearing in the World Cup for the ninth time, currently ranked six
 ## home_note:vi
 Bồ Đào Nha tham dự World Cup lần thứ chín, xếp hạng FIFA thứ sáu và là đương kim vô địch UEFA Nations League. HLV Roberto Martínez sử dụng sơ đồ 4-3-3, do đội trưởng 41 tuổi Ronaldo dẫn dắt — lần tham dự World Cup thứ sáu chưa từng có tiền lệ, được xem là chuyến giã từ đội tuyển quốc gia. Bộ ba tiền vệ Vitinha, João Neves, Bruno Fernandes có chất lượng cực cao, hai cánh là Leão và Pedro Neto. Chiều sâu đội hình thuộc hàng tốt nhất toàn giải; phong độ trước giải gồm thắng Armenia 9-1, thắng Mỹ 2-0, hỏa lực mạnh mẽ.
 
+## home_note:th
+โปรตุเกสเข้าร่วมฟุตบอลโลกเป็นครั้งที่เก้า อยู่อันดับหกของ FIFA และเป็นแชมป์ UEFA Nations League ที่ครองตำแหน่งอยู่ โค้ช Roberto Martínez ใช้รูปแบบ 4-3-3 นำโดยกัปตัน Cristiano Ronaldo วัย 41 ปี — เข้าร่วมฟุตบอลโลกครั้งที่หกซึ่งไม่เคยมีมาก่อน และถูกมองว่าเป็นการอำลาทีมชาติ แนวกลางสามคน Vitinha, João Neves และ Bruno Fernandes มีคุณภาพยอดเยี่ยม ส่วนแนวปีกมี Leão และ Pedro Neto ความลึกของทีมอยู่ในระดับดีที่สุดในทัวร์นาเมนต์ ฟอร์มก่อนการแข่งขันรวมถึงชนะอาร์เมเนีย 9-1 และชนะสหรัฐอเมริกา 2-0 แสดงถึงพลังการทำประตูที่น่าเกรงขาม
+
 ## away_note:zh
 剛果民主共和國睽違 52 年（1974 年以薩伊之名後）重返世界盃，透過 CAF 資格賽附加賽淘汰賽擊敗奈及利亞、洲際附加賽加時擊敗牙買加才驚險晉級。主帥 Desabre 倚重英超班底後防：隊長 Mbemba（里爾）、Wan-Bissaka（西漢姆）。前鋒 Wissa（紐卡素）與 35 歲老將 Bakambu 領銜，組織紀律性強，主打防守反擊。FIFA 排名第 62。
 
@@ -46,6 +49,9 @@ DR Congo return to the World Cup for the first time in 52 years (since 1974 unde
 ## away_note:vi
 Cộng hòa Dân chủ Congo trở lại World Cup lần đầu sau 52 năm (từ 1974 dưới tên Zaire), phải vượt qua hành trình vòng loại cực kỳ gian nan — loại Nigeria qua vòng play-off CAF, rồi hạ Jamaica sau hiệp phụ ở liên lục địa play-off. HLV Desabre dựa vào lực lượng hậu vệ có kinh nghiệm Premier League: đội trưởng Mbemba (Lille) và Wan-Bissaka (West Ham). Hàng công do Wissa (Newcastle) và lão tướng Bakambu dẫn đầu, chiến thuật kỷ luật chú trọng phòng ngự phản công. Xếp hạng FIFA thứ 62.
 
+## away_note:th
+สาธารณรัฐประชาธิปไตยคองโกกลับสู่ฟุตบอลโลกเป็นครั้งแรกในรอบ 52 ปี (นับตั้งแต่ปี 1974 ในชื่อ Zaire) โดยต้องฝ่าฟันการแข่งขันรอบคัดเลือกที่ยากเย็นอย่างยิ่ง — เอาชนะไนจีเรียในรอบ play-off CAF จากนั้นเอาชนะจาเมกาหลังต่อเวลาพิเศษในรอบ play-off ระหว่างสมาพันธ์ โค้ช Desabre สร้างแนวรับรอบแกนกลางที่มีประสบการณ์ Premier League ได้แก่กัปตัน Mbemba (Lille) และ Wan-Bissaka (West Ham) แนวหน้านำโดย Wissa (Newcastle) และนักเตะเวเทอรัน Bakambu ทีมมีวินัยทางยุทธวิธีและมุ่งเน้นฟุตบอลตีโต้กลับ อันดับ FIFA: 62
+
 ## odds_note:zh
 賠率顯示：葡萄牙勝 1.29、平局 5.75、剛果民主勝 10.00。葡萄牙是壓倒性大熱門，剛果民主則為大冷門。但剛果防守紀律佳，葡萄牙開幕戰常有慢熱問題，爆冷或低比分並非不可能。
 
@@ -57,6 +63,9 @@ Current odds: Portugal win 1.29, Draw 5.75, DR Congo win 10.00. Portugal are the
 
 ## odds_note:vi
 Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo thắng 10.00. Bồ Đào Nha là cửa trên tuyệt đối, Congo là cửa dưới nặng. Tuy nhiên, Congo có kỷ luật phòng thủ tốt, và Bồ Đào Nha từng có vấn đề khởi động chậm ở trận mở màn — một kết quả bất ngờ hay tỷ số thấp không phải là không thể.
+
+## odds_note:th
+ราคาต่อรองปัจจุบัน: โปรตุเกสชนะ 1.29, เสมอ 5.75, สาธารณรัฐประชาธิปไตยคองโกชนะ 10.00 โปรตุเกสเป็นเต็งหนักแบบท่วมท้น ขณะที่สาธารณรัฐประชาธิปไตยคองโกเป็นม้านอกสายตา อย่างไรก็ตาม สาธารณรัฐประชาธิปไตยคองโกมีวินัยในการป้องกัน และโปรตุเกสมีประวัติการสตาร์ทช้าในแมตช์เปิดสนาม — ผลพลิกแผนหรือสกอร์ต่ำนั้นไม่ใช่สิ่งที่เป็นไปไม่ได้
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo th
 | LW | #10 | Rafael Leão | AC Milan | 🇮🇹 | 16 | starter,league | false | Ngôi sao cánh trái AC Milan — tốc độ và sức bùng phát đáng kinh ngạc, sát thương lớn trong tình huống 1v1, vũ khí lợi hại cánh trái của Bồ Đào Nha. |
 | FWD | Dự bị | Gonçalo Ramos | PSG | 🇫🇷 | 12 | league,squad | true | Tiền đạo PSG, khả năng dứt điểm cao, từng ghi hat-trick ở World Cup — sức công phá cực mạnh từ ghế dự bị. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Diogo Costa | FC Porto | 🇵🇹 | 1 | starter,team | false | ผู้รักษาประตูของ Porto ใน Primeira Liga อายุ 26 ปีเป็นระดับโลกแล้ว — รีเฟล็กซ์คมและบัญชาการพื้นที่ได้ดี เป็นผู้รักษาประตูหมายเลข 1 ที่เชื่อถือได้ของโปรตุเกส |
+| DEF | #2 | Diogo Dalot | Manchester United | 🇬🇧 | 3 | starter,league | false | แบ็กขวาตัวเลือกแรกของ Manchester United แข็งแกร่งทั้งรับและรุก มีการทะลุขึ้นไปช่วยเหลือที่กระตือรือร้นมาก |
+| DEF | #3 | Rúben Dias | Manchester City | 🇬🇧 | 4 | starter,league | false | ผู้นำแนวรับของ Manchester City เป็นหนึ่งในเซ็นเตอร์แบ็กที่ดีที่สุดในโลก — สั่งการแนวรับด้วยความสามารถในการแย่งบอลทางอากาศและการดวลกายที่โดดเด่น |
+| DEF | #5 | Gonçalo Inácio | Sporting CP | 🇵🇹 | 4 | starter,league | false | เซ็นเตอร์แบ็กถนัดเท้าซ้ายของ Sporting มีเทคนิคและการจ่ายบอลที่ยอดเยี่ยม — เสาหลักทางเทคนิคของแนวรับโปรตุเกส |
+| DEF | #20 | Nuno Mendes | PSG | 🇫🇷 | 3 | starter,league | false | แบ็กซ้ายตัวหลักของ PSG ความเร็วระเบิด โดดเด่นทั้งสองด้าน — เป็นหนึ่งในแบ็กซ้ายที่ดีที่สุดในโลก |
+| CM | #8 | Bruno Fernandes | Manchester United | 🇬🇧 | 14 | starter,league,team | false | หัวใจสร้างสรรค์ของ Manchester United — ความคิดสร้างสรรค์และการยิงจากกลางสนามยอดเยี่ยม เป็นภัยคุกคามหลักจากลูกตายและระยะไกล |
+| CM | #6 | Vitinha | PSG | 🇫🇷 | 8 | starter,league | false | เครื่องยนต์กลางสนามของทีม PSG แชมป์สามรายการ เชี่ยวชาญการควบคุมจังหวะและบอล — แกนหลัก Champions League 2025 สมองของทั้งทีม |
+| CM | #18 | João Neves | PSG | 🇫🇷 | 7 | starter,league | false | มิดฟิลด์ตัวรับเด็กของ PSG ครอบคลุมพื้นที่ได้ดี แข็งแกร่งทั้งการยึดบอลและการทะลุไปข้างหน้า — มิดฟิลด์รุ่นใหม่ระดับสูงสุด |
+| RW | #17 | Pedro Neto | Chelsea | 🇬🇧 | 9 | starter,league | false | แนวปีกของ Chelsea — ความเร็วแบบกระชาก การเลี้ยงหลบคมชัด จุดปล่อยการโจมตีแนวปีกขวา |
+| ST | #7 | Cristiano Ronaldo | Al Nassr | 🇸🇦 | 22 | starter,team | false | กัปตันตำนานวัย 41 ปี เจ้าของสถิติประตูระดับนานาชาติตลอดกาล (143 ประตู) ในฟุตบอลโลกครั้งที่หก — นักทำประตูที่อันตรายในกรอบเขตโทษ |
+| LW | #10 | Rafael Leão | AC Milan | 🇮🇹 | 16 | starter,league | false | ดาวแนวปีกซ้ายของ AC Milan — ความเร็วและพลังระเบิดที่น่าทึ่ง อันตรายในสถานการณ์ 1v1 อาวุธทรงพลังแนวซ้ายของโปรตุเกส |
+| FWD | สำรอง | Gonçalo Ramos | PSG | 🇫🇷 | 12 | league,squad | true | กองหน้าของ PSG จบงานได้คมในแนวโกล เคยทำแฮตทริกในฟุตบอลโลก — ผลกระทบที่ยอดเยี่ยมในฐานะซุปเปอร์ซับ |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo th
 | LW | #10 | Yoane Wissa | Newcastle United | 🇬🇧 | 14 | starter,league,team | false | Tiền đạo Newcastle, cầu thủ Congo đầu tiên ghi 20 bàn trong một mùa giải — tốc độ và khả năng dứt điểm đều xuất sắc, tiền đạo nguy hiểm nhất. |
 | FWD | Dự bị | Fiston Mayele | Pyramids | 🇪🇬 | 8 | squad | true | Tiền đạo ghi bàn tại giải Ai Cập, nổi bật ở CAF Champions League — sức công phá mạnh từ ghế dự bị. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Lionel Mpasi | Le Havre | 🇫🇷 | 1 | starter,team | false | ผู้รักษาประตูใน Ligue 1 รีเฟล็กซ์เชื่อถือได้ — แนวป้องกันสุดท้ายของสาธารณรัฐประชาธิปไตยคองโก |
+| DEF | #2 | Aaron Wan-Bissaka | West Ham United | 🇬🇧 | 3 | starter,league | false | แบ็กขวาของ West Ham เดิมเป็นนักเตะทีมชาติอังกฤษรุ่นเยาว์ก่อนเปลี่ยนมาเล่นให้สาธารณรัฐประชาธิปไตยคองโก — โดดเด่นในการดวลรับและการสไลด์ |
+| DEF | #4 | Chancel Mbemba | Lille | 🇫🇷 | 4 | starter,league,team | false | กัปตัน เซ็นเตอร์แบ็กของ Lille ผู้ถือสถิติลงสนามให้ทีมชาติตลอดกาล (107 นัด) — ผู้นำแนวรับ |
+| DEF | #5 | Axel Tuanzebe | Burnley | 🇬🇧 | 3 | starter,league | false | อดีตเซ็นเตอร์แบ็ก Manchester United ที่เปลี่ยนมาเล่นให้สาธารณรัฐประชาธิปไตยคองโก — มีประสบการณ์และเชื่อถือได้ทางด้านรับ |
+| DEF | #3 | Arthur Masuaku | Racing Lens | 🇫🇷 | 2 | starter,league | false | แบ็กซ้ายของ Lens ใน Ligue 1 — สมดุลทั้งรุกและรับ ครอบคลุมแนวปีกซ้ายในทั้งสองทิศทาง |
+| DM | #6 | Samuel Moutoussamy | Atromitos | 🇬🇷 | 4 | starter | false | มิดฟิลด์ตัวรับที่ครอบคลุมพื้นที่ได้ดีเยี่ยม — ปกป้องแนวรับ เป็นแหล่งความแข็งแกร่งทางกายภาพในกลางสนาม |
+| CM | #8 | Noah Sadiki | Sunderland | 🇬🇧 | 6 | starter,league | false | มิดฟิลด์หนุ่มของ Sunderland — พลังงานสูง กระตือรือร้นในการกดดันและทะลุไปข้างหน้า เป็นพรสวรรค์รุ่นใหม่ที่น่าจับตามอง |
+| CM | #15 | Ngal'ayel Mukau | Lille | 🇫🇷 | 7 | starter,league | false | มิดฟิลด์ Lille — เก่งในการจัดระเบียบและดันบอลไปข้างหน้า เป็นแหล่งสร้างสรรค์ในกลางสนามของสาธารณรัฐประชาธิปไตยคองโก |
+| RW | #11 | Théo Bongonda | Spartak Moscow | 🇷🇺 | 9 | starter | false | แนวปีกขวาที่ใช้ความเร็วและการเลี้ยงหลบที่คมชัด — อาวุธสำคัญในการโจมตีตีโต้กลับของสาธารณรัฐประชาธิปไตยคองโก |
+| ST | #9 | Cédric Bakambu | Real Betis | 🇪🇸 | 12 | starter,team | false | กองหน้าเวเทอรัน อายุ 35 ปี ห่างจากสถิติประตูของทีมชาติเพียงหนึ่งลูก — ประสบการณ์แมตช์ใหญ่มากมาย สัญชาตญาณทำประตูในกรอบเขตโทษเฉียบแหลม |
+| LW | #10 | Yoane Wissa | Newcastle United | 🇬🇧 | 14 | starter,league,team | false | กองหน้าของ Newcastle นักเตะคองโกคนแรกที่ทำประตูได้ 20 ลูกในหนึ่งฤดูกาล — ความเร็วและการจบสกอร์ยอดเยี่ยม นักโจมตีที่อันตรายที่สุด |
+| FWD | สำรอง | Fiston Mayele | Pyramids | 🇪🇬 | 8 | squad | true | นักทำประตูในลีกอียิปต์ โดดเด่นใน CAF Champions League — ผลกระทบที่แข็งแกร่งเมื่อออกมาจากม้านั่งสำรอง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge |
 |-------|--------|------|-------|-------|
@@ -234,6 +275,18 @@ Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo th
 | 0-0 | Hòa | 5 | #6b7280 | |
 | Khác | — | 15 | #94a3b8 | |
 
+## score_predictions:th
+| score | result | prob | color | badge |
+|-------|--------|------|-------|-------|
+| 2-0 🇵🇹 | โปรตุเกสชนะ | 19 | #F97316 | โอกาสสูงสุด |
+| 1-0 🇵🇹 | โปรตุเกสชนะ | 16 | #F97316 | อันดับสอง |
+| 3-0 🇵🇹 | โปรตุเกสชนะ | 13 | #F97316 | |
+| 2-1 🇵🇹 | โปรตุเกสชนะ | 13 | #F97316 | |
+| 3-1 🇵🇹 | โปรตุเกสชนะ | 10 | #F97316 | |
+| 1-1 | เสมอ | 9 | #6b7280 | |
+| 0-0 | เสมอ | 5 | #6b7280 | |
+| อื่นๆ | — | 15 | #94a3b8 | |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo th
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Congo chơi thể lực và tần suất phạm lỗi chiến thuật cao sẽ tích lũy thẻ vàng; Bồ Đào Nha khi dẫn bàn sẽ giảm đối kháng. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Xác suất thẻ đỏ thấp trong điều kiện bình thường, nhưng Congo có nguy cơ phạm lỗi tích lũy nếu bị dẫn bàn và phải đuổi điểm. |
 | ⚠️ | 20–24 | Dự đoán số lần phạm lỗi/trận | Congo sẽ dùng phạm lỗi chiến thuật có kỷ luật để phá vỡ nhịp điệu Bồ Đào Nha, giữ tổng số lần phạm lỗi ở mức trung bình đến cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–12 | จำนวนเตะมุมที่คาดการณ์ | การครองบอลที่โดดเด่นและการกดดันแนวปีกของโปรตุเกสจะสร้างเตะมุมจำนวนมาก แนวรับที่หดลึกของสาธารณรัฐประชาธิปไตยคองโกจะมอบโอกาสลูกตายจำนวนมากให้โปรตุเกส |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | ความแข็งกร้าวในการรับและความถี่ของการฟาวล์ทางยุทธวิธีของสาธารณรัฐประชาธิปไตยคองโกจะสะสมใบเหลือง โปรตุเกสมีแนวโน้มลดการเผชิญหน้าเมื่อนำอยู่ |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | ความน่าจะเป็นของใบแดงต่ำในสถานการณ์ปกติ แต่สาธารณรัฐประชาธิปไตยคองโกเสี่ยงที่จะสะสมฟาวล์หากตามหลังและต้องไล่ตาม |
+| ⚠️ | 20–24 | จำนวนฟาวล์/แมตช์ที่คาดการณ์ | สาธารณรัฐประชาธิปไตยคองโกจะใช้การฟาวล์ทางยุทธวิธีที่มีวินัยเพื่อรบกวนจังหวะของโปรตุเกส ทำให้จำนวนฟาวล์รวมอยู่ในระดับปานกลางถึงสูง |
 
 ## referee:zh
 - icon: ⚖️
@@ -318,6 +379,19 @@ Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo th
 | TB thẻ đỏ/trận (vòng bảng) | ~0.3 | #EF4444 |
 | TB số lần phạm lỗi/trận | ~22 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: รอ FIFA ประกาศ
+- country: FIFA นานาชาติ
+- note: กรรมการสำหรับแมตช์รอบแบ่งกลุ่มนี้มักถูก FIFA ประกาศ 1–2 วันก่อนเริ่มเตะ — ยังไม่มีการแต่งตั้งในขณะนี้ FIFA 2026 ได้คัดเลือกกรรมการหลักรวมทั้งสิ้น 52 คนสำหรับการแข่งขัน เกณฑ์การใช้ใบจะได้รับการยืนยันเมื่อมีการประกาศ ตัวเลขด้านล่างอ้างอิงจากค่าเฉลี่ยรอบแบ่งกลุ่ม
+
+| stat | value | color |
+|------|-------|-------|
+| จำนวนกรรมการทั้งหมดในทัวร์นาเมนต์ | 52 | #F1F5F9 |
+| เฉลี่ยใบเหลือง/นัด (รอบแบ่งกลุ่ม) | ~3.5 | #EAB308 |
+| เฉลี่ยใบแดง/นัด (รอบแบ่งกลุ่ม) | ~0.3 | #EF4444 |
+| เฉลี่ยฟาวล์/นัด | ~22 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄（首次正式比賽）
 - homeWins: 0
@@ -345,6 +419,13 @@ Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo th
 - draws: 0
 - awayWins: 0
 - note: Đây là lần đầu tiên hai đội gặp nhau trong trận đấu chính thức — không có thành tích lịch sử để tham chiếu. Các trận chuẩn bị của Bồ Đào Nha gồm thắng Armenia 9-1, thắng Mỹ 2-0 và hòa Mexico 0-0; Congo phải vượt qua ba vòng play-off (loại Nigeria và thắng Jamaica sau hiệp phụ) mới giành vé dự giải, đến nơi với phong độ và tinh thần đều ở mức cao.
+
+## h2h:th
+- title: สถิติพบกัน (นัดทางการครั้งแรก)
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: นี่คือการพบกันทางการครั้งแรกระหว่างสองทีม — ไม่มีสถิติในอดีตให้อ้างอิง การวอร์มอัพก่อนทัวร์นาเมนต์ของโปรตุเกสรวมถึงชนะอาร์เมเนีย 9-1 ชนะสหรัฐอเมริกา 2-0 และเสมอเม็กซิโก 0-0 ส่วนสาธารณรัฐประชาธิปไตยคองโกผ่านสามรอบ play-off (เอาชนะไนจีเรียและชนะจาเมกาหลังต่อเวลาพิเศษ) เพื่อผ่านเข้ารอบ มาถึงพร้อมกับโมเมนตัมและความมั่นใจที่สมบูรณ์
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -378,6 +459,14 @@ Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo th
 | Yoane Wissa | 🇨🇩 LW | Diogo Dalot | 🇵🇹 RB | Tiền đạo Newcastle vs. hậu vệ phải Man United — mối đe dọa phản công lớn nhất của Congo đến từ tốc độ của Wissa. |
 | Cristiano Ronaldo | 🇵🇹 ST | Axel Tuanzebe | 🇨🇩 CB | Huyền thoại 41 tuổi vs. cựu trung vệ Man United — các tình huống cố định và dứt điểm trong vòng cấm là chìa khóa phá vỡ hàng thủ co cụm của Congo. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Rafael Leão | 🇵🇹 LW | Aaron Wan-Bissaka | 🇨🇩 RB | แนวปีกความเร็วสูงของ Milan กับแบ็กขวาที่เน้นรับของ West Ham — การทะลุแนวปีกซ้ายของโปรตุเกสปะทะนักเตะฝ่ายรับที่เชื่อถือได้ที่สุดของสาธารณรัฐประชาธิปไตยคองโก |
+| Bruno Fernandes | 🇵🇹 CM | Chancel Mbemba | 🇨🇩 CB | แกนหลักสร้างสรรค์ของ Manchester United กับกัปตันและเซ็นเตอร์แบ็กของสาธารณรัฐประชาธิปไตยคองโก — การผ่านทะลุและการยิงระยะไกลของ Fernandes จะทดสอบแนวรับที่ Mbemba เป็นผู้บัญชาการ |
+| Yoane Wissa | 🇨🇩 LW | Diogo Dalot | 🇵🇹 RB | กองหน้าของ Newcastle กับแบ็กขวาของ Manchester United — ภัยคุกคามตีโต้กลับที่ใหญ่ที่สุดของสาธารณรัฐประชาธิปไตยคองโกผ่านความเร็วของ Wissa |
+| Cristiano Ronaldo | 🇵🇹 ST | Axel Tuanzebe | 🇨🇩 CB | ตำนานวัย 41 ปีกับอดีตเซ็นเตอร์แบ็ก Manchester United — ลูกตายและการจบสกอร์ในกรอบเขตโทษคือกุญแจสำคัญในการเปิดแนวรับที่แน่นหนาของสาธารณรัฐประชาธิปไตยคองโก |
+
 ## summary_verdict:zh
 葡萄牙陣容深度與個人質量遠勝對手，中場 Vitinha、João Neves、Bruno Fernandes 控制力頂級，邊路 Leão、Pedro Neto 速度可撕裂剛果防線，加上 C 羅禁區嗅覺，破門手段豐富。FIFA 排名第六、衛冕歐國聯冠軍，賽前火力旺盛。
 
@@ -405,6 +494,13 @@ Chiều sâu đội hình và chất lượng cá nhân của Bồ Đào Nha vư
 Congo có kỷ luật phòng ngự tốt, với Wan-Bissaka, Mbemba và Tuanzebe đều có kinh nghiệm Premier League — kế hoạch của họ là co cụm và phản công, với tốc độ của Wissa là vũ khí duy nhất có thể đe dọa Bồ Đào Nha. Nhưng khoảng cách chất lượng quá lớn, và sau hành trình play-off gian khổ, họ sẽ rất khó cạnh tranh trực diện với Bồ Đào Nha.
 
 Dự đoán: Bồ Đào Nha thắng 2-0. Bồ Đào Nha kiểm soát bóng và dùng chất lượng cá nhân cùng bóng chết phá vỡ hàng thủ co cụm của Congo. Congo sẽ khó tạo ra nhiều cơ hội thực sự nguy hiểm. Bồ Đào Nha thường khởi đầu chậm ở trận mở màn nên không dự đoán tỷ số huỷ diệt, nhưng kết quả thắng thua không còn nhiều nghi ngờ.
+
+## summary_verdict:th
+ความลึกของทีมและคุณภาพส่วนบุคคลของโปรตุเกสเหนือกว่าคู่ต่อสู้อย่างครอบคลุม แนวกลางสามคน Vitinha, João Neves และ Bruno Fernandes มอบการควบคุมระดับสูงสุด Leão และ Pedro Neto บนแนวปีกมีความเร็วพอที่จะฉีกแนวรับของสาธารณรัฐประชาธิปไตยคองโก และสัญชาตญาณของ Ronaldo ในกรอบเขตโทษเพิ่มมิติอีกชั้นหนึ่งให้กับหลากหลายวิธีการทำประตูของโปรตุเกส อยู่อันดับหกของโลกและเป็นแชมป์ Nations League ที่ครองตำแหน่งอยู่ โปรตุเกสมาถึงในฟอร์มสูงสุด
+
+สาธารณรัฐประชาธิปไตยคองโกมีวินัยทางด้านรับที่ดี โดย Wan-Bissaka, Mbemba และ Tuanzebe ล้วนมีประสบการณ์ Premier League — แผนการของพวกเขาคือนั่งหดลึกและตีโต้กลับ โดยมีความเร็วของ Wissa เป็นอาวุธเพียงหนึ่งเดียวที่สามารถคุกคามโปรตุเกส แต่ช่องว่างของคุณภาพนั้นมีนัยสำคัญ และหลังจากผ่านการแข่งขัน play-off ที่หนักหน่วง พวกเขาจะพบว่ายากเป็นอย่างมากที่จะแข่งขันแบบตรงๆ กับโปรตุเกส
+
+การทำนาย: โปรตุเกส 2-0 โปรตุเกสควบคุมบอลและใช้คุณภาพส่วนบุคคลและลูกตายเพื่อทะลุผ่านแนวรับที่มีระเบียบของสาธารณรัฐประชาธิปไตยคองโก สาธารณรัฐประชาธิปไตยคองโกจะประสบปัญหาในการสร้างโอกาสจริงหลายครั้ง โปรตุเกสมีแนวโน้มที่จะสตาร์ทช้าในแมตช์เปิดสนาม ดังนั้นจึงไม่คาดการณ์สกอร์ที่หนักมาก — แต่ผลลัพธ์นั้นไม่มีข้อสงสัย
 
 ## observations:zh
 | title | detail |
@@ -445,3 +541,13 @@ Dự đoán: Bồ Đào Nha thắng 2-0. Bồ Đào Nha kiểm soát bóng và d
 | ⚡ Mối đe dọa phản công của Wissa | Cầu thủ Congo đầu tiên ghi 20 bàn trong một mùa giải — tiền đạo tốc độ này là điểm tấn công duy nhất có thể đe dọa Bồ Đào Nha. |
 | 🛡️ Hàng thủ kinh nghiệm Premier League | Wan-Bissaka, Mbemba và Tuanzebe của Congo đều có kinh nghiệm Premier League — kỷ luật phòng thủ là con bài mạnh nhất của họ. |
 | 🏆 Cục diện ra sân bảng K | Bồ Đào Nha và Colombia đang cạnh tranh vị trí đầu bảng — thắng Congo ở trận mở màn là bước quan trọng đầu tiên để giành lợi thế ra sân. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🐐 การเต้นอำลาของ Ronaldo | อายุ 41 ปี ฟุตบอลโลกครั้งที่หก — มากที่สุดในประวัติศาสตร์ ถูกมองว่าเป็นการอำลาทีมชาติ ปรารถนาถ้วยรางวัลเดียวที่ยังขาดอยู่ |
+| 💎 แกนกลางกลางสนาม PSG | Vitinha + João Neves จากทีม PSG แชมป์สามรายการ — การควบคุมกลางสนามที่พวกเขามอบให้อยู่ในระดับดีที่สุดในทัวร์นาเมนต์ทั้งหมดนี้ |
+| 🐆 การรอคอย 52 ปีของสาธารณรัฐประชาธิปไตยคองโก | ฟุตบอลโลกครั้งแรกนับตั้งแต่ปี 1974 ในชื่อ Zaire — เอาชนะไนจีเรียและจาเมกาผ่านรอบ play-off มาถึงพร้อมความมุ่งมั่นอย่างแรงกล้า |
+| ⚡ ภัยคุกคามตีโต้กลับของ Wissa | นักเตะคองโกคนแรกที่ทำประตูได้ 20 ลูกในหนึ่งฤดูกาล — กองหน้าที่ใช้ความเร็วคนนี้เป็นช่องทางโจมตีเพียงหนึ่งเดียวที่สามารถคุกคามโปรตุเกส |
+| 🛡️ แนวรับที่มีประสบการณ์ Premier League | Wan-Bissaka, Mbemba และ Tuanzebe ของสาธารณรัฐประชาธิปไตยคองโกล้วนมีประสบการณ์ Premier League — วินัยในการป้องกันคือไพ่เด็ดที่สุดของพวกเขา |
+| 🏆 ภาพผ่านเข้ารอบกลุ่ม K | โปรตุเกสและโคลอมเบียกำลังแข่งขันเพื่ออันดับหนึ่งของกลุ่ม — ชนะสาธารณรัฐประชาธิปไตยคองโกในแมตช์เปิดสนามคือก้าวสำคัญแรกในการคว้าโมเมนตัมผ่านเข้ารอบ |

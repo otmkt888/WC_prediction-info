@@ -34,6 +34,9 @@ Iraq returns to the World Cup for the first time in 40 years (since 1986), havin
 ## home_note:vi
 Iraq trở lại World Cup sau 40 năm vắng mặt (kể từ 1986), vượt qua vòng play-off liên lục địa với chiến thắng 2-1 trước Bolivia trong kịch tính, cả nước hân hoan. Graham Arnold sử dụng sơ đồ 4-2-3-1, tổ chức chặt chẽ, phòng thủ vững chắc, chơi theo lối phản công. Thủ môn kiêm đội trưởng 35 tuổi Jalal Hassan trấn giữ khung thành, tiền vệ Zidane Iqbal (cựu Manchester United) và Amir Al-Ammari là cốt lõi kỹ thuật, tuyến tấn công dựa vào Aymen Hussein và Ali Al-Hamadi.
 
+## home_note:th
+อิรักกลับสู่ฟุตบอลโลกอีกครั้งหลังห่างหายไป 40 ปี (นับตั้งแต่ปี 1986) โดยผ่านเข้ารอบอย่างหวุดหวิดจากเพลย์ออฟระหว่างทวีปด้วยการเอาชนะโบลิเวีย 2-1 จนทั่วประเทศเกิดความปลาบปลื้มยินดี Graham Arnold วางระบบ 4-2-3-1 ที่มีระเบียบวินัย ป้องกันมั่นคง และมุ่งเน้นการโต้กลับ Jalal Hassan ผู้รักษาประตูและกัปตันทีมวัย 35 ปีคุมเส้น โดยมี Zidane Iqbal (อดีตแมนเชสเตอร์ยูไนเต็ด) และ Amir Al-Ammari เป็นแกนกลางด้านเทคนิค ส่วนแนวรุกพึ่งพา Aymen Hussein และ Ali Al-Hamadi
+
 ## away_note:zh
 挪威時隔 28 年重返世界盃，由「進球機器」Erling Haaland 領銜。資格賽力壓義大利出線，Haaland 8 場狂轟 16 球冠絕歐洲。4-3-3 由隊長 Ødegaard（阿森納）指揮中場，鋒線除 Haaland 外尚有 Sørloth（馬競 13 球）與 Nusa。整體攻守均衡、功能性極強，遠不止靠 Haaland 一人。
 
@@ -46,6 +49,9 @@ Norway returns to the World Cup after a 28-year absence, led by "goal machine" E
 ## away_note:vi
 Na Uy trở lại World Cup sau 28 năm vắng bóng, được dẫn dắt bởi "cỗ máy ghi bàn" Erling Haaland. Vượt qua vòng loại khi đánh bại Italy, Haaland ghi 16 bàn trong 8 trận, dẫn đầu châu Âu. Sơ đồ 4-3-3 do đội trưởng Ødegaard (Arsenal) điều phối tuyến giữa, ngoài Haaland còn có Sørloth (Atletico Madrid 13 bàn) và Nusa. Tổng thể công thủ cân bằng, chức năng cực mạnh, không chỉ phụ thuộc một mình Haaland.
 
+## away_note:th
+นอร์เวย์กลับสู่ฟุตบอลโลกหลังห่างหายไป 28 ปี โดยมี Erling Haaland "เครื่องจักรทำประตู" เป็นหัวหอก พวกเขาผ่านเข้ารอบด้วยการเอาชนะอิตาลีในกลุ่มคัดเลือก โดย Haaland ทำไป 16 ประตูใน 8 นัด ดีที่สุดในยุโรป ระบบ 4-3-3 ถูกควบคุมโดยกัปตัน Ødegaard (Arsenal) ในแดนกลาง ส่วนแนวรุกนอกจาก Haaland ยังมี Sørloth (Atlético Madrid 13 ประตู) และ Nusa ช่วยเสริมความหนักแน่น ทีมมีความสมดุลและหน้าที่การงานที่ดีเยี่ยม ไม่ได้พึ่งพาแค่คนเดียว
+
 ## odds_note:zh
 賠率顯示：伊拉克勝 6.50、平局 4.00、挪威勝 1.50。挪威為壓倒性大熱，Haaland 的破門能力與整體實力遠勝。伊拉克唯一希望是退守鐵桶、限制 Haaland 並抓住反擊一擊。
 
@@ -57,6 +63,9 @@ The odds read: Iraq win 6.50, Draw 4.00, Norway win 1.50. Norway are overwhelmin
 
 ## odds_note:vi
 Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. Na Uy là ứng viên áp đảo, năng lực ghi bàn của Haaland và sức mạnh tổng thể vượt trội. Hy vọng duy nhất của Iraq là lùi về phòng thủ toàn diện, hạn chế Haaland và chớp lấy cơ hội phản công.
+
+## odds_note:th
+อัตราต่อรองระบุว่า: อิรักชนะ 6.50, เสมอ 4.00, นอร์เวย์ชนะ 1.50 นอร์เวย์เป็นตัวเต็งแบบถล่มทลาย ด้วยความสามารถในการทำประตูของ Haaland และคุณภาพรวมของทีมที่เหนือกว่าอย่างมาก หนทางเดียวของอิรักคือจอดรถบัส จำกัด Haaland และฉวยโอกาสโต้กลับให้ได้
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. 
 | ST | #9 | Aymen Hussein | 海外 | 🇮🇶 | 11 | starter,team | false | Tiền đạo trung tâm chủ lực, ghi bàn vào lưới Bolivia ở play-off, mũi nhọn và điểm tựa tấn công của Iraq. |
 | FWD | 備援 | Ali Al-Hamadi | 海外 | 🇬🇧 | 9 | squad | true | Ghi bàn mở tỷ số vào lưới Bolivia ở play-off, tiền đạo tốc độ, sức mạnh tấn công mạnh khi vào sân từ ghế dự bị. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Jalal Hassan | Al-Shorta | 🇮🇶 | 1 | starter,team | false | กัปตันทีมและผู้รักษาประตูหลัก นักเตะวัย 35 ปีที่ลงเล่นครบ 103 นัดให้ทีมชาติ มีประสบการณ์สูงแต่ผ่านจุดสูงสุดมาแล้ว |
+| DEF | #2 | Hussein Ali | Al-Zawraa | 🇮🇶 | 3 | starter,team | false | แบ็กขวา วิ่งขยันช่วยเสริมการป้องกันแนวข้างและดันขึ้นในการโต้กลับ |
+| DEF | #5 | Zaid Tahseen | Al-Shorta | 🇮🇶 | 2 | starter,team | false | เซ็นเตอร์แบ็ก หนึ่งในแกนกลางแนวรับของอิรัก การดวลและการวางตัวเป็นกุญแจสำคัญของแนวหลัง |
+| DEF | #15 | Rebin Sulaka | Al-Quwa Al-Jawiya | 🇮🇶 | 2 | starter,team | false | เซ็นเตอร์แบ็ก แข็งแกร่งทางร่างกาย หน้าที่หลักคือลดแรงคุกคามของ Haaland ในเขตโทษ |
+| DEF | #3 | Merchas Doski | 海外 | 🇮🇶 | 2 | starter | false | แบ็กซ้าย มีส่วนร่วมทั้งรุกและรับ ส่งบอลในการโต้กลับตามแนวข้าง |
+| CM | #6 | Amir Al-Ammari | 海外 | 🇮🇶 | 7 | starter,team | false | กลไกแดนกลาง ผู้เตะลูกตายและฟรีคิก แหล่งเทคนิคและความคิดสร้างสรรค์ของอิรัก |
+| CM | #8 | Zidane Iqbal | 海外 | 🇮🇶 | 6 | starter,team | false | อดีตนักเตะอคาเดมี่ Manchester United ผู้มีพรสวรรค์ทางเทคนิคสูงสุดของอิรัก กุญแจในการสร้างเกมและกระจายบอล |
+| RW | #11 | Youssef Amyn | 海外 | 🇩🇪 | 6 | starter | false | ปีกขวา นักเตะแนวรุกที่ใช้ความเร็ว เป็นทางออกตามแนวข้างในการโต้กลับ |
+| AM | #10 | Ali Jasim | Como | 🇮🇹 | 8 | starter,league | false | มิดฟิลด์รุก ลงเล่น 36 นัดให้ทีมชาติ เล่นในกัลโช่ เซเรีย อา กับ Como มีความคิดสร้างสรรค์และเป็นภัยคุกคามในการยิงประตู |
+| LW | #17 | Ibrahim Bayesh | 海外 | 🇮🇶 | 6 | starter | false | ปีกซ้าย คล่องแคล่วและรวดเร็ว สร้างความกว้างและความรุนแรงเมื่อโต้กลับ |
+| ST | #9 | Aymen Hussein | 海外 | 🇮🇶 | 11 | starter,team | false | กองหน้าตัวหลัก ทำประตูในเพลย์ออฟชนะโบลิเวีย เป็นจุดสูงสุดและหัวหอกของแนวรุกอิรัก |
+| FWD | สำรอง | Ali Al-Hamadi | 海外 | 🇬🇧 | 9 | squad | true | เปิดสกอร์ในเพลย์ออฟกับโบลิเวีย กองหน้าที่ใช้ความเร็ว มีผลกระทบแข็งแกร่งเมื่อออกมาจากม้านั่งสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. 
 | ST | #23 | Erling Haaland | Manchester City | 🇬🇧 | 36 | starter,team,league | false | Sát thủ siêu đẳng Manchester City, 16 bàn trong 8 trận vòng loại, tiền đạo số 1 thế giới, mối đe dọa lớn nhất trận đấu. |
 | FWD | 備援 | Jørgen Strand Larsen | Wolves | 🇬🇧 | 10 | league,squad | true | Tiền đạo Wolves Ngoại hạng Anh, cao lớn và vai trò điểm tựa mạnh, bổ sung hỏa lực từ ghế dự bị. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Ørjan Nyland | Sevilla | 🇪🇸 | 1 | starter,league | false | ผู้รักษาประตูหลักของนอร์เวย์ เล่นในลาลีกากับ Sevilla มีประสบการณ์และเชื่อถือได้ |
+| DEF | #2 | Right Back | — | 🇳🇴 | 3 | starter | false | แบ็กขวาของนอร์เวย์ สนับสนุนการรุกและรับตามแนวข้างพร้อมวิ่งออกไปข้างหน้า |
+| DEF | #6 | Kristoffer Ajer | Brentford | 🇬🇧 | 4 | starter,league | false | เสาหลักแนวรับและนักเตะป้องกันที่ดีที่สุดของนอร์เวย์ ร่างสูง แข็งแกร่งในการดวล และสั่งการแนวหลัง |
+| DEF | #5 | Torbjørn Heggem | West Brom | 🇬🇧 | 3 | starter | false | เซ็นเตอร์แบ็กคู่กับ Ajer มั่นคงในการป้องกันและมีส่วนร่วมในการสร้างเกม |
+| DEF | #3 | Left Back | — | 🇳🇴 | 3 | starter | false | แบ็กซ้ายของนอร์เวย์ มีส่วนร่วมทั้งรุกและรับตามแนวข้างซ้าย |
+| CM | #18 | Sander Berge | Fulham | 🇬🇧 | 6 | starter,league | false | มิดฟิลด์พรีเมียร์ลีกของ Fulham ร่างกายแข็งแกร่งมีพื้นที่ครอบคลุมกว้าง เป็นกำแพงแดนกลาง |
+| CM | #8 | Fredrik Aursnes | Benfica | 🇵🇹 | 7 | starter,league | false | มิดฟิลด์ Primeira Liga ของ Benfica อเนกประสงค์ กระจายบอลและทำงานได้เป็นอย่างดี |
+| CM | #10 | Martin Ødegaard | Arsenal | 🇬🇧 | 12 | starter,team,league | false | กัปตันและผู้สร้างเกม แกนกลางของ Arsenal มีความคิดสร้างสรรค์และการจัดระบบระดับสูงสุด ผู้บัญชาการแนวรุกของนอร์เวย์ |
+| RW | #9 | Alexander Sørloth | Atlético Madrid | 🇪🇸 | 14 | starter,league | false | กองหน้า Atlético Madrid ทำ 13 ประตูในลาลีกาฤดูกาลที่แล้ว มีความโดดเด่นในการเล่นบอลอากาศและการจบสกอร์ เป็นภัยคุกคามประตูที่สอง |
+| LW | #20 | Antonio Nusa | RB Leipzig | 🇩🇪 | 11 | starter,league | false | ปีกหนุ่มของ Leipzig ความเร็วและการเลี้ยงบอลเยี่ยมยอด เป็นอาวุธร้ายแรงในการเจาะแนวข้างซ้ายอย่างรวดเร็ว |
+| ST | #23 | Erling Haaland | Manchester City | 🇬🇧 | 36 | starter,team,league | false | ซูเปอร์สตาร์กองหน้า Manchester City ทำ 16 ประตูใน 8 นัดคัดเลือก กองหน้าตัวกลางที่ดีที่สุดในโลก และเป็นภัยคุกคามใหญ่ที่สุดในสนาม |
+| FWD | สำรอง | Jørgen Strand Larsen | Wolves | 🇬🇧 | 10 | league,squad | true | กองหน้าพรีเมียร์ลีกของ Wolves แข็งแกร่งในการเล่นบอลอากาศและรับบอล เพิ่มพลังโจมตีจากม้านั่งสำรอง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. 
 | 1-1 | Hòa | 7 | #6b7280 | | draw |
 | Khác | — | 15 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 0-2 🇳🇴 | นอร์เวย์ชนะ | 19 | #BA0C2F | โอกาสสูงสุด | away |
+| 0-1 🇳🇴 | นอร์เวย์ชนะ | 16 | #BA0C2F | อันดับสอง | away |
+| 1-2 🇳🇴 | นอร์เวย์ชนะ | 13 | #BA0C2F | | away |
+| 0-3 🇳🇴 | นอร์เวย์ชนะ | 12 | #BA0C2F | | away |
+| 1-3 🇳🇴 | นอร์เวย์ชนะ | 9 | #BA0C2F | | away |
+| 0-0 | เสมอ | 9 | #6b7280 | | draw |
+| 1-1 | เสมอ | 7 | #6b7280 | | draw |
+| อื่นๆ | — | 15 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. 
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Iraq phòng thủ nhiều foul, có thể tích lũy thẻ vàng do phạm lỗi chiến thuật, Na Uy ít thẻ vàng hơn. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Hàng thủ Iraq chịu áp lực lớn, nếu Haaland liên tục có cơ hội một đối một, phạm lỗi chiến thuật trong vòng cấm có nguy cơ nhận thẻ đỏ. |
 | ⚠️ | 22–26 | Số lần phạm lỗi trọng tài/trận | Phong cách phòng thủ phản công của Iraq nhiều foul, tranh chấp tuyến giữa quyết liệt. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–12 | คาดการณ์เตะมุม | การกดดันอย่างต่อเนื่องและการเซ็นเตอร์ของนอร์เวย์จะสร้างเตะมุมจำนวนมาก ขณะที่การตั้งรับลึกของอิรักทำให้ได้เตะมุมน้อยกว่า |
+| 🟡 | 3–5 | คาดการณ์ใบเหลือง | การตั้งรับของอิรักจะทำฟาวล์มาก การฟาวล์เชิงยุทธวิธีอาจสะสมใบเหลือง ขณะที่นอร์เวย์คาดว่าจะได้ใบเหลืองน้อยกว่า |
+| 🟥 | 0–1 | คาดการณ์ใบแดง | แนวหลังอิรักจะอยู่ภายใต้แรงกดดันอย่างหนัก หาก Haaland เจาะทะลุแบบตัวต่อตัวได้บ่อยครั้ง การฟาวล์เชิงยุทธวิธีในเขตโทษอาจส่งผลให้ได้ใบแดง |
+| ⚠️ | 22–26 | เฉลี่ยฟาวล์/นัด | รูปแบบโต้กลับของอิรักทำให้เกิดฟาวล์มากขึ้น การต่อสู้ในแดนกลางจะดุเดือด |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. 
 | Thẻ trung bình/trận | ~4.0 | #60a5fa |
 | Foul trung bình/trận | ~24 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: 待 FIFA 正式公布
+- country: กรรมการนานาชาติ FIFA
+- note: กรรมการสำหรับแมตช์นี้ยังรอการยืนยันอย่างเป็นทางการจาก FIFA โดยทั่วไปกรรมการฟุตบอลโลกใช้มาตรฐานที่เข้มงวดปานกลาง ในแมตช์ที่มีความแตกต่างด้านกำลัง ซึ่งทีมที่แข็งแกร่งกว่าครองเกมและทีมที่อ่อนแอกว่าตั้งรับลึก การฟาวล์เชิงยุทธวิธีของทีมที่ตั้งรับมักสะสมใบเหลือง ดังนั้นควรจับตาดูจำนวนการฟาวล์ของแนวหลังอิรัก
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | — | #F1F5F9 |
+| ใบเหลืองรวม | — | #EAB308 |
+| ใบเหลือง-แดง | — | orange |
+| ใบแดงรวม | — | #EF4444 |
+| เฉลี่ยใบ/นัด | ~4.0 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~24 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 0
@@ -353,6 +429,13 @@ Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. 
 - draws: 0
 - awayWins: 0
 - note: Hai đội không có lịch sử đối đầu chính thức đáng kể. Iraq vượt play-off với chiến thắng 2-1 trước Bolivia; Na Uy vượt vòng loại khi đánh bại Italy, hòa 0-0 với Thụy Sĩ trước giải (nhiều cầu thủ được nghỉ). Cả hai đội đều trở lại World Cup sau nhiều năm vắng bóng.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: ทั้งสองทีมไม่มีประวัติการพบกันในการแข่งขันที่สำคัญ อิรักผ่านเข้ารอบผ่านเพลย์ออฟด้วยการชนะโบลิเวีย 2-1 ส่วนนอร์เวย์นำกลุ่มคัดเลือกเหนืออิตาลีและเล่นเสมอ 0-0 กับสวิตเซอร์แลนด์ (มีการหมุนเวียนผู้เล่นมาก) ในการอุ่นเครื่องก่อนทัวร์นาเมนต์ ทั้งสองชาติกลับสู่ฟุตบอลโลกหลังห่างหายไปนาน
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. 
 | Antonio Nusa | 🇳🇴 LW | Hussein Ali | 🇮🇶 RB | Cánh nhanh Leipzig vs hậu vệ phải Iraq, đột phá cánh trái của Na Uy là cửa tấn công chủ yếu. |
 | Aymen Hussein | 🇮🇶 ST | Kristoffer Ajer | 🇳🇴 CB | Mũi nhọn tấn công Iraq vs hậu vệ xuất sắc nhất Na Uy, cuộc đối đầu này quyết định Iraq có tạo được mối đe dọa trong phản công hay không. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Erling Haaland | 🇳🇴 ST | Rebin Sulaka | 🇮🇶 CB | กองหน้าที่ดีที่สุดในโลก vs เซ็นเตอร์แบ็กอิรัก การที่อิรักจะสกัด Haaland ได้หรือไม่คือการต่อสู้ชี้ขาดเพื่อความอยู่รอด |
+| Martin Ødegaard | 🇳🇴 CM | Zidane Iqbal | 🇮🇶 CM | ผู้สร้างเกมของ Arsenal vs อดีตนักเตะอคาเดมี่ Manchester United การดวลความคิดสร้างสรรค์ในแดนกลางจะกำหนดความคล่องตัวของการโจมตีนอร์เวย์ |
+| Antonio Nusa | 🇳🇴 LW | Hussein Ali | 🇮🇶 RB | ปีกเร็วของ Leipzig vs แบ็กขวาอิรัก การเจาะแนวข้างซ้ายของนอร์เวย์คือช่องทางโจมตีหลัก |
+| Aymen Hussein | 🇮🇶 ST | Kristoffer Ajer | 🇳🇴 CB | หัวหอกแนวรุกของอิรัก vs นักเตะป้องกันที่ดีที่สุดของนอร์เวย์ ว่าอิรักจะสร้างภัยคุกคามในการโต้กลับได้หรือไม่ขึ้นอยู่กับการดวลนี้ |
+
 ## summary_verdict:zh
 挪威時隔 28 年重返世界盃，擁有當今最致命射手 Haaland（資格賽 8 場 16 球）。但挪威遠不只一人球隊——隊長 Ødegaard 掌控中場，Sørloth、Nusa 提供額外火力，後防 Ajer 領銜穩固。整體實力與組織遠勝對手。
 
@@ -413,6 +504,13 @@ Na Uy trở lại World Cup sau 28 năm, sở hữu chân sút nguy hiểm nhấ
 Iraq dưới sự dẫn dắt của Graham Arnold có tổ chức chặt chẽ, phòng thủ vững chắc, chơi theo lối phản công. Nhưng đối mặt với Na Uy do Haaland dẫn đầu, khoảng cách về năng lực cá nhân và sức mạnh tổng thể là rất lớn. Cơ hội duy nhất là lùi về phòng thủ toàn diện, hạn chế Haaland và tận dụng những cơ hội phản công hiếm hoi.
 
 Dự đoán: 0-2 Na Uy thắng. Iraq có thể kháng cự ngoan cường trong giai đoạn đầu, nhưng khả năng ghi bàn của Haaland sớm muộn sẽ phá vỡ hàng phòng thủ, Na Uy thắng với cách biệt hai bàn là kết cục hợp lý nhất. Nếu Iraq hạn chế được tỷ số đó đã là thành công.
+
+## summary_verdict:th
+นอร์เวย์กลับสู่ฟุตบอลโลกหลังห่างหายไป 28 ปี พร้อมด้วย Haaland นักเตะที่อันตรายที่สุดในเกม (16 ประตูใน 8 นัดคัดเลือก) แต่นอร์เวย์ไม่ได้พึ่งพาแค่คนเดียว กัปตัน Ødegaard ควบคุมแดนกลาง Sørloth และ Nusa เสริมพลังยิง และ Ajer เป็นหลักให้แนวหลังที่มั่นคง คุณภาพรวมและการจัดระบบของพวกเขาเหนือกว่าคู่แข่งอย่างมาก
+
+อิรักที่ Graham Arnold หล่อหลอมให้มีระเบียบวินัยและแข็งแกร่งในการป้องกัน จะมุ่งหาทางโต้กลับ แต่เมื่อเผชิญกับนอร์เวย์ที่ Haaland นำทีม ช่องว่างในคุณภาพรายบุคคลและความแข็งแกร่งรวมนั้นมหาศาล โอกาสเดียวของพวกเขาคือจอดรถบัส จำกัด Haaland และฉวยโอกาสโต้กลับที่หายากได้
+
+ทำนาย: 0-2 นอร์เวย์ชนะ อิรักอาจต้านทานได้อย่างดื้อรั้นในช่วงแรก แต่ความสามารถในการจบสกอร์ของ Haaland จะต้องเจาะแนวรับได้ในที่สุด นอร์เวย์ชนะด้วยส่วนต่างสองประตูเป็นผลลัพธ์ที่สมเหตุสมผลที่สุด หากอิรักรักษาสกอร์ให้ใกล้ชิดได้ก็ถือว่าประสบความสำเร็จแล้ว
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: 0-2 Na Uy thắng. Iraq có thể kháng cự ngoan cường trong 
 | 🇮🇶 40 Năm Chờ Đợi | Iraq trở lại World Cup sau 40 năm kể từ 1986, cả nước hân hoan, tinh thần là động lực vô hình. |
 | 🎯 Sørloth - Mũi Tên Thứ Hai | Tiền đạo Atletico Madrid ghi 13 bàn tại La Liga mùa trước, mối đe dọa tấn công kép của Na Uy khiến Iraq khó bề đối phó. |
 | 🏆 Trận Sống Còn Bảng I | Iraq ở trong bảng tử thần, trận này nếu hạn chế được cách biệt bàn thắng sẽ có ý nghĩa lớn cho cuộc đua vé đi tiếp. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| ⚡ Haaland เครื่องจักรทำประตู | 16 ประตูใน 8 นัดคัดเลือก ดีที่สุดในยุโรป กองหน้าอันดับหนึ่งของโลก และฝันร้ายที่ยิ่งใหญ่ที่สุดของแนวหลังอิรัก |
+| 🛡️ การตั้งรับแบบป้อมปราการของอิรัก | Arnold ได้สร้างระบบโต้กลับที่มีวินัย การนั่งรับลึกและป้องกันเป็นหน่วยคือหนทางเดียวในการอยู่รอด |
+| 🧠 Ødegaard สั่งการ | กัปตัน Arsenal ควบคุมแดนกลางนอร์เวย์ ความคิดสร้างสรรค์ของเขาคือภัยคุกคามหลักที่สองนอกเหนือจาก Haaland |
+| 🇮🇶 รอคอย 40 ปี | อิรักกลับสู่ฟุตบอลโลกเป็นครั้งแรกนับตั้งแต่ปี 1986 ทั่วประเทศคึกคัก ขวัญกำลังใจเป็นพลังที่มองไม่เห็น |
+| 🎯 Sørloth ปืนกระบอกที่สอง | กองหน้า Atlético Madrid ทำ 13 ประตูในลาลีกาฤดูกาลที่แล้ว ภัยคุกคามสองทางของนอร์เวย์ทำให้อิรักไม่สามารถมุ่งเน้นที่ Haaland เพียงคนเดียว |
+| 🏆 การต่อสู้เพื่อความอยู่รอดในกลุ่ม I | อิรักอยู่ในกลุ่มที่ยาก หากสามารถจำกัดส่วนต่างความพ่ายแพ้ได้ในแมตช์นี้ก็อาจเป็นสิ่งสำคัญต่อความหวังผ่านเข้ารอบต่อไป |

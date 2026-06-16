@@ -34,6 +34,9 @@ Scotland return to the World Cup after a 28-year absence and opened with a 1-0 w
 ## home_note:vi
 Scotland trở lại World Cup sau 28 năm vắng mặt và khai màn với chiến thắng 1-0 trước Haiti, bàn thắng của McGinn là nguồn cổ vũ tinh thần lớn. Hệ thống của Steve Clarke ngăn nắp với sơ đồ 4-2-3-1 chặt chẽ khó xuyên phá. Robertson (Liverpool) và Adams (Wolfsburg) là xương sống tuyến giữa, McTominay (Napoli) là mối đe dọa ghi bàn đáng tin cậy. Tuy nhiên, trước chất lượng của Morocco, khoảng cách kỹ thuật và năng lực cá nhân rõ ràng — Scotland phải dựa vào kỷ luật tập thể và pressing cường độ cao để cạnh tranh.
 
+## home_note:th
+สกอตแลนด์กลับสู่ฟุตบอลโลกหลังจากห่างหายไป 28 ปี และเปิดฉากด้วยการเอาชนะเฮติ 1-0 โดยประตูของ McGinn เป็นแรงขวัญกำลังใจอย่างมาก ระบบของ Steve Clarke มีความเป็นระเบียบดี โดยใช้รูปแบบ 4-2-3-1 ที่แน่นหนาและยากต่อการเจาะ Robertson (Liverpool) และ Adams (Wolfsburg) คือแกนกลางของกองกลาง และ McTominay (Napoli) คือภัยคุกคามในการทำประตูที่น่าเชื่อถือ อย่างไรก็ตาม เมื่อเผชิญหน้ากับคุณภาพของโมร็อกโก ช่องว่างด้านเทคนิคและความสามารถส่วนบุคคลนั้นชัดเจน สกอตแลนด์ต้องพึ่งพาระเบียบวินัยรวมทีมและการกดดันอย่างเข้มข้นเพื่อแข่งขัน
+
 ## away_note:zh
 摩洛哥以8連勝不敗的完美資格賽成績入場，FIFA排名第8，2022世界盃4強英雄。首戰1-1平巴西已證明實力不俗。隊長Hakimi（巴黎聖日耳曼，歐冠冠軍）是世界級右後衛，中場Amrabat（皇家貝蒂斯）穩守反，攻擊線Brahim Diaz（AC米蘭）技術絕倫，El Khannouss（斯圖加特）創造力強。後防Bounou（塞維利亞）世界級。面對蘇格蘭佔絕對優勢。
 
@@ -46,6 +49,9 @@ Morocco arrive with a perfect qualifying record of eight wins from eight, ranked
 ## away_note:vi
 Morocco đến với thành tích vòng loại hoàn hảo 8 thắng 8 trận, xếp hạng 8 thế giới và được hậu thuẫn bởi hành trình lịch sử vào bán kết 2022. Trận hòa 1-1 với Brazil ở trận đầu đã chứng minh đẳng cấp. Đội trưởng Hakimi (PSG, vô địch Champions League) là hậu vệ phải đẳng cấp thế giới, Amrabat (Real Betis) trụ cột tuyến giữa, tuyến tấn công có Brahim Diaz (AC Milan) với kỹ thuật tuyệt vời và El Khannouss (Stuttgart) sáng tạo. Thủ môn Bounou (Sevilla) đẳng cấp thế giới. Họ chiếm ưu thế rõ ràng trước Scotland.
 
+## away_note:th
+โมร็อกโกมาพร้อมกับสถิติรอบคัดเลือกที่สมบูรณ์แบบ 8 ชนะจาก 8 นัด อยู่ในอันดับที่ 8 ของโลก และมีแรงหนุนจากการฝ่าเข้าถึงรอบรองชนะเลิศในปี 2022 ที่ยิ่งใหญ่ การเสมอ 1-1 กับบราซิลในนัดเปิดสนามแสดงให้เห็นถึงคุณภาพของพวกเขาแล้ว กัปตันทีม Hakimi (PSG ผู้คว้าแชมป์ Champions League) คือแบ็คขวาระดับโลก Amrabat (Real Betis) เป็นแกนหลักของกองกลาง และแนวรุกมี Brahim Diaz (AC Milan) ที่มีเทคนิคยอดเยี่ยม และ El Khannouss (Stuttgart) ที่สร้างสรรค์ ผู้รักษาประตู Bounou (Sevilla) ระดับโลก พวกเขามีความได้เปรียบอย่างชัดเจนเหนือสกอตแลนด์
+
 ## odds_note:zh
 賠率顯示：蘇格蘭勝 4.50、平局 3.60、摩洛哥勝 1.85。摩洛哥為熱門，個人能力與世界盃經驗全面領先，蘇格蘭需靠集體紀律與反擊製造威脅，但爆冷難度極高。
 
@@ -57,6 +63,9 @@ The odds reflect: Scotland win 4.50, draw 3.60, Morocco win 1.85. Morocco are fi
 
 ## odds_note:vi
 Tỷ lệ cược: Scotland thắng 4.50, hòa 3.60, Morocco thắng 1.85. Morocco là đội được đặt cược nhiều hơn, vượt trội toàn diện về cá nhân lẫn kinh nghiệm World Cup. Scotland phải dựa vào kỷ luật tập thể và phản công để tạo ra mối đe dọa, nhưng khả năng gây bất ngờ là rất thấp.
+
+## odds_note:th
+อัตราต่อรองสะท้อน: สกอตแลนด์ชนะ 4.50, เสมอ 3.60, โมร็อกโกชนะ 1.85 โมร็อกโกเป็นเต็งอย่างชัดเจน นำหน้าอย่างครอบคลุมในด้านคุณภาพส่วนบุคคลและประสบการณ์ฟุตบอลโลก สกอตแลนด์ต้องพึ่งพาระเบียบวินัยรวมทีมและการโต้กลับเพื่อสร้างอันตราย แต่การพลิกสถานการณ์นั้นยากมาก
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Scotland thắng 4.50, hòa 3.60, Morocco thắng 1.85. Moroc
 | LW | #7 | Che Adams | Wolfsburg | 🇩🇪 | 9 | starter,league | false | Tiền đạo Bundesliga tại Wolfsburg, tốc độ và dứt điểm lạnh lùng — mối đe dọa ở cánh trái. |
 | FWD | Dự bị | Lawrence Shankland | Hearts | 🇬🇧 | 6 | squad | true | Chân sút hàng đầu Scottish Premiership, lựa chọn tạo đột biến từ băng ghế. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Angus Gunn | Norwich City | 🇬🇧 | 1 | starter | false | ผู้รักษาประตู Norwich City ในดิวิชันแชมเปียนชิป ปฏิกิริยาคล่องแคล่วและเป็นตัวหลักของทีม คือผู้รักษาประตูหมายเลขหนึ่งของสกอตแลนด์ |
+| DEF | #2 | Aaron Hickey | Brentford | 🇬🇧 | 4 | starter,league | false | แบ็คขวา Premier League ที่ Brentford รวดเร็วและสมดุลในการรุกและรับ |
+| DEF | #5 | Grant Hanley | Norwich City | 🇬🇧 | 4 | starter | false | เซ็นเตอร์แบ็คดิวิชันแชมเปียนชิป ผู้นำทีมผู้มากประสบการณ์และแกนหลักในการจัดระบบแนวรับ |
+| DEF | #6 | Jack Hendry | Club Brugge | 🇧🇪 | 4 | starter,league | false | เซ็นเตอร์แบ็ค Belgian Pro League ที่ Bruges แข็งแกร่งทางร่างกายและดุเดือดในการแย่งบอล |
+| DEF | #3 | Andrew Robertson | Liverpool | 🇬🇧 | 6 | starter,league | false | แบ็คซ้าย Liverpool Premier League วิสัยทัศน์การส่งบอลยอดเยี่ยม คือจุดเปิดเกมที่สำคัญที่สุดในการรุกของสกอตแลนด์ นักเตะระดับลีก |
+| CM | #8 | Callum McGregor | Celtic | 🇬🇧 | 6 | starter | false | เครื่องยนต์กองกลาง Celtic สงบกับบอล เป็นศูนย์กลางการจัดระบบของสกอตแลนด์ |
+| CM | #4 | Ryan Jack | Rangers | 🇬🇧 | 5 | starter | false | มิดฟิลด์รับ Rangers คุ้มครองแนวรับและดุเดือดในการแย่งบอล |
+| AM | #10 | John McGinn | Aston Villa | 🇬🇧 | 11 | starter,league | false | มิดฟิลด์ Aston Villa Premier League วีรบุรุษประตูชัยในนัดแรก วิ่งไม่รู้จักหยุดพร้อมภัยคุกคามจากนอกกรอบ คือนักเตะระดับลีก |
+| RW | #17 | Ryan Fraser | Southampton | 🇬🇧 | 7 | starter | false | ปีกของ Southampton ตรงไปตรงมาและรวดเร็ว การบุกทะลวงแนวปีกขวาสร้างความหลากหลายในการรุกของสกอตแลนด์ |
+| ST | #9 | Scott McTominay | Napoli | 🇮🇹 | 14 | starter,league | false | กองหน้า/มิดฟิลด์ Napoli ใน Serie A แข็งแกร่งจากระยะไกลและในการต่อสู้ทางอากาศ คืออาวุธทำประตูที่ยิ่งใหญ่ที่สุดของสกอตแลนด์ |
+| LW | #7 | Che Adams | Wolfsburg | 🇩🇪 | 9 | starter,league | false | กองหน้า Bundesliga ที่ Wolfsburg ความเร็วและการยิงที่แม่นยำ คือภัยคุกคามในฝั่งซ้าย |
+| FWD | สำรอง | Lawrence Shankland | Hearts | 🇬🇧 | 6 | squad | true | กองหน้าชั้นนำ Scottish Premiership ตัวเลือกสร้างแรงกระแทกจากม้านั่งสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Scotland thắng 4.50, hòa 3.60, Morocco thắng 1.85. Moroc
 | LW | #11 | Soufiane Rahimi | Al-Ain | 🇦🇪 | 9 | starter | false | Cầu thủ biên UAE Pro League, trực tiếp và nhanh — mối đe dọa đột phá cánh trái. |
 | MF | Dự bị | Ismael Saibari | PSV Eindhoven | 🇳🇱 | 9 | league,squad | true | Tiền vệ PSV tại Eredivisie, trụ cột đội một có thể tăng cường sáng tạo trung lộ khi vào sân. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Yassine Bounou | Sevilla | 🇪🇸 | 1 | starter,league | false | ผู้รักษาประตูระดับโลกที่ Sevilla ใน La Liga ปฏิกิริยายอดเยี่ยม คือหลักยึดของแนวรับโมร็อกโก |
+| DEF | #2 | Achraf Hakimi | Paris Saint-Germain | 🇫🇷 | 10 | starter,team,league | false | กัปตันทีม แบ็คขวาผู้คว้าแชมป์ Champions League ที่ PSG อาจเป็นแบ็คที่ดีที่สุดในโลก คือหนึ่งในดาวดังที่ยิ่งใหญ่ที่สุดในทัวร์นาเมนต์นี้ |
+| DEF | #6 | Nayef Aguerd | West Ham | 🇬🇧 | 5 | starter,league | false | เซ็นเตอร์แบ็ค Premier League ที่ West Ham โดดเด่นในการต่อสู้ทางอากาศ คือแกนหลักในการจัดระบบแนวรับ |
+| DEF | #3 | Noussair Mazraoui | Manchester United | 🇬🇧 | 5 | starter,league | false | กองหลัง Manchester United แข็งแกร่งทั้งรุกและรับ สามารถเล่นได้ทั้งสองฝั่ง |
+| DEF | #4 | Chadi Riad | Real Betis | 🇪🇸 | 4 | starter,league | false | เซ็นเตอร์แบ็ค Real Betis กองหลังเทคนิคหนุ่มที่มีอนาคตสดใส |
+| CM | #6 | Sofyan Amrabat | Real Betis | 🇪🇸 | 8 | starter,league | false | มิดฟิลด์รับ Real Betis เก่งในการแย่งบอลและแจกจ่าย คือกำแพงกองกลางและวีรบุรุษปี 2022 |
+| CM | #8 | Azzedine Ounahi | Girona | 🇪🇸 | 8 | starter,league | false | มิดฟิลด์ Girona ใน La Liga เทคนิคละเอียดอ่อนและมีความสร้างสรรค์สูง |
+| AM | #10 | Brahim Diaz | AC Milan | 🇮🇹 | 14 | starter,league | false | มิดฟิลด์รุก AC Milan เกิดในสเปน เทคนิคยอดเยี่ยม คือภัยคุกคามทางเทคนิคที่ยิ่งใหญ่ที่สุดของโมร็อกโก |
+| RW | #7 | Bilal El Khannouss | Stuttgart | 🇩🇪 | 11 | starter,league | false | มิดฟิลด์ Stuttgart ใน Bundesliga หนุ่มและสร้างสรรค์ คือภัยคุกคามสำคัญเมื่อตัดเข้ามาจากปีกขวา |
+| ST | #9 | Ayoub El Kaabi | Benfica | 🇵🇹 | 12 | starter,league | false | กองหน้า Benfica ใน Primeira Liga ยิงแม่นเย็นชา คือหัวหอกการรุกของโมร็อกโก |
+| LW | #11 | Soufiane Rahimi | Al-Ain | 🇦🇪 | 9 | starter | false | ปีก UAE Pro League ตรงไปตรงมาและรวดเร็ว คือภัยคุกคามการบุกทะลวงแนวซ้าย |
+| MF | สำรอง | Ismael Saibari | PSV Eindhoven | 🇳🇱 | 9 | league,squad | true | มิดฟิลด์ PSV ใน Eredivisie ผู้เล่นตัวหลักที่สามารถเพิ่มความสร้างสรรค์ตรงกลางเมื่อลงมาจากม้านั่ง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -230,6 +271,17 @@ Tỷ lệ cược: Scotland thắng 4.50, hòa 3.60, Morocco thắng 1.85. Moroc
 | 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Scotland Thắng | 8 | #003087 | | home |
 | Khác | — | 22 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 0-2 🇲🇦 | โมร็อกโกชนะ | 20 | #C1272D | โอกาสสูงสุด | away |
+| 0-1 🇲🇦 | โมร็อกโกชนะ | 17 | #C1272D | อันดับสอง | away |
+| 1-2 🇲🇦 | โมร็อกโกชนะ | 13 | #C1272D | | away |
+| 0-3 🇲🇦 | โมร็อกโกชนะ | 9 | #C1272D | | away |
+| 1-1 | เสมอ | 11 | #6b7280 | | draw |
+| 1-0 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | สกอตแลนด์ชนะ | 8 | #003087 | | home |
+| อื่นๆ | — | 22 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -261,6 +313,14 @@ Tỷ lệ cược: Scotland thắng 4.50, hòa 3.60, Morocco thắng 1.85. Moroc
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Zwayer rút thẻ ở mức nghiêm hơn; phạm lỗi phòng thủ của Scotland có thể tích lũy thẻ. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Zwayer quyết đoán trong các trận lớn; Scotland mệt mỏi ở cuối trận có nguy cơ thẻ đỏ nhỏ. |
 | ⚠️ | 22–26 | Số phạm lỗi/trận của trọng tài | Phạm lỗi chiến thuật của Scotland khi phản công và các pha khiêu khích kỹ thuật của Morocco đều góp phần vào số lần phạm lỗi. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 7–10 | จำนวนเตะมุมที่คาดการณ์ | การกดดันสูงและการครองบอลของโมร็อกโกจะสร้างเตะมุมมากขึ้น ในขณะที่การเล่นเชิงรับของสกอตแลนด์จะสร้างน้อยกว่า |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | Zwayer ให้ใบเหลืองในแนวเข้มงวดกว่า การฟาวล์เชิงรับของสกอตแลนด์อาจสะสมใบเหลือง |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | Zwayer ตัดสินใจเด็ดขาดในเกมสำคัญ ความเหนื่อยล้าของสกอตแลนด์ช่วงท้ายเกมมีความเสี่ยงใบแดงเล็กน้อย |
+| ⚠️ | 22–26 | จำนวนฟาวล์/นัดของกรรมการ | การฟาวล์ทางยุทธวิธีของสกอตแลนด์ในการโต้กลับและการยั่วยุเชิงเทคนิคของโมร็อกโกจะช่วยเพิ่มจำนวนฟาวล์ |
 
 ## referee:zh
 - icon: ⚖️
@@ -322,6 +382,21 @@ Tỷ lệ cược: Scotland thắng 4.50, hòa 3.60, Morocco thắng 1.85. Moroc
 | Thẻ trung bình/trận | ~4.5 | #60a5fa |
 | Phạm lỗi trung bình/trận | ~25 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Felix Zwayer
+- country: 🇩🇪 เยอรมนี · UEFA Elite · FIFA นานาชาติ
+- note: กรรมการชั้นนำ Bundesliga เป็นที่รู้จักในด้านรูปแบบการตัดสินที่เด็ดขาดและเข้มงวดกว่าค่าเฉลี่ย มีอัตราการให้ใบเหลืองสูงกว่าปกติ มีประสบการณ์อย่างกว้างขวางใน Bundesliga และการแข่งขันระดับยุโรป เปิดตัวในฐานะกรรมการหลักของฟุตบอลโลกในปี 2026 ด้วยชื่อเสียงระดับนานาชาติชั้นนำ
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 250+ | #F1F5F9 |
+| ใบเหลืองรวม | 950+ | #EAB308 |
+| ใบเหลือง-แดง | 25+ | orange |
+| ใบแดงรวม | 50+ | #EF4444 |
+| เฉลี่ยใบ/นัด | ~4.5 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~25 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 0
@@ -349,6 +424,13 @@ Tỷ lệ cược: Scotland thắng 4.50, hòa 3.60, Morocco thắng 1.85. Moroc
 - draws: 0
 - awayWins: 1
 - note: Cuộc gặp gỡ duy nhất trong lịch sử là tại World Cup 1998, khi Morocco thắng 3-0. Gặp lại sau 28 năm, Scotland đánh bại Haiti 1-0 trong trận ra quân còn Morocco hòa 1-1 với Brazil. Cả hai đến với điểm số, nhưng Morocco rõ ràng chiếm ưu thế đẳng cấp.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 0
+- draws: 0
+- awayWins: 1
+- note: การพบกันครั้งเดียวในประวัติศาสตร์คือในฟุตบอลโลก 1998 เมื่อโมร็อกโกชนะ 3-0 พบกันอีกครั้งหลังจาก 28 ปี สกอตแลนด์เอาชนะเฮติ 1-0 ในนัดเปิดสนาม ขณะที่โมร็อกโกเสมอ 1-1 กับบราซิล ทั้งสองทีมมีแต้มมา แต่โมร็อกโกมีความได้เปรียบด้านคุณภาพโดยรวมอย่างชัดเจน
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -382,6 +464,14 @@ Tỷ lệ cược: Scotland thắng 4.50, hòa 3.60, Morocco thắng 1.85. Moroc
 | Scott McTominay | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ST | Nayef Aguerd | 🇲🇦 CB | Chân sút hàng đầu Scotland đối đầu trụ cột không chiến Morocco — đầu bóng và dứt điểm chống tổ chức hàng thủ. |
 | Soufiane Rahimi | 🇲🇦 LW | Aaron Hickey | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 RB | Đột phá cánh trái của Rahimi đối đầu hậu vệ phải Brentford — chìa khóa cho tấn công cánh trái của Morocco. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Brahim Diaz | 🇲🇦 AM | Callum McGregor | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 CM | มิดฟิลด์เทคนิคที่สุดของ AC Milan ปะทะแกนหลักกองกลางสกอตแลนด์ คือการดวลแบบคลาสสิกระหว่างเทคนิคและความขยันขันแข็ง |
+| Achraf Hakimi | 🇲🇦 RB | Andrew Robertson | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 LB | แบ็คขวาที่ดีที่สุดในโลกปะทะแบ็คซ้ายในตำนานของ Liverpool คือการดวลแนวปีกที่แข็งแกร่งที่สุดในแมตช์นี้ |
+| Scott McTominay | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ST | Nayef Aguerd | 🇲🇦 CB | กองหน้าอันดับหนึ่งของสกอตแลนด์ปะทะเสาหลักการต่อสู้ทางอากาศของโมร็อกโก คือการต่อสู้ระหว่างการโหม่งและการยิงกับการจัดระบบแนวรับ |
+| Soufiane Rahimi | 🇲🇦 LW | Aaron Hickey | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 RB | การบุกทะลวงแนวซ้ายของ Rahimi ปะทะแบ็คขวาของ Brentford คือกุญแจสำคัญสำหรับการโจมตีแนวซ้ายของโมร็อกโก |
+
 ## summary_verdict:zh
 摩洛哥帶著2022世界盃4強的榮光出賽，陣中Hakimi、Bounou、Amrabat、Brahim Diaz等頂級歐洲球星林立，在技術、速度和大賽經驗上對蘇格蘭佔有明顯優勢。首戰1-1平巴西更印證了他們的實力。
 
@@ -409,6 +499,13 @@ Morocco mang theo niềm tự hào từ hành trình bán kết World Cup 2022 v
 Scotland trở lại World Cup sau 28 năm vắng mặt. Bàn thắng quyết định của McGinn trước Haiti đã thổi bùng tinh thần toàn đội. Những ngôi sao cấp giải đấu như Robertson và McTominay là nền tảng đấu chí, nhưng trước các Sư tử Atlas, chiến thuật tập thể và kỷ luật là con đường duy nhất để cạnh tranh.
 
 Dự đoán: Morocco thắng 0-2. Ưu thế toàn diện của Morocco về kỹ thuật và năng lực cá nhân sẽ thống trị trận đấu, bộ đôi Brahim Diaz và El Khannouss sẽ phá vỡ hàng phòng thủ kỷ luật của Scotland. Scotland có thể mệt mỏi khi trận đấu kéo dài, và việc để thủng lưới có vẻ là điều khó tránh khỏi.
+
+## summary_verdict:th
+โมร็อกโกนำความภาคภูมิใจจากการฝ่าเข้าถึงรอบรองชนะเลิศฟุตบอลโลก 2022 มาพร้อมกับทีมที่เต็มไปด้วยนักเตะชั้นนำระดับยุโรป ได้แก่ Hakimi, Bounou, Amrabat, Brahim Diaz มีความได้เปรียบอย่างชัดเจนด้านเทคนิค ความเร็ว และประสบการณ์เกมสำคัญ การเสมอ 1-1 กับบราซิลในนัดเปิดสนามยืนยันคุณภาพของพวกเขา
+
+สกอตแลนด์กลับสู่ฟุตบอลโลกหลัง 28 ปี ประตูชัยของ McGinn ต่อเฮติจุดไฟทั้งทีม ดาวระดับลีกอย่าง Robertson และ McTominay มอบจิตใจสู้ แต่เมื่อเผชิญกับสิงโต Atlas ยุทธวิธีรวมทีมและระเบียบวินัยคือหนทางเดียวในการแข่งขัน
+
+พยากรณ์: โมร็อกโกชนะ 0-2 ความเหนือกว่าอย่างครอบคลุมของโมร็อกโกด้านเทคนิคและความสามารถส่วนบุคคลจะครองเกม และคู่หู Brahim Diaz กับ El Khannouss จะเจาะแนวรับที่มีวินัยของสกอตแลนด์ในที่สุด สกอตแลนด์อาจเหนื่อยล้าเมื่อเกมดำเนินไป และการเสียประตูดูเป็นสิ่งที่หลีกเลี่ยงไม่ได้
 
 ## observations:zh
 | title | detail |
@@ -449,3 +546,13 @@ Dự đoán: Morocco thắng 0-2. Ưu thế toàn diện của Morocco về kỹ
 | ⚽ Mối đe dọa không chiến của McTominay | Tiền đạo Napoli là mối đe dọa phản công lớn nhất của Scotland; các tình huống cố định là cơ hội tốt nhất để gây khó dễ. |
 | 🛡️ Sự kiểm soát của Bounou | Thủ môn đẳng cấp thế giới của Morocco là hàng phòng thủ cuối cùng ngăn Scotland ghi bàn. |
 | 📖 Tái ngộ sau 28 năm | Morocco thắng 3-0 khi hai đội gặp nhau ở World Cup 1998 — Scotland khao khát viết lại lịch sử. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 👑 ระดับโลกของ Hakimi | แบ็คขวาผู้คว้าแชมป์ Champions League ของ PSG คือดาวดังที่ยิ่งใหญ่ที่สุดในแมตช์นี้ สามารถครองเกมได้ทั้งสองด้าน |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 แนวรับที่มีวินัยของสกอตแลนด์ | สกอตแลนด์ต้องพึ่งพาการป้องกันแบบแน่นหนาและการเปลี่ยนผ่านรวดเร็ว McGinn กำลังรุ่งโรจน์หลังประตูชัยในนัดแรก |
+| 🇲🇦 เทคนิคของ Brahim Diaz | มิดฟิลด์รุก AC Milan คือแหล่งสร้างสรรค์ที่ยิ่งใหญ่ที่สุดของโมร็อกโกและสามารถเปลี่ยนเกมได้ในพริบตา |
+| ⚽ ภัยคุกคามทางอากาศของ McTominay | กองหน้า Napoli คือภัยคุกคามการโต้กลับที่ยิ่งใหญ่ที่สุดของสกอตแลนด์ ลูกเซตพีซมอบโอกาสที่ดีที่สุดในการสร้างปัญหา |
+| 🛡️ ความควบคุมของ Bounou | ผู้รักษาประตูระดับโลกของโมร็อกโกคือแนวป้องกันสุดท้ายที่ขัดขวางสกอตแลนด์จากการทำประตู |
+| 📖 พบกันอีกครั้งหลัง 28 ปี | โมร็อกโกชนะ 3-0 เมื่อสองทีมพบกันในฟุตบอลโลก 1998 สกอตแลนด์ปรารถนาอย่างยิ่งที่จะเขียนประวัติศาสตร์ใหม่ |

@@ -34,6 +34,9 @@ Türkiye are coached by Italian boss Vincenzo Montella, brimming with a new gene
 ## home_note:vi
 Thổ Nhĩ Kỳ được dẫn dắt bởi HLV người Ý Vincenzo Montella, tràn đầy một thế hệ tài năng mới. Hạt nhân là tiền vệ Inter Çalhanoğlu (nhạc trưởng và người đá phạt), thần đồng Juventus Kenan Yıldız và tiền vệ Real Madrid Arda Güler, đầy sáng tạo. Sau thất bại sốc 0-2 trước Úc, họ cần thắng gấp để giữ hy vọng đi tiếp. Khai cuộc 11:00 GMT+8 ngày 20/6 tại San Francisco.
 
+## home_note:th
+ตุรกีคุมทีมโดย Vincenzo Montella กุนซือชาวอิตาลี เต็มไปด้วยนักเตะรุ่นใหม่ที่มากความสามารถ แกนหลักคือ Çalhanoğlu เพลย์เมคเกอร์ของ Inter Milan (จังหวะเกมและลูกเซตพีซ) รวมถึงดาวรุ่ง Kenan Yıldız จาก Juventus และ Arda Güler มิดฟิลด์ Real Madrid ที่เปี่ยมด้วยความคิดสร้างสรรค์ หลังพ่ายแพ้อย่างน่าตกใจ 0-2 ต่อออสเตรเลีย พวกเขาต้องการชัยชนะอย่างเร่งด่วนเพื่อรักษาความหวังในการผ่านเข้ารอบ เริ่มเตะ 11:00 GMT+8 วันที่ 20 มิถุนายน ที่ซานฟรานซิสโก
+
 ## away_note:zh
 巴拉圭由阿根廷名帥 Gustavo Alfaro 執教，南美區穩健晉級。球風硬朗、防守扎實，核心為隊長中衛 Gustavo Gómez（帕梅拉斯）與射手 Sanabria、邊鋒 Almirón。首戰 1-4 慘敗美國暴露防守問題，本場需重整旗鼓搶分。
 
@@ -46,6 +49,9 @@ Paraguay are coached by Argentine boss Gustavo Alfaro, solid qualifiers from Sou
 ## away_note:vi
 Paraguay được dẫn dắt bởi HLV người Argentina Gustavo Alfaro, vượt qua vòng loại Nam Mỹ một cách vững vàng. Lối chơi rắn rỏi với hàng thủ chắc chắn, hạt nhân là đội trưởng trung vệ Gustavo Gómez (Palmeiras) cùng chân sút Sanabria và tiền vệ cánh Almirón. Trận thua đậm 1-4 trước Mỹ phơi bày vấn đề phòng ngự, và họ phải chấn chỉnh để giành điểm ở đây.
 
+## away_note:th
+ปารากวัยคุมทีมโดย Gustavo Alfaro กุนซือชาวอาร์เจนตินา ผ่านการคัดเลือกจากอเมริกาใต้อย่างมั่นคง สไตล์การเล่นแข็งกร้าวและมีแนวรับที่แน่นหนา แกนหลักคือ Gustavo Gómez กัปตันทีมและเซ็นเตอร์แบ็กจาก Palmeiras คู่กับกองหน้า Sanabria และปีกอย่าง Almirón การพ่ายแพ้ 1-4 ต่อสหรัฐอเมริกาเปิดเผยปัญหาด้านการป้องกัน พวกเขาต้องปรับตัวเพื่อเก็บแต้มในแมตช์นี้
+
 ## odds_note:zh
 賠率顯示：土耳其勝 2.00、平局 3.20、巴拉圭勝 3.80。土耳其因個人天賦略佔上風，但首戰雙雙失利使兩隊本場壓力都極大。土耳其需 Çalhanoğlu、Yıldız 找回狀態，巴拉圭則靠防守反擊與定位球，背水一戰勝負難料。
 
@@ -57,6 +63,9 @@ The odds read: Türkiye win 2.00, draw 3.20, Paraguay win 3.80. Türkiye hold a 
 
 ## odds_note:vi
 Tỷ lệ cược: Thổ Nhĩ Kỳ thắng 2.00, hòa 3.20, Paraguay thắng 3.80. Thổ Nhĩ Kỳ nhỉnh hơn đôi chút về tài năng cá nhân, nhưng khi cả hai đều thua trận đầu, áp lực rất lớn cho cả hai. Thổ Nhĩ Kỳ cần Çalhanoğlu và Yıldız tìm lại phong độ, còn Paraguay dựa vào phản công và bóng cố định; trong trận sống còn, kết quả khó đoán.
+
+## odds_note:th
+อัตราต่อรอง: ตุรกีชนะ 2.00, เสมอ 3.20, ปารากวัยชนะ 3.80 ตุรกีได้เปรียบเล็กน้อยในด้านความสามารถส่วนบุคคล แต่เมื่อทั้งสองทีมแพ้ในนัดแรก ความกดดันจึงมหาศาลสำหรับทั้งสองฝ่าย ตุรกีต้องการให้ Çalhanoğlu และ Yıldız กลับมาฟอร์มดี ขณะที่ปารากวัยพึ่งพาการโต้กลับและเซตพีซ ในแมตช์ที่ต้องชนะ ผลลัพธ์คาดเดาได้ยาก
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Thổ Nhĩ Kỳ thắng 2.00, hòa 3.20, Paraguay thắng 3.8
 | ST | #9 | Semih Kılıçsoy | Beşiktaş | 🇹🇷 | 9 | starter | false | Trung phong trẻ, chớp thời cơ và dứt điểm, ngọn giáo. |
 | FWD | 備援 | Kerem Aktürkoğlu | Fenerbahçe | 🇹🇷 | 8 | squad | true | Tiền vệ cánh, tốc độ và rê bóng, lựa chọn công phá cánh từ ghế dự bị. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Uğurcan Çakır | Galatasaray | 🇹🇷 | 1 | starter | false | ผู้รักษาประตูตุรกี รีเฟล็กซ์มั่นคง เป็นด่านสุดท้ายของแนวรับ |
+| DEF | #2 | Zeki Çelik | Roma | 🇮🇹 | 3 | starter,league | false | แบ็กขวาของ Roma ทำหน้าที่รับ-รุกได้ทั้งคู่ บุกขึ้นตามแนวปีก |
+| DEF | #4 | Merih Demiral | Al Ahli | 🇸🇦 | 4 | starter | false | เซ็นเตอร์แบ็ก แข็งแกร่งทางร่างกายและเก่งในการแย่งบอลอากาศ เป็นแกนหลักของแนวรับ |
+| DEF | #14 | Abdülkerim Bardakcı | Galatasaray | 🇹🇷 | 3 | starter | false | เซ็นเตอร์แบ็ก เก่งการแย่งบอลและส่งบอล เป็นเสาหลักของแนวรับ |
+| DEF | #20 | Ferdi Kadıoğlu | Brighton | 🇬🇧 | 4 | starter,league | false | แบ็กซ้ายของ Brighton มีความเร็วและบุกขึ้น เป็นแกนหลักฝั่งซ้าย |
+| MID | #8 | Hakan Çalhanoğlu | Inter Milan | 🇮🇹 | 9 | starter,team,league | false | เพลย์เมคเกอร์กลางสนามของ Inter Milan ศูนย์กลางของเซตพีซและชู้ตระยะไกล คือจิตวิญญาณของตุรกี |
+| MID | #18 | İsmail Yüksek | Fenerbahçe | 🇹🇷 | 4 | starter | false | โฮลดิ้งมิดฟิลด์ ดูแลพื้นที่และสกัดบอล เป็นเกราะกลางสนาม |
+| RW | #10 | Arda Güler | Real Madrid | 🇪🇸 | 11 | starter,team,league | false | ดาวรุ่งของ Real Madrid เทคนิคดีและสร้างสรรค์ เป็นแหล่งสร้างเกมรุกของตุรกี |
+| AM | #15 | Salih Özcan | Borussia Dortmund | 🇩🇪 | 5 | starter,league | false | มิดฟิลด์ของ Borussia Dortmund เชื่อมเกมและดูแลพื้นที่ เป็นแกนกลางสนาม |
+| LW | #7 | Kenan Yıldız | Juventus | 🇮🇹 | 12 | starter,team,league | false | ปีกดาวรุ่งของ Juventus ไหลบอลและยิงประตูเก่ง เป็นภัยคุกคามหลักในแดนรุกของตุรกี |
+| ST | #9 | Semih Kılıçsoy | Beşiktaş | 🇹🇷 | 9 | starter | false | กองหน้าหนุ่ม คอยหาจังหวะและยิงประตู เป็นหัวหอกของแนวรุก |
+| FWD | สำรอง | Kerem Aktürkoğlu | Fenerbahçe | 🇹🇷 | 8 | squad | true | ปีก มีความเร็วและไหลบอล เป็นตัวสำรองที่บุกทะลวงแนวปีก |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Thổ Nhĩ Kỳ thắng 2.00, hòa 3.20, Paraguay thắng 3.8
 | ST | #9 | Antonio Sanabria | Cremonese | 🇮🇹 | 8 | starter,team,league | false | Trung phong, chớp thời cơ và làm tường, ngọn giáo của Paraguay. |
 | FWD | 備援 | Ramón Sosa | Nottingham Forest | 🇬🇧 | 7 | league,squad | true | Tiền vệ cánh, nhanh, lựa chọn công phá cánh từ ghế dự bị. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Roberto Fernández | Lille | 🇫🇷 | 1 | starter,league | false | ผู้รักษาประตูปารากวัย รีเฟล็กซ์มั่นคง เป็นด่านสุดท้ายของแนวรับ |
+| DEF | #4 | Juan Cáceres | Vélez Sarsfield | 🇦🇷 | 3 | starter | false | แบ็กขวา ป้องกันและดูแลแนวปีก |
+| DEF | #3 | Gustavo Gómez | Palmeiras | 🇧🇷 | 5 | starter,team | false | กัปตันทีมและเซ็นเตอร์แบ็ก ผู้นำแนวรับในลีก Brasileirão แย่งบอลแข็งกร้าวและเป็นภัยคุกคามในเซตพีซ |
+| DEF | #2 | Omar Alderete | Sunderland | 🇬🇧 | 4 | starter,league | false | เซ็นเตอร์แบ็ก แข็งแกร่งทางร่างกาย เป็นเสาหลักของแนวรับ |
+| DEF | #14 | Junior Alonso | Atlético Mineiro | 🇧🇷 | 3 | starter | false | แบ็กซ้าย มีวินัยในการป้องกัน ดูแลฝั่งซ้าย |
+| MID | #5 | Damián Bobadilla | São Paulo | 🇧🇷 | 4 | starter | false | โฮลดิ้งมิดฟิลด์ ดูแลพื้นที่และสกัดบอล เป็นเกราะกลางสนาม |
+| MID | #6 | Andrés Cubas | Vancouver | 🇨🇦 | 4 | starter | false | โฮลดิ้งมิดฟิลด์ สกัดและป้องกัน เป็นเหล็กกลางสนาม |
+| RW | #11 | Miguel Almirón | Atlanta United | 🇺🇸 | 8 | starter,team | false | ปีก มีความเร็วและไหลบอล เป็นภัยคุกคามหลักในการโต้กลับของปารากวัย |
+| AM | #10 | Julio Enciso | Ipswich Town | 🇬🇧 | 7 | starter,league | false | มิดฟิลด์รุก เทคนิคดีและสร้างสรรค์ เป็นแหล่งสร้างเกมในแดนสุดท้าย |
+| LW | #16 | Diego Gómez | Brighton | 🇬🇧 | 6 | starter,league | false | นักเตะแนวปีก มีความเร็วและวิ่งรุกหนุน บุกทะลวงตามแนวปีก |
+| ST | #9 | Antonio Sanabria | Cremonese | 🇮🇹 | 8 | starter,team,league | false | กองหน้า คอยหาจังหวะและรับบอลเป็นตัวจอด เป็นหัวหอกของปารากวัย |
+| FWD | สำรอง | Ramón Sosa | Nottingham Forest | 🇬🇧 | 7 | league,squad | true | ปีก เร็ว เป็นตัวสำรองที่บุกทะลวงแนวปีก |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Thổ Nhĩ Kỳ thắng 2.00, hòa 3.20, Paraguay thắng 3.8
 | 2-2 | Hòa | 8 | #6b7280 | | draw |
 | Khác | — | 18 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 1-1 | เสมอ | 17 | #6b7280 | โอกาสสูงสุด | draw |
+| 2-1 🇹🇷 | ตุรกีชนะ | 14 | #E30A17 | อันดับสอง | home |
+| 1-0 🇹🇷 | ตุรกีชนะ | 13 | #E30A17 | | home |
+| 2-0 🇹🇷 | ตุรกีชนะ | 11 | #E30A17 | | home |
+| 1-2 🇵🇾 | ปารากวัยชนะ | 10 | #D52B1E | | away |
+| 0-1 🇵🇾 | ปารากวัยชนะ | 9 | #D52B1E | | away |
+| 2-2 | เสมอ | 8 | #6b7280 | | draw |
+| อื่นๆ | — | 18 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược: Thổ Nhĩ Kỳ thắng 2.00, hòa 3.20, Paraguay thắng 3.8
 | 🟡 | 4–6 | Dự đoán số thẻ vàng | Trận sống còn khiến tranh chấp quyết liệt; thể lực và lỗi chiến thuật của Paraguay khiến thẻ vàng tích lũy. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Áp lực cao và tranh chấp căng thẳng nâng nguy cơ thẻ đỏ cao hơn trận vòng bảng thông thường. |
 | ⚠️ | 24–28 | Số phạm lỗi/trận của trọng tài | Cả hai trong trận sống còn với tranh chấp quyết liệt tạo số lỗi cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–11 | คาดการณ์เตะมุม | การครองบอลของตุรกีสร้างเตะมุมได้มากกว่า เซตพีซของปารากวัยและการหาจังหวะของ Gómez ก็เป็นภัยคุกคามเช่นกัน |
+| 🟡 | 4–6 | คาดการณ์ใบเหลือง | แมตช์ที่ต้องชนะทำให้การแย่งบอลดุเดือด ความแข็งกร้าวทางร่างกายและฟาวล์เชิงยุทธศาสตร์ของปารากวัยทำให้ใบเหลืองสะสมมาก |
+| 🟥 | 0–1 | คาดการณ์ใบแดง | ความกดดันสูงและการแย่งบอลเข้มข้นเพิ่มความเสี่ยงใบแดงเกินกว่าเกมกลุ่มปกติ |
+| ⚠️ | 24–28 | เฉลี่ยฟาวล์/นัด | ทั้งสองทีมในแมตช์ที่ต้องชนะและการแข่งขันดุเดือดทำให้จำนวนฟาวล์สูง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược: Thổ Nhĩ Kỳ thắng 2.00, hòa 3.20, Paraguay thắng 3.8
 | Thẻ trung bình/trận | TBC | #60a5fa |
 | Phạm lỗi trung bình/trận | TBC | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: รอประกาศ (TBC)
+- country: 🏳️ FIFA จะแต่งตั้งก่อนแมตช์
+- note: กรรมการยังไม่ได้รับการประกาศอย่างเป็นทางการจาก FIFA โดยปกติจะได้รับการแต่งตั้ง 1–2 วันก่อนเริ่มเกม เมื่อทั้งสองทีมแพ้ในนัดแรกในแมตช์ที่ต้องชนะ คาดว่าเกมจะดุเดือดและมีการออกบัตรเด็ดขาดสำหรับฟาวล์เชิงยุทธศาสตร์และอารมณ์ สถิติจะอัปเดตเมื่อได้รับการยืนยัน
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | TBC | #F1F5F9 |
+| ใบเหลืองรวม | TBC | #EAB308 |
+| ใบเหลือง-แดง | TBC | orange |
+| ใบแดงรวม | TBC | #EF4444 |
+| เฉลี่ยใบ/นัด | TBC | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | TBC | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 0
@@ -353,6 +429,13 @@ Tỷ lệ cược: Thổ Nhĩ Kỳ thắng 2.00, hòa 3.20, Paraguay thắng 3.8
 - draws: 0
 - awayWins: 0
 - note: Hai đội hiếm khi gặp nhau chính thức, khiến đây là cuộc đọ sức xa lạ. Thổ Nhĩ Kỳ thua 0-2 trước Úc và Paraguay thua 1-4 trước Mỹ; sau khi cả hai đều thua, đây trở thành trận sống còn, với hy vọng đi tiếp của đội thua giảm mạnh. Kết quả khó đoán.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: ทั้งสองทีมแทบไม่เคยพบกันในการแข่งขันอย่างเป็นทางการ ทำให้นี่เป็นการดวลที่ไม่คุ้นเคย ตุรกีแพ้ 0-2 ต่อออสเตรเลีย และปารากวัยแพ้ 1-4 ต่อสหรัฐอเมริกา หลังจากทั้งคู่แพ้ นี่จึงกลายเป็นเกมสู้ตาย โดยความหวังผ่านเข้ารอบของทีมที่แพ้จะลดน้อยลงอย่างมาก ผลลัพธ์คาดเดาได้ยาก
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược: Thổ Nhĩ Kỳ thắng 2.00, hòa 3.20, Paraguay thắng 3.8
 | Antonio Sanabria | 🇵🇾 ST | Merih Demiral | 🇹🇷 CB | Ngọn giáo Paraguay đối đầu trung vệ Thổ Nhĩ Kỳ, chớp thời cơ trước phòng ngự không chiến. |
 | Hakan Çalhanoğlu | 🇹🇷 MID | Andrés Cubas | 🇵🇾 MID | Nhạc trưởng Thổ Nhĩ Kỳ đối đầu tiền vệ trụ rắn rỏi Paraguay, cuộc chiến giành quyền kiểm soát tuyến giữa. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Kenan Yıldız | 🇹🇷 LW | Juan Cáceres | 🇵🇾 RB | ดาวรุ่ง Juventus ปะทะแบ็กขวาของปารากวัย การตัดเข้ามาของ Yıldız คือภัยคุกคามที่ใหญ่ที่สุดของตุรกี |
+| Arda Güler | 🇹🇷 RW | Junior Alonso | 🇵🇾 LB | ดาวรุ่ง Real Madrid ปะทะแบ็กซ้ายของปารากวัย ความคิดสร้างสรรค์ต่อสู้กับวินัยในการป้องกัน |
+| Antonio Sanabria | 🇵🇾 ST | Merih Demiral | 🇹🇷 CB | หัวหอกปารากวัยปะทะเซ็นเตอร์แบ็กตุรกี การหาจังหวะยิงประตูต่อสู้กับการป้องกันทางอากาศ |
+| Hakan Çalhanoğlu | 🇹🇷 MID | Andrés Cubas | 🇵🇾 MID | เพลย์เมคเกอร์ตุรกีปะทะโฮลดิ้งมิดฟิลด์แข็งแกร่งของปารากวัย การต่อสู้เพื่อครองกลางสนาม |
+
 ## summary_verdict:zh
 這是一場雙方首戰皆敗後的生死戰。土耳其個人天賦更高，Çalhanoğlu、Yıldız、Güler 的中前場組合創造力十足，但首戰 0-2 不敵澳洲暴露防守與心態問題，急需找回狀態。
 
@@ -413,6 +504,13 @@ Prediction: 1-1 draw. Türkiye edge possession and creativity, but Paraguay's de
 Paraguay phòng ngự chắc chắn và thể hình rắn rỏi, với Gustavo Gómez làm trụ cột hàng thủ cùng Almirón và Sanabria mang đến mối đe dọa phản công, nhưng trận thua 1-4 trước Mỹ làm tổn hại sự tự tin, và họ phải ổn định hàng thủ trước.
 
 Dự đoán: Hòa 1-1. Thổ Nhĩ Kỳ nhỉnh hơn về kiểm soát bóng và sáng tạo, nhưng sự kiên cường phòng ngự và phản công của Paraguay có thể gây nguy hiểm. Với cả hai trong trận sống còn và chơi thận trọng, chia điểm là kết quả khả dĩ nhất. Trọng tài chưa được xác nhận; trận sống còn quyết liệt báo hiệu số thẻ vàng cao.
+
+## summary_verdict:th
+นี่คือเกมสู้ตายหลังจากทั้งสองทีมแพ้ในนัดแรก ตุรกีมีความสามารถส่วนบุคคลที่สูงกว่า โดยแกนของ Çalhanoğlu–Yıldız–Güler เต็มไปด้วยความคิดสร้างสรรค์ แต่การแพ้ 0-2 ต่อออสเตรเลียเปิดเผยปัญหาด้านการป้องกันและจิตใจ พวกเขาต้องการกลับมาฟอร์มดีอย่างเร่งด่วน
+
+ปารากวัยป้องกันได้แน่นหนาและแข็งแกร่งทางร่างกาย โดย Gustavo Gómez เป็นเสาหลักของแนวรับและ Almirón กับ Sanabria มีภัยคุกคามในการโต้กลับ แต่การแพ้ 1-4 ต่อสหรัฐอเมริกาทำให้ความเชื่อมั่นสั่นคลอน พวกเขาต้องเสริมความแน่นหนาของแนวรับก่อน
+
+การคาดการณ์: เสมอ 1-1 ตุรกีได้เปรียบด้านการครองบอลและความคิดสร้างสรรค์ แต่ความทนทานในการป้องกันและการโต้กลับของปารากวัยสามารถสร้างภัยคุกคามได้ เมื่อทั้งสองอยู่ในแมตช์ที่ต้องชนะและเล่นอย่างระมัดระวัง การแบ่งแต้มกันคือผลลัพธ์ที่เป็นไปได้มากที่สุด กรรมการยังไม่ได้รับการยืนยัน การแย่งบอลดุเดือดในเกมสู้ตายชี้ให้เห็นว่าจำนวนใบเหลืองจะสูง
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Hòa 1-1. Thổ Nhĩ Kỳ nhỉnh hơn về kiểm soát bóng và 
 | ⚡ Phản công Almirón | Tốc độ của tiền vệ cánh Paraguay là vũ khí phản công chính; khai thác khoảng trống phía sau đáng xem. |
 | 🧠 Cuộc chiến tâm lý | Sau khi cả hai đều thua, ai điều chỉnh tâm lý nhanh hơn thường quyết định trận sống còn. |
 | 📏 Trọng tài chờ xác nhận | Trọng tài chưa được FIFA công bố; cần đề phòng thẻ và nguy cơ treo giò trong trận sống còn quyết liệt. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| ⚠️ เกมสู้ตายหลังแพ้ทั้งคู่ | ทั้งสองทีมแพ้ในนัดแรก ความหวังผ่านเข้ารอบของทีมที่แพ้จะจางหาย ความกดดันและความเข้มข้นพุ่งสูงสุด |
+| ✨ ความสามารถของตุรกี | แกนของ Çalhanoğlu–Yıldız–Güler คือทรัพย์สินที่ยิ่งใหญ่ที่สุดของตุรกีในการพลิกสถานการณ์ |
+| 🛡️ แนวรับเหล็กของปารากวัย | Gustavo Gómez เป็นเสาหลักของแนวรับ การที่พวกเขาจะต้านทานความคิดสร้างสรรค์ของตุรกีได้หรือไม่คือกุญแจสำคัญ |
+| ⚡ การโต้กลับของ Almirón | ความเร็วของปีกปารากวัยคืออาวุธหลักในการโต้กลับ การใช้ประโยชน์จากพื้นที่ด้านหลังเป็นสิ่งที่ต้องจับตามอง |
+| 🧠 การต่อสู้ทางจิตใจ | หลังจากทั้งสองแพ้ ใครที่ปรับตัวทางจิตใจได้เร็วกว่ามักจะตัดสินเกมสู้ตาย |
+| 📏 กรรมการรอประกาศ | กรรมการยังไม่ได้รับการยืนยันจาก FIFA ระวังใบเหลืองและความเสี่ยงถูกแบนในการแย่งบอลดุเดือดของเกมสู้ตาย |

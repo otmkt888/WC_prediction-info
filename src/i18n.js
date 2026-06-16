@@ -1,13 +1,14 @@
-const LANG_ORDER = ['zh', 'zh-cn', 'en', 'vi'];
+const LANG_ORDER = ['zh', 'zh-cn', 'en', 'vi', 'th'];
 
 export const LANG_OPTIONS = [
   { code: 'zh', label: '繁體中文' },
   { code: 'zh-cn', label: '简体中文' },
   { code: 'en', label: 'English' },
   { code: 'vi', label: 'Tiếng Việt' },
+  { code: 'th', label: 'ภาษาไทย' },
 ];
 
-const LANG_ATTRS = { zh: 'zh-Hant', 'zh-cn': 'zh-Hans', en: 'en', vi: 'vi' };
+const LANG_ATTRS = { zh: 'zh-Hant', 'zh-cn': 'zh-Hans', en: 'en', vi: 'vi', th: 'th' };
 
 const locales = {
   zh: {
@@ -21,7 +22,6 @@ const locales = {
     'hero.win_rate': '勝率預測',
     'hero.draw': '和',
     'hero.odds': '賠率',
-    'hero.referee': '裁判',
     'hero.cd.days_hours': (d, h) => `${d} 天 ${h} 小時後開賽`,
     'hero.cd.days': (d) => `${d} 天後開賽`,
     'hero.cd.hours': (h) => `${h} 小時後開賽`,
@@ -93,7 +93,6 @@ const locales = {
     'hero.win_rate': 'Win Rate',
     'hero.draw': 'Draw',
     'hero.odds': 'Odds',
-    'hero.referee': 'Referee',
     'hero.cd.days_hours': (d, h) => `Kickoff in ${d}d ${h}h`,
     'hero.cd.days': (d) => `Kickoff in ${d}d`,
     'hero.cd.hours': (h) => `Kickoff in ${h}h`,
@@ -165,7 +164,6 @@ const locales = {
     'hero.win_rate': '胜率预测',
     'hero.draw': '平',
     'hero.odds': '赔率',
-    'hero.referee': '裁判',
     'hero.cd.days_hours': (d, h) => `${d} 天 ${h} 小时后开赛`,
     'hero.cd.days': (d) => `${d} 天后开赛`,
     'hero.cd.hours': (h) => `${h} 小时后开赛`,
@@ -237,7 +235,6 @@ const locales = {
     'hero.win_rate': 'Tỷ Lệ Thắng',
     'hero.draw': 'Hòa',
     'hero.odds': 'Tỷ Lệ Cược',
-    'hero.referee': 'Trọng Tài',
     'hero.cd.days_hours': (d, h) => `Khai cuộc sau ${d}n ${h}g`,
     'hero.cd.days': (d) => `Khai cuộc sau ${d}n`,
     'hero.cd.hours': (h) => `Khai cuộc sau ${h}g`,
@@ -297,9 +294,80 @@ const locales = {
     'stage.third-place': 'Tranh Hạng Ba',
     'stage.final': 'Chung Kết',
   },
+
+  th: {
+    'nav.pred': 'ทำนายผล',
+    'nav.matches': 'นัด',
+
+    'hero.live_score': 'สกอร์สด',
+    'hero.final_score': 'ผลสุดท้าย',
+    'hero.ai_analysis': 'วิเคราะห์ AI',
+    'hero.pred_score': 'ทำนายสกอร์',
+    'hero.win_rate': 'โอกาสชนะ',
+    'hero.draw': 'เสมอ',
+    'hero.odds': 'ราคาต่อรอง',
+    'hero.cd.days_hours': (d, h) => `เตะใน ${d}ว ${h}ชม`,
+    'hero.cd.days': (d) => `เตะใน ${d}ว`,
+    'hero.cd.hours': (h) => `เตะใน ${h}ชม`,
+    'hero.cd.mins': (m) => `เตะใน ${m}น`,
+
+    'tabs.summary': '🏆 สรุป',
+    'tabs.players': 'นักเตะ',
+    'tabs.other': '📊 วิเคราะห์',
+
+    'tag.starter': 'ตัวจริง',
+    'tag.team': 'แกนทีม',
+    'tag.league': 'ดาวลีก',
+    'tag.squad': 'สำรอง',
+    'tag.doubt': '⚠ ไม่แน่นอน',
+
+    'squad.title': 'ทีมตัวจริงที่ทำนาย',
+    'squad.formation': 'รูปแบบ',
+    'squad.coach': 'ผู้ฝึกสอน',
+    'squad.prob': 'โอกาสยิง',
+    'squad.prob_sub': 'โอกาสยิง (หลังลงสนาม)',
+
+    'other.score': 'วิเคราะห์สกอร์',
+    'other.events': 'เตะมุม · ใบเหลือง · ใบแดง',
+    'other.referee': 'ข้อมูลกรรมการ',
+    'other.h2h': 'ประวัติพบกัน',
+    'other.battles': 'คู่ปะทะสำคัญ',
+
+    'h2h.wins': 'ชนะ',
+    'h2h.draws': 'เสมอ',
+
+    'summary.title': 'สรุปและทำนายสุดท้าย',
+    'summary.pred_score': '📊 สกอร์ที่ทำนาย',
+    'summary.wins': 'ชนะ',
+    'summary.most_likely': 'สกอร์ที่น่าจะเป็น',
+    'summary.corners': 'เตะมุมที่ทำนาย',
+    'summary.yellows': 'ใบเหลืองที่ทำนาย',
+    'summary.reds': 'ใบแดงที่ทำนาย',
+    'summary.key_obs': 'ข้อสังเกตสำคัญ',
+    'summary.possession': 'ครองบอล',
+
+    'ai.title': 'ประกาศการวิเคราะห์ AI',
+    'ai.body': (model) => `การวิเคราะห์แมตช์ คะแนนนักเตะ ทำนายสกอร์ และข้อมูลกรรมการทั้งหมดในหน้านี้ถูกสร้างโดย <strong>${model}</strong> จากข้อมูลสาธารณะ เพื่อการอ้างอิงเท่านั้น — ไม่ใช่คำแนะนำการพนัน ผลทำนายอาจแตกต่างจากความเป็นจริง`,
+
+    'error.load': 'โหลดล้มเหลว: ',
+
+    'date.dows': ['อา', 'จ', 'อ', 'พ', 'พฤ', 'ศ', 'ส'],
+    'date.mons': ['ม.ค.', 'ก.พ.', 'มี.ค.', 'เม.ย.', 'พ.ค.', 'มิ.ย.', 'ก.ค.', 'ส.ค.', 'ก.ย.', 'ต.ค.', 'พ.ย.', 'ธ.ค.'],
+
+    'placeholder.tbd': 'รอประกาศ',
+    'placeholder.desc': 'ทีมจะประกาศหลังรอบแบ่งกลุ่ม การวิเคราะห์จะเพิ่มเร็วๆ นี้',
+
+    'stage.group-stage': 'รอบแบ่งกลุ่ม',
+    'stage.round-32': 'รอบ 32 ทีม',
+    'stage.round-16': 'รอบ 16 ทีม',
+    'stage.quarter-final': 'รอบก่อนรองฯ',
+    'stage.semi-final': 'รอบรองชนะเลิศ',
+    'stage.third-place': 'ชิงอันดับ 3',
+    'stage.final': 'รอบชิงชนะเลิศ',
+  },
 };
 
-const LANG_LABELS = { zh: '繁中', 'zh-cn': '简中', en: 'EN', vi: 'VI' };
+const LANG_LABELS = { zh: '繁中', 'zh-cn': '简中', en: 'EN', vi: 'VI', th: 'TH' };
 
 let currentLang = localStorage.getItem('wc-lang') || 'en';
 let langListeners = [];

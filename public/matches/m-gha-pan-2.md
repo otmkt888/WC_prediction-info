@@ -34,6 +34,9 @@ Ghana are making their fifth World Cup appearance, led by 73-year-old veteran ma
 ## home_note:vi
 Ghana tham dự World Cup lần thứ năm, do HLV lão luyện 73 tuổi Carlos Queiroz dẫn dắt, với thành tích tốt nhất là vào tứ kết năm 2010. Hàng công thiên về tốc độ, do tiền đạo Manchester City Semenyo và Iñaki Williams của Bilbao dẫn đầu, trong khi đội trưởng Jordan Ayew (Leicester City) dẫn đầu toàn bảng với 7 kiến tạo trong vòng loại. Tuy nhiên, tiền vệ sáng tạo cốt lõi Kudus (Tottenham) vắng mặt vì chấn thương và Salisu đứt dây chằng chéo, ảnh hưởng đến cả khả năng sáng tạo lẫn chiều sâu hàng thủ. Trận đấu này là then chốt cho việc đi tiếp — Ghana phải thắng Panama.
 
+## home_note:th
+กานากำลังเข้าร่วมฟุตบอลโลกเป็นครั้งที่ห้า โดยมีกุนซือวัย 73 ปี Carlos Queiroz เป็นผู้นำทีม โดยผลงานดีที่สุดคือการเข้าถึงรอบก่อนรองชนะเลิศในปี 2010 แนวรุกเน้นความเร็ว นำโดย Semenyo กองหน้าจาก Manchester City และ Iñaki Williams จาก Bilbao ขณะที่กัปตัน Jordan Ayew (Leicester City) คว้าอันดับหนึ่งของกลุ่มด้วย 7 แอสซิสต์ในรอบคัดเลือก อย่างไรก็ตาม Kudus (Tottenham) มิดฟิลด์สร้างสรรค์คนสำคัญต้องพักรักษาตัวทั้งฤดูกาลเนื่องจากบาดเจ็บ และการฉีกขาดของเอ็น ACL ของ Salisu ยิ่งทำให้ทั้งแนวสร้างสรรค์และความลึกของแนวรับอ่อนแอลง แมตช์นี้มีความสำคัญยิ่งต่อการผ่านรอบ — กานาต้องชนะปานามา
+
 ## away_note:zh
 帕拿馬第二次參加世界盃（2018 後），由丹麥籍主帥 Thomas Christiansen 帶領，CONCACAF 資格賽不敗晉級（5 勝 3 和），近年戰績亮眼（2023 金盃賽亞軍、2024 美洲盃八強）。採 3-4-2-1，36 歲隊長 Godoy（聖地牙哥 FC）159 場國腳紀錄保持者坐鎮中場，創造核心 Carrasquilla（UNAM Pumas）是 CONCACAF 頂級中場。後防由 2018 老將 Murillo、Escobar、Davis 把關。FIFA 排名第 33。
 
@@ -46,6 +49,9 @@ Panama are at their second World Cup (since 2018), led by Danish coach Thomas Ch
 ## away_note:vi
 Panama tham dự World Cup lần thứ hai (kể từ 2018), do HLV người Đan Mạch Thomas Christiansen dẫn dắt, vượt qua vòng loại CONCACAF bất bại (5 thắng, 3 hòa), với thành tích gần đây rất ấn tượng (á quân Gold Cup 2023, tứ kết Copa América 2024). Họ thi đấu theo sơ đồ 3-4-2-1, với đội trưởng 36 tuổi Godoy (San Diego FC) — người nắm kỷ lục 159 lần ra sân — làm trụ cột tuyến giữa, và Carrasquilla (UNAM Pumas), một trong những tiền vệ hàng đầu CONCACAF, là hạt nhân sáng tạo. Hàng phòng thủ được canh giữ bởi các cựu binh 2018 Murillo, Escobar và Davis. Xếp hạng FIFA: 33.
 
+## away_note:th
+ปานามาเข้าร่วมฟุตบอลโลกเป็นครั้งที่สอง (นับตั้งแต่ปี 2018) โดยมีโค้ชชาวเดนมาร์ก Thomas Christiansen เป็นผู้นำทีม ผ่านรอบคัดเลือก CONCACAF โดยไม่แพ้ใคร (5 ชนะ 3 เสมอ) พร้อมผลงานล่าสุดที่น่าประทับใจ (รองแชมป์ Gold Cup 2023 รอบก่อนรองชนะเลิศ Copa América 2024) ทีมใช้รูปแบบ 3-4-2-1 โดยมีกัปตัน Godoy (San Diego FC) วัย 36 ปี ผู้ทำสถิติลงเล่น 159 นัดเป็นแกนกลางกลางสนาม และ Carrasquilla (UNAM Pumas) หนึ่งในมิดฟิลด์ชั้นนำของ CONCACAF ทำหน้าที่เป็นแกนสร้างสรรค์ แนวรับคุมโดยทหารผ่านศึกปี 2018 ได้แก่ Murillo, Escobar และ Davis อันดับ FIFA: 33
+
 ## odds_note:zh
 賠率顯示：迦納勝 2.15、平局 3.50、帕拿馬勝 3.30。迦納因攻擊速度稍占上風成微弱熱門，但帕拿馬資格賽不敗、防守組織紀律佳，加上迦納失去 Kudus 創造力，本場勢均力敵，平局機率高。
 
@@ -57,6 +63,9 @@ The odds show: Ghana win 2.15, Draw 3.50, Panama win 3.30. Ghana are a narrow fa
 
 ## odds_note:vi
 Tỷ lệ cược cho thấy: Ghana thắng 2.15, hòa 3.50, Panama thắng 3.30. Ghana là cửa trên nhỉnh nhờ tốc độ tấn công, nhưng vòng loại bất bại của Panama và kỷ luật phòng thủ có tổ chức, cùng với việc Ghana thiếu vắng sức sáng tạo của Kudus, khiến đây là cuộc đối đầu cân bằng với xác suất hòa cao.
+
+## odds_note:th
+อัตราต่อรองแสดงให้เห็นว่า: กานาชนะ 2.15, เสมอ 3.50, ปานามาชนะ 3.30 กานาเป็นเต็งหนึ่งอย่างเฉียดฉิวด้วยความเร็วในการรุก แต่สายพิสูจน์ไม่แพ้ใครในรอบคัดเลือกของปานามาและวินัยในการป้องกันที่มีระบบ บวกกับการสูญเสียความสร้างสรรค์ของ Kudus ไปจากกานา ทำให้นี่เป็นการแข่งขันที่สูสีกันอย่างมากและมีความน่าจะเป็นสูงที่จะเสมอกัน
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược cho thấy: Ghana thắng 2.15, hòa 3.50, Panama thắng 3.30
 | LW | #7 | Iñaki Williams | Athletic Bilbao | 🇪🇸 | 12 | starter,league,team | false | Tiền đạo Bilbao, cầu thủ tấn công thiên về tốc độ, mạnh trong chạy và đối đầu trực tiếp; vũ khí biên của Ghana. |
 | FWD | Sub | Abdul Fatawu Issahaku | 待確認 | 🇬🇭 | 9 | squad | true | Tiền vệ cánh thiên về tốc độ, sắc bén trong rê bóng và đột phá; có thể ra sân thay thế để thay đổi nhịp độ cánh phải. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Benjamin Asare | Hearts of Oak | 🇬🇭 | 1 | starter,team | false | ผู้รักษาประตูจากลีกภายในประเทศและเป็นตัวเลือกอันดับหนึ่งของกานาในปัจจุบัน กันลูกได้อย่างมั่นคงแต่ขาดประสบการณ์จากลีกยุโรปชั้นนำ |
+| DEF | #2 | Alidu Seidu | Stade Rennais | 🇫🇷 | 3 | starter,league | false | กองหลังของ Rennes ใน Ligue 1 เร็วและก้าวร้าวในการป้องกัน เป็นกำลังหลักของแนวรับด้านขวาของกานา |
+| DEF | #5 | Alexander Djiku | 待確認 | 🇬🇭 | 4 | starter | false | เซ็นเตอร์แบ็กที่มากประสบการณ์ มั่นคงในการประลองและการสู้บนอากาศ เป็นหนึ่งในผู้นำแนวรับ |
+| DEF | #4 | Mohammed Salisu (injured, out) | — | 🇬🇭 | 3 | squad | false | เซ็นเตอร์แบ็กตัวหลักที่ต้องพักรักษาตัวเนื่องจากบาดเจ็บเอ็น ACL การขาดหายไปของเขาทำให้ความลึกของแนวรับลดลง จำเป็นต้องให้คนอื่นก้าวขึ้นมาแทน |
+| DEF | #3 | Gideon Mensah | AJ Auxerre | 🇫🇷 | 2 | starter,league | false | แบ็กซ้ายใน Ligue 1 ของ Auxerre สมดุลระหว่างการรุกและป้องกัน ดูแลทั้งการบุกขึ้นด้านซ้ายและหน้าที่ป้องกัน |
+| CM | #6 | Thomas Partey | Villarreal | 🇪🇸 | 5 | starter,league,team | false | มิดฟิลด์ La Liga ที่ Villarreal เก่งในการสกัดและจ่ายบอล เป็นหัวใจและผู้จัดระเบียบกลางสนามของกานา |
+| CM | #8 | Elisha Owusu | AJ Auxerre | 🇫🇷 | 4 | starter,league | false | มิดฟิลด์ป้องกันใน Ligue 1 สร้างเกราะป้องกันกลางสนามร่วมกับ Partey ด้วยพื้นที่คุมกว้าง |
+| CM | #10 | Ernest Nuamah | Olympique Lyon | 🇫🇷 | 8 | starter,league | false | มิดฟิลด์รุกของ Lyon กลับมาจากบาดเจ็บ เร็วและมีทักษะกับบอล เป็นแหล่งความสร้างสรรค์ของกลางสนาม |
+| RW | #11 | Antoine Semenyo | Manchester City | 🇬🇧 | 14 | starter,league,team | false | กองหน้า Manchester City ทำ 17 ประตูใน Premier League ฤดูกาลนี้ ความเร็วทะยาน เป็นจุดโฟกัสการรุกที่ยิ่งใหญ่ที่สุดหลังจาก Kudus ขาดหายไป |
+| ST | #9 | Jordan Ayew | Leicester City | 🇬🇧 | 13 | starter,league,team | false | กัปตันทีม กองหน้า Leicester City ทำ 7 แอสซิสต์ในรอบคัดเลือก (อันดับหนึ่งของกลุ่มทั้งหมด) ลงเล่นฟุตบอลโลกครั้งที่สาม มากประสบการณ์ |
+| LW | #7 | Iñaki Williams | Athletic Bilbao | 🇪🇸 | 12 | starter,league,team | false | กองหน้า Bilbao ภัยคุกคามรุกที่เน้นความเร็ว แข็งแกร่งในการวิ่งและการประลองตรง เป็นอาวุธแนวกว้างของกานา |
+| FWD | สำรอง | Abdul Fatawu Issahaku | 待確認 | 🇬🇭 | 9 | squad | true | ปีกที่เน้นความเร็ว เฉียบคมในการเลี้ยงและฝ่าแนวรับ สามารถออกมาจากม้านั่งสำรองเพื่อเปลี่ยนจังหวะด้านขวา |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược cho thấy: Ghana thắng 2.15, hòa 3.50, Panama thắng 3.30
 | ST | #9 | José Fajardo | 待確認 | 🇵🇦 | 11 | starter,team | false | Tiền đạo trung tâm, bén trong khung thành và hiệu quả trong vai trò điểm tựa; điểm kết thúc tấn công của Panama. |
 | FWD | Sub | Cecilio Waterman | Cobresal | 🇨🇱 | 10 | squad | true | Tiền đạo dự bị thiên về tốc độ, tạo sức ép mạnh trong phản công, có khả năng thay đổi trận đấu từ băng ghế. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Orlando Mosquera | Al-Fayha FC | 🇸🇦 | 1 | starter,team | false | ผู้รักษาประตูจากลีกซาอุดีอาระเบีย รีเฟล็กซ์มั่นคง เป็นผู้รักษาประตูตัวหลักในปัจจุบันของปานามา |
+| DEF | #2 | Andrés Andrade | LASK | 🇦🇹 | 3 | starter,league | false | เซ็นเตอร์แบ็ก/กองหลังจากลีกออสเตรีย หนึ่งในแนวรับสามคน มุ่งมั่นในการป้องกัน |
+| DEF | #5 | Fidel Escobar | Deportivo Saprissa | 🇨🇷 | 4 | starter,team | false | เซ็นเตอร์แบ็กทหารผ่านศึกฟุตบอลโลก 2018 มากประสบการณ์และเป็นเสาหลักของแนวรับ |
+| DEF | #6 | José Córdoba | Norwich City | 🇬🇧 | 4 | starter,league | false | เซ็นเตอร์แบ็กใน Championship ที่ Norwich สูงและแข็งแกร่ง โดดเด่นในการประลองและการสู้บนอากาศ เป็นแกนกลางของแนวรับสามคน |
+| WB | #15 | Eric Davis | CD Plaza Amador | 🇵🇦 | 3 | starter,team | false | ทหารผ่านศึกปี 2018 แบ็กปีกซ้าย แข็งแกร่งในการครอสและการแอสซิสต์ สำคัญต่อการบุกด้านซ้ายของปานามา |
+| WB | #17 | César Blackman | Slovan Bratislava | 🇸🇰 | 2 | starter,league | false | แบ็กปีกขวาจากลีกสโลวาเกีย เร็ว กระตือรือร้นในการวิ่งทั้งสองด้านของสนาม |
+| CM | #20 | Aníbal Godoy (C) | San Diego FC | 🇺🇸 | 5 | starter,team | false | กัปตันวัย 36 ปีและผู้ทำสถิติลงเล่น 159 นัด ผู้จัดระเบียบมิดฟิลด์ป้องกันและเป็นจิตวิญญาณของทีมทั้งหมด |
+| CM | #6 | Adalberto Carrasquilla | UNAM Pumas | 🇲🇽 | 7 | starter,league,team | false | รู้จักในนาม Coco หนึ่งในมิดฟิลด์ชั้นนำของ CONCACAF เป็นแกนสร้างสรรค์และตัวเชื่อมระหว่างรุกและรับ |
+| AM | #21 | Yoel Bárcenas | Mazatlán FC | 🇲🇽 | 9 | starter,league | false | มิดฟิลด์รุกใน Liga MX มีทักษะสูง เป็นภัยคุกคามในการเชื่อมเกมในเขตสุดท้ายและยิงระยะไกล |
+| AM | #7 | Andrés Andrade (att.) | 待確認 | 🇵🇦 | 8 | starter | false | บทบาทอิสระในแนวรุก เลี้ยงบอลและความสร้างสรรค์ดี มอบความหลากหลายในเกมรุกของปานามา |
+| ST | #9 | José Fajardo | 待確認 | 🇵🇦 | 11 | starter,team | false | กองหน้ากลาง ทำประตูได้อย่างแม่นยำและมีประสิทธิภาพในฐานะเป้าหมาย เป็นจุดสิ้นสุดของการรุกของปานามา |
+| FWD | สำรอง | Cecilio Waterman | Cobresal | 🇨🇱 | 10 | squad | true | กองหน้าสำรองที่เน้นความเร็ว มีพลังในการวิ่งโต้กลับ สามารถเปลี่ยนเกมจากม้านั่งสำรอง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge |
 |-------|--------|------|-------|-------|
@@ -234,6 +275,18 @@ Tỷ lệ cược cho thấy: Ghana thắng 2.15, hòa 3.50, Panama thắng 3.30
 | 1-2 🇵🇦 | Panama thắng | 8 | #FACC15 | |
 | Khác | — | 15 | #94a3b8 | |
 
+## score_predictions:th
+| score | result | prob | color | badge |
+|-------|--------|------|-------|-------|
+| 1-1 | เสมอ | 18 | #6b7280 | โอกาสสูงสุด |
+| 1-0 🇬🇭 | กานาชนะ | 15 | #F97316 | อันดับสอง |
+| 0-0 | เสมอ | 13 | #6b7280 | |
+| 2-1 🇬🇭 | กานาชนะ | 12 | #F97316 | |
+| 0-1 🇵🇦 | ปานามาชนะ | 10 | #FACC15 | |
+| 2-0 🇬🇭 | กานาชนะ | 9 | #F97316 | |
+| 1-2 🇵🇦 | ปานามาชนะ | 8 | #FACC15 | |
+| อื่นๆ | — | 15 | #94a3b8 | |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược cho thấy: Ghana thắng 2.15, hòa 3.50, Panama thắng 3.30
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Cả hai đội đối kháng cường độ cao với nhiều pha phạm lỗi chiến thuật; số thẻ vàng ở mức trung bình, lối chơi tranh chấp phòng thủ của Panama dễ bị rút thẻ hơn. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Cảm xúc có thể dâng cao dưới áp lực vòng loại, nhưng cả hai đội có kỷ luật khá tốt, khiến thẻ đỏ ít có khả năng xảy ra. |
 | ⚠️ | 20–24 | Dự đoán số lần phạm lỗi/trận | Cuộc chiến tuyến giữa sẽ rất căng thẳng; Panama sẽ dùng lối phạm lỗi để cắt đứt phản công tốc độ của Ghana, dẫn đến số lần phạm lỗi trung bình đến cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 7–10 | จำนวนเตะมุมที่คาดการณ์ | ทั้งสองทีมให้ความสำคัญกับการจัดระเบียบการป้องกัน จำนวนเตะมุมจะอยู่ในระดับปานกลาง ความเร็วแนวกว้างของกานาสามารถสร้างสถานการณ์เตะมุมได้ |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | ทั้งสองทีมแข่งขันด้วยความเข้มข้นสูงและมีฟาวล์ทางยุทธวิธีบ่อยครั้ง จำนวนใบเหลืองจะอยู่ในระดับปานกลาง โดยรูปแบบการกดดันป้องกันของปานามามีแนวโน้มโดนใบเหลืองมากกว่า |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | อารมณ์อาจพุ่งสูงภายใต้แรงกดดันในการผ่านรอบ แต่ทั้งสองทีมมีวินัยที่ดีพอสมควร ทำให้ใบแดงไม่น่าจะเกิดขึ้น |
+| ⚠️ | 20–24 | จำนวนฟาวล์/แมตช์ที่คาดการณ์ | การต่อสู้กลางสนามจะรุนแรง ปานามาจะใช้ฟาวล์เพื่อตัดการโต้กลับด้วยความเร็วของกานา ส่งผลให้จำนวนฟาวล์อยู่ในระดับปานกลางถึงสูง |
 
 ## referee:zh
 - icon: ⚖️
@@ -318,6 +379,19 @@ Tỷ lệ cược cho thấy: Ghana thắng 2.15, hòa 3.50, Panama thắng 3.30
 | TB thẻ đỏ/trận (vòng bảng) | ~0.3 | #EF4444 |
 | TB số lần phạm lỗi/trận | ~22 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: รอการประกาศจาก FIFA
+- country: FIFA นานาชาติ
+- note: ผู้ตัดสินสำหรับแมตช์รอบแบ่งกลุ่มนี้มักจะประกาศโดย FIFA 1–2 วันก่อนเริ่มเกม และยังไม่ได้รับการแต่งตั้ง FIFA 2026 ได้คัดเลือกผู้ตัดสินหัวหน้าทั้งหมด 52 คน ตัวเลขต่อไปนี้แสดงค่าเฉลี่ยรอบแบ่งกลุ่มสำหรับอ้างอิง
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสินรวม (ในทัวร์นาเมนต์) | 52 | #F1F5F9 |
+| เฉลี่ยใบเหลือง/นัด (รอบแบ่งกลุ่ม) | ~3.5 | #EAB308 |
+| เฉลี่ยใบแดง/นัด (รอบแบ่งกลุ่ม) | ~0.3 | #EF4444 |
+| เฉลี่ยฟาวล์/นัด | ~22 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄（首次正式比賽）
 - homeWins: 0
@@ -345,6 +419,13 @@ Tỷ lệ cược cho thấy: Ghana thắng 2.15, hòa 3.50, Panama thắng 3.30
 - draws: 0
 - awayWins: 0
 - note: Đây là lần đầu tiên hai đội gặp nhau trong một trận đấu cạnh tranh chính thức, không có lịch sử nào để tham chiếu. Ghana đối mặt với thách thức từ những đội mạnh khác ở bảng L là Anh và Croatia, khiến trận đấu với Panama này là cơ hội kiếm điểm tối đa; Panama, bất bại trong vòng loại, nhắm đến việc giành điểm đầu tiên — hoặc thậm chí chiến thắng đầu tiên — trong lịch sử World Cup của họ.
+
+## h2h:th
+- title: สถิติพบกัน (การพบกันอย่างเป็นทางการครั้งแรก)
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: นี่คือการแข่งขันอย่างเป็นทางการครั้งแรกระหว่างสองทีม โดยไม่มีสถิติก่อนหน้าให้อ้างอิง กานาเผชิญกับความท้าทายจากทีมแข็งแกร่งอื่นๆ ในกลุ่ม L อย่างอังกฤษและโครเอเชีย ทำให้แมตช์กับปานามานี้เป็นการแข่งขันที่ต้องชนะเพื่อเก็บคะแนนสูงสุด ปานามาที่ไม่แพ้ใครในรอบคัดเลือก มุ่งหวังจะคว้าแต้มครั้งแรกในประวัติศาสตร์ฟุตบอลโลก หรือแม้แต่ชัยชนะครั้งแรก
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -378,6 +459,14 @@ Tỷ lệ cược cho thấy: Ghana thắng 2.15, hòa 3.50, Panama thắng 3.30
 | Thomas Partey | 🇬🇭 CM | Adalberto Carrasquilla | 🇵🇦 CM | Người kiểm soát tuyến giữa Villarreal vs tiền vệ hàng đầu CONCACAF — cuộc tranh giành kiểm soát tuyến giữa là chìa khóa trận đấu. |
 | Jordan Ayew | 🇬🇭 ST | José Córdoba | 🇵🇦 CB | Đội trưởng-tiền đạo vs trung vệ Norwich — kinh nghiệm và khả năng dứt điểm của Ayew đối đầu hạt nhân hàng thủ Panama. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Antoine Semenyo | 🇬🇭 RW | Eric Davis | 🇵🇦 LWB | กองหน้าความเร็วของ Manchester City vs แบ็กปีกซ้ายของปานามา — คลื่นความเร็วด้านขวาของกานาเป็นช่องทางรุกหลัก |
+| Iñaki Williams | 🇬🇭 LW | César Blackman | 🇵🇦 RWB | นักรุกที่เน้นความเร็วของ Bilbao vs แบ็กปีกขวาของปานามา — การต่อสู้ความเร็วแนวกว้างด้านนี้กำหนดระดับภัยคุกคามจากด้านซ้ายของกานา |
+| Thomas Partey | 🇬🇭 CM | Adalberto Carrasquilla | 🇵🇦 CM | ผู้ควบคุมกลางสนามของ Villarreal vs มิดฟิลด์ชั้นนำของ CONCACAF — การแข่งขันเพื่อควบคุมกลางสนามคือกุญแจสำคัญของแมตช์นี้ |
+| Jordan Ayew | 🇬🇭 ST | José Córdoba | 🇵🇦 CB | กัปตัน-กองหน้า vs เซ็นเตอร์แบ็ก Norwich — ประสบการณ์และความสามารถในการยิงของ Ayew เผชิญกับแกนกลางแนวรับของปานามา |
+
 ## summary_verdict:zh
 迦納攻擊線速度十足，Semenyo（曼城）、Iñaki Williams（畢爾包）、Jordan Ayew（萊斯特城）構成快速直接的鋒線，Partey 坐鎮中場。但核心創造者 Kudus 因傷報銷、Salisu 十字韌帶斷裂，組織創造力與後防深度均受挫，整體攻堅手段較單一。
 
@@ -405,6 +494,13 @@ Hàng công Ghana có tốc độ cao, với Semenyo (Man City), Iñaki Williams
 Panama vượt qua vòng loại bất bại, với kỷ luật phòng thủ có tổ chức; đội trưởng 36 tuổi Godoy và hạt nhân sáng tạo Carrasquilla tạo nền tảng tuyến giữa vững chắc, trong khi sơ đồ 3-4-2-1 được xây dựng dựa trên tính chắc chắn phòng thủ và phản công. Sức bền của họ trong các giải đấu lớn gần đây (á quân Gold Cup, tứ kết Copa América) xác nhận sức mạnh tập thể, dù chất lượng cá nhân nhỉnh kém hơn đôi chút.
 
 Dự đoán: Hòa 1-1. Tốc độ của Ghana có thể tạo ra cơ hội nhưng thiếu khả năng liên kết của Kudus, khó phá vỡ hiệu quả hàng phòng thủ dày đặc Panama; phản công và bóng cố định của Panama cũng là mối đe dọa. Hai đội ngang sức ngang tài, hòa là kết quả hợp lý nhất — điểm khởi đầu chấp nhận được cho cả hai trong hành trình giành quyền đi tiếp.
+
+## summary_verdict:th
+แนวรุกของกานาเต็มไปด้วยความเร็ว โดย Semenyo (Man City), Iñaki Williams (Bilbao) และ Jordan Ayew (Leicester City) สร้างแนวหน้าสามที่รวดเร็วและตรงไปตรงมา ได้รับการสนับสนุนจาก Partey ที่ควบคุมกลางสนาม อย่างไรก็ตาม เมื่อ Kudus นักสร้างสรรค์คนสำคัญต้องพักทั้งฤดูกาลเพราะบาดเจ็บ และ Salisu ต้องพักเพราะเอ็น ACL ฉีก ทั้งความสามารถในการสร้างสรรค์และความลึกของแนวรับลดลง ทำให้แนวทางการรุกของกานาค่อนข้างหน้าเดียว
+
+ปานามาผ่านรอบคัดเลือกโดยไม่แพ้ใคร ด้วยวินัยการป้องกันที่มีระเบียบ กัปตัน Godoy วัย 36 ปีและแกนสร้างสรรค์ Carrasquilla สร้างฐานกลางสนามที่มั่นคง ขณะที่ระบบ 3-4-2-1 สร้างขึ้นบนความมั่นคงในการป้องกันและการโต้กลับ ความยืดหยุ่นของพวกเขาในทัวร์นาเมนต์สำคัญล่าสุด (รองแชมป์ Gold Cup รอบก่อนรองชนะเลิศ Copa América) ยืนยันถึงความแข็งแกร่งของทีม แม้คุณภาพส่วนบุคคลจะตามมาเล็กน้อย
+
+ทำนาย: เสมอ 1-1 ความเร็วของกานาสามารถสร้างโอกาสได้แต่ขาดการเชื่อมเกมของ Kudus ทำให้ยากที่จะทำลายแนวรับที่หนาแน่นของปานามาได้อย่างมีประสิทธิภาพ การโต้กลับและลูกตั้งเตะของปานามาก็เป็นภัยคุกคามเช่นกัน สองทีมสูสีกัน และการเสมอเป็นผลลัพธ์ที่สมเหตุสมผลที่สุด — จุดเริ่มต้นที่ยอมรับได้สำหรับทั้งสองทีมในแง่ของการผ่านรอบ
 
 ## observations:zh
 | title | detail |
@@ -445,3 +541,13 @@ Dự đoán: Hòa 1-1. Tốc độ của Ghana có thể tạo ra cơ hội như
 | 🛡️ Vòng loại bất bại của Panama | 5 thắng và 3 hòa trong vòng loại CONCACAF không thua — kỷ luật và tổ chức phòng thủ là nền tảng của họ. |
 | 👴 Hai đội trưởng kỳ cựu | Ayew của Ghana và Godoy 36 tuổi của Panama (159 lần ra sân) là linh hồn của các đội tương ứng — cuộc chiến kinh nghiệm. |
 | 🏆 Cuộc chiến điểm then chốt ở bảng L | Cả hai đội đều xem Anh và Croatia là thách thức lớn hơn; cuộc đối đầu trực tiếp này là chìa khóa cho hy vọng đi tiếp của họ. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| ⚡ ความเร็วของกานา — ดาบสองคม | ความเร็วทะยานของ Semenyo และ Iñaki Williams คืออาวุธหลักของกานาในการทำลายแนวรับที่หนาแน่น |
+| 🤕 Kudus ขาดหาย — ความสูญเสียครั้งสำคัญ | Kudus (Tottenham) นักสร้างสรรค์หลักต้องพักทั้งฤดูกาล ความสามารถสร้างสรรค์ของกานาในเขตสุดท้ายลดลงอย่างมาก |
+| 🧠 Carrasquilla — แกนสร้างสรรค์ | รู้จักในนาม Coco หนึ่งในมิดฟิลด์ชั้นนำของ CONCACAF — การรุกของปานามาจะทำงานได้หรือไม่ขึ้นอยู่กับเขาทั้งหมด |
+| 🛡️ ปานามาผ่านรอบคัดเลือกโดยไม่แพ้ใคร | 5 ชนะและ 3 เสมอในรอบคัดเลือก CONCACAF โดยไม่แพ้ — วินัยและการจัดระเบียบการป้องกันคือรากฐานของพวกเขา |
+| 👴 กัปตันทีมผู้ทรงประสบการณ์สองคน | Ayew ของกานาและ Godoy วัย 36 ปีของปานามา (159 นัด) คือจิตวิญญาณของทีมตามลำดับ — การต่อสู้แห่งประสบการณ์ |
+| 🏆 การต่อสู้แบบสำคัญในกลุ่ม L | ทั้งสองทีมมองว่าอังกฤษและโครเอเชียเป็นความท้าทายที่ยิ่งใหญ่กว่า การเผชิญหน้าโดยตรงนี้คือกุญแจสำคัญต่อความหวังในการผ่านรอบ |

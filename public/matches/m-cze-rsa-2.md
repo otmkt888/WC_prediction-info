@@ -34,6 +34,9 @@ Czechia return to the World Cup for the first time in 20 years (since 2006), led
 ## home_note:vi
 Czechia trở lại World Cup sau 20 năm vắng mặt (kể từ 2006), dưới sự dẫn dắt của HLV 74 tuổi Miroslav Koubek, vượt qua hai loạt luân lưu play-off. Với sơ đồ 3-4-2-1, ngôi sao số một là tiền đạo Bayer Leverkusen Patrik Schick (26 bàn cho ĐTQG), Tomáš Souček (West Ham) và đội trưởng Ladislav Krejčí tạo nên bộ khung, Pavel Sulc (Lyon) là nhạc trưởng. Họ thua 1-2 ở trận ra quân trước Hàn Quốc và rất cần điểm ở trận này. Khai cuộc 00:00 GMT+8 ngày 19/6 tại Atlanta.
 
+## home_note:th
+สาธารณรัฐเช็กกลับสู่ฟุตบอลโลกเป็นครั้งแรกในรอบ 20 ปี (นับตั้งแต่ปี 2006) ภายใต้การนำทีมของโค้ช Miroslav Koubek วัย 74 ปี โดยผ่านการยิงจุดโทษในรอบเพลย์ออฟถึงสองครั้ง ด้วยรูปแบบ 3-4-2-1 นักเตะดาวเด่นคือกองหน้า Bayer Leverkusen Patrik Schick (26 ประตูในระดับนานาชาติ) โดยมี Tomáš Souček จาก West Ham และกัปตัน Ladislav Krejčí เป็นแกนกลางทีม ส่วน Pavel Sulc จาก Lyon ทำหน้าที่เป็นผู้สร้างสรรค์เกม ทีมแพ้เกมเปิดฤดูกาล 1-2 ให้กับเกาหลีใต้และต้องการแต้มในแมตช์นี้อย่างเร่งด่วน เริ่มเตะ 00:00 GMT+8 วันที่ 19 มิถุนายน ที่เมือง Atlanta
+
 ## away_note:zh
 南非由比利時名帥 Hugo Broos 執教，2023 非洲盃曾闖進四強，本屆世界盃睽違多年重返。陣容以本土豪門 Mamelodi Sundowns 與 Orlando Pirates 班底為主，門將兼隊長 Ronwen Williams 為撲點英雄，伯恩利前鋒 Lyle Foster 為旅歐主力鋒線，年輕翼鋒 Mofokeng、Appollis 速度突出。首戰 0-2 不敵地主墨西哥，急需反彈。
 
@@ -46,6 +49,9 @@ South Africa are coached by Belgian veteran Hugo Broos, who took them to the 202
 ## away_note:vi
 Nam Phi được dẫn dắt bởi HLV kỳ cựu người Bỉ Hugo Broos, người đã đưa họ vào bán kết AFCON 2023, và trở lại World Cup sau nhiều năm vắng bóng. Đội hình chủ yếu xây quanh các ông lớn nội địa Mamelodi Sundowns và Orlando Pirates, với thủ môn kiêm đội trưởng Ronwen Williams là người hùng cản phạt đền, Lyle Foster (Burnley) là mũi nhọn chơi bóng ở châu Âu, cùng các tiền vệ cánh trẻ tốc độ Mofokeng và Appollis. Họ thua 0-2 trước chủ nhà Mexico ở trận đầu và cần một sự đáp trả.
 
+## away_note:th
+แอฟริกาใต้มีโค้ชชาวเบลเยียมที่มากประสบการณ์อย่าง Hugo Broos คุมทีม ผู้ที่พาพวกเขาสู่รอบรองชนะเลิศ AFCON 2023 และกลับสู่ฟุตบอลโลกหลังห่างหายมานาน ทีมสร้างขึ้นจากแกนหลักของสโมสรในประเทศอย่าง Mamelodi Sundowns และ Orlando Pirates โดยมีผู้รักษาประตูและกัปตัน Ronwen Williams เป็นวีรบุรุษจุดโทษ Lyle Foster จาก Burnley เป็นกองหน้าที่เล่นในยุโรป และกองหน้าปีกอายุน้อยที่มีความเร็วอย่าง Mofokeng และ Appollis ทีมแพ้เกมเปิดสนาม 0-2 ต่อเจ้าภาพเม็กซิโก และต้องการตอบสนองในครั้งนี้
+
 ## odds_note:zh
 賠率顯示：捷克勝 2.40、平局 3.10、南非勝 3.20。這是一場勢均力敵的對決，雙方首戰皆輸球，本場形同「六分之戰」。捷克身體與定位球佔優，南非速度與整體性見長，賠率反映誰都可能贏，平局亦是熱門結果。
 
@@ -57,6 +63,9 @@ The odds read: Czechia win 2.40, draw 3.10, South Africa win 3.20. This is an ev
 
 ## odds_note:vi
 Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây là cuộc đối đầu cân tài cân sức, cả hai đều thua trận ra quân, biến trận này thành trận "sáu điểm". Czechia nhỉnh hơn về thể hình và bóng cố định, trong khi Nam Phi mạnh về tốc độ và tính tổ chức; tỷ lệ cược cho thấy đội nào cũng có thể thắng, và hòa cũng là kết quả được ưa chuộng.
+
+## odds_note:th
+อัตราต่อรอง: สาธารณรัฐเช็กชนะ 2.40, เสมอ 3.10, แอฟริกาใต้ชนะ 3.20 นี่คือการแข่งขันที่สูสี โดยทั้งสองทีมแพ้เกมเปิดฤดูกาล ทำให้แมตช์นี้กลายเป็น "เกมหกแต้ม" สาธารณรัฐเช็กมีความได้เปรียบด้านร่างกายและลูกเตะมุม ในขณะที่แอฟริกาใต้โดดเด่นเรื่องความเร็วและความสามัคคีในทีม อัตราต่อรองสะท้อนว่าทีมใดก็สามารถชนะได้ โดยการเสมอก็เป็นผลลัพธ์ที่มีโอกาสสูงเช่นกัน
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây 
 | ST | #10 | Patrik Schick | Bayer Leverkusen | 🇩🇪 | 16 | starter,team,league | false | Chân sút số một, 26 bàn cho ĐTQG, mối đe dọa lớn khi chớp thời cơ và không chiến, ứng viên Vua phá lưới. |
 | FWD | 備援 | Adam Hložek | Hoffenheim | 🇩🇪 | 8 | league,squad | true | Tiền đạo toàn năng Hoffenheim, có thể đổi sơ đồ từ ghế dự bị, tốc độ và dứt điểm. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Matěj Kovář | Bayer Leverkusen | 🇩🇪 | 1 | starter,league | false | ผู้รักษาประตู Leverkusen ปฏิกิริยาตอบสนองมั่นคง เป็นผู้บัญชาการแนวรับ |
+| DEF | #21 | Štěpán Chaloupek | Slavia Prague | 🇨🇿 | 3 | starter | false | เซ็นเตอร์แบ็ก Slavia Prague อยู่ฝั่งขวาของแนวรับสามคน อายุน้อยและแข็งแกร่งในการดวล |
+| DEF | #4 | Robin Hranáč | Hoffenheim | 🇩🇪 | 4 | starter,league | false | เซ็นเตอร์แบ็ก Hoffenheim ผู้บัญชาการกลางแนวรับ เชื่อถือได้ทั้งเรื่องการส่งบอลและการแข่งทางอากาศ |
+| DEF | #7 | Ladislav Krejčí | Wolverhampton | 🇬🇧 | 5 | starter,team,league | false | กัปตันและผู้นำแนวรับ ตัวหลักของ Wolves อันตรายจากลูกเตะมุม |
+| DEF | #5 | Vladimír Coufal | Hoffenheim | 🇩🇪 | 4 | starter,league | false | วิงแบ็กขวา มีประสบการณ์และรุกหนัก การครอสจากแนวข้างคืออาวุธของเขา |
+| MID | #22 | Tomáš Souček | West Ham | 🇬🇧 | 11 | starter,team,league | false | แกนกลางเส้นกลาง West Ham อันตรายเมื่อบุกเข้าโหม่งในกรอบเขตโทษ เครื่องยนต์ของทีม |
+| MID | #14 | Alexandr Sojka | Viktoria Plzeň | 🇨🇿 | 4 | starter | false | มิดฟิลด์ Plzeň ครอบคลุมพื้นที่และสกัดบอล เป็นโล่กลางสนาม |
+| DEF | #17 | Jaroslav Zelený | Sparta Prague | 🇨🇿 | 3 | starter | false | วิงแบ็กซ้าย ทำได้ทั้งรุกและรับ บุกขึ้นและป้องกันทางฝั่งซ้าย |
+| AM | #15 | Lukáš Provod | Slavia Prague | 🇨🇿 | 7 | starter | false | กองหน้าเงา เก่งเรื่องการเลี้ยงบอลและยิงระยะไกล จุดโจมตีของสาธารณรัฐเช็ก |
+| AM | #16 | Pavel Šulc | Olympique Lyon | 🇫🇷 | 9 | starter,team,league | false | นักเตะยอดเยี่ยมแห่งปีของสาธารณรัฐเช็ก ศูนย์กลางสร้างสรรค์เกมของ Lyon แหล่งเชื่อมเกมและความสร้างสรรค์ |
+| ST | #10 | Patrik Schick | Bayer Leverkusen | 🇩🇪 | 16 | starter,team,league | false | กองหน้าอันดับหนึ่ง 26 ประตูในระดับนานาชาติ อันตรายมากทั้งการฉวยโอกาสและการโหม่ง ผู้ท้าชิงรางวัลดาวซัลโว |
+| FWD | สำรอง | Adam Hložek | Hoffenheim | 🇩🇪 | 8 | league,squad | true | กองหน้าอเนกประสงค์ Hoffenheim สามารถเปลี่ยนรูปแบบจากม้านั่งสำรอง ความเร็วและการยิงประตู |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây 
 | ST | #9 | Lyle Foster | Burnley | 🇬🇧 | 12 | starter,team,league | false | Tiền đạo Burnley, mũi nhọn chơi bóng ở châu Âu, làm tường và dứt điểm, ngọn giáo của Nam Phi. |
 | MID | 備援 | Themba Zwane | Mamelodi Sundowns | 🇿🇦 | 6 | squad | true | Tiền vệ tấn công kỳ cựu, sáng tạo mạnh, lựa chọn thay đổi sơ đồ từ ghế dự bị. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Ronwen Williams | Mamelodi Sundowns | 🇿🇦 | 1 | starter,team | false | กัปตันและผู้รักษาประตู วีรบุรุษจุดโทษ AFCON 2023 ผู้นำแนวรับ |
+| DEF | #2 | Khuliso Mudau | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | แบ็กขวา รุกหนัก มั่นคงทั้งรุกและรับตามแนวข้าง |
+| DEF | #5 | Ime Okon | Hannover 96 | 🇩🇪 | 3 | starter,league | false | เซ็นเตอร์แบ็กที่เล่นในเยอรมนี อายุน้อยและตัวสูง แข็งแกร่งทางอากาศและร่างกาย |
+| DEF | #14 | Mbekezeli Mbokazi | Chicago Fire | 🇺🇸 | 3 | starter | false | เซ็นเตอร์แบ็ก อายุน้อยและมีศักยภาพ เสริมแนวรับ |
+| DEF | #6 | Aubrey Modiba | Mamelodi Sundowns | 🇿🇦 | 4 | starter | false | แบ็กซ้าย มีประสบการณ์ ทำได้ทั้งรุกและรับ แกนหลักฝั่งซ้าย |
+| MID | #8 | Jayden Adams | Mamelodi Sundowns | 🇿🇦 | 4 | starter | false | มิดฟิลด์รับ ครอบคลุมพื้นที่และส่งบอล ปกป้องเส้นกลาง |
+| MID | #13 | Nkosinathi Sibisi | Orlando Pirates | 🇿🇦 | 3 | starter | false | มิดฟิลด์/แบ็ก ดวลตัวและสกัดบอล รักษาสมดุลระหว่างกลางสนามและแนวรับ |
+| MID | #10 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 8 | starter,team | false | แกนกลางเส้นกลาง ลงเล่นให้ทีมชาติมากกว่า 50 ครั้ง เก่งทั้งยิงระยะไกลและบัญชาการเกม |
+| RW | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | กองหน้าปีกขวา การเลี้ยงบอลและความเร็วโดดเด่น จุดระเบิดความสามารถตามแนวข้าง |
+| LW | #11 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 10 | starter,team | false | กองหน้าปีกดาวรุ่ง ความเร็วและความสร้างสรรค์ แกนหลักอนาคตของแอฟริกาใต้ |
+| ST | #9 | Lyle Foster | Burnley | 🇬🇧 | 12 | starter,team,league | false | กองหน้า Burnley จุดพักบอลที่เล่นในยุโรป ทำผู้เล่นพักและยิงประตู หัวหอกของแอฟริกาใต้ |
+| MID | สำรอง | Themba Zwane | Mamelodi Sundowns | 🇿🇦 | 6 | squad | true | มิดฟิลด์โจมตีที่มีประสบการณ์ ความสร้างสรรค์สูง ตัวเลือกเปลี่ยนรูปแบบจากม้านั่ง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây 
 | 2-0 🇨🇿 | Czechia Thắng | 8 | #1B458F | | home |
 | Khác | — | 18 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 1-1 | เสมอ | 19 | #6b7280 | โอกาสสูงสุด | draw |
+| 1-0 🇨🇿 | สาธารณรัฐเช็กชนะ | 14 | #1B458F | อันดับสอง | home |
+| 0-1 🇿🇦 | แอฟริกาใต้ชนะ | 12 | #007A4D | | away |
+| 2-1 🇨🇿 | สาธารณรัฐเช็กชนะ | 11 | #1B458F | | home |
+| 1-2 🇿🇦 | แอฟริกาใต้ชนะ | 9 | #007A4D | | away |
+| 0-0 | เสมอ | 9 | #6b7280 | | draw |
+| 2-0 🇨🇿 | สาธารณรัฐเช็กชนะ | 8 | #1B458F | | home |
+| อื่นๆ | — | 18 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -266,6 +319,14 @@ Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây 
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Trọng tài quyết đoán ở giải lớn; trận "sáu điểm" căng thẳng tiềm ẩn nguy cơ thẻ đỏ hoặc hai thẻ vàng. |
 | ⚠️ | 24–28 | Số phạm lỗi/trận của trọng tài | Cả hai chơi thể lực với các pha tranh chấp giữa sân quyết liệt, dẫn đến số lần phạm lỗi cao. |
 
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–11 | จำนวนเตะมุมที่คาดการณ์ | ความได้เปรียบของสาธารณรัฐเช็กด้านร่างกายและลูกเซตพีซทำให้ได้เตะมุมมากกว่า ส่วนแอฟริกาใต้เน้นตีโต้ตอบจึงได้น้อยกว่า |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | กรรมการ (รอประกาศ) หากใช้มาตรฐานเข้มงวด เมื่อทั้งสองทีมต้องการแต้ม การดวลกลางสนามที่ดุเดือดจะสะสมใบเหลือง |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | กรรมการที่เด็ดขาดในทัวร์นาเมนต์ใหญ่ เกมหกแต้มที่ตึงเครียดมีความเสี่ยงเล็กน้อยที่จะได้รับใบแดงหรือใบเหลืองใบที่สอง |
+| ⚠️ | 24–28 | เฉลี่ยฟาวล์/นัด | ทั้งสองทีมเล่นหนักด้วยการดวลกลางสนามที่ดุเดือด นำไปสู่จำนวนฟาวล์สูง |
+
 ## referee:zh
 - icon: ⚖️
 - name: 待公布 (TBC)
@@ -280,6 +341,66 @@ Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây 
 | 紅牌總數 | 待公布 | #EF4444 |
 | 均牌/場 | 待公布 | #60a5fa |
 | 均犯規/場 | 待公布 | #60a5fa |
+
+## referee:en
+- icon: ⚖️
+- name: TBC
+- country: 🏳️ FIFA to appoint before match
+- note: The referee for this match has not yet been officially announced by FIFA. World Cup group stage referees are typically appointed 1–2 days before kick-off. In general, FIFA international referees tend to be decisive in controlling a "six-pointer" group stage match, strict on tactical fouls and time-wasting — both sides should be mindful of yellow card accumulation and suspension risk. All statistics will be updated once the appointment is confirmed.
+
+| stat | value | color |
+|------|-------|-------|
+| Matches Officiated | TBC | #F1F5F9 |
+| Total Yellow Cards | TBC | #EAB308 |
+| Yellow-Reds | TBC | orange |
+| Total Red Cards | TBC | #EF4444 |
+| Avg Cards/Match | TBC | #60a5fa |
+| Avg Fouls/Match | TBC | #60a5fa |
+
+## referee:zh-cn
+- icon: ⚖️
+- name: 待公布 (TBC)
+- country: 🏳️ FIFA 将于赛前指派
+- note: 本场主裁判尚未由 FIFA 正式公布。世界杯小组赛裁判通常于赛前 1–2 天指派。一般而言，FIFA 国际级裁判在小组赛「六分之战」中倾向果断控场，对战术犯规与拖延时间出牌较严，双方需留意黄牌累积与停赛风险。实际数据待裁判确认后更新。
+
+| stat | value | color |
+|------|-------|-------|
+| 执法场次 | 待公布 | #F1F5F9 |
+| 黄牌总数 | 待公布 | #EAB308 |
+| 黄红牌 | 待公布 | orange |
+| 红牌总数 | 待公布 | #EF4444 |
+| 均牌/场 | 待公布 | #60a5fa |
+| 均犯规/场 | 待公布 | #60a5fa |
+
+## referee:vi
+- icon: ⚖️
+- name: TBC
+- country: 🏳️ FIFA sẽ chỉ định trước trận
+- note: Trọng tài cho trận đấu này chưa được FIFA chính thức công bố. Trọng tài vòng bảng World Cup thường được chỉ định 1–2 ngày trước khi bắt đầu. Nhìn chung, trọng tài cấp FIFA quốc tế có xu hướng quyết đoán trong trận "sáu điểm", nghiêm khắc với các pha phạm lỗi chiến thuật và câu giờ — cả hai đội nên chú ý tích lũy thẻ vàng và nguy cơ treo giò. Tất cả số liệu sẽ được cập nhật sau khi xác nhận.
+
+| stat | value | color |
+|------|-------|-------|
+| Số trận điều hành | TBC | #F1F5F9 |
+| Tổng thẻ vàng | TBC | #EAB308 |
+| Thẻ vàng-đỏ | TBC | orange |
+| Tổng thẻ đỏ | TBC | #EF4444 |
+| TB thẻ/trận | TBC | #60a5fa |
+| TB lỗi/trận | TBC | #60a5fa |
+
+## referee:th
+- icon: ⚖️
+- name: TBC
+- country: 🏳️ FIFA จะแต่งตั้งก่อนแมตช์
+- note: กรรมการสำหรับแมตช์นี้ยังไม่ได้รับการประกาศอย่างเป็นทางการจาก FIFA กรรมการรอบแบ่งกลุ่มฟุตบอลโลกมักได้รับการแต่งตั้ง 1–2 วันก่อนเริ่มเตะ โดยทั่วไปกรรมการระดับนานาชาติ FIFA มีแนวโน้มที่จะเด็ดขาดในการควบคุม "เกมหกแต้ม" เข้มงวดกับการฟาวล์เชิงยุทธวิธีและการประวิงเวลา ทั้งสองทีมควรระวังการสะสมใบเหลืองและความเสี่ยงถูกแบน สถิติทั้งหมดจะอัปเดตเมื่อได้รับการยืนยัน
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | TBC | #F1F5F9 |
+| ใบเหลืองรวม | TBC | #EAB308 |
+| ใบเหลือง-แดง | TBC | orange |
+| ใบแดงรวม | TBC | #EF4444 |
+| เฉลี่ยใบ/นัด | TBC | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | TBC | #60a5fa |
 
 ## h2h:zh
 - title: 歷史交鋒紀錄
@@ -308,6 +429,13 @@ Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây 
 - draws: 0
 - awayWins: 0
 - note: Hai đội gần như không có lịch sử đối đầu chính thức, khiến đây là cuộc đọ sức xa lạ. Czechia thua 1-2 trước Hàn Quốc, Nam Phi thua 0-2 trước chủ nhà Mexico, cả hai đều trắng tay xếp cuối; đây là trận "sáu điểm" có thể định đoạt cơ hội đi tiếp.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: สองทีมแทบไม่มีประวัติการแข่งขันอย่างเป็นทางการ ทำให้นี่เป็นการดวลที่ไม่คุ้นเคย สาธารณรัฐเช็กแพ้เกมเปิดฤดูกาล 1-2 ต่อเกาหลีใต้ และแอฟริกาใต้แพ้ 0-2 ต่อเจ้าภาพเม็กซิโก ทั้งสองทีมไม่มีแต้มและอยู่ก้นตาราง นี่คือ "เกมหกแต้ม" ที่อาจตัดสินความหวังในการผ่านรอบ
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -341,6 +469,14 @@ Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây 
 | Tomáš Souček | 🇨🇿 MID | Teboho Mokoena | 🇿🇦 MID | Động cơ West Ham đối đầu hạt nhân tuyến giữa Nam Phi, cuộc chiến giành quyền kiểm soát giữa sân. |
 | Relebohile Mofokeng | 🇿🇦 LW | Vladimír Coufal | 🇨🇿 RWB | Ngôi sao tốc độ Nam Phi đối đầu hậu vệ cánh kỳ cựu Czechia, cuộc đấu bên cánh đáng xem. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Patrik Schick | 🇨🇿 ST | Ime Okon | 🇿🇦 CB | ผู้ท้าชิงดาวซัลโวจาก Leverkusen ปะทะเซ็นเตอร์แบ็กอายุน้อยของแอฟริกาใต้ การฉวยโอกาสและการดวลทางอากาศ สำคัญต่อการทำประตูของสาธารณรัฐเช็ก |
+| Lyle Foster | 🇿🇦 ST | Robin Hranáč | 🇨🇿 CB | จุดพักบอลของ Burnley ปะทะเซ็นเตอร์แบ็กของ Hoffenheim แนวรุกแอฟริกาใต้จะตั้งหลักได้หรือไม่ขึ้นอยู่กับการดวลนี้ |
+| Tomáš Souček | 🇨🇿 MID | Teboho Mokoena | 🇿🇦 MID | เครื่องยนต์ West Ham ปะทะแกนกลางเส้นกลางแอฟริกาใต้ การต่อสู้เพื่อครองกลางสนาม |
+| Relebohile Mofokeng | 🇿🇦 LW | Vladimír Coufal | 🇨🇿 RWB | ดาวเด่นความเร็วแอฟริกาใต้ ปะทะวิงแบ็กทหารผ่านศึกของสาธารณรัฐเช็ก การดวลตามแนวข้างน่าจับตามอง |
+
 ## summary_verdict:zh
 這是一場 A 組「六分之戰」。捷克時隔 20 年重返世界盃，靠 Schick、Souček、Krejčí 的歐洲頂級身體與定位球能力立足，但首戰不敵南韓暴露進攻效率不足。
 
@@ -369,6 +505,13 @@ Nam Phi nhìn chung trẻ trung và nhanh, với sức công phá của Mofokeng
 
 Dự đoán: Hòa 1-1. Hai đội cân tài cân sức và đều mang áp lực từ thất bại ra quân, hứa hẹn một trận đấu thận trọng và cân bằng. Czechia có thể ghi bàn từ bóng cố định, Nam Phi gỡ hòa từ pha phản công nhanh; chia điểm không làm hài lòng đội nào nhưng là kết quả hợp lý nhất. Trọng tài chưa được FIFA xác nhận; một trọng tài nghiêm khắc có thể đồng nghĩa số thẻ vàng cao.
 
+## summary_verdict:th
+นี่คือ "เกมหกแต้ม" ของกลุ่ม A สาธารณรัฐเช็กกลับสู่ฟุตบอลโลกหลังจาก 20 ปี โดยพึ่งพาความแข็งแกร่งทางร่างกายระดับยุโรปและความสามารถเรื่องลูกเซตพีซของ Schick, Souček และ Krejčí แต่ความพ่ายแพ้ในเกมเปิดตัวต่อเกาหลีใต้เปิดเผยถึงการขาดประสิทธิภาพในการโจมตี
+
+แอฟริกาใต้โดยรวมเป็นทีมอายุน้อยและเร็ว โดยมีพลังพุ่งของ Mofokeng และ Appollis รวมถึงการพักบอลของ Foster เป็นอาวุธตีโต้ตอบ แต่การแพ้ 0-2 ต่อเม็กซิโกแสดงให้เห็นว่าการยิงประตูต้องได้รับการพัฒนา และพวกเขาขาดประสบการณ์ฟุตบอลโลก
+
+คาดการณ์: เสมอ 1-1 ทั้งสองทีมมีความสูสีและต่างแบกรับแรงกดดันจากความพ่ายแพ้ในเกมเปิดตัว ชี้ให้เห็นว่าจะเป็นการแข่งขันที่ระมัดระวังและสมดุล สาธารณรัฐเช็กอาจทำประตูจากลูกเซตพีซ โดยแอฟริกาใต้ตีเสมอจากการบุกโจมตีอย่างรวดเร็ว การแบ่งแต้มไม่ทำให้ทีมใดพอใจแต่เป็นผลลัพธ์ที่สมเหตุสมผลที่สุด กรรมการยังไม่ได้รับการยืนยันจาก FIFA กรรมการที่เข้มงวดอาจหมายถึงจำนวนใบเหลืองที่สูง
+
 ## observations:zh
 | title | detail |
 |-------|--------|
@@ -392,7 +535,7 @@ Dự đoán: Hòa 1-1. Hai đội cân tài cân sức và đều mang áp lực
 ## observations:zh-cn
 | title | detail |
 |-------|--------|
-| ⚔️ 六分之战 | 双方皆输首战，本场攸关晋级命脉，输球几乎告别 16 强。 |
+| ⚔️ 六分之战 | 双方皆输首战，本场攸关晋级命脈，输球几乎告别 16 强。 |
 | 🎯 Schick 金靴候选 | 勒沃库森中锋国家队 26 球，抢点与头槌是捷克最大破门希望。 |
 | ⚡ Mofokeng 新星 | 海盗年轻翼锋，速度与盘带是南非反击撕裂防线的关键。 |
 | 🧤 Williams 门神 | 南非队长兼扑点英雄，能否再现非洲杯神勇扑救是保平关键。 |
@@ -408,3 +551,13 @@ Dự đoán: Hòa 1-1. Hai đội cân tài cân sức và đều mang áp lực
 | 🧤 Williams bức tường | Đội trưởng kiêm người hùng cản phạt đền của Nam Phi — việc anh tái hiện màn trình diễn AFCON là chìa khóa cho một trận hòa. |
 | 📏 Trọng tài chờ xác nhận | Trọng tài chưa được FIFA xác nhận; nếu nghiêm khắc, cần đề phòng thẻ vàng và nguy cơ treo giò trong trận đấu quyết liệt. |
 | 🏋️ Cuộc chiến bóng cố định | Chiều cao và khả năng bóng cố định cho Czechia lợi thế; phòng không và phòng ngự bóng hai là bài toán của Nam Phi. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| ⚔️ เกมหกแต้ม | ทั้งสองทีมแพ้เกมเปิดตัว แมตช์นี้สำคัญต่อการผ่านรอบ และการแพ้แทบจะสิ้นสุดความหวังในรอบ 16 ทีม |
+| 🎯 Schick ผู้ท้าชิงดาวซัลโว | กองหน้า Leverkusen มี 26 ประตูในระดับนานาชาติ การฉวยโอกาสและการโหม่งของเขาคือภัยคุกคามการทำประตูสูงสุดของสาธารณรัฐเช็ก |
+| ⚡ Mofokeng ดาวรุ่ง | ความเร็วและการเลี้ยงบอลของกองหน้าปีกอายุน้อยจาก Pirates คือกุญแจสำคัญในการตีโต้ตอบเพื่อฉีกแนวรับของแอฟริกาใต้ |
+| 🧤 Williams กำแพงเหล็ก | กัปตันและวีรบุรุษจุดโทษของแอฟริกาใต้ การที่เขาจะทำซ้ำความสำเร็จ AFCON ได้หรือไม่คือกุญแจสำคัญของการเสมอ |
+| 📏 กรรมการรอประกาศ | เจ้าหน้าที่ยังไม่ได้รับการยืนยันจาก FIFA หากเข้มงวด ระวังใบเหลืองและความเสี่ยงถูกแบนในการต่อสู้ที่ดุเดือด |
+| 🏋️ การต่อสู้ลูกเซตพีซ | ความสูงและความสามารถเรื่องลูกเซตพีซของสาธารณรัฐเช็กให้ความได้เปรียบ การป้องกันทางอากาศและลูกสอง คือความท้าทายของแอฟริกาใต้ |

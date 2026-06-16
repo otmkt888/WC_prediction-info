@@ -34,6 +34,9 @@ Austria return to the World Cup for the first time in 28 years (since 1998), sha
 ## home_note:vi
 Áo trở lại World Cup sau 28 năm vắng mặt (kể từ 1998) dưới sự dẫn dắt của HLV tài ba Ralf Rangnick. Tại vòng loại, họ ghi 22 bàn chỉ để thủng lưới 4 bàn trong 8 trận, với lối pressing tầm cao sắc bén. Đội hình 4-2-3-1 được dẫn dắt bởi chân sút vĩ đại nhất lịch sử đội tuyển Arnautovic (37 tuổi), cùng cặp tiền vệ động cơ mạnh mẽ Laimer (Bayern) + Seiwald (Leipzig), sức sáng tạo của Sabitzer (Dortmund) và trụ cột hàng thủ Alaba (Real Madrid) 38 tuổi. Trận này được xem là trận phải thắng để giành vé đi tiếp tại bảng đấu.
 
+## home_note:th
+ออสเตรียกลับมาสู่ฟุตบอลโลกอีกครั้งหลังห่างหายนาน 28 ปี (นับตั้งแต่ปี 1998) ภายใต้การคุมทีมของโค้ชชื่อดัง Ralf Rangnick ในรอบคัดเลือก พวกเขาทำได้ 22 ประตู เสียเพียง 4 ประตูใน 8 นัด ด้วยระบบกดดันแนวสูงที่คมคาย รูปแบบ 4-2-3-1 นำโดย Arnautovic วัย 37 ปี กองหน้าผู้ทำประตูสูงสุดตลอดกาลของทีม ขับเคลื่อนด้วยกลไกกลางสนามของ Laimer (Bayern) และ Seiwald (Leipzig) พร้อมด้วยความสร้างสรรค์จาก Sabitzer (Dortmund) และ Alaba วัย 38 ปี เพชฌฆาตจาก Real Madrid ที่คุมแนวรับ แมตช์นี้ถือเป็นนัดที่ต้องชนะเพื่อผ่านเข้าสู่รอบต่อไป
+
 ## away_note:zh
 約旦首次踏上世界盃舞台，創造歷史。由 Jamal Sellami 執教，主打 3-4-3/5-4-1 退守反擊，資格賽防守紮實。核心 Musa Al-Taamari（雷恩）是唯一效力歐洲豪門的球員，鋒線靠 Ali Olwan。然而資格賽頭號射手 Yazan Al-Naimat（8 球）因膝傷缺陣是重大打擊，賽前五場不勝狀態低迷。
 
@@ -46,6 +49,9 @@ Jordan make their World Cup debut for the first time, creating history. Coached 
 ## away_note:vi
 Jordan lần đầu tiên đặt chân lên sân khấu World Cup, tạo nên lịch sử. Dưới sự chỉ đạo của Jamal Sellami, đội chủ yếu chơi 3-4-3/5-4-1 phòng thủ phản công, với hàng thủ vững chắc tại vòng loại. Ngôi sao chủ chốt Musa Al-Taamari (Rennes) là cầu thủ duy nhất thi đấu tại câu lạc bộ hàng đầu châu Âu, còn tuyến trên dựa vào Ali Olwan. Tuy nhiên, việc vắng mặt của chân sút hàng đầu vòng loại Yazan Al-Naimat (8 bàn) vì chấn thương đầu gối là cú đánh nặng nề, trong khi đội không thắng 5 trận gần nhất trước giải.
 
+## away_note:th
+จอร์แดนก้าวขึ้นเวทีฟุตบอลโลกเป็นครั้งแรก สร้างประวัติศาสตร์ ภายใต้การคุมทีมของ Jamal Sellami พวกเขาใช้รูปแบบ 3-4-3/5-4-1 ป้องกันลึกและโต้กลับอย่างแน่วแน่ โดยมีสถิติการป้องกันที่มั่นคงในรอบคัดเลือก นักเตะหลัก Musa Al-Taamari (Rennes) เป็นนักเตะเพียงคนเดียวที่เล่นอยู่ในสโมสรชั้นนำของยุโรป ส่วนแนวหน้าพึ่งพา Ali Olwan อย่างไรก็ตาม การขาดหายของ Yazan Al-Naimat (8 ประตู) กองหน้าทำประตูสูงสุดในรอบคัดเลือก เนื่องจากอาการบาดเจ็บที่เข่าเป็นความสูญเสียครั้งใหญ่ และจอร์แดนไม่ชนะมาแล้ว 5 นัดก่อนหน้านัดนี้
+
 ## odds_note:zh
 賠率顯示：奧地利勝 1.55、平局 3.80、約旦勝 6.50。奧地利為明顯大熱，Rangnick 高位逼搶體系與歐洲級陣容遠勝。約旦需靠深度退守與 Al-Taamari 反擊製造威脅，但缺少頭號射手後攻擊乏力。
 
@@ -57,6 +63,9 @@ The odds read: Austria win 1.55, Draw 3.80, Jordan win 6.50. Austria are the cle
 
 ## odds_note:vi
 Tỷ lệ cược cho thấy: Áo thắng 1.55, hòa 3.80, Jordan thắng 6.50. Áo là đội được đánh giá cao hơn rõ rệt, với lối pressing tầm cao của Rangnick và đội hình đẳng cấp châu Âu vượt trội hơn nhiều. Jordan cần dựa vào hàng thủ phòng thủ sâu và những pha phản công của Al-Taamari để tạo ra mối đe dọa, nhưng thiếu chân sút chủ lực khiến sức tấn công suy giảm đáng kể.
+
+## odds_note:th
+อัตราต่อรองแสดงให้เห็นว่า: ออสเตรียชนะ 1.55, เสมอ 3.80, จอร์แดนชนะ 6.50 ออสเตรียเป็นตัวเต็งที่ชัดเจน ด้วยระบบกดดันแนวสูงของ Rangnick และทีมที่มีคุณภาพระดับยุโรปที่เหนือกว่ามาก จอร์แดนต้องอาศัยวินัยการป้องกันในแนวลึกและภัยคุกคามจากการโต้กลับของ Al-Taamari เพื่อสร้างปัญหาให้ออสเตรีย แต่หากไม่มีกองหน้าหลัก พลังการโจมตีก็ลดลงอย่างมาก
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược cho thấy: Áo thắng 1.55, hòa 3.80, Jordan thắng 6.50. 
 | ST | #7 | Marko Arnautović | Red Star Belgrade | 🇷🇸 | 14 | starter,team | false | Chân sút vĩ đại nhất lịch sử đội 37 tuổi (47 bàn), trụ cột tiền đạo và người dứt điểm, cốt lõi tuyến trên của Áo. |
 | FWD | 備援 | Michael Gregoritsch | Augsburg | 🇩🇪 | 9 | league,squad | true | Tiền đạo Augsburg tại Bundesliga, ghi bàn từ ghế dự bị, mối đe dọa trên không và dứt điểm. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Patrick Pentz | Brøndby | 🇩🇰 | 1 | starter | false | ผู้รักษาประตูทีมชาติออสเตรีย เล่นในลีกเดนมาร์ก เซฟบอลมั่นคง เป็นผู้จัดระเบียบแนวรับ |
+| DEF | #15 | Stefan Posch | Mainz 05 | 🇩🇪 | 3 | starter,league | false | แบ็กขวา/กองหลังกลางของ Mainz 05 ในบุนเดสลีกา มีความหลากหลาย สมดุลทั้งรุกและรับ |
+| DEF | #4 | Kevin Danso | Tottenham | 🇬🇧 | 4 | starter,league | false | กองหลังกลาง Tottenham ร่างกายแข็งแกร่ง ต่อสู้ได้ดี เป็นเกราะป้องกันแนวรับ |
+| DEF | #3 | David Alaba | Real Madrid | 🇪🇸 | 5 | starter,team,league | false | กัปตันทีม ทหารผ่านศึก Real Madrid วัย 38 ปี แกนหลักแนวรับและผู้จัดระเบียบลูกตั้งเตะ ประสบการณ์สูงค่า |
+| DEF | #16 | Philipp Mwene | Mainz 05 | 🇩🇪 | 3 | starter,league | false | แบ็กซ้ายของ Mainz 05 ในบุนเดสลีกา มีส่วนร่วมทั้งรุกและรับ บุกขึ้นตามแนวซ้าย |
+| CM | #6 | Nicolas Seiwald | RB Leipzig | 🇩🇪 | 5 | starter,league | false | มิดฟิลด์รับของ Leipzig กดดันและกระจายบอลได้ดีเยี่ยม เป็นหัวใจหลักในระบบของ Rangnick |
+| CM | #8 | Konrad Laimer | Bayern Munich | 🇩🇪 | 7 | starter,league | false | มิดฟิลด์อเนกประสงค์ของ Bayern Munich วิ่งและกดดันระดับสูงสุด เป็นกลไกหลักของกลางสนาม |
+| RW | #19 | Romano Schmid | Werder Bremen | 🇩🇪 | 8 | starter,league | false | มิดฟิลด์เชิงรุกของ Werder Bremen ในบุนเดสลีกา สร้างสรรค์พร้อมเป็นภัยคุกคามด้านการยิงประตู เชื่อมเกมทางขวา |
+| AM | #10 | Marcel Sabitzer | Borussia Dortmund | 🇩🇪 | 11 | starter,team,league | false | หัวใจหลักของ Dortmund และสมองกลางสนามของออสเตรีย ยิงระยะไกลและสร้างเกมได้ดีเลิศ เป็นแหล่งสร้างสรรค์หลัก |
+| LW | #17 | Patrick Wimmer | Wolfsburg | 🇩🇪 | 9 | starter,league | false | วิงเกอร์ของ Wolfsburg ในบุนเดสลีกา ความเร็วและการเลี้ยงบอลโดดเด่น เป็นอาวุธอันตรายทางซ้าย |
+| ST | #7 | Marko Arnautović | Red Star Belgrade | 🇷🇸 | 14 | starter,team | false | กองหน้าทำประตูสูงสุดตลอดกาลวัย 37 ปี (47 ประตู) เป็นจุดพักบอลและผู้จบสกอร์ แกนหลักแนวรุกของออสเตรีย |
+| FWD | สำรอง | Michael Gregoritsch | Augsburg | 🇩🇪 | 9 | league,squad | true | กองหน้าของ Augsburg ในบุนเดสลีกา เป็นตัวสำรองที่มีภัยคุกคามด้านการยิงประตู อันตรายทั้งทางอากาศและการจบสกอร์ |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược cho thấy: Áo thắng 1.55, hòa 3.80, Jordan thắng 6.50. 
 | FWD | #7 | Yousef Abu Zrayq | Al-Wehdat | 🇯🇴 | 6 | starter,team | false | Tiền đạo tấn công, tiền đạo tốc độ, sức tấn công biên khi phản công. |
 | FWD | 備援 | Odeh Fakhouri | Al-Hussein | 🇯🇴 | 6 | squad | true | Tiền vệ tấn công, dự bị sáng tạo, có thể thay đổi đội hình để tăng thêm tầng lớp tấn công. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Yazeed Abulaila | Al-Wehdat | 🇯🇴 | 1 | starter,team | false | ผู้รักษาประตูอันดับ 1 ของจอร์แดน เป็นตัวหลักในลีกในประเทศ รีเฟล็กซ์มั่นคง ด่านสุดท้ายของแนวรับ |
+| DEF | #2 | Abdallah Nasib | Al-Faisaly | 🇯🇴 | 3 | starter,team | false | กองหลังกลาง ด้านขวาในระบบสามกองหลัง ป้องกันได้แข็งแกร่งและมีพลัง |
+| DEF | #5 | Yazan Al-Arab | Al-Ramtha | 🇯🇴 | 3 | starter,team | false | กองหลังกลางตัวในในระบบสามกองหลัง ความสามารถในการโหม่งและการวางตัวเป็นกุญแจสำคัญของการป้องกันในแนวลึก |
+| DEF | #15 | Mohammad Abualnadi | Al-Hussein | 🇯🇴 | 3 | starter,team | false | กองหลังกลาง ด้านซ้ายในระบบสามกองหลัง จัดระเบียบแนวรับและกระจายบอล |
+| CM | #8 | Noor Al-Rawabdeh | Al-Wehdat | 🇯🇴 | 5 | starter,team | false | มิดฟิลด์/แบ็กปีก ครอบคลุมพื้นที่กว้าง เป็นจุดหมุนในการเปลี่ยนผ่านระหว่างรับและรุก |
+| CM | #6 | Nizar Al-Rashdan | Al-Hussein | 🇯🇴 | 5 | starter,team | false | มิดฟิลด์ ปกป้องแนวรับด้วยการกระจายบอลที่มั่นคง เป็นองค์ประกอบหลักของแนวรับ 5-4-1 |
+| CM | #14 | Ihsan Haddad | Al-Faisaly | 🇯🇴 | 4 | starter,team | false | แบ็กปีก มีส่วนร่วมสูงทั้งสองฝ่ายที่แนวปีก ให้ความกว้างในการโต้กลับ |
+| CM | #20 | Mohannad Abu Taha | Al-Wehdat | 🇯🇴 | 4 | starter,team | false | แบ็กปีก/นักเตะแนวกว้าง วิ่งอย่างกระตือรือร้น ช่วยทั้งในรูปแบบรับและการโต้กลับ |
+| AM | #10 | Musa Al-Taamari | Rennes | 🇫🇷 | 11 | starter,team,league | false | นักเตะดาวเด่นของจอร์แดนและเป็นเพียงคนเดียวในสโมสรชั้นนำของยุโรป การเลี้ยงบอลและความเร็วโดดเด่น เป็นแกนหลักและภัยคุกคามใหญ่ที่สุดในการโต้กลับ |
+| ST | #9 | Ali Olwan | Zamalek | 🇪🇬 | 9 | starter,team | false | กองหน้าตัวเลือกแรก หัวหอกของแนวรุกเมื่อ Al-Naimat ขาดหายไป เป็นหัวลูกศรในการฉวยโอกาสโต้กลับ |
+| FWD | #7 | Yousef Abu Zrayq | Al-Wehdat | 🇯🇴 | 6 | starter,team | false | กองหน้าผู้จู่โจม กองหน้าที่เน้นความเร็ว ให้ผลกระทบแนวกว้างเมื่อบุกโต้กลับ |
+| FWD | สำรอง | Odeh Fakhouri | Al-Hussein | 🇯🇴 | 6 | squad | true | มิดฟิลด์เชิงรุก ตัวสำรองที่มีความสร้างสรรค์ สามารถเพิ่มมิติการโจมตีด้วยการเปลี่ยนรูปแบบ |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược cho thấy: Áo thắng 1.55, hòa 3.80, Jordan thắng 6.50. 
 | 1-1 | Hòa | 8 | #6b7280 | | draw |
 | Khác | — | 15 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-0 🇦🇹 | ออสเตรียชนะ | 19 | #ED2939 | โอกาสสูงสุด | home |
+| 1-0 🇦🇹 | ออสเตรียชนะ | 16 | #ED2939 | อันดับสอง | home |
+| 2-1 🇦🇹 | ออสเตรียชนะ | 14 | #ED2939 | | home |
+| 3-0 🇦🇹 | ออสเตรียชนะ | 11 | #ED2939 | | home |
+| 3-1 🇦🇹 | ออสเตรียชนะ | 8 | #ED2939 | | home |
+| 0-0 | เสมอ | 9 | #6b7280 | | draw |
+| 1-1 | เสมอ | 8 | #6b7280 | | draw |
+| อื่นๆ | — | 15 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược cho thấy: Áo thắng 1.55, hòa 3.80, Jordan thắng 6.50. 
 | 🟡 | 3–5 | Dự đoán thẻ vàng | Jordan phòng ngự chiều sâu dẫn đến nhiều lỗi chiến thuật, thẻ vàng có thể cao hơn, Áo ít thẻ hơn. |
 | 🟥 | 0–1 | Dự đoán thẻ đỏ | Hàng thủ Jordan chịu áp lực lớn, có rủi ro nhỏ về lỗi chiến thuật trong vòng cấm hoặc thẻ vàng thứ hai dẫn đến thẻ đỏ. |
 | ⚠️ | 22–26 | Lỗi trọng tài/trận | Jordan phòng ngự phản công thường xuyên phạm lỗi, tranh bóng giữa sân quyết liệt, số lỗi trung bình đến cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–11 | คาดการณ์เตะมุม | การกดดันยาวนานและการครอสบอลของออสเตรียจะสร้างเตะมุมได้มากกว่า รูปแบบโต้กลับของจอร์แดนทำให้ได้เตะมุมน้อยกว่า |
+| 🟡 | 3–5 | คาดการณ์ใบเหลือง | การฟาวล์เชิงยุทธวิธีของจอร์แดนในการป้องกันลึกมีแนวโน้มสะสมใบเหลือง ออสเตรียควรได้รับใบเหลืองน้อยกว่า |
+| 🟥 | 0–1 | คาดการณ์ใบแดง | แนวรับของจอร์แดนภายใต้แรงกดดันหนักอาจเผชิญความเสี่ยงเล็กน้อยจากการฟาวล์เชิงยุทธวิธีในเขตโทษหรือใบเหลืองใบที่สองนำไปสู่ใบแดง |
+| ⚠️ | 22–26 | ฟาวล์กรรมการ/นัด | การฟาวล์ในการโต้กลับบ่อยครั้งของจอร์แดนและการกดดันกลางสนามอย่างดุเดือดทำให้จำนวนฟาวล์อยู่ในระดับปานกลางถึงสูง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược cho thấy: Áo thắng 1.55, hòa 3.80, Jordan thắng 6.50. 
 | Thẻ TB/trận | ~4.0 | #60a5fa |
 | Lỗi TB/trận | ~24 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Dahane Beida
+- country: 🇲🇷 มอริเตเนีย · CAF · FIFA นานาชาติ
+- note: กรรมการนานาชาติ CAF จากมอริเตเนีย ซึ่งเคยตัดสินในการแข่งขัน Africa Cup of Nations และรอบคัดเลือกแอฟริกา กรรมการแอฟริกันมักตัดสินอย่างเด็ดขาด ในเกมที่มีความแตกต่างด้านความสามารถ การฟาวล์เชิงยุทธวิธีของทีมที่อ่อนแอกว่ามักนำไปสู่จำนวนใบเหลืองที่สูงกว่า นี่จะเป็นการปรากฏตัวบนเวทีฟุตบอลโลกครั้งแรกของเขา
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 100+ | #F1F5F9 |
+| ใบเหลืองรวม | — | #EAB308 |
+| ใบเหลือง-แดง | — | orange |
+| ใบแดงรวม | — | #EF4444 |
+| เฉลี่ยใบ/นัด | ~4.0 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~24 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄（首次正式比賽）
 - homeWins: 0
@@ -353,6 +429,13 @@ Tỷ lệ cược cho thấy: Áo thắng 1.55, hòa 3.80, Jordan thắng 6.50. 
 - draws: 0
 - awayWins: 0
 - note: Hai đội gặp nhau lần đầu tiên, không có dữ liệu lịch sử. Áo trước giải có chuỗi 3 trận thắng liên tiếp 5-1 trước Ghana, 1-0 trước Hàn Quốc, 1-0 trước Tunisia; trong khi Jordan không thắng 5 trận liên tiếp (hai hòa hai thua), và chân sút hàng đầu vòng loại Al-Naimat vắng mặt vì chấn thương.
+
+## h2h:th
+- title: สถิติพบกัน (การพบกันอย่างเป็นทางการครั้งแรก)
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: ทั้งสองทีมพบกันเป็นครั้งแรก ไม่มีข้อมูลสถิติในอดีต ออสเตรียเข้าสู่เกมนี้ด้วยชุดชนะรวด 3 นัด (5-1 กับกานา, 1-0 กับเกาหลีใต้, 1-0 กับตูนิเซีย) ส่วนจอร์แดนไม่ชนะมา 5 นัดติดต่อกัน (เสมอ 2 นัด แพ้ 2 นัด) และ Al-Naimat กองหน้าทำประตูสูงสุดในรอบคัดเลือกก็ขาดแมตช์เนื่องจากบาดเจ็บ
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược cho thấy: Áo thắng 1.55, hòa 3.80, Jordan thắng 6.50. 
 | Marko Arnautović | 🇦🇹 ST | Yazan Al-Arab | 🇯🇴 CB | Chân sút 37 tuổi vs trung vệ Jordan, cuộc đối đầu giữa lão tướng dứt điểm và hàng thủ phòng ngự về khả năng làm điểm tựa. |
 | Patrick Wimmer | 🇦🇹 LW | Ihsan Haddad | 🇯🇴 RWB | Tiền đạo cánh tốc độ Wolfsburg vs hậu vệ cánh Jordan, cánh trái Áo돌파 tấn công hai biên năm hậu vệ. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Marcel Sabitzer | 🇦🇹 AM | Nizar Al-Rashdan | 🇯🇴 CM | สมองกลางสนามของออสเตรีย vs แกนหลักป้องกันของจอร์แดน คำถามสำคัญคือความสร้างสรรค์จะสามารถเปิดม่านเหล็กได้หรือไม่ |
+| Musa Al-Taamari | 🇯🇴 AM | Konrad Laimer | 🇦🇹 RB | ดาวเด่นของจอร์แดน vs มิดฟิลด์อเนกประสงค์ของ Bayern การบุกโต้กลับของ Al-Taamari เป็นเส้นทางเดียวสู่ประตูของจอร์แดน |
+| Marko Arnautović | 🇦🇹 ST | Yazan Al-Arab | 🇯🇴 CB | กองหน้าวัย 37 ปี vs กองหลังกลางของจอร์แดน การต่อสู้ระหว่างผู้จบสกอร์มากประสบการณ์กับแนวรับป้องกันในแนวลึก |
+| Patrick Wimmer | 🇦🇹 LW | Ihsan Haddad | 🇯🇴 RWB | วิงเกอร์ความเร็วสูงของ Wolfsburg vs แบ็กปีกของจอร์แดน ภัยคุกคามจากแนวซ้ายของออสเตรียทดสอบแนวปีกของแนวรับห้าคน |
+
 ## summary_verdict:zh
 奧地利在名帥 Rangnick 打造下高位逼搶犀利，資格賽 8 場進 22 球僅失 4 球。中場 Laimer + Seiwald 引擎強勁，Sabitzer 創造力出眾，38 歲 Alaba 坐鎮後防經驗無價。賽前三連勝狀態火熱，本場視為小組出線必勝之戰。
 
@@ -413,6 +504,13 @@ Dưới sự dẫn dắt của HLV Rangnick, Áo sở hữu lối pressing tầm
 Jordan đặt chân lên sân khấu World Cup lần đầu tiên đã là lịch sử, nhưng việc chân sút hàng đầu Al-Naimat vắng mặt vì chấn thương đầu gối là cú đánh nặng nề, khi đội không thắng 5 trận liên tiếp. Họ chủ yếu chơi 5-4-1 phòng ngự sâu phản công, hy vọng duy nhất là khả năng cá nhân của Al-Taamari và những pha phản công nhanh.
 
 Dự đoán: 2-0 Áo thắng. Lối pressing tầm cao và sức mạnh tổng thể của Áo đủ để đè bẹp hàng thủ phòng thủ của Jordan, Arnautovic và Sabitzer cuối cùng sẽ ghi bàn. Hàng thủ Jordan có thể kháng cự một thời gian, nhưng thiếu hỏa lực tấn công khiến họ khó tạo ra mối đe dọa, thua trắng là kết cục hợp lý nhất.
+
+## summary_verdict:th
+ภายใต้การนำของโค้ชชื่อดัง Rangnick ระบบกดดันแนวสูงของออสเตรียคมกริบ ทำได้ 22 ประตู เสียเพียง 4 ประตูใน 8 นัดคัดเลือก กลไกกลางสนามของ Laimer และ Seiwald ทรงพลัง ความสร้างสรรค์ของ Sabitzer โดดเด่น และการปรากฏตัวของ Alaba วัย 38 ปี ที่แนวรับนั้นล้ำค่ายิ่ง ชุดชนะรวด 3 นัดก่อนเข้าสู่เกมนี้ทำให้พวกเขาร้อนแรง และนัดนี้ถือเป็นนัดที่ต้องชนะเพื่อก้าวต่อในรอบแบ่งกลุ่ม
+
+การปรากฏตัวของจอร์แดนบนเวทีฟุตบอลโลกเป็นความสำเร็จทางประวัติศาสตร์ในตัวเอง แต่การขาดหายของ Al-Naimat กองหน้าสูงสุดเนื่องจากบาดเจ็บที่เข่าเป็นความสูญเสียครั้งใหญ่ และพวกเขาเข้าสู่เกมด้วยการไม่ชนะ 5 นัดติดต่อกัน แผนของพวกเขาคือแนวรับป้องกันลึก 5-4-1 และโต้กลับ โดยความหวังทั้งหมดขึ้นอยู่กับความสามารถส่วนตัวของ Al-Taamari และการเปลี่ยนเกมอย่างรวดเร็ว
+
+ทำนาย: ออสเตรียชนะ 2-0 ระบบกดดันแนวสูงและคุณภาพโดยรวมของออสเตรียเพียงพอที่จะเจาะแนวรับป้องกันของจอร์แดน โดย Arnautovic และ Sabitzer ในที่สุดจะทำประตูได้ แนวรับของจอร์แดนอาจยึดหยัดได้ช่วงหนึ่ง แต่หากไม่มีพลังการโจมตี พวกเขาจะยากที่จะสร้างภัยคุกคามที่แท้จริง และความพ่ายแพ้แบบคลีนชีตเป็นผลลัพธ์ที่เป็นไปได้มากที่สุด
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: 2-0 Áo thắng. Lối pressing tầm cao và sức mạnh tổng t
 | 👴 Lão tướng Alaba trấn thủ | Đội trưởng Real Madrid 38 tuổi, thủ lĩnh hàng thủ và người tổ chức bóng chết, kinh nghiệm là lợi thế khổng lồ trước đội Jordan trẻ trung. |
 | ⭐ Al-Taamari một mình gánh vác | Tiền đạo cánh Rennes là cầu thủ duy nhất của Jordan ở câu lạc bộ hàng đầu châu Âu, phản công hoàn toàn phụ thuộc vào anh, nhưng một mình khó lòng xoay chuyển. |
 | 🏆 Điểm số then chốt tại Bảng J | Cả Áo và Jordan đều xem trận này là then chốt để giành điểm ra vòng sau, Áo quyết tâm giành chiến thắng đầu tiên tại bảng đấu. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| ⚙️ ระบบกดดันของ Rangnick | 22 ประตู เสียเพียง 4 ประตูใน 8 นัดคัดเลือก ระบบกดดันแนวสูงอันตราย และคุณภาพการจัดทีมของออสเตรียเหนือกว่าคู่แข่งมาก |
+| 🇯🇴 การเปิดตัวครั้งประวัติศาสตร์ของจอร์แดน | การลงแข่งขันฟุตบอลโลกเป็นครั้งแรกในประวัติศาสตร์ ขวัญกำลังใจเป็นพลังที่มองไม่เห็น แต่ช่องว่างด้านคุณภาพนั้นชัดเจน |
+| 🚑 Al-Naimat ขาดแมตช์ | กองหน้าทำประตูสูงสุดในรอบคัดเลือก (8 ประตู) พลาดเนื่องจากบาดเจ็บที่เข่า ลดพลังการโจมตีและภัยคุกคามการโต้กลับของจอร์แดนอย่างมีนัยสำคัญ |
+| 👴 Alaba ทหารผ่านศึกผู้ค้ำยัน | กัปตัน Real Madrid วัย 38 ปี นำแนวรับและจัดระเบียบลูกตั้งเตะ ประสบการณ์ของเขาเป็นข้อได้เปรียบอย่างใหญ่หลวงเหนือทีมจอร์แดนที่อายุน้อยกว่า |
+| ⭐ Al-Taamari แบกรับภาระคนเดียว | วิงเกอร์ Rennes เป็นนักเตะเพียงคนเดียวของจอร์แดนในสโมสรชั้นนำของยุโรป การโต้กลับทั้งหมดขึ้นอยู่กับเขา แต่คนเดียวไม่สามารถทำได้ทั้งหมด |
+| 🏆 คะแนนสำคัญในกลุ่ม J | ทั้งสองทีมมองว่าแมตช์นี้สำคัญต่อการรักษาคะแนนเพื่อผ่านเข้ารอบ โดยออสเตรียตั้งใจจะคว้าชัยชนะครั้งแรกในรอบแบ่งกลุ่ม |

@@ -34,6 +34,9 @@ Spain arrive as the 2024 European Champions, ranked 2nd in the FIFA world rankin
 ## home_note:vi
 Tây Ban Nha ra quân đầy khí thế với tư cách nhà vô địch châu Âu 2024, xếp hạng FIFA thứ 2 thế giới và được xem là ứng cử viên hàng đầu cho chức vô địch World Cup lần này. HLV Luis de la Fuente tiếp tục duy trì sơ đồ 4-3-3, bộ ba tiền vệ Rodri - Pedri - Fabian Ruiz kiểm soát nhịp trận, tuyến tấn công sở hữu những tài năng hàng đầu thế giới như Lamine Yamal (vừa bình phục chấn thương), Nico Williams và Mikel Oyarzabal. Đáng chú ý, đội hình lần này không có bất kỳ cầu thủ Real Madrid nào — điều chưa từng có trong lịch sử. Vòng loại 6 trận thắng 5, phong độ rất tốt. Trận giao hữu trước giải thắng đậm Peru, Oyarzabal đã xác nhận ra sân với bàn thắng.
 
+## home_note:th
+สเปนลงสนามอย่างมั่นใจในฐานะแชมป์ยุโรป 2024 อันดับโลก FIFA ที่ 2 และถูกมองว่าเป็นหนึ่งในตัวเต็งอันดับต้นที่จะคว้าแชมป์โลกครั้งนี้ โค้ช Luis de la Fuente ยังคงใช้รูปแบบ 4-3-3 โดยมีสามเพชรกลางสนามอย่าง Rodri, Pedri และ Fabian Ruiz ควบคุมจังหวะเกม แนวรุกประกอบด้วยนักเตะระดับโลกอย่าง Lamine Yamal (เพิ่งหายบาดเจ็บ), Nico Williams และ Mikel Oyarzabal น่าสังเกตว่านี่เป็นครั้งแรกในประวัติศาสตร์ที่ชุดนักเตะไม่มีผู้เล่นจาก Real Madrid เลยแม้แต่คนเดียว สเปนผ่านรอบคัดเลือกด้วย 5 ชนะจาก 6 นัด ฟอร์มยอดเยี่ยม ในการอุ่นเครื่องก่อนทัวร์นาเมนต์เอาชนะ Peru ไปหลายประตู โดย Oyarzabal ยืนยันความพร้อมด้วยการยิงประตูตั้งแต่ต้น
+
 ## away_note:zh
 佛得角首次打入世界盃，書寫國家足球史最光輝一頁。人口僅 52.5 萬，成為史上第二小國出線（僅次於 2018 冰島）。主帥 Bubista 帶領球隊以 3-0 大勝史瓦帝尼晉級，並在小組賽頂過喀麥隆。採 4-2-3-1 陣型，後防以 Villarreal 中衛 Logan Costa 和老將 Pico（Stopira）為核心，中場靠 Kevin Pina 和 Jamiro Monteiro 護盾，進攻依靠 39 歲老將門將 Vozinha 後方的快速反擊和隊長 Ryan Mendes 的老辣經驗。整體陣容身價僅約 1,570 萬歐元，與西班牙 5.48 億相差 35 倍。
 
@@ -46,6 +49,9 @@ Cape Verde are making their World Cup debut, writing the brightest chapter in th
 ## away_note:vi
 Cabo Verde lần đầu tiên góp mặt tại World Cup, viết nên trang huy hoàng nhất trong lịch sử bóng đá nước nhà. Quốc gia chỉ có 525.000 dân, trở thành quốc gia nhỏ thứ hai từng giành vé dự World Cup (chỉ sau Iceland 2018). HLV Bubista dẫn dắt đội giành vé với chiến thắng 3-0 trước Eswatini và vượt qua Cameroon ở vòng bảng châu lục. Sơ đồ 4-2-3-1, hàng thủ lấy trung vệ Logan Costa của Villarreal và lão tướng Pico (Stopira) làm trụ cột, tuyến giữa trông cậy vào Kevin Pina và Jamiro Monteiro che chắn, tấn công dựa vào phản công tốc độ phía sau thủ môn kỳ cựu 39 tuổi Vozinha và kinh nghiệm của đội trưởng Ryan Mendes. Tổng giá trị đội hình chỉ khoảng 15,7 triệu euro, thấp hơn Tây Ban Nha (548 triệu) tới 35 lần.
 
+## away_note:th
+กาบูเวร์ดีก้าวเข้าสู่ฟุตบอลโลกเป็นครั้งแรก บันทึกบทที่รุ่งโรจน์ที่สุดในประวัติศาสตร์ฟุตบอลของชาติ ด้วยประชากรเพียง 525,000 คน พวกเขากลายเป็นชาติที่เล็กที่สุดเป็นอันดับสองที่เคยผ่านเข้ารอบ (รองจากไอซ์แลนด์ปี 2018) โค้ช Bubista นำทีมผ่านรอบคัดเลือกด้วยการเอาชนะ Eswatini 3-0 และผ่านแคเมอรูนในรอบแบ่งกลุ่มของทวีป เล่นในรูปแบบ 4-2-3-1 โดยแนวรับถูกยึดโดยกองหลังกลางของ Villarreal อย่าง Logan Costa และทหารเก่า Pico (Stopira) ส่วน Kevin Pina และ Jamiro Monteiro ทำหน้าที่เป็นโล่ป้องกันในแดนกลาง การรุกอาศัยการโต้กลับอย่างรวดเร็วด้านหลังผู้รักษาประตูวัย 39 ปีอย่าง Vozinha และความเป็นผู้นำที่เชี่ยวชาญของกัปตัน Ryan Mendes มูลค่าตลาดรวมของทีมอยู่ที่ประมาณ 15.7 ล้านยูโร เทียบกับสเปนที่ 548 ล้านยูโร ห่างกันถึง 35 เท่า
+
 ## odds_note:zh
 賠率高度失衡：西班牙勝 1.10、平局 9.00、佛得角勝 25.00。西班牙是史上最壓倒性大熱門之一，但佛得角並非毫無機會——首次世界盃登場往往能激發驚人鬥志，加上反擊戰術成熟，若西班牙輕敵或大意，仍有意外風險。
 
@@ -57,6 +63,9 @@ The odds are heavily lopsided: Spain win 1.10, Draw 9.00, Cape Verde win 25.00. 
 
 ## odds_note:vi
 Tỷ lệ cược chênh lệch rất lớn: Tây Ban Nha thắng 1.10, hòa 9.00, Cabo Verde thắng 25.00. Tây Ban Nha là một trong những đội được coi là ứng viên áp đảo nhất lịch sử, nhưng Cabo Verde không phải không có cơ hội — lần đầu ra sân tại World Cup thường khơi dậy tinh thần chiến đấu phi thường, cộng thêm lối phản công bài bản, nếu Tây Ban Nha chủ quan hay thiếu tập trung, vẫn tiềm ẩn nguy cơ bất ngờ.
+
+## odds_note:th
+อัตราต่อรองเอียงอย่างมาก: สเปนชนะ 1.10, เสมอ 9.00, กาบูเวร์ดีชนะ 25.00 สเปนถือเป็นหนึ่งในทีมเต็งที่ครอบงำมากที่สุดในประวัติศาสตร์ฟุตบอลโลก แต่กาบูเวร์ดีก็ไม่ได้ไร้โอกาสซะทีเดียว การลงสนามฟุตบอลโลกเป็นครั้งแรกมักจุดประกายจิตใจสู้ที่น่าทึ่ง และระบบการโต้กลับของพวกเขาก็ฝึกซ้อมมาดี หากสเปนประมาทคู่ต่อสู้หรือเกิดความชะล่าใจ โอกาสพลิกผลแม้จะริบหรี่ก็ยังมีอยู่
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -126,6 +135,23 @@ Tỷ lệ cược chênh lệch rất lớn: Tây Ban Nha thắng 1.10, hòa 9.0
 | FWD | 備援 | Nico Williams | Athletic Club | 🇪🇸 | 9 | league,squad | true | Một trong những cầu thủ xuất sắc nhất EURO 2024, cánh trái tốc độ kinh khủng, sức công phá từ ghế dự bị rất lớn nếu bình phục. |
 | FWD | 備援 | Lamine Yamal | Barcelona | 🇪🇸 | 15 | league,squad | true | Ứng viên cầu thủ trẻ hay nhất thế giới 18 tuổi, tỏa sáng rực rỡ tại EURO, trận này có thể ra sân từ đầu hoặc vào sân thay người trong quá trình bình phục chấn thương. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Unai Simón | Athletic Club | 🇪🇸 | 1 | starter,team | false | ผู้รักษาประตูตัวเลือกแรกของสเปน เป็นตัวหลักใน La Liga ทำผลงานโดดเด่นใน Euro 2024 เชื่อถือได้สูงในการแข่งขันใหญ่ |
+| DEF | #2 | Pedro Porro | Tottenham | 🇬🇧 | 2 | starter,league | false | แบ็คขวาตัวหลักของ Tottenham ใน Premier League เน้นรุก บุกแนวปีกอย่างแข็งขัน และเป็นตัวเลือกอันดับหนึ่งแทน Carvajal |
+| DEF | #4 | Pau Cubarsí | Barcelona | 🇪🇸 | 8 | starter,league | false | อัจฉริยะกองหลังกลางวัย 17 ปีของ Barcelona มีเทคนิคและความสงบ ทำผลงานโดดเด่นในรอบชิงชนะเลิศ Champions League และเป็นเสาหลักในอนาคตของแนวรับสเปน |
+| DEF | #14 | Aymeric Laporte | Athletic Club | 🇪🇸 | 5 | starter,league | false | กองหลังกลางทหารผ่านศึกที่กลับมาเล่นในลีกสเปน เคยคว้าแชมป์โลกและแชมป์ยุโรป นำความมั่นคงมาสู่แนวรับ |
+| DEF | #3 | Marc Cucurella | Chelsea | 🇬🇧 | 6 | starter,league | false | แบ็คซ้ายตัวหลักของ Chelsea ใน Premier League ส่งแอสซิสต์ในรอบชิงชนะเลิศ Euro 2024 และเหนียวแน่นในการป้องกัน |
+| CM | #16 | Rodri | Manchester City | 🇬🇧 | 4 | starter,league | false | ผู้รับรางวัล Ballon d'Or ปี 2024 และเป็นตัวรับกลางสนามที่ดีที่สุดในโลกปัจจุบัน ไม่มีใครเทียบด้านการจัดระบบและการสกัดบอล เป็นแกนหลักแท้จริงของสเปน |
+| CM | #8 | Pedri | Barcelona | 🇪🇸 | 12 | starter,league | false | หัวใจด้านเทคนิคของ Barcelona วิสัยทัศน์การส่งบอลและจังหวะการเคลื่อนที่ระดับโลก เป็นวิญญาณของแดนกลางพร้อมสถิติการทำประตูที่น่าพอใจ |
+| CM | #7 | Fabian Ruiz | PSG | 🇫🇷 | 10 | starter,league | false | ตัวรับกลางสนามของ PSG และผู้ทำประตูยอดเยี่ยมแห่ง Euro 2024 เป็นภัยคุกคามอย่างมากด้านการยิงระยะไกล |
+| RW | #19 | Dani Olmo | Barcelona | 🇪🇸 | 18 | starter,league | false | แข้งปีกของ Barcelona และตัวสำรองหลักสำหรับ Yamal ที่บาดเจ็บ มีความยืดหยุ่นสูงและสามารถเล่นเป็นกองหน้าปลอมได้ พร้อมสถิติการยิงประตูในทีมชาติที่แข็งแกร่ง |
+| ST | #9 | Mikel Oyarzabal | Real Sociedad | 🇪🇸 | 16 | starter,league | false | กองหน้าของ Real Sociedad และวีรบุรุษที่ปิดผนึก Euro 2024 ด้วยประตูชัยในช่วงท้ายเกมกับอังกฤษ ยืนยันความพร้อมหลังจากยิงประตูในการฝึกซ้อมก่อนทัวร์นาเมนต์ |
+| LW | #11 | Ferran Torres | Barcelona | 🇪🇸 | 14 | starter,league | false | แข้งปีกซ้ายของ Barcelona ที่ยิงสองประตูให้กับ Costa Rica ในฟุตบอลโลก 2022 เป็นตัวเลือกทดแทนเมื่อ Nico Williams หยุดพักเพราะบาดเจ็บ |
+| FWD | สำรอง | Nico Williams | Athletic Club | 🇪🇸 | 9 | league,squad | true | หนึ่งในนักเตะที่ดีที่สุดของ Euro 2024 แข้งปีกซ้ายที่เร็วแบบสายฟ้า ผลกระทบจากม้านั่งสำรองจะมหาศาลหากหายจากอาการบาดเจ็บ |
+| FWD | สำรอง | Lamine Yamal | Barcelona | 🇪🇸 | 15 | league,squad | true | ผู้สมัครนักเตะเยาวชนที่ดีที่สุดของโลกวัย 18 ปี สร้างความประทับใจอย่างยิ่งใน Euro และอาจลงสนามในฐานะตัวสำรองระหว่างการฟื้นตัวจากอาการบาดเจ็บในแมตช์นี้ |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -190,6 +216,22 @@ Tỷ lệ cược chênh lệch rất lớn: Tây Ban Nha thắng 1.10, hòa 9.0
 | ST | #9 | Dailon Livramento | Casa Pia | 🇵🇹 | 11 | starter,team | false | Tiền đạo tại giải Bồ Đào Nha, đóng góp bàn thắng nhiều nhất ở vòng loại, tốc độ nhanh, giỏi chớp thời cơ phản công, hy vọng ghi bàn lớn nhất của Cabo Verde. |
 | FWD | 備援 | Garry Rodrigues | Apollon Limassol | 🇨🇾 | 6 | squad | true | Cầu thủ cánh tại giải Cyprus, phương án tấn công từ ghế dự bị, thiên về tốc độ. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Vozinha | GD Chaves | 🇵🇹 | 1 | starter,team | false | ผู้รักษาประตูทหารผ่านศึกวัย 39 ปี เป็นหนึ่งในนักเตะที่เป็นสัญลักษณ์ที่สุดของกาบูเวร์ดี ใช้ชีวิตส่วนใหญ่ในอาชีพที่โปรตุเกส มีความสงบนิ่งในเกมใหญ่ |
+| DEF | #13 | João Paulo | FCSB | 🇷🇴 | 2 | starter,team | false | แบ็คขวาในลีกสูงสุดของโรมาเนีย สมดุลทั้งรุกและรับ มีทักษะในการช่วยสร้างเกมจากแดนกลาง |
+| DEF | #5 | Logan Costa | Villarreal | 🇪🇸 | 6 | starter,league | false | กองหลังกลางวัย 25 ปีของ Villarreal และเป็นนักเตะกาบูเวร์ดีเพียงคนเดียวจากหนึ่งในห้าลีกชั้นนำของยุโรป เป็นแกนหลักของแนวรับ |
+| DEF | #4 | Roberto Lopes "Pico" | Shamrock Rovers | 🇮🇪 | 4 | starter,team | false | กองหลังกลางทหารผ่านศึกใน League of Ireland เป็นบุคคลสำคัญในการพากาบูเวร์ดีเข้ารอบรองชนะเลิศ AFCON 2024 มีประสบการณ์และความสงบนิ่ง |
+| DEF | #3 | Steven Moreira | Columbus Crew | 🇺🇸 | 3 | starter,team | false | แบ็คซ้ายของ Columbus Crew ใน MLS สมดุลทั้งรุกและรับ มีแรงจูงใจพิเศษจากการแข่งขันใกล้เมืองบ้านเกิด |
+| CM | #8 | Kevin Pina | Krasnodar | 🇷🇺 | 5 | starter,team | false | ตัวรับกลางสนามใน Russian Premier League ครอบคลุมพื้นที่กว้างในการป้องกัน เป็นโล่ป้องกันสำคัญที่คุ้มครองแนวรับ |
+| CM | #17 | Yannick Semedo | Farense | 🇵🇹 | 5 | starter,team | false | ตัวหลักใน Portuguese Primeira Liga ควบคุมจังหวะเกมได้ดีและเป็นคู่หูกับ Kevin Pina ในระบบตัวรับคู่ |
+| RW | #11 | Jovane Cabral | Estrela Amadora | 🇵🇹 | 8 | starter,team | false | แข้งปีกใน Portuguese Primeira Liga เร็วและอันตรายในสถานการณ์ 1v1 เป็นหนึ่งในนักเตะที่เน้นรุกมากที่สุดของกาบูเวร์ดีและสามารถเจาะแนวรับได้ |
+| AM | #10 | Jamiro Monteiro | PEC Zwolle | 🇳🇱 | 7 | starter,team | false | ตัวสร้างเกมใน Eredivisie มีจินตนาการสูงและส่งบอลได้ดี เป็นวิญญาณของการรุกในแดนกลางของกาบูเวร์ดี |
+| LW | #7 | Ryan Mendes | Iğdır FK | 🇹🇷 | 12 | starter,team | false | กัปตันทีมและผู้ทำประตูสูงสุดตลอดกาลของกาบูเวร์ดี (22 ประตู / 94 แคป) วัย 35 ปีด้วยประสบการณ์เต็มเปี่ยม เป็นศูนย์กลางทางอารมณ์ของการเปิดตัวฟุตบอลโลกครั้งประวัติศาสตร์นี้ |
+| ST | #9 | Dailon Livramento | Casa Pia | 🇵🇹 | 11 | starter,team | false | กองหน้าใน Portuguese Primeira Liga และผู้ทำประตูสูงสุดของกาบูเวร์ดีในรอบคัดเลือก เร็วและคมในการโต้กลับ เป็นความหวังที่ดีที่สุดในการทำประตูของทีม |
+| FWD | สำรอง | Garry Rodrigues | Apollon Limassol | 🇨🇾 | 6 | squad | true | แข้งปีกในลีกสูงสุดของไซปรัส เป็นตัวเลือกรุกจากม้านั่งสำรองที่เน้นความเร็ว |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -246,6 +288,20 @@ Tỷ lệ cược chênh lệch rất lớn: Tây Ban Nha thắng 1.10, hòa 9.0
 | 1-1 | Hòa | 4 | #6b7280 | | draw |
 | Khác | — | 7 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 3-0 🇪🇸 | สเปนชนะ | 22 | #EF4444 | โอกาสสูงสุด | home |
+| 2-0 🇪🇸 | สเปนชนะ | 18 | #EF4444 | อันดับสอง | home |
+| 4-0 🇪🇸 | สเปนชนะ | 13 | #EF4444 | | home |
+| 2-1 🇪🇸 | สเปนชนะ | 11 | #EF4444 | | home |
+| 3-1 🇪🇸 | สเปนชนะ | 9 | #EF4444 | | home |
+| 1-0 🇪🇸 | สเปนชนะ | 8 | #EF4444 | | home |
+| 4-1 🇪🇸 | สเปนชนะ | 5 | #EF4444 | | home |
+| 0-1 🇨🇻 | กาบูเวร์ดีชนะ | 3 | #3B82F6 | ผลพลิกผัน | away |
+| 1-1 | เสมอ | 4 | #6b7280 | | draw |
+| อื่นๆ | — | 7 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -277,6 +333,14 @@ Tỷ lệ cược chênh lệch rất lớn: Tây Ban Nha thắng 1.10, hòa 9.0
 | 🟡 | 2–4 | Dự đoán số thẻ vàng | Makhadmeh trung bình 3,17 thẻ/trận, ngưỡng rút thẻ ở mức trung bình đến khá nghiêm. Cabo Verde với lối đá phản công có thể tích lũy phạm lỗi. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Xác suất thẻ đỏ thấp, nhưng hậu vệ Cabo Verde đối mặt với các chân sút tốc độ có nguy cơ nhận cảnh cáo thậm chí thẻ đỏ nếu phạm lỗi. |
 | ⚠️ | 18–22 | Số phạm lỗi/trận của trọng tài | Makhadmeh trung bình khoảng 3,17 thẻ/trận, thiên về quản lý trận đấu ở mức trung bình, khi chênh lệch sức mạnh hai đội lớn thì số phạm lỗi sẽ không quá cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 10–14 | พยากรณ์จำนวนเตะมุม | การกดดันและการรุกที่ดุดันของสเปนจะสร้างเตะมุมจำนวนมาก การบุกแนวปีกอย่างถี่ยิบจะทำให้ตัวเลขสูง รูปแบบการป้องกันของกาบูเวร์ดียอมพื้นที่ สร้างโอกาสเตะมุมเพิ่มขึ้นอีก |
+| 🟡 | 2–4 | พยากรณ์จำนวนใบเหลือง | Makhadmeh เฉลี่ย 3.17 ใบเหลืองต่อเกมและใช้มาตรฐานที่ค่อนข้างเข้มงวด แนวทางการโต้กลับเชิงป้องกันของกาบูเวร์ดีอาจนำไปสู่การสะสมฟาวล์ |
+| 🟥 | 0–1 | พยากรณ์จำนวนใบแดง | ความน่าจะเป็นของใบแดงต่ำ แต่กองหลังกาบูเวร์ดีอาจได้รับใบเหลืองหรือแม้แต่ใบแดงหากฟาวล์นักเตะรุกที่มีความเร็วของสเปน |
+| ⚠️ | 18–22 | จำนวนฟาวล์ของกรรมการ/เกม | ค่าเฉลี่ยในประวัติศาสตร์ของ Makhadmeh อยู่ที่ประมาณ 3.17 ใบต่อเกม เน้นการบริหารแบบปานกลาง ช่องว่างด้านคุณภาพที่กว้างระหว่างสองทีมหมายความว่าจำนวนฟาวล์รวมไม่ควรสูงเกินไป |
 
 ## referee:zh
 - icon: ⚖️
@@ -338,6 +402,21 @@ Tỷ lệ cược chênh lệch rất lớn: Tây Ban Nha thắng 1.10, hòa 9.0
 | Tỷ lệ thẻ đỏ | ~19% | #f97316 |
 | Kinh nghiệm giải đấu | AFC/CSL | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Adham Makhadmeh
+- country: 🇯🇴 จอร์แดน · AFC · FIFA นานาชาติ
+- note: กรรมการนานาชาติชาวจอร์แดน อยู่ในรายชื่อ FIFA ตั้งแต่ปี 2013 เคยตัดสินใน AFC Champions League และรอบคัดเลือกฟุตบอลโลกเอเชีย ค่าเฉลี่ยตลอดอาชีพ 3.17 ใบเหลืองต่อเกม มาตรฐานปานกลางและอัตราใบแดงต่ำ (ใบแดง 12 ใบใน 64 เกม ประมาณ 19%) กำลังเปิดตัวในรอบสุดท้ายฟุตบอลโลกเป็นครั้งแรก ถูกมองว่าเป็นการเสนอชื่อตัวแทนของ AFC
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 64+ | #F1F5F9 |
+| ใบเหลืองรวม | 203+ | #EAB308 |
+| ใบแดงรวม | 12 | #EF4444 |
+| เฉลี่ยใบ/นัด | 3.17 | #60a5fa |
+| อัตราใบแดง | ~19% | #f97316 |
+| ประสบการณ์ลีก | AFC/CSL | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄（首次正式比賽）
 - homeWins: 0
@@ -365,6 +444,13 @@ Tỷ lệ cược chênh lệch rất lớn: Tây Ban Nha thắng 1.10, hòa 9.0
 - draws: 0
 - awayWins: 0
 - note: Hai đội chưa từng đối đầu trong bất kỳ trận đấu chính thức nào. Tây Ban Nha thắng đậm Peru trong trận giao hữu trước giải, Oyarzabal ghi bàn xác nhận đủ sức ra sân; Cabo Verde thua Serbia 0-1 trong trận giao hữu chuẩn bị nhưng vẫn thể hiện sự kiên cường trong phòng thủ.
+
+## h2h:th
+- title: สถิติพบกัน (แมตช์ทางการครั้งแรก)
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: สองทีมไม่เคยพบกันในการแข่งขันทางการใดๆ มาก่อน สเปนอุ่นเครื่องด้วยการเอาชนะ Peru อย่างขาดลอย โดย Oyarzabal ยิงประตูเพื่อยืนยันความพร้อม ส่วนกาบูเวร์ดีแพ้ Serbia 0-1 ในเกมกระชับมิตรก่อนทัวร์นาเมนต์ แต่ยังแสดงความเหนียวแน่นในการป้องกัน
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -398,6 +484,14 @@ Tỷ lệ cược chênh lệch rất lớn: Tây Ban Nha thắng 1.10, hòa 9.0
 | Ferran Torres | 🇪🇸 LW | João Paulo | 🇨🇻 RB | Cánh trái tốc độ của Barca vs hậu vệ phải FCSB, chênh lệch tốc độ rõ ràng, những pha cắt vào trong và tạt bóng của Torres là thử thách lớn nhất cho cánh phải Cabo Verde. |
 | Dailon Livramento | 🇨🇻 ST | Pau Cubarsí | 🇪🇸 CB | Chân sút số một vòng loại của Cabo Verde vs trung vệ thiên tài 17 tuổi của Barca, liệu Livramento có thể xuyên thủng Cubarsí bằng phản công nhanh hay không là hy vọng ghi bàn duy nhất của Cabo Verde. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Dani Olmo | 🇪🇸 RW | Steven Moreira | 🇨🇻 LB | แข้งปีกที่ยืดหยุ่นของ Barcelona เผชิญกับแบ็คซ้าย MLS แนวปีกขวาของสเปนเป็นช่องทางฝ่าแนวรับที่ใหญ่ที่สุด การเคลื่อนที่และบทบาทกองหน้าปลอมของ Olmo จะทำให้ Moreira ทำงานยากมาก |
+| Pedri | 🇪🇸 CM | Kevin Pina | 🇨🇻 DM | แกนกลางด้านเทคนิคของ Barcelona เผชิญกับตัวรับใน Russian Premier League ศึกควบคุมแดนกลาง หาก Pina ถูก Pedri แซงผ่าน แนวรับของกาบูเวร์ดีจะเปิดโล่งอย่างอันตราย |
+| Ferran Torres | 🇪🇸 LW | João Paulo | 🇨🇻 RB | แข้งปีกซ้ายเร็วของ Barcelona เผชิญกับแบ็คขวา FCSB ความแตกต่างด้านความเร็วชัดเจน การวิ่งเฉียงและการครอสของ Torres เป็นภัยคุกคามที่ใหญ่ที่สุดต่อแนวปีกขวาของกาบูเวร์ดี |
+| Dailon Livramento | 🇨🇻 ST | Pau Cubarsí | 🇪🇸 CB | ผู้ทำประตูสูงสุดในรอบคัดเลือกของกาบูเวร์ดีเผชิญกับอัจฉริยะกองหลังกลางวัย 17 ปีของ Barcelona ว่า Livramento จะสามารถเจาะ Cubarsí ด้วยความเร็วในการโต้กลับได้หรือไม่ คือความหวังเดียวในการทำประตูที่เป็นจริงของกาบูเวร์ดี |
+
 ## summary_verdict:zh
 西班牙是本屆世界盃最強陣容之一，2024 歐洲盃衛冕冠軍，FIFA 排名第 2，市值約 5.48 億歐元的豪華陣容對上僅值 1,570 萬的佛得角，是本組最懸殊的對陣。即使 Lamine Yamal 和 Nico Williams 因傷不在首發，以 Rodri（金球獎得主）+ Pedri + Fabian Ruiz 的三中場仍遠超對手。
 
@@ -425,6 +519,13 @@ Tây Ban Nha sở hữu một trong những đội hình mạnh nhất World Cup
 Kỳ tích lịch sử của Cabo Verde đáng được trân trọng — quốc đảo nhỏ bé 525.000 dân lần đầu bước lên sân khấu lớn nhất thế giới, thành tích vượt qua Cameroon ở vòng loại để lại ấn tượng sâu sắc. Tuy nhiên, với chênh lệch đẳng cấp quá lớn như vậy, mục tiêu thực tế nhất của họ là cầm cự ở hiệp đầu, giành một tỷ số tương đối đáng kính và giữ hy vọng đi tiếp cho hai trận sau (Saudi Arabia/Uruguay).
 
 Dự đoán: Tây Ban Nha thắng 3-0. Tây Ban Nha kiểm soát bóng áp đảo, Cabo Verde đuối sức sau nửa trận và sẽ phải thủng lưới. Dù Cabo Verde chơi ở mức tốt nhất, họ khó cản được nhiều hướng tấn công của Tây Ban Nha.
+
+## summary_verdict:th
+สเปนมีหนึ่งในชุดนักเตะที่แข็งแกร่งที่สุดในฟุตบอลโลกครั้งนี้ เป็นแชมป์ยุโรปที่ครองสมบัติ อันดับ FIFA ที่ 2 และส่งชุดนักเตะที่มีมูลค่าประมาณ 548 ล้านยูโร เผชิญกับกาบูเวร์ดีที่มีมูลค่าเพียง 15.7 ล้านยูโร ถือเป็นการเผชิญหน้าที่ห่างกันมากที่สุดในกลุ่ม แม้ไม่มี Lamine Yamal และ Nico Williams ในตัวจริงเพราะบาดเจ็บ สามเพชรกลางสนามอย่าง Rodri (ผู้รับรางวัล Ballon d'Or), Pedri และ Fabian Ruiz ก็ยังเหนือกว่าสิ่งที่กาบูเวร์ดีจะนำมาสู้ได้อย่างมาก
+
+ความสำเร็จทางประวัติศาสตร์ของกาบูเวร์ดีสมควรได้รับการยกย่องอย่างแท้จริง ชาติที่มีประชากร 525,000 คนก้าวขึ้นสู่เวทีฟุตบอลที่ยิ่งใหญ่ที่สุดเป็นครั้งแรก หลังจากผ่านแคเมอรูนในรอบคัดเลือก เป็นเรื่องราวที่น่าทึ่ง อย่างไรก็ตาม ความห่างกันด้านคุณภาพมีมาก เป้าหมายที่เป็นจริงมากที่สุดของพวกเขาคือยืนหยัดในช่วงต้นเกม รักษาสกอร์ที่ดูดีได้ และรักษาความหวังในการผ่านเข้ารอบสำหรับสองแมตช์ที่เหลือ (Saudi Arabia / Uruguay)
+
+พยากรณ์: สเปนชนะ 3-0 การครอบงำการครองบอลของสเปนจะบีบคั้นกาบูเวร์ดี และเมื่อร่างกายอ่อนล้าในครึ่งหลัง ประตูก็จะตามมาอย่างหลีกเลี่ยงไม่ได้ แม้กาบูเวร์ดีจะเล่นดีที่สุดก็ไม่สามารถยับยั้งการรุกหลายทิศทางของสเปนได้
 
 ## observations:zh
 | title | detail |
@@ -465,3 +566,13 @@ Dự đoán: Tây Ban Nha thắng 3-0. Tây Ban Nha kiểm soát bóng áp đả
 | 🎯 Cơ Hội Phản Công Của Livramento | Cơ hội duy nhất của Cabo Verde nằm ở phản công nhanh, nếu Livramento tận dụng được một cơ hội bằng tốc độ, trận đấu có thể trở nên thú vị hơn. |
 | 🏆 Cục Diện Bảng H | Tây Ban Nha thắng lớn có thể tạo ra cách biệt điểm số đáng kể, số bàn thắng rất quan trọng cho bảng xếp hạng sau này, dự kiến họ sẽ không hài lòng dừng sớm. |
 | 🌍 Khả Năng Kỳ Tích Bảng Đấu | Nếu Cabo Verde có thể giành một điểm (hòa), đây sẽ là một trong những cú sốc lớn nhất lịch sử World Cup, tác động truyền thông là vô giá. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 👑 สเปนครองบอลเหนือคู่ต่อสู้ | คาดว่าจะควบคุมบอลเกิน 70% การกำกับแดนกลางของ Rodri และ Pedri จะทำให้กาบูเวร์ดีแทบไม่สามารถรุกได้อย่างมีเจตนา |
+| 🦈 การเปิดตัวครั้งประวัติศาสตร์ของกาบูเวร์ดี | ชาติที่มีประชากร 525,000 คนบนเวทีฟุตบอลโลกเป็นครั้งแรก เล็กกว่าไอซ์แลนด์ 2018 ด้วยซ้ำ เพียงแค่ได้แต้มก็ถือเป็นความสำเร็จที่ยิ่งใหญ่แล้ว |
+| ⚠️ ความกังวลด้านความพร้อมของ Yamal/Williams | แข้งปีกหลักทั้งสองคนยังไม่แน่ใจ หากไม่มีทั้งคู่ในตัวจริง ชุดทดแทน Olmo + Torres ยังแข็งแกร่งแต่ขาดความชี้ขาดไปบ้าง |
+| 🎯 โอกาสโต้กลับของ Livramento | ทางออกเดียวของกาบูเวร์ดีคือการโต้กลับอย่างรวดเร็ว หาก Livramento คว้าแม้แต่โอกาสเดียว การแข่งขันอาจน่าสนใจขึ้นอย่างกะทันหัน |
+| 🏆 พลวัตกลุ่ม H | การชนะแบบถล่มทลายของสเปนจะสร้างความได้เปรียบด้านคะแนนอย่างมาก และผลต่างประตูอาจมีความสำคัญต่อการจัดอันดับสุดท้าย คาดว่าสเปนจะยังคงกดดันเพื่อเพิ่มประตู |
+| 🌍 ความเป็นไปได้ที่จะเกิดปาฏิหาริย์ในรอบแบ่งกลุ่ม | หากกาบูเวร์ดีสามารถได้แต้ม (เสมอ) จะจัดอยู่ในความพลิกผลที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์ฟุตบอลโลก พร้อมผลกระทบด้านสื่อที่ประเมินไม่ได้ |

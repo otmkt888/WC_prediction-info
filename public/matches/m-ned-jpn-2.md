@@ -34,6 +34,9 @@ Netherlands enter as a traditional European powerhouse — quarterfinalists at t
 ## home_note:vi
 Hà Lan xuất trận với tư cách cường quốc truyền thống châu Âu, từng vào tứ kết World Cup kỳ trước và bán kết EURO 2024. HLV Koeman sử dụng sơ đồ 4-3-3, hàng thủ do đội trưởng Van Dijk chỉ huy, bộ ba tiền vệ De Jong, Gravenberch, Reijnders kiểm soát trận đấu rất tốt, hàng công Gakpo, Malen, Summerville có đủ tốc độ lẫn sáng tạo. Frimpong, trụ cột cánh phải, vắng mặt ở giải đấu lần này vì lý do cá nhân.
 
+## home_note:th
+เนเธอร์แลนด์เข้าสู่การแข่งขันในฐานะมหาอำนาจฟุตบอลยุโรปดั้งเดิม ผ่านเข้ารอบก่อนรองชนะเลิศในฟุตบอลโลกครั้งที่แล้ว และรอบรองชนะเลิศในยูโร 2024 โค้ช Koeman ใช้รูปแบบ 4-3-3 โดยมีกัปตัน Van Dijk คุมแนวรับ แนวกลางสามคนอย่าง De Jong, Gravenberch และ Reijnders ควบคุมเกมได้อย่างเข้มแข็ง ขณะที่แนวรุกสามเส้า Gakpo, Malen และ Summerville รวมความเร็วและความคิดสร้างสรรค์เข้าด้วยกัน Frimpong กำลังสำคัญแนวปีกขวาต้องขาดการแข่งขันในทัวร์นาเมนต์นี้
+
 ## away_note:zh
 日本連續兩屆闖入 16 強，並於 3 月友賽首度擊敗英格蘭，氣勢正盛。隊長 Endo 賽前傷退是重大打擊。主帥 Moriyasu 排出技術流陣容，旅歐球員眾多，由 Kubo、Doan 領銜創造力，鋒線靠 Ueda 單箭頭，主打吸收壓力後快速反擊。
 
@@ -46,6 +49,9 @@ Japan have reached the Round of 16 in two consecutive World Cups and, in a March
 ## away_note:vi
 Nhật Bản liên tiếp vào vòng 16 đội trong hai kỳ World Cup gần nhất, và lần đầu tiên đánh bại Anh trong trận giao hữu tháng 3, phong độ đang lên rất cao. Đội trưởng Endo chấn thương trước trận là tổn thất lớn. HLV Moriyasu bố trí đội hình thiên về kỹ thuật với nhiều cầu thủ thi đấu ở châu Âu, Kubo và Doan dẫn đầu về khả năng sáng tạo, hàng công dựa vào Ueda một mình trên đầu, chủ yếu chờ hấp thụ sức ép rồi phản công nhanh.
 
+## away_note:th
+ญี่ปุ่นผ่านเข้ารอบ 16 ทีมติดต่อกันสองครั้งในฟุตบอลโลก และเอาชนะอังกฤษเป็นครั้งแรกในเกมกระชับมิตรเดือนมีนาคม มาพร้อมโมเมนตัมที่แข็งแกร่ง การบาดเจ็บและถอนตัวของกัปตัน Endo ก่อนเกมถือเป็นความสูญเสียครั้งสำคัญ โค้ช Moriyasu ส่งทีมที่เน้นทักษะซึ่งประกอบด้วยนักเตะที่เล่นในยุโรปจำนวนมาก โดยมี Kubo และ Doan เป็นตัวสร้างสรรค์เกม แนวหน้า Ueda ทำหน้าที่กองหน้าตัวเดี่ยว และกลยุทธ์ของทีมเน้นรับแรงกดดันก่อนแล้วจึงโต้กลับอย่างรวดเร็ว
+
 ## odds_note:zh
 賠率顯示：荷蘭勝約 2.00、平局 3.40、日本勝 3.60。荷蘭以整體實力與球星質量成為熱門，大盤總入球設於 2.5 球偏向小球，反映兩隊防守扎實、走勢偏低分的預期。平局亦具相當機率。
 
@@ -57,6 +63,9 @@ The odds read: Netherlands win ~2.00, draw 3.40, Japan win 3.60. Netherlands are
 
 ## odds_note:vi
 Tỷ lệ cược cho thấy: Hà Lan thắng khoảng 2.00, hòa 3.40, Nhật Bản thắng 3.60. Hà Lan là ứng cử viên sáng giá nhờ thực lực tổng thể và chất lượng cầu thủ ngôi sao, kèo tổng số bàn thắng được đặt ở mức 2.5 nghiêng về ít bàn, phản ánh kỳ vọng hai đội phòng thủ chắc chắn và xu hướng ít bàn thắng. Tỷ lệ hòa cũng khá đáng kể.
+
+## odds_note:th
+อัตราต่อรองแสดงให้เห็นว่า: เนเธอร์แลนด์ชนะประมาณ 2.00, เสมอ 3.40, ญี่ปุ่นชนะ 3.60 เนเธอร์แลนด์เป็นเต็งหนึ่งด้านคุณภาพโดยรวมและพลังดาว ราคาประตูรวมของตลาดอยู่ต่ำกว่า 2.5 เล็กน้อย สะท้อนความคาดหวังว่าทั้งสองทีมจะวางแนวรับที่มั่นคงและเกมจะมีประตูน้อย โอกาสเสมอก็มีความเป็นไปได้สูงเช่นกัน
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược cho thấy: Hà Lan thắng khoảng 2.00, hòa 3.40, Nhật B
 | ST | #9 | Donyell Malen | Aston Villa | 🏴 | 13 | starter,league | false | Tiền đạo Aston Villa, trung phong tốc độ, khả năng phản công và di chuyển tốt. |
 | FWD | 備援 | Memphis Depay | — | 🇳🇱 | 10 | team,squad | true | Cựu binh kỷ lục ghi bàn của Hà Lan, bài dự bị bất ngờ, giá trị cao trong các tình huống cố định và kinh nghiệm. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Bart Verbruggen | Brighton | 🏴 | 0 | starter,league | false | ผู้รักษาประตู Brighton (Premier League) มีทักษะการเล่นลูกด้วยเท้าที่ยอดเยี่ยม เป็นผู้รักษาประตูหมายเลข 1 ที่อายุน้อยและเป็นตัวหลักในฟุตบอลโลก |
+| DEF | #22 | Denzel Dumfries | Inter | 🇮🇹 | 6 | starter,league | false | แบ็กขวา Inter (Serie A) มีพลังในการบุกโจมตีที่แข็งแกร่ง เป็นภัยคุกคามทางอากาศในสถานการณ์เซตพีซ |
+| DEF | #4 | Jan Paul van Hecke | Brighton | 🏴 | 2 | starter,league | false | เซ็นเตอร์แบ็ก Brighton (Premier League) สร้างเกมได้อย่างมั่นคง จับคู่กับ Van Dijk ดูแลแนวกลาง |
+| DEF | #4 | Virgil van Dijk | Liverpool | 🏴 | 5 | starter,team,league | false | เซ็นเตอร์แบ็กระดับกัปตันของ Liverpool เป็นผู้นำแนวรับระดับโลก กัปตันทีมเนเธอร์แลนด์ และเป็นภัยคุกคามในเซตพีซ |
+| DEF | #5 | Micky van de Ven | Tottenham | 🏴 | 2 | starter,league | false | เซ็นเตอร์แบ็กซ้ายของ Tottenham มีความเร็วในการฟื้นตัวสูงสุดในลีก และสามารถครอบคลุมตำแหน่งแบ็กซ้ายได้ |
+| CM | #21 | Frenkie de Jong | Barcelona | 🇪🇸 | 4 | starter,team,league | false | กองกลางหัวใจของ Barcelona ครองบอลและพัฒนาเกมได้ระดับโลก เป็นผู้กำหนดจังหวะระดับโลก |
+| CM | #6 | Ryan Gravenberch | Liverpool | 🏴 | 5 | starter,league | false | กองกลาง Liverpool มีพละกำลังสูงและครอบคลุมพื้นที่ได้กว้าง เป็นดาวรุ่งที่กำลังโด่งดังใน Premier League |
+| CM | #14 | Tijjani Reijnders | Manchester City | 🏴 | 8 | starter,league | false | กองกลาง Manchester City บุกเข้าซัดและยิงไกลได้ดี เป็นกองกลางที่เป็นภัยคุกคามทำประตูสูงสุดในเกมนี้ |
+| LW | #7 | Crysencio Summerville | West Ham | 🏴 | 9 | starter,league | false | ปีกของ West Ham เลี้ยงบอลได้คมคาย สามารถตัดเข้าซัดได้ เป็นจุดเจาะแนวรับริมเส้น |
+| LW | #11 | Cody Gakpo | Liverpool | 🏴 | 14 | starter,team,league | false | ปีกของ Liverpool เป็นดาวดังทั้งในทีมชาติและสโมสร มีสัญชาตญาณทำประตูที่โดดเด่น เป็นจุดทำประตูหลัก |
+| ST | #9 | Donyell Malen | Aston Villa | 🏴 | 13 | starter,league | false | กองหน้า Aston Villa เป็นสไตรเกอร์เน้นความเร็ว มีการเคลื่อนที่โต้กลับและการวางตัวที่ดี |
+| FWD | สำรอง | Memphis Depay | — | 🇳🇱 | 10 | team,squad | true | กองหน้าอาวุโสผู้ทำประตูสูงสุดตลอดกาลของเนเธอร์แลนด์ เป็นตัวสำรองที่มีคุณค่าสูงในเซตพีซและด้านประสบการณ์ |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược cho thấy: Hà Lan thắng khoảng 2.00, hòa 3.40, Nhật B
 | ST | #9 | Ayase Ueda | Feyenoord | 🇳🇱 | 12 | starter,team,league | false | Tiền đạo Feyenoord (Eredivisie), di chuyển và đánh đầu tốt, trung phong chủ lực duy nhất của Nhật Bản. |
 | FWD | 備援 | Nilson Angulo | — | 🇯🇵 | 6 | squad | true | Tiền vệ cánh dự bị tốc độ, bài tấn công phá vỡ hàng thủ mệt mỏi trong hiệp hai. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #12 | Zion Suzuki | Parma | 🇮🇹 | 0 | starter,league | false | ผู้รักษาประตู Parma (Serie A) ร่างกายสูงใหญ่ปฏิกิริยาไว เป็นผู้รักษาประตูหมายเลข 1 รุ่นใหม่ของญี่ปุ่น |
+| DEF | #5 | Tsuyoshi Watanabe | Feyenoord | 🇳🇱 | 2 | starter,league | false | แบ็ก Feyenoord (Eredivisie) แข็งแกร่งด้านการป้องกัน สามารถเล่นเซ็นเตอร์แบ็กหรือด้านขวาได้ |
+| DEF | #3 | Shogo Taniguchi | Sint-Truiden | 🇧🇪 | 2 | starter | false | เซ็นเตอร์แบ็กที่มีประสบการณ์สูงในลีกเบลเยียม รับภาระแนวรับแทน Endo ที่ขาดการแข่งขัน |
+| DEF | #16 | Hiroki Ito | Bayern Munich | 🇩🇪 | 2 | starter,league | false | แบ็ก Bayern Munich (Bundesliga) มีการส่งบอลด้วยเท้าซ้ายที่มีคุณภาพ เป็นนักเตะแนวรับที่มีทักษะสูง |
+| RW | #20 | Takefusa Kubo | Real Sociedad | 🇪🇸 | 11 | starter,team,league | false | ปีก Real Sociedad (La Liga) อันตรายในการต่อสู้ 1v1 และตัดเข้าซัด เป็นแหล่งสร้างสรรค์เกมที่ยิ่งใหญ่ที่สุดของญี่ปุ่น |
+| RW | #8 | Ritsu Doan | Eintracht Frankfurt | 🇩🇪 | 10 | starter,team,league | false | ปีก Eintracht Frankfurt (Bundesliga) ตัดเข้าซัดด้วยเท้าถนัด ทำประตูได้สม่ำเสมอในเกมใหญ่ เป็นดาวของทีม |
+| DM | #13 | Kaishu Sano | Mainz | 🇩🇪 | 2 | starter,league | false | กองกลางรับ Mainz (Bundesliga) ดักบอลและครอบคลุมพื้นที่ได้ยอดเยี่ยม เป็นกำแพงแนวรับแทน Endo ที่ขาดการแข่งขัน |
+| LW | #15 | Daizen Maeda | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 9 | starter,team,league | false | กองหน้า Celtic (Scottish Premiership) วิ่งไม่หยุดและกดดันอย่างเข้มข้น มีความเร็วโต้กลับที่น่ากลัว |
+| AM | #18 | Daichi Kamada | Crystal Palace | 🏴 | 7 | starter,league | false | กองกลาง Crystal Palace (Premier League) จัดระบบเกมได้ดีและเข้าบล็อกได้ทันเวลา เป็นตัวเชื่อมแนวกลางและแนวรุก |
+| LW | #19 | Keito Nakamura | Anderlecht | 🇧🇪 | 7 | starter | false | ปีกซ้าย Anderlecht (ลีกเบลเยียม) ความเร็วสูง สร้างความกว้างริมเส้นและทางออกโต้กลับ |
+| ST | #9 | Ayase Ueda | Feyenoord | 🇳🇱 | 12 | starter,team,league | false | กองหน้า Feyenoord (Eredivisie) เคลื่อนที่คมคายและแข็งแกร่งในอากาศ เป็นตัวเลือกกองหน้าตัวเดี่ยวหลักของญี่ปุ่น |
+| FWD | สำรอง | Nilson Angulo | — | 🇯🇵 | 6 | squad | true | ปีกตัวสำรองที่เน้นความเร็ว เป็นไพ่ในดงในครึ่งหลังสำหรับรับมือกับแนวรับที่เหนื่อยล้า |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược cho thấy: Hà Lan thắng khoảng 2.00, hòa 3.40, Nhật B
 | 1-2 🇯🇵 | Nhật Bản Thắng | 7 | #DC2626 | | away |
 | Khác | — | 15 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 1-0 🇳🇱 | เนเธอร์แลนด์ชนะ | 17 | #F97316 | โอกาสสูงสุด | home |
+| 1-1 | เสมอ | 16 | #6b7280 | อันดับสอง | draw |
+| 2-1 🇳🇱 | เนเธอร์แลนด์ชนะ | 13 | #F97316 | | home |
+| 0-0 | เสมอ | 12 | #6b7280 | | draw |
+| 2-0 🇳🇱 | เนเธอร์แลนด์ชนะ | 11 | #F97316 | | home |
+| 0-1 🇯🇵 | ญี่ปุ่นชนะ | 9 | #DC2626 | | away |
+| 1-2 🇯🇵 | ญี่ปุ่นชนะ | 7 | #DC2626 | | away |
+| อื่นๆ | — | 15 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược cho thấy: Hà Lan thắng khoảng 2.00, hòa 3.40, Nhật B
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Elfath trung bình khoảng 3.7~3.8 thẻ vàng mỗi trận, mức độ khá vừa phải. Hai đội tranh chấp quyết liệt ở tuyến giữa, số thẻ vàng rơi vào khoảng giữa. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Elfath trung bình khoảng 0.14~0.18 thẻ đỏ mỗi trận, xác suất rút thẻ đỏ thấp (khoảng 15%), trừ khi có pha phạm lỗi thô bạo hoặc thẻ vàng thứ hai. |
 | ⚠️ | 22–26 | Số lần phạm lỗi trọng tài thổi/trận | Elfath trung bình khoảng 22 lần phạm lỗi mỗi trận, phong cách thổi phạt thoáng giúp trận đấu trôi chảy, số lần phạm lỗi ở mức trung bình khi cả hai đội pressing cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–12 | จำนวนเตะมุมที่คาดการณ์ | เนเธอร์แลนด์สร้างแรงกดดันมากผ่าน Dumfries และ Gakpo ทางปีก เมื่อเผชิญแนวรับลึกของญี่ปุ่น คาดว่าจะได้เตะมุมเอียงไปทางเนเธอร์แลนด์อย่างชัดเจน |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | Elfath เฉลี่ยประมาณ 3.7–3.8 ใบเหลืองต่อเกม ซึ่งอยู่ในระดับกลาง การดวลกันอย่างเข้มข้นในแนวกลางของทั้งสองทีมน่าจะทำให้จำนวนใบเหลืองอยู่ในช่วงกลาง |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | Elfath เฉลี่ยประมาณ 0.14–0.18 ใบแดงต่อเกม โอกาสที่จะเห็นใบแดงต่ำ (ประมาณ 15%) เว้นแต่จะมีการฟาวล์รุนแรงหรือใบเหลืองใบที่สอง |
+| ⚠️ | 22–26 | ฟาวล์ของกรรมการ/เกม | Elfath เฉลี่ยประมาณ 22 ฟาวล์ต่อแมตช์ รูปแบบการตัดสินที่ผ่อนปรนช่วยให้เกมไหลลื่น เมื่อทั้งสองทีมกดดันสูง คาดว่าจำนวนฟาวล์จะอยู่ในระดับกลาง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược cho thấy: Hà Lan thắng khoảng 2.00, hòa 3.40, Nhật B
 | Thẻ TB/trận | 3.8 | #60a5fa |
 | Phạm lỗi TB/trận | ~22 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Ismail Elfath
+- country: 🇺🇸 สหรัฐอเมริกา · CONCACAF · FIFA นานาชาติ
+- note: กรรมการชาวอเมริกันเชื้อสายโมร็อกโก ตัดสินใน MLS ตั้งแต่ปี 2012 และได้รับเกียรติบัตรกรรมการนานาชาติ FIFA ในปี 2016 เคยตัดสินในฟุตบอลโลก 2022 ที่กาตาร์ (รวมถึงนัดญี่ปุ่น vs โครเอเชีย รอบ 16 ทีม) และโอลิมปิก 2020 สไตล์การตัดสินค่อนข้างผ่อนปรน เน้นให้เกมไหลลื่น โอกาสออกใบแดงต่ำ
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 249+ | #F1F5F9 |
+| ใบเหลืองรวม | 955+ | #EAB308 |
+| ใบเหลือง-แดง | 32 | orange |
+| ใบแดงรวม | 34 | #EF4444 |
+| เฉลี่ยใบ/นัด | 3.8 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~22 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 2
@@ -353,6 +429,13 @@ Tỷ lệ cược cho thấy: Hà Lan thắng khoảng 2.00, hòa 3.40, Nhật B
 - draws: 1
 - awayWins: 0
 - note: Trong các lần đối đầu chính thức gần đây, Hà Lan chiếm ưu thế. World Cup 2010 vòng bảng Hà Lan thắng 1-0; giao hữu 2009 Hà Lan thắng 3-0; giao hữu 2013 hòa 2-2. Nhật Bản chưa từng đánh bại Hà Lan trong các trận đấu chính thức. Nhật Bản lần đầu đánh bại Anh trong trận giao hữu tháng 3 trước giải, phong độ đang rất tốt.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 2
+- draws: 1
+- awayWins: 0
+- note: ในการพบกันอย่างเป็นทางการในยุคปัจจุบัน เนเธอร์แลนด์ได้เปรียบ เนเธอร์แลนด์ชนะ 1-0 ในรอบแบ่งกลุ่มฟุตบอลโลก 2010 ชนะ 3-0 ในเกมกระชับมิตรปี 2009 และเสมอ 2-2 ในเกมกระชับมิตรปี 2013 ญี่ปุ่นยังไม่เคยเอาชนะเนเธอร์แลนด์ในการแข่งขันอย่างเป็นทางการ ญี่ปุ่นมาพร้อมฟอร์มที่แข็งแกร่งหลังเอาชนะอังกฤษเป็นครั้งแรกในเกมกระชับมิตรเดือนมีนาคม
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược cho thấy: Hà Lan thắng khoảng 2.00, hòa 3.40, Nhật B
 | Virgil van Dijk | 🇳🇱 CB | Ayase Ueda | 🇯🇵 ST | Trung vệ đẳng cấp thế giới vs trung phong Feyenoord, liệu Ueda có thể tìm thấy không gian phía sau Van Dijk hay không là chìa khóa để Nhật Bản ghi bàn. |
 | Denzel Dumfries | 🇳🇱 RB | Keito Nakamura | 🇯🇵 LW | Hậu vệ phải Inter dâng cao tấn công vs cánh trái Nhật Bản phản công, cánh phải Hà Lan là con dao hai lưỡi tấn công lẫn phòng thủ. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Cody Gakpo | 🇳🇱 LW | Takefusa Kubo | 🇯🇵 RW | ปีก Liverpool vs ปีก Real Sociedad นักเตะดาวทั้งสองฝั่งประจัญหน้ากัน การต่อสู้ในแนวปีกทั้งซ้ายและขวาจะเป็นตัวกำหนดความคิดสร้างสรรค์ของเกม |
+| Frenkie de Jong | 🇳🇱 CM | Daichi Kamada | 🇯🇵 AM | ผู้เชี่ยวชาญการส่งบอลของ Barcelona vs กองกลางรอบด้านของ Crystal Palace การแข่งขันเพื่อควบคุมจังหวะของแนวกลาง |
+| Virgil van Dijk | 🇳🇱 CB | Ayase Ueda | 🇯🇵 ST | เซ็นเตอร์แบ็กระดับโลก vs กองหน้าตัวเดี่ยวของ Feyenoord ว่า Ueda จะหาช่องว่างด้านหลัง Van Dijk ได้หรือไม่คือกุญแจสำคัญของการทำประตูญี่ปุ่น |
+| Denzel Dumfries | 🇳🇱 RB | Keito Nakamura | 🇯🇵 LW | การบุกของแบ็กขวา Inter vs ภัยคุกคามโต้กลับปีกซ้ายญี่ปุ่น แนวปีกขวาของเนเธอร์แลนด์เป็นดาบสองคมทั้งในการรุกและรับ |
+
 ## summary_verdict:zh
 荷蘭以歐洲傳統強權的整體實力與球星質量出征，後防有世界級的 Van Dijk，中場 De Jong、Gravenberch、Reijnders 控制力十足，鋒線 Gakpo 是最大進球點。陣容幾乎全為英超與頂級聯賽主力，板凳深度（Depay、Ake、Kluivert）也具威脅。
 
@@ -413,6 +504,13 @@ Hà Lan xuất trận với thực lực tổng thể và chất lượng cầu 
 Nhật Bản liên tiếp vào vòng 16 đội trong hai kỳ và lần đầu đánh bại Anh, nhiều cầu thủ thi đấu ở châu Âu, kỹ thuật tinh tế, khả năng sáng tạo của Kubo và Doan là vũ khí phản công lợi hại. Tuy nhiên, đội trưởng Endo chấn thương trước trận làm suy yếu bức tường tuyến giữa, và thiếu trung phong đẳng cấp thế giới, Ueda một mình trên đầu khó tìm thấy không gian khi đối mặt Van Dijk.
 
 Dự đoán: 1-0 Hà Lan thắng nhọc. Kỷ luật phòng thủ và phản công của Nhật Bản có thể gây khó dễ, nhưng chất lượng tổng thể và mối đe dọa từ các tình huống cố định của Hà Lan đủ sức phá vỡ hàng thủ Nhật Bản và giữ vững chiến thắng. Hòa (1-1) là xác suất cao thứ hai, đây là khởi đầu có thể chấp nhận được cho Nhật Bản.
+
+## summary_verdict:th
+เนเธอร์แลนด์เข้าสู่การแข่งขันด้วยน้ำหนักเต็มของมหาอำนาจฟุตบอลยุโรปดั้งเดิม Van Dijk ระดับโลกดูแลแนวรับ แนวกลางสามคนของ De Jong, Gravenberch และ Reijnders ควบคุมเกมได้อย่างเหนือกว่า และ Gakpo เป็นภัยคุกคามทำประตูหลักในแนวหน้า แทบทุกคนในทีมคือตัวหลักจากลีกชั้นนำ และตัวสำรอง (Depay, Ake, Kluivert) ก็เพิ่มความลึกของทีมได้อย่างแท้จริง
+
+ญี่ปุ่นผ่านเข้ารอบ 16 ทีมติดต่อกันและเอาชนะอังกฤษเป็นครั้งแรก มีนักเตะที่เล่นในยุโรปจำนวนมากและมีคุณภาพเชิงเทคนิคที่ละเอียดอ่อน Kubo และ Doan อันตรายในการโต้กลับ อย่างไรก็ตาม การถอนตัวของกัปตัน Endo ก่อนเกมทำให้กำแพงแนวกลางอ่อนแอลง และทีมขาดกองหน้าระดับโลก Ueda กองหน้าตัวเดี่ยวจะมีพื้นที่น้อยมากเมื่อเผชิญกับ Van Dijk
+
+การพยากรณ์: 1-0 เนเธอร์แลนด์ชนะ วินัยการรับและภัยคุกคามโต้กลับของญี่ปุ่นจะสร้างปัญหาได้ แต่คุณภาพโดยรวมและอันตรายจากเซตพีซของเนเธอร์แลนด์น่าจะเพียงพอที่จะเจาะแนวรับและรักษาชัยชนะไว้ได้ การเสมอ (1-1) เป็นผลลัพธ์ที่มีโอกาสสูงเป็นอันดับสองและจะเป็นการเริ่มต้นที่ยอมรับได้สำหรับญี่ปุ่น
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: 1-0 Hà Lan thắng nhọc. Kỷ luật phòng thủ và phản cô
 | 🎯 Tình huống cố định quyết định | Mối đe dọa đánh đầu của Dumfries, Van Dijk cùng với các tình huống cố định khi Depay vào sân thay người có thể trở thành yếu tố phá vỡ thế cục. |
 | ⚖️ Phong cách trọng tài thoáng | Elfath thổi phạt vừa phải nghiêng về thoáng, xác suất thẻ đỏ thấp, trận đấu dự kiến diễn ra trơn tru, không lợi cho chiến thuật câu giờ cố ý. |
 | 🏆 Trận mở màn Bảng F | Cùng bảng còn có Thụy Điển, Tunisia, đội thắng trận này sẽ giành lợi thế lớn trong cuộc đua vượt vòng bảng, cả hai đội đều coi đây là trận then chốt. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🦁 คุณภาพดาวของเนเธอร์แลนด์ | Van Dijk ในแนวรับ De Jong ในแนวกลาง และ Gakpo ในแนวหน้า ก่อตัวเป็นกระดูกสันหลังที่เต็มไปด้วยดาว คุณภาพโดยรวมสูงกว่าญี่ปุ่นอย่างชัดเจนหนึ่งระดับ |
+| ⚡ ภัยคุกคามโต้กลับของญี่ปุ่น | Kubo, Doan และ Maeda รวมความเร็วและความคิดสร้างสรรค์เข้าด้วยกัน การโต้กลับอย่างรวดเร็วหลังรับแรงกดดันคืออาวุธที่ยิ่งใหญ่ที่สุดของญี่ปุ่น |
+| 🚑 ผลกระทบจากบาดเจ็บของ Endo | กัปตันและกองกลางรับ Endo ถอนตัวก่อนแมตช์ Sano เข้ามาแทน ความมั่นคงของกำแพงแนวกลางเป็นความกังวลที่แท้จริงของญี่ปุ่น |
+| 🎯 เซตพีซเป็นตัวตัดสิน | ภัยคุกคามทางอากาศของ Dumfries และ Van Dijk ในเซตพีซ ร่วมกับการเล่นของ Depay จากตัวสำรอง อาจเป็นปัจจัยชี้ขาด |
+| ⚖️ สไตล์กรรมการผ่อนปรน | แนวทางกลางถึงผ่อนปรนของ Elfath ทำให้ใบแดงหายาก และเกมไหลลื่น ไม่เป็นประโยชน์สำหรับฝ่ายที่ต้องการถ่วงเวลาโดยเจตนา |
+| 🏆 ศึกเปิดสนามกลุ่ม F | กลุ่มนี้ยังมีสวีเดนและตูนิเซีย ผู้ชนะที่นี่จะได้เปรียบอย่างมากในการแข่งขันผ่านรอบ ทั้งสองทีมถือว่านี่เป็นเกมสำคัญ |

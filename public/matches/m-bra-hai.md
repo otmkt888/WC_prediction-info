@@ -34,6 +34,9 @@ Brazil enter as a powerhouse ranked 5th in the world — five-time world champio
 ## home_note:vi
 Brazil vào giải với thứ hạng FIFA số 5 — nhà vô địch năm lần đang nhắm đến kết thúc 24 năm chờ đợi danh hiệu. Trong trận mở màn ngày 13/6, họ hòa 1-1 với Morocco, Vinicius Jr. gỡ hòa, cho thấy hàng công sắc bén nhưng hàng thủ cần cải thiện. Sơ đồ 4-3-3 của Ancelotti triển khai Vinicius (Real Madrid) và Raphinha (Barcelona) ở hai cánh, Neymar (Santos) là ngôi sao trở lại huyền thoại, và Endrick trẻ trung là nhân tố đáng mong đợi.
 
+## home_note:th
+บราซิลเข้าสู่การแข่งขันในฐานะมหาอำนาจฟุตบอลอันดับ 5 ของโลก — แชมป์โลก 5 สมัยที่มุ่งมั่นจะยุติความแห้งแล้งด้านแชมป์ที่ยาวนาน 24 ปี ในนัดเปิดสนามวันที่ 13 มิถุนายน พวกเขาเสมอ 1-1 กับ Morocco โดย Vinicius Jr. เป็นผู้ทำประตูตีเสมอ แสดงให้เห็นถึงแนวรุกที่คมกริบแต่แนวรับยังต้องปรับปรุง รูปแบบ 4-3-3 ของ Ancelotti ส่ง Vinicius (Real Madrid) และ Raphinha (Barcelona) ลงเป็นตัวคุกคามแนวปีก Neymar (Santos) คือตำนานผู้หวนคืน และ Endrick หนุ่มน้อยคือความหวังที่น่าตื่นเต้น Bruno Guimarães (Newcastle) และ Casemiro (Man United) ทำหน้าที่เป็นเกราะป้องกันกลางสนาม
+
 ## away_note:zh
 海地時隔 52 年重返世界盃（上屆 1974 年），FIFA 排名第 84，是本屆 48 強中排名最低的球隊之一。首戰 0-1 不敵蘇格蘭，顯示實力差距明顯。球隊大多數球員效力北美和南美小聯賽，缺乏歐洲頂級聯賽資歷。精神層面是巨大加持——重返世界盃本身就是歷史性成就，球隊將傾力防守搏奇跡。
 
@@ -46,6 +49,9 @@ Haiti return to the World Cup for the first time in 52 years (last appearing in 
 ## away_note:vi
 Haiti trở lại World Cup sau 52 năm vắng mặt (lần cuối là 1974), xếp hạng FIFA 84 và là một trong những đội xếp hạng thấp nhất trong giải đấu 48 đội mở rộng. Họ thua 0-1 trước Scotland trong trận mở màn, xác nhận khoảng cách đẳng cấp đáng kể. Hầu hết cầu thủ thi đấu ở các giải đấu Bắc và Nam Mỹ ngoài các giải hàng đầu châu Âu. Ý nghĩa cảm xúc là rất lớn — chỉ việc trở lại World Cup đã là thành tích lịch sử.
 
+## away_note:th
+เฮติกลับสู่ฟุตบอลโลกเป็นครั้งแรกในรอบ 52 ปี (ครั้งสุดท้ายปี 1974) อยู่อันดับ 84 ของโลกและเป็นหนึ่งในทีมที่มีอันดับต่ำสุดในทัวร์นาเมนต์ขยาย 48 ทีมนี้ พวกเขาแพ้ Scotland 0-1 ในนัดเปิดสนาม ยืนยันถึงช่องว่างด้านคุณภาพที่เห็นได้ชัด นักเตะส่วนใหญ่เล่นในลีกอเมริกาเหนือและอเมริกาใต้ นอกเหนือจากลีกชั้นนำในยุโรป มิติทางอารมณ์นั้นยิ่งใหญ่มาก — เพียงแค่การกลับสู่ฟุตบอลโลกก็ถือเป็นความสำเร็จทางประวัติศาสตร์แล้ว และพวกเขาจะต้านทานด้วยทุกสิ่งที่มี
+
 ## odds_note:zh
 賠率顯示：巴西勝 1.12、平局 9.50、海地勝 22.00。巴西為壓倒性大熱，個人能力、陣容深度、大賽資歷全面領先。海地唯一出路是深溝高壘配合門將神奇表現，但爆冷概率極低。
 
@@ -57,6 +63,9 @@ The odds reflect: Brazil win 1.12, draw 9.50, Haiti win 22.00. Brazil are overwh
 
 ## odds_note:vi
 Tỷ lệ cược: Brazil thắng 1.12, hòa 9.50, Haiti thắng 22.00. Brazil là đội được đặt cược áp đảo, vượt trội toàn diện về chất lượng cá nhân, chiều sâu đội hình và kinh nghiệm. Con đường duy nhất để Haiti có kết quả là phòng thủ sâu với màn trình diễn xuất thần của thủ môn, nhưng xác suất gây bất ngờ là không đáng kể.
+
+## odds_note:th
+อัตราต่อรองสะท้อนให้เห็น: บราซิลชนะ 1.12, เสมอ 9.50, เฮติชนะ 22.00 บราซิลเป็นตัวเก็งอย่างท่วมท้น นำหน้าอย่างครอบคลุมทั้งด้านคุณภาพรายบุคคล ความลึกของทีม และประสบการณ์ในทัวร์นาเมนต์ หนทางเดียวที่เฮติจะได้ผลลัพธ์คือการตั้งรับลึกพร้อมผู้รักษาประตูที่แสดงฟอร์มเยี่ยม แต่ความน่าจะเป็นของการพลิกล็อคนั้นแทบไม่มีนัยสำคัญ
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -90,6 +99,54 @@ Tỷ lệ cược: Brazil thắng 1.12, hòa 9.50, Haiti thắng 22.00. Brazil l
 | LW | #7 | Vinícius Jr. | Real Madrid | 🇪🇸 | 17 | starter,league,team | false | Real Madrid superstar, scored the equalizer in the opener, his pace and dribbling are Brazil's greatest weapon. |
 | FWD | Sub | Gabriel Martinelli | Arsenal | 🇬🇧 | 10 | league,squad | true | Arsenal forward, powerful and direct, an impact substitute who can change the game. |
 
+## home_squad:zh-cn
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Alisson | Liverpool | 🇬🇧 | 1 | starter,league,team | false | 利物浦世界顶级门将，首战首发，后防定心丸。 |
+| DEF | #2 | Douglas Santos | Zenit | 🇷🇺 | 3 | starter | false | 右后卫，前插助攻积极，首战首发。 |
+| DEF | #4 | Marquinhos | PSG | 🇫🇷 | 5 | starter,league,team | false | PSG 队长，巴西后防领袖，对抗与组织俱佳，五届世界杯资历。 |
+| DEF | #5 | Gabriel Magalhães | Arsenal | 🇬🇧 | 5 | starter,league | false | 阿仙奴中卫，2025/26 欧冠决赛参与者，身体强悍。 |
+| DEF | #6 | Alex Sandro | Flamengo | 🇧🇷 | 3 | starter | false | 弗拉门戈左后卫，老将，出球稳定。 |
+| CM | #5 | Casemiro | Manchester United | 🇬🇧 | 7 | starter,league | false | 曼联后腰，防守核心，传球组织出色，大赛资历丰富。 |
+| CM | #39 | Bruno Guimarães | Newcastle United | 🇬🇧 | 9 | starter,league | false | 纽卡斯尔中场引擎，攻守俱佳，英超最佳中场之一。 |
+| AM | #11 | Neymar Jr. | Santos | 🇧🇷 | 14 | league,team | false | 巴西传奇，79 个国家队进球，膝盖伤后复出，最后世界杯，是否首发待确认。 |
+| RW | #11 | Raphinha | Barcelona | 🇪🇸 | 13 | starter,league | false | 巴萨右翼，2025/26 赛季状态极佳，进球与助攻兼备，本场预计首发。 |
+| ST | #9 | Endrick | Lyon/Real Madrid | 🇫🇷 | 12 | starter,league | false | 年轻前锋，里昂外借，速度与终结俱佳，新生代象征。 |
+| LW | #7 | Vinícius Jr. | Real Madrid | 🇪🇸 | 17 | starter,league,team | false | 皇马超级翼锋，首战扳平进球，速度与盘带是巴西最大武器。 |
+| FWD | 备援 | Gabriel Martinelli | Arsenal | 🇬🇧 | 10 | league,squad | true | 阿仙奴前锋，冲击力强，替补上场可改变比赛走势。 |
+
+## home_squad:vi
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Alisson | Liverpool | 🇬🇧 | 1 | starter,league,team | false | Thủ môn đẳng cấp thế giới của Liverpool, đá chính trận đầu, điểm tựa vững chắc của hàng thủ. |
+| DEF | #2 | Douglas Santos | Zenit | 🇷🇺 | 3 | starter | false | Hậu vệ phải, tích cực dâng cao hỗ trợ, đá chính trận đầu. |
+| DEF | #4 | Marquinhos | PSG | 🇫🇷 | 5 | starter,league,team | false | Đội trưởng PSG và thủ lĩnh hàng thủ Brazil, xuất sắc cả đối kháng lẫn phân phối, kỳ cựu năm kỳ World Cup. |
+| DEF | #5 | Gabriel Magalhães | Arsenal | 🇬🇧 | 5 | starter,league | false | Trung vệ Arsenal, tham gia chung kết Champions League 2025/26, thể hình vượt trội. |
+| DEF | #6 | Alex Sandro | Flamengo | 🇧🇷 | 3 | starter | false | Hậu vệ trái Flamengo, lão tướng với phân phối bóng bình tĩnh. |
+| CM | #5 | Casemiro | Manchester United | 🇬🇧 | 7 | starter,league | false | Tiền vệ phòng thủ Man United, cốt lõi phòng thủ với chuyền bóng xuất sắc và kinh nghiệm giải đấu phong phú. |
+| CM | #39 | Bruno Guimarães | Newcastle United | 🇬🇧 | 9 | starter,league | false | Động cơ tuyến giữa Newcastle, xuất sắc cả tấn công lẫn phòng thủ, một trong những tiền vệ trung tâm tốt nhất Premier League. |
+| AM | #11 | Neymar Jr. | Santos | 🇧🇷 | 14 | league,team | false | Huyền thoại Brazil với 79 bàn thắng, trở lại sau chấn thương đầu gối trong kỳ World Cup cuối cùng có thể — trạng thái đá chính chưa xác định. |
+| RW | #11 | Raphinha | Barcelona | 🇪🇸 | 13 | starter,league | false | Tiền vệ cánh phải Barcelona, phong độ xuất sắc trong suốt 2025/26, đóng góp bàn thắng và kiến tạo, dự kiến đá chính. |
+| ST | #9 | Endrick | Lyon/Real Madrid | 🇫🇷 | 12 | starter,league | false | Tiền đạo trẻ cho mượn tại Lyon, tốc độ và dứt điểm xuất sắc, biểu tượng thế hệ mới của Brazil. |
+| LW | #7 | Vinícius Jr. | Real Madrid | 🇪🇸 | 17 | starter,league,team | false | Siêu sao Real Madrid, ghi bàn gỡ hòa trận đầu, tốc độ và rê bóng là vũ khí lớn nhất của Brazil. |
+| FWD | Dự bị | Gabriel Martinelli | Arsenal | 🇬🇧 | 10 | league,squad | true | Tiền đạo Arsenal, mạnh mẽ và trực tiếp, là cầu thủ thay thế có tác động lớn có thể thay đổi trận đấu. |
+
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Alisson | Liverpool | 🇬🇧 | 1 | starter,league,team | false | ผู้รักษาประตูระดับโลกของ Liverpool เริ่มต้นในนัดเปิดสนาม เป็นเสาหลักที่สงบนิ่งของแนวรับ |
+| DEF | #2 | Douglas Santos | Zenit | 🇷🇺 | 3 | starter | false | แบ็กขวา รุกขึ้นอย่างแข็งขันเพื่อช่วยรุก เริ่มต้นในนัดเปิดสนาม |
+| DEF | #4 | Marquinhos | PSG | 🇫🇷 | 5 | starter,league,team | false | กัปตัน PSG และผู้นำแนวรับของบราซิล ยอดเยี่ยมทั้งการดวลและการจัดเกม ทหารผ่านศึก 5 สมัยฟุตบอลโลก |
+| DEF | #5 | Gabriel Magalhães | Arsenal | 🇬🇧 | 5 | starter,league | false | เซ็นเตอร์แบ็ก Arsenal เข้าร่วมรอบชิงชนะเลิศ Champions League 2025/26 แข็งแกร่งทางร่างกาย |
+| DEF | #6 | Alex Sandro | Flamengo | 🇧🇷 | 3 | starter | false | แบ็กซ้าย Flamengo ผู้มีประสบการณ์พร้อมการส่งบอลที่สงบนิ่ง |
+| CM | #5 | Casemiro | Manchester United | 🇬🇧 | 7 | starter,league | false | มิดฟิลด์รับ Man United แกนหลักป้องกันพร้อมพิสัยการส่งบอลที่ยอดเยี่ยมและประสบการณ์การแข่งขันที่หลากหลาย |
+| CM | #39 | Bruno Guimarães | Newcastle United | 🇬🇧 | 9 | starter,league | false | เครื่องยนต์กลางสนาม Newcastle ยอดเยี่ยมทั้งรุกและรับ หนึ่งในกองกลางกลางสนามที่ดีที่สุดใน Premier League |
+| AM | #11 | Neymar Jr. | Santos | 🇧🇷 | 14 | league,team | false | ตำนานบราซิลที่มี 79 ประตูในระดับนานาชาติ กลับมาหลังจากอาการบาดเจ็บที่หัวเข่าในสิ่งที่น่าจะเป็น World Cup ครั้งสุดท้ายของเขา — สถานะการเริ่มเตะยังไม่ได้รับการยืนยัน |
+| RW | #11 | Raphinha | Barcelona | 🇪🇸 | 13 | starter,league | false | แข้งปีกขวา Barcelona อยู่ในฟอร์มยอดเยี่ยมตลอดช่วง 2025/26 ทำทั้งประตูและแอสซิสต์ คาดว่าจะเริ่มเตะ |
+| ST | #9 | Endrick | Lyon/Real Madrid | 🇫🇷 | 12 | starter,league | false | กองหน้าอายุน้อยที่ยืมตัวมาจาก Lyon ความเร็วและการยิงประตูยอดเยี่ยม สัญลักษณ์ของรุ่นใหม่บราซิล |
+| LW | #7 | Vinícius Jr. | Real Madrid | 🇪🇸 | 17 | starter,league,team | false | ดาวเด่น Real Madrid ทำประตูตีเสมอในนัดเปิดสนาม ความเร็วและการเลี้ยงบอลคืออาวุธที่ยิ่งใหญ่ที่สุดของบราซิล |
+| FWD | สำรอง | Gabriel Martinelli | Arsenal | 🇬🇧 | 10 | league,squad | true | กองหน้า Arsenal ทรงพลังและตรงไปตรงมา เป็นตัวสำรองที่มีผลกระทบสูงสามารถเปลี่ยนเกมได้ |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -122,6 +179,54 @@ Tỷ lệ cược: Brazil thắng 1.12, hòa 9.50, Haiti thắng 22.00. Brazil l
 | LW | #11 | Darly Laguerre | Clermont Foot | 🇫🇷 | 7 | starter | false | French league winger, quick and a counter-attack outlet. |
 | MID | Sub | Ronaldo Mathieu | UD Las Palmas | 🇪🇸 | 5 | squad | true | La Liga loanee midfielder, a substitute option. |
 
+## away_squad:zh-cn
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Josué Duverger | Columbus Crew | 🇺🇸 | 1 | starter | false | MLS 门将，首战首发，面对巴西压力巨大。 |
+| DEF | #4 | Steeven Saba | Portland Timbers | 🇺🇸 | 3 | starter | false | MLS 右后卫，速度一般，防守压力大。 |
+| DEF | #5 | Frantzdy Pierrot | New England Revolution | 🇺🇸 | 3 | starter | false | MLS 中卫，对抗型后卫。 |
+| DEF | #6 | Mechack Jérôme | Montreal Impact | 🇨🇦 | 3 | starter | false | 加拿大联赛中卫，后防支柱。 |
+| DEF | #3 | Derrick Etienne Jr. | Columbus Crew | 🇺🇸 | 3 | starter | false | MLS 左后卫，前插能力有限。 |
+| CM | #8 | Duckens Nazon | CF Montréal | 🇨🇦 | 5 | starter | false | 加拿大联赛中场，工作积极，覆盖面广。 |
+| CM | #10 | Wilde-Donald Guerrier | Olympique Lyonnais | 🇫🇷 | 7 | starter,league | false | 里昂外借，创造力最强球员，组织核心。 |
+| CM | #7 | Carnejy Antoine | Cavalier FC | 🇯🇲 | 4 | starter | false | 牙买加联赛中场，力量型。 |
+| RW | #17 | Frantznel Josué | Mouscron | 🇧🇪 | 6 | starter | false | 比利时甲组联赛翼锋，速度具威胁。 |
+| ST | #9 | Kevin Lafrance | Atl. de San Luis | 🇲🇽 | 8 | starter | false | 墨西哥联赛前锋，队内最具职业水平的前锋。 |
+| LW | #11 | Darly Laguerre | Clermont Foot | 🇫🇷 | 7 | starter | false | 法国联赛翼锋，速度快，后防反击选项。 |
+| MID | 备援 | Ronaldo Mathieu | UD Las Palmas | 🇪🇸 | 5 | squad | true | 西甲外借中场，替补选项。 |
+
+## away_squad:vi
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Josué Duverger | Columbus Crew | 🇺🇸 | 1 | starter | false | Thủ môn MLS, đá chính trận đầu, chịu áp lực rất lớn khi đối đầu với Brazil. |
+| DEF | #4 | Steeven Saba | Portland Timbers | 🇺🇸 | 3 | starter | false | Hậu vệ phải MLS, tốc độ có hạn, chịu áp lực phòng thủ mạnh. |
+| DEF | #5 | Frantzdy Pierrot | New England Revolution | 🇺🇸 | 3 | starter | false | Trung vệ MLS, hậu vệ thể hình mạnh và quyết liệt. |
+| DEF | #6 | Mechack Jérôme | Montreal Impact | 🇨🇦 | 3 | starter | false | Trung vệ giải Canada, trụ cột của hàng thủ Haiti. |
+| DEF | #3 | Derrick Etienne Jr. | Columbus Crew | 🇺🇸 | 3 | starter | false | Hậu vệ trái MLS, khả năng hỗ trợ tấn công có hạn. |
+| CM | #8 | Duckens Nazon | CF Montréal | 🇨🇦 | 5 | starter | false | Tiền vệ giải Canada, chăm chỉ với khả năng bao phủ rộng. |
+| CM | #10 | Wilde-Donald Guerrier | Olympique Lyonnais | 🇫🇷 | 7 | starter,league | false | Cho mượn từ Lyon, cầu thủ sáng tạo nhất Haiti và là cốt lõi tổ chức. |
+| CM | #7 | Carnejy Antoine | Cavalier FC | 🇯🇲 | 4 | starter | false | Tiền vệ giải Jamaica, thể hình mạnh và quyết liệt. |
+| RW | #17 | Frantznel Josué | Mouscron | 🇧🇪 | 6 | starter | false | Tiền vệ cánh giải hạng nhất Bỉ, có khả năng đe dọa bằng tốc độ. |
+| ST | #9 | Kevin Lafrance | Atl. de San Luis | 🇲🇽 | 8 | starter | false | Tiền đạo giải Mexico, tiền đạo có đẳng cấp chuyên nghiệp nhất trong đội. |
+| LW | #11 | Darly Laguerre | Clermont Foot | 🇫🇷 | 7 | starter | false | Tiền vệ cánh giải Pháp, nhanh nhẹn và là lựa chọn phản công. |
+| MID | Dự bị | Ronaldo Mathieu | UD Las Palmas | 🇪🇸 | 5 | squad | true | Tiền vệ cho mượn từ La Liga, một lựa chọn thay thế. |
+
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Josué Duverger | Columbus Crew | 🇺🇸 | 1 | starter | false | ผู้รักษาประตู MLS เริ่มต้นในนัดเปิดสนาม ภายใต้แรงกดดันอย่างมากเมื่อเผชิญกับบราซิล |
+| DEF | #4 | Steeven Saba | Portland Timbers | 🇺🇸 | 3 | starter | false | แบ็กขวา MLS ความเร็วมีจำกัด เผชิญแรงกดดันในการรับอย่างเข้มข้น |
+| DEF | #5 | Frantzdy Pierrot | New England Revolution | 🇺🇸 | 3 | starter | false | เซ็นเตอร์แบ็ก MLS กองหลังที่แข็งแกร่งและทรหด |
+| DEF | #6 | Mechack Jérôme | Montreal Impact | 🇨🇦 | 3 | starter | false | เซ็นเตอร์แบ็กลีกแคนาดา เสาหลักของแนวรับเฮติ |
+| DEF | #3 | Derrick Etienne Jr. | Columbus Crew | 🇺🇸 | 3 | starter | false | แบ็กซ้าย MLS ความสามารถในการเข้าร่วมการโจมตีมีจำกัด |
+| CM | #8 | Duckens Nazon | CF Montréal | 🇨🇦 | 5 | starter | false | มิดฟิลด์ลีกแคนาดา ขยันขันแข็งพร้อมการป้องกันที่กว้าง |
+| CM | #10 | Wilde-Donald Guerrier | Olympique Lyonnais | 🇫🇷 | 7 | starter,league | false | ยืมตัวจาก Lyon นักเตะที่สร้างสรรค์ที่สุดของเฮติและแกนกลางด้านการจัดระเบียบ |
+| CM | #7 | Carnejy Antoine | Cavalier FC | 🇯🇲 | 4 | starter | false | มิดฟิลด์ลีกจาเมกา แข็งแกร่งและทรงพลัง |
+| RW | #17 | Frantznel Josué | Mouscron | 🇧🇪 | 6 | starter | false | แข้งปีก Belgian First Division B เป็นภัยคุกคามด้านความเร็ว |
+| ST | #9 | Kevin Lafrance | Atl. de San Luis | 🇲🇽 | 8 | starter | false | กองหน้าลีกเม็กซิโก นักโจมตีที่มีความเป็นมืออาชีพมากที่สุดในทีม |
+| LW | #11 | Darly Laguerre | Clermont Foot | 🇫🇷 | 7 | starter | false | แข้งปีกลีกฝรั่งเศส เร็วและเป็นตัวเลือกโต้กลับ |
+| MID | สำรอง | Ronaldo Mathieu | UD Las Palmas | 🇪🇸 | 5 | squad | true | มิดฟิลด์ที่ยืมตัวจาก La Liga เป็นตัวเลือกสำรอง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -146,6 +251,42 @@ Tỷ lệ cược: Brazil thắng 1.12, hòa 9.50, Haiti thắng 22.00. Brazil l
 | 1-0 🇭🇹 | Haiti Win | 3 | #00209F | | away |
 | Others | — | 17 | #94a3b8 | | - |
 
+## score_predictions:zh-cn
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 4-0 🇧🇷 | 巴西胜 | 20 | #009C3B | 最高概率 | home |
+| 3-0 🇧🇷 | 巴西胜 | 18 | #009C3B | 次高 | home |
+| 5-0 🇧🇷 | 巴西胜 | 12 | #009C3B | | home |
+| 3-1 🇧🇷 | 巴西胜 | 11 | #009C3B | | home |
+| 4-1 🇧🇷 | 巴西胜 | 9 | #009C3B | | home |
+| 2-0 🇧🇷 | 巴西胜 | 10 | #009C3B | | home |
+| 1-0 🇭🇹 | 海地胜 | 3 | #00209F | | away |
+| 其他 | — | 17 | #94a3b8 | | - |
+
+## score_predictions:vi
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 4-0 🇧🇷 | Brazil Thắng | 20 | #009C3B | Xác Suất Cao Nhất | home |
+| 3-0 🇧🇷 | Brazil Thắng | 18 | #009C3B | Xác Suất Cao Thứ 2 | home |
+| 5-0 🇧🇷 | Brazil Thắng | 12 | #009C3B | | home |
+| 3-1 🇧🇷 | Brazil Thắng | 11 | #009C3B | | home |
+| 4-1 🇧🇷 | Brazil Thắng | 9 | #009C3B | | home |
+| 2-0 🇧🇷 | Brazil Thắng | 10 | #009C3B | | home |
+| 1-0 🇭🇹 | Haiti Thắng | 3 | #00209F | | away |
+| Khác | — | 17 | #94a3b8 | | - |
+
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 4-0 🇧🇷 | บราซิลชนะ | 20 | #009C3B | โอกาสสูงสุด | home |
+| 3-0 🇧🇷 | บราซิลชนะ | 18 | #009C3B | อันดับสอง | home |
+| 5-0 🇧🇷 | บราซิลชนะ | 12 | #009C3B | | home |
+| 3-1 🇧🇷 | บราซิลชนะ | 11 | #009C3B | | home |
+| 4-1 🇧🇷 | บราซิลชนะ | 9 | #009C3B | | home |
+| 2-0 🇧🇷 | บราซิลชนะ | 10 | #009C3B | | home |
+| 1-0 🇭🇹 | เฮติชนะ | 3 | #00209F | | away |
+| อื่นๆ | — | 17 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -161,6 +302,30 @@ Tỷ lệ cược: Brazil thắng 1.12, hòa 9.50, Haiti thắng 22.00. Brazil l
 | 🟡 | 3–6 | Predicted Yellow Cards | Haiti's defensive tactical fouls will be frequent; referees tend to book more heavily in one-sided pressure games. |
 | 🟥 | 0–1 | Predicted Red Cards | There is a small risk of a red card if Haiti's backline comes under severe pressure, but the overall risk is low. |
 | ⚠️ | 20–28 | Referee Fouls/Match | Brazil's constant attacks and Haiti's repeated defensive fouling means the overall foul count will be elevated. |
+
+## event_preds:zh-cn
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 10–14 | 预测角球数 | 巴西高位压制将制造大量角球，海地退守弱队效应明显。 |
+| 🟡 | 3–6 | 预测黄牌数 | 海地防守端战术犯规频繁，裁判在压迫性比赛中出牌偏多。 |
+| 🟥 | 0–1 | 预测红牌数 | 海地后防崩溃压力下有小概率红牌，但整体风险低。 |
+| ⚠️ | 20–28 | 裁判犯规数/场 | 巴西不断冲击，海地防守多次被迫犯规，犯规总数偏高。 |
+
+## event_preds:vi
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 10–14 | Dự đoán số phạt góc | Pressing cao của Brazil sẽ tạo ra số lượng phạt góc lớn; Haiti ngồi rút sâu càng khuếch đại điều này hơn nữa. |
+| 🟡 | 3–6 | Dự đoán số thẻ vàng | Các pha phạm lỗi chiến thuật phòng thủ của Haiti sẽ thường xuyên; trọng tài có xu hướng rút thẻ nhiều hơn trong các trận đấu áp đặt một chiều. |
+| 🟥 | 0–1 | Dự đoán số thẻ đỏ | Có nguy cơ nhỏ về thẻ đỏ nếu hàng thủ Haiti chịu áp lực nghiêm trọng, nhưng rủi ro tổng thể là thấp. |
+| ⚠️ | 20–28 | Số phạm lỗi/trận của trọng tài | Các cuộc tấn công liên tục của Brazil và các pha phạm lỗi phòng thủ lặp đi lặp lại của Haiti đồng nghĩa với tổng số lần phạm lỗi sẽ ở mức cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 10–14 | คาดการณ์เตะมุม | การกดดันสูงของบราซิลจะสร้างเตะมุมจำนวนมาก เฮติที่นั่งรับลึกยิ่งขยายจำนวนเพิ่มขึ้น |
+| 🟡 | 3–6 | คาดการณ์ใบเหลือง | การฟาวล์เชิงยุทธวิธีของเฮติจะบ่อยครั้ง กรรมการมีแนวโน้มรับรองมากขึ้นในเกมที่กดดันแบบฝ่ายเดียว |
+| 🟥 | 0–1 | คาดการณ์ใบแดง | มีความเสี่ยงเล็กน้อยของใบแดงหากแนวรับของเฮติอยู่ภายใต้แรงกดดันอย่างรุนแรง แต่ความเสี่ยงโดยรวมต่ำ |
+| ⚠️ | 20–28 | ฟาวล์กรรมการ/นัด | การโจมตีอย่างต่อเนื่องของบราซิลและการฟาวล์แนวรับซ้ำๆ ของเฮติหมายความว่าจำนวนฟาวล์รวมจะสูง |
 
 ## referee:zh
 - icon: ⚖️
@@ -192,6 +357,51 @@ Tỷ lệ cược: Brazil thắng 1.12, hòa 9.50, Haiti thắng 22.00. Brazil l
 | Avg Cards/Match | TBC | #60a5fa |
 | Avg Fouls/Match | TBC | #60a5fa |
 
+## referee:zh-cn
+- icon: ⚖️
+- name: 待确认 (TBC)
+- country: FIFA 待公告
+- note: 本场裁判 FIFA 尚未正式公告。巴西对海地实力悬殊，FIFA 通常委任资历较浅的主裁执法，作为对顶级裁判资源的统筹安排。出牌尺度待确认。
+
+| stat | value | color |
+|------|-------|-------|
+| 执法场次 | 待定 | #F1F5F9 |
+| 黄牌总数 | 待定 | #EAB308 |
+| 黄红牌 | 待定 | orange |
+| 红牌总数 | 待定 | #EF4444 |
+| 均牌/场 | 待定 | #60a5fa |
+| 均犯规/场 | 待定 | #60a5fa |
+
+## referee:vi
+- icon: ⚖️
+- name: TBC
+- country: FIFA sẽ thông báo
+- note: Trọng tài cho trận đấu này chưa được FIFA chính thức công bố. Đối với các trận đấu chênh lệch lớn như thế này, FIFA thường chỉ định các trọng tài ít cấp bậc hơn, giữ lại các trọng tài hàng đầu cho các trận cân sức hơn. Xu hướng rút thẻ sẽ được cập nhật sau khi xác nhận.
+
+| stat | value | color |
+|------|-------|-------|
+| Số trận điều hành | TBC | #F1F5F9 |
+| Tổng thẻ vàng | TBC | #EAB308 |
+| Thẻ vàng-đỏ | TBC | orange |
+| Tổng thẻ đỏ | TBC | #EF4444 |
+| TB thẻ/trận | TBC | #60a5fa |
+| TB lỗi/trận | TBC | #60a5fa |
+
+## referee:th
+- icon: ⚖️
+- name: TBC
+- country: FIFA จะประกาศ
+- note: กรรมการสำหรับแมตช์นี้ยังไม่ได้รับการประกาศอย่างเป็นทางการจาก FIFA สำหรับการแข่งขันที่ไม่สมมาตรอย่างมากเช่นนี้ FIFA มักจะแต่งตั้งเจ้าหน้าที่ที่มีอาวุโสน้อยกว่า โดยเก็บรักษากรรมการระดับบนสุดไว้สำหรับการแข่งขันที่สูสีกว่า แนวโน้มการให้ใบเหลืองจะได้รับการอัปเดตเมื่อได้รับการยืนยัน
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | TBC | #F1F5F9 |
+| ใบเหลืองรวม | TBC | #EAB308 |
+| ใบเหลือง-แดง | TBC | orange |
+| ใบแดงรวม | TBC | #EF4444 |
+| เฉลี่ยใบ/นัด | TBC | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | TBC | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 3
@@ -205,6 +415,27 @@ Tỷ lệ cược: Brazil thắng 1.12, hòa 9.50, Haiti thắng 22.00. Brazil l
 - draws: 0
 - awayWins: 0
 - note: The two sides have met three times in history, with Brazil winning all three. Brazil drew 1-1 with Morocco in their opener and need a big win here to get their campaign back on track; Haiti lost 0-1 to Scotland in their opener and are already in a very difficult position.
+
+## h2h:zh-cn
+- title: 历史交锋纪录
+- homeWins: 3
+- draws: 0
+- awayWins: 0
+- note: 两队共交手三次，巴西全胜。最近一次为 2022 年友谊赛，巴西大胜。巴西首战 1-1 平摩洛哥，仍需第二场大胜重拾信心；海地首战 0-1 负苏格兰，积分榜已陷绝境。
+
+## h2h:vi
+- title: Thống kê Đối đầu
+- homeWins: 3
+- draws: 0
+- awayWins: 0
+- note: Hai đội đã gặp nhau ba lần trong lịch sử, với Brazil thắng cả ba trận. Brazil hòa 1-1 với Morocco ở trận mở màn và cần một chiến thắng lớn ở đây để lấy lại đà; Haiti thua 0-1 trước Scotland ở trận mở màn và đã ở vị thế rất khó khăn.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 3
+- draws: 0
+- awayWins: 0
+- note: ทั้งสองทีมเคยพบกันสามครั้งในประวัติศาสตร์ โดยบราซิลชนะทั้งสามครั้ง บราซิลเสมอ 1-1 กับโมร็อกโกในนัดเปิดสนามและต้องการชัยชนะใหญ่ที่นี่เพื่อกลับมาอยู่ในเส้นทาง เฮติแพ้ 0-1 ต่อสกอตแลนด์ในนัดเปิดสนามและอยู่ในสถานการณ์ที่ยากลำบากมากแล้ว
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -221,6 +452,30 @@ Tỷ lệ cược: Brazil thắng 1.12, hòa 9.50, Haiti thắng 22.00. Brazil l
 | Raphinha | 🇧🇷 RW | Derrick Etienne Jr. | 🇭🇹 LB | Barcelona's in-form forward vs Haiti's left back — the right flank is the main artery of Brazil's attack. |
 | Neymar/Endrick | 🇧🇷 AM/ST | Frantzdy Pierrot | 🇭🇹 CB | Brazil's star forward combination against Haiti's center back — the individual quality gap is the match's starkest contrast. |
 | Wilde-Donald Guerrier | 🇭🇹 CM | Bruno Guimarães | 🇧🇷 CM | Haiti's only European-level player vs Newcastle's midfield engine — can Haiti create any threat through the center at all? |
+
+## battles:zh-cn
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Vinícius Jr. | 🇧🇷 LW | Steeven Saba | 🇭🇹 RB | 皇马超翼锋对阵 MLS 右后卫，速度与技术差距悬殊，预计将频频得分机会。 |
+| Raphinha | 🇧🇷 RW | Derrick Etienne Jr. | 🇭🇹 LB | 巴萨状态最佳球员 vs 海地左后卫，右翼冲击是巴西进攻主动脉。 |
+| Neymar/Endrick | 🇧🇷 AM/ST | Frantzdy Pierrot | 🇭🇹 CB | 巴西明星前锋组合 vs 海地中卫，个人实力差距是本场最直观体现。 |
+| Wilde-Donald Guerrier | 🇭🇹 CM | Bruno Guimarães | 🇧🇷 CM | 海地唯一欧洲级别球员 vs 纽卡斯尔中场引擎，海地能否通过中路制造威胁。 |
+
+## battles:vi
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Vinícius Jr. | 🇧🇷 LW | Steeven Saba | 🇭🇹 RB | Siêu sao Real Madrid chạm trán hậu vệ phải MLS — sự chênh lệch về tốc độ và kỹ thuật là rất lớn, và các cơ hội ghi bàn sẽ thường xuyên xuất hiện. |
+| Raphinha | 🇧🇷 RW | Derrick Etienne Jr. | 🇭🇹 LB | Tiền đạo đang trong phong độ tốt nhất của Barcelona vs hậu vệ trái Haiti — cánh phải là động mạch chính của cuộc tấn công Brazil. |
+| Neymar/Endrick | 🇧🇷 AM/ST | Frantzdy Pierrot | 🇭🇹 CB | Bộ đôi tiền đạo ngôi sao Brazil chạm trán trung vệ Haiti — sự chênh lệch chất lượng cá nhân là sự tương phản rõ nét nhất của trận đấu. |
+| Wilde-Donald Guerrier | 🇭🇹 CM | Bruno Guimarães | 🇧🇷 CM | Cầu thủ duy nhất của Haiti ở cấp độ châu Âu vs động cơ tuyến giữa Newcastle — liệu Haiti có thể tạo ra bất kỳ mối đe dọa nào qua trung tâm không? |
+
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Vinícius Jr. | 🇧🇷 LW | Steeven Saba | 🇭🇹 RB | ดาวเด่น Real Madrid กับแบ็กขวา MLS — ความแตกต่างในด้านความเร็วและเทคนิคนั้นกว้างมาก และโอกาสทำประตูจะเกิดขึ้นบ่อยครั้ง |
+| Raphinha | 🇧🇷 RW | Derrick Etienne Jr. | 🇭🇹 LB | นักเตะที่อยู่ในฟอร์มดีที่สุดของ Barcelona vs แบ็กซ้ายเฮติ — แนวปีกขวาเป็นเส้นเลือดหลักของการโจมตีของบราซิล |
+| Neymar/Endrick | 🇧🇷 AM/ST | Frantzdy Pierrot | 🇭🇹 CB | คู่กองหน้าดาวเด่นบราซิลเผชิญหน้าเซ็นเตอร์แบ็กเฮติ — ความแตกต่างในคุณภาพส่วนตัวเป็นความแตกต่างที่เด่นชัดที่สุดของแมตช์ |
+| Wilde-Donald Guerrier | 🇭🇹 CM | Bruno Guimarães | 🇧🇷 CM | นักเตะเฮติเพียงคนเดียวในระดับยุโรป vs เครื่องยนต์กลางสนาม Newcastle — เฮติจะสามารถสร้างภัยคุกคามผ่านกลางสนามได้เลยหรือไม่? |
 
 ## summary_verdict:zh
 巴西首戰 1-1 平摩洛哥雖讓球迷稍感意外，但個人實力依然豪華無比。對陣海地此役是一場必贏的補課機會——Vinícius 的速度、Raphinha 的狀態、Neymar 的靈感（若首發）都可能在 90 分鐘內砍瓜切菜。Ancelotti 需要本場大勝重拾積分優勢。

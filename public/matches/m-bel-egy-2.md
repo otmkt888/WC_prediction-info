@@ -34,6 +34,9 @@ Belgium is in a transitional phase between the tail end of its golden generation
 ## home_note:vi
 Bỉ đang ở giai đoạn chuyển giao giữa thế hệ vàng và thế hệ mới. Kevin De Bruyne vẫn là trụ cột của đội tuyển quốc gia, sát cánh cùng Doku, Trossard, De Ketelaere và các trụ cột từ Premier League và năm giải vô địch hàng đầu châu Âu. HLV Rudi Garcia nhấn mạnh pressing cao và đột phá từ hai cánh. World Cup lần này được xem là cơ hội cuối cùng để Bỉ, dưới sự dẫn dắt của De Bruyne, chinh phục thành tích cao nhất.
 
+## home_note:th
+เบลเยียมอยู่ในช่วงเปลี่ยนผ่านระหว่างยุคทองที่กำลังสิ้นสุดลงและยุคใหม่ที่กำลังเริ่มต้น Kevin De Bruyne ยังคงเป็นแกนหลักของทีมชาติ คู่กับนักเตะหลักจาก Premier League และห้าลีกชั้นนำของยุโรป อย่าง Doku, Trossard และ De Ketelaere โค้ช Rudi Garcia เน้นการกดดันสูงและการเจาะแนวรับจากปีก บอลโลกครั้งนี้ถูกมองว่าเป็นโอกาสสุดท้ายของเบลเยียมในการลุ้นผลลัพธ์ระดับสูงสุดภายใต้การนำของ De Bruyne
+
 ## away_note:zh
 埃及自 2018 世界盃後再次回到世界最高舞台。Mohamed Salah 依然是國家隊絕對核心，與 Marmoush 組成非洲最具威脅的攻擊線之一。球隊風格偏向防守反擊，依靠 Salah 的速度與個人能力創造機會，力爭小組出線。
 
@@ -46,6 +49,9 @@ Egypt returns to the world's biggest stage for the first time since the 2018 Wor
 ## away_note:vi
 Ai Cập trở lại sân chơi lớn nhất thế giới sau World Cup 2018. Mohamed Salah vẫn là tuyệt đối trung tâm của đội tuyển, cùng Marmoush tạo thành một trong những bộ đôi tấn công nguy hiểm nhất châu Phi. Phong cách chơi của đội thiên về phòng thủ phản công, dựa vào tốc độ và khả năng cá nhân của Salah để tạo cơ hội, quyết tâm giành vé đi tiếp từ vòng bảng.
 
+## away_note:th
+อียิปต์กลับมายังเวทีที่ยิ่งใหญ่ที่สุดในโลกอีกครั้งนับตั้งแต่บอลโลก 2018 Mohamed Salah ยังคงเป็นศูนย์กลางที่ไม่มีใครโต้แย้งได้ของทีมชาติ โดยจับคู่กับ Marmoush ก่อตั้งคู่จู่โจมที่อันตรายที่สุดคู่หนึ่งในแอฟริกา สไตล์การเล่นของทีมโน้มเอียงไปทางการตั้งรับและโต้กลับ โดยพึ่งพาความเร็วและความสามารถเฉพาะตัวของ Salah ในการสร้างโอกาส เพื่อผ่านเข้ารอบจากสายกลุ่ม
+
 ## odds_note:zh
 賠率顯示：比利時勝 2.05、平局 3.30、埃及勝 3.75。市場普遍看好比利時憑藉整體陣容深度與中場控制力取勝，但 Salah 的個人能力足以讓埃及保有爆冷機會。
 
@@ -57,6 +63,9 @@ The odds read: Belgium win 2.05, Draw 3.30, Egypt win 3.75. The market generally
 
 ## odds_note:vi
 Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị trường nhìn chung nghiêng về Bỉ nhờ chiều sâu đội hình tổng thể và khả năng kiểm soát tuyến giữa, nhưng khả năng cá nhân của Salah đủ để Ai Cập giữ nguyên cơ hội gây bất ngờ.
+
+## odds_note:th
+อัตราต่อรอง: เบลเยียมชนะ 2.05, เสมอ 3.30, อียิปต์ชนะ 3.75 ตลาดโดยทั่วไปเอียงไปสนับสนุนเบลเยียมเนื่องจากความลึกของกองทัพนักเตะและการควบคุมกลางสนาม แต่คุณภาพเฉพาะตัวของ Salah เพียงพอที่จะให้อียิปต์ยังมีโอกาสพลิกผลการแข่งขัน
 
 ## home_squad:zh
 
@@ -126,6 +135,23 @@ Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị tr
 | ST | #17 | Charles De Ketelaere | Atalanta | 🇮🇹 | 15 | starter,team | false | Ngôi sao Serie A, một trong những trụ cột tấn công. |
 | FWD | 備援 | Romelu Lukaku | Napoli | 🇮🇹 | 17 | squad,worldstar | true | Giàu kinh nghiệm World Cup, sát thủ từ băng ghế dự bị. |
 
+## home_squad:th
+
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Thibaut Courtois | Real Madrid | 🇪🇸 | 1 | starter,worldstar | false | ผู้รักษาประตูระดับโลก ตัวหลักของ Real Madrid ยังคงเป็นด่านสุดท้ายของเบลเยียม |
+| DEF | #21 | Timothy Castagne | Fulham | 🇬🇧 | 2 | starter | false | แบ็กขวาตัวหลักใน Premier League มีความสมดุลทั้งรุกและรับ |
+| DEF | #4 | Wout Faes | Leicester City | 🇬🇧 | 3 | starter | false | แข็งแกร่งในการแย่งบอลทางอากาศ บุคคลสำคัญของแนวรับ |
+| DEF | #2 | Zeno Debast | Sporting CP | 🇵🇹 | 4 | starter,league | false | ตัวแทนเซ็นเตอร์แบ็กรุ่นใหม่ของเบลเยียม มีความสามารถในการจัดระเบียบทีม |
+| DEF | #5 | Maxim De Cuyper | Club Brugge | 🇧🇪 | 3 | starter | false | แบ็กซ้ายสายรุกที่ชอบทับแนวขึ้นไปช่วยทีม |
+| DM | #24 | Amadou Onana | Aston Villa | 🇬🇧 | 7 | starter,league | false | มิดฟิลด์รับตัวหลักใน Premier League มีรัศมีการครอบคลุมพื้นที่สูงมาก |
+| DM | #8 | Youri Tielemans | Aston Villa | 🇬🇧 | 10 | starter,league | false | นักเตะกลางสนามที่ควบคุมจังหวะเกม มีความสามารถยิงระยะไกลที่ยอดเยี่ยม |
+| RW | #22 | Jeremy Doku | Manchester City | 🇬🇧 | 18 | starter,league | false | ปีกดาวเด่นของ Premier League มีความสามารถในการเลี้ยงบอลระดับโลก |
+| AM | #7 | Kevin De Bruyne | Napoli | 🇮🇹 | 22 | starter,worldstar | false | มิดฟิลด์กลางระดับโลก และสมองของทีม |
+| LW | #19 | Leandro Trossard | Arsenal | 🇬🇧 | 20 | starter,league | false | ปีกตัวหลักใน Premier League มีประสิทธิภาพการยิงประตูสูง |
+| ST | #17 | Charles De Ketelaere | Atalanta | 🇮🇹 | 15 | starter,team | false | ดาวเด่นจาก Serie A หนึ่งในแรงขับเคลื่อนการโจมตีหลัก |
+| FWD | สำรอง | Romelu Lukaku | Napoli | 🇮🇹 | 17 | squad,worldstar | true | มีประสบการณ์บอลโลกมากมาย เป็นมือสังหารที่อันตรายเมื่อออกมาจากม้านั่งสำรอง |
+
 ## away_squad:zh
 
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -194,6 +220,23 @@ Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị tr
 | LW | #14 | Ibrahim Adel | Pyramids FC | 🇪🇬 | 10 | starter,team | false | Niềm hy vọng thế hệ mới của Ai Cập. |
 | FWD | 備援 | Mostafa Mohamed | Nantes | 🇫🇷 | 11 | squad | true | Tiền đạo trung tâm Ligue 1, vũ khí tranh chấp trên không từ băng ghế dự bị. |
 
+## away_squad:th
+
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Mohamed El Shenawy | Al Ahly | 🇪🇬 | 1 | starter,team | false | ผู้รักษาประตูระดับกัปตันทีมของทีมชาติอียิปต์ |
+| DEF | #2 | Mohamed Hany | Al Ahly | 🇪🇬 | 2 | starter | false | แบ็กขวาที่เชื่อถือได้และสม่ำเสมอ |
+| DEF | #6 | Ahmed Hegazi | Neom SC | 🇸🇦 | 3 | starter,team | false | นักเตะทีมชาติอาวุโส และผู้นำแนวรับ |
+| DEF | #5 | Mohamed Abdelmonem | Nice | 🇫🇷 | 4 | starter,league | false | เซ็นเตอร์แบ็กตัวหลักใน Ligue 1 |
+| DEF | #13 | Ahmed Fattouh | Zamalek | 🇪🇬 | 2 | starter | false | มีส่วนร่วมในการโจมตีจากแนวปีกซ้ายบ่อยครั้ง |
+| CM | #8 | Hamdy Fathy | Al Wakrah | 🇶🇦 | 5 | starter | false | นักเตะกลางสนามสายสกัดบอล |
+| CM | #19 | Marwan Attia | Al Ahly | 🇪🇬 | 5 | starter | false | มิดฟิลด์ตัวหลักของทีมชาติอียิปต์ |
+| CM | #17 | Mahmoud Trezeguet | Al Rayyan | 🇶🇦 | 12 | starter,team | false | จุดโจมตีสำคัญของทีมชาติ |
+| RW | #10 | Mohamed Salah | Liverpool | 🇬🇧 | 35 | starter,worldstar | false | ซูเปอร์สตาร์ระดับโลก และศูนย์กลางที่แท้จริงของอียิปต์ |
+| ST | #22 | Omar Marmoush | Manchester City | 🇬🇧 | 25 | starter,league | false | กองหน้าดาวเด่นใน Premier League ฟอร์มร้อนแรงในฤดูกาลนี้ |
+| LW | #14 | Ibrahim Adel | Pyramids FC | 🇪🇬 | 10 | starter,team | false | ความหวังของรุ่นใหม่ของอียิปต์ |
+| FWD | สำรอง | Mostafa Mohamed | Nantes | 🇫🇷 | 11 | squad | true | กองหน้าจาก Ligue 1 เป็นอาวุธในการแย่งบอลทางอากาศจากม้านั่งสำรอง |
+
 ## score_predictions:zh
 
 | score | result | prob | color | badge | winner |
@@ -246,6 +289,19 @@ Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị tr
 | 0-0 | Hòa | 7 | #6b7280 | | draw |
 | Khác | — | 18 | #94a3b8 | | - |
 
+## score_predictions:th
+
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-1 🇧🇪 | เบลเยียมชนะ | 18 | #F97316 | โอกาสสูงสุด | home |
+| 1-1 | เสมอ | 15 | #6b7280 | อันดับสอง | draw |
+| 2-0 🇧🇪 | เบลเยียมชนะ | 13 | #F97316 | | home |
+| 1-0 🇧🇪 | เบลเยียมชนะ | 12 | #F97316 | | home |
+| 3-1 🇧🇪 | เบลเยียมชนะ | 9 | #F97316 | | home |
+| 1-2 🇪🇬 | อียิปต์ชนะ | 8 | #FACC15 | | away |
+| 0-0 | เสมอ | 7 | #6b7280 | | draw |
+| อื่นๆ | — | 18 | #94a3b8 | | - |
+
 ## event_preds:zh
 
 | icon | value | label | detail |
@@ -281,6 +337,15 @@ Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị tr
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Trận đầu World Cup thường thận trọng hơn, nhưng cuộc đối đầu tuyến giữa rất quyết liệt. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Xác suất thẻ đỏ thấp, nhưng nếu Salah bị kèm chặt có thể làm tăng xung đột. |
 | ⚠️ | 20–25 | Số lần phạm lỗi trọng tài/trận | Ước tính dựa trên tiêu chuẩn thổi phạt trung bình tại World Cup. |
+
+## event_preds:th
+
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–11 | คาดการณ์เตะมุม | เบลเยียมเล่นปีกบ่อยครั้ง Doku และ Trossard คาดว่าจะสร้างเตะมุมได้จำนวนมาก |
+| 🟡 | 3–5 | คาดการณ์ใบเหลือง | นัดเปิดสนามบอลโลกมักระมัดระวังกว่า แต่การต่อสู้กลางสนามควรจะดุเดือด |
+| 🟥 | 0–1 | คาดการณ์ใบแดง | โอกาสได้ใบแดงต่ำ แม้ว่าการจับตัว Salah อย่างเข้มงวดอาจเพิ่มความเสี่ยงของการเผชิญหน้า |
+| ⚠️ | 20–25 | เฉลี่ยฟาวล์/นัด | ประมาณการตามมาตรฐานการตัดสินเฉลี่ยในบอลโลก |
 
 ## referee:zh
 
@@ -346,6 +411,22 @@ Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị tr
 | Thẻ TB/trận | 3.8 | #60a5fa |
 | Phạm lỗi TB/trận | ~22 | #60a5fa |
 
+## referee:th
+
+- icon: ⚖️
+- name: TBD
+- country: FIFA กำหนด - ยังไม่ประกาศ
+- note: ณ เวลาที่ทำการวิเคราะห์ FIFA ยังไม่ได้ประกาศกรรมการอย่างเป็นทางการ ดังนั้นตัวเลขด้านล่างจึงประมาณการตามมาตรฐานการตัดสินเฉลี่ยในบอลโลก
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | TBA | #F1F5F9 |
+| ใบเหลืองรวม | TBA | #EAB308 |
+| ใบเหลือง-แดง | TBA | orange |
+| ใบแดงรวม | TBA | #EF4444 |
+| เฉลี่ยใบ/นัด | 3.8 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~22 | #60a5fa |
+
 ## h2h:zh
 
 - title: 歷史交鋒紀錄
@@ -377,6 +458,14 @@ Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị tr
 - draws: 1
 - awayWins: 1
 - note: Hai đội không có nhiều trận đấu chính thức, Bỉ nhìn chung mạnh hơn trong những năm gần đây, nhưng Ai Cập có Salah - cầu thủ có thể thay đổi cục diện trận đấu một mình.
+
+## h2h:th
+
+- title: สถิติพบกัน
+- homeWins: 2
+- draws: 1
+- awayWins: 1
+- note: ทั้งสองทีมพบกันในการแข่งขันอย่างเป็นทางการไม่บ่อยนัก เบลเยียมเป็นทีมที่แข็งแกร่งกว่าในช่วงไม่กี่ปีที่ผ่านมาโดยรวม แต่อียิปต์มี Salah ซึ่งเป็นนักเตะที่สามารถเปลี่ยนแปลงเกมได้ด้วยตัวคนเดียว
 
 ## battles:zh
 
@@ -413,6 +502,15 @@ Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị tr
 | Jeremy Doku | 🇧🇪 RW | Ahmed Fattouh | 🇪🇬 LB | Tốc độ và khả năng rê dắt của Doku sẽ là thách thức lớn nhất cho Ai Cập. |
 | Mohamed Salah | 🇪🇬 RW | Maxim De Cuyper | 🇧🇪 LB | Khả năng đột phá cá nhân của Salah quyết định giới hạn tấn công của Ai Cập. |
 | Omar Marmoush | 🇪🇬 ST | Courtois | 🇧🇪 GK | Điểm ghi bàn chính của Ai Cập đối đầu thủ môn đẳng cấp thế giới. |
+
+## battles:th
+
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Kevin De Bruyne | 🇧🇪 AM | Hamdy Fathy | 🇪🇬 DM | มิดฟิลด์ระดับโลกปะทะกับแกนกลางการป้องกันของอียิปต์ การต่อสู้เพื่อควบคุมกลางสนามจะเป็นตัวชี้ขาด |
+| Jeremy Doku | 🇧🇪 RW | Ahmed Fattouh | 🇪🇬 LB | ความเร็วและทักษะการเลี้ยงบอลของ Doku จะเป็นความท้าทายที่ยิ่งใหญ่ที่สุดของอียิปต์ |
+| Mohamed Salah | 🇪🇬 RW | Maxim De Cuyper | 🇧🇪 LB | ความสามารถของ Salah ในการแหวกแนวป้องกันจะกำหนดเพดานการโจมตีของอียิปต์ |
+| Omar Marmoush | 🇪🇬 ST | Courtois | 🇧🇪 GK | ภัยคุกคามการทำประตูหลักของอียิปต์เผชิญหน้ากับผู้รักษาประตูระดับโลก |
 
 ## summary_verdict:zh
 
@@ -453,6 +551,16 @@ Lợi thế lớn nhất của Ai Cập nằm ở mối đe dọa phản công t
 Đánh giá từ số liệu tổng thể, giá trị cầu thủ, thứ hạng FIFA và khả năng sáng tạo tấn công, Bỉ có tỷ lệ thắng nhỉnh hơn, nhưng dự kiến đây sẽ không phải trận đấu dễ dàng.
 
 Dự đoán: Belgium 2-1 Egypt
+
+## summary_verdict:th
+
+ความลึกของกองทัพนักเตะโดยรวม สัดส่วนของนักเตะตัวหลักจากห้าลีกชั้นนำ และการควบคุมกลางสนามของเบลเยียมล้วนเหนือกว่าอียิปต์ ไตรโอ De Bruyne, Doku และ Trossard สามารถสร้างแรงกดดันการโจมตีอย่างต่อเนื่องตลอดทั้งเกม
+
+ข้อได้เปรียบที่ยิ่งใหญ่ที่สุดของอียิปต์อยู่ที่ภัยคุกคามการโต้กลับจาก Salah และ Marmoush หากแนวรับของเบลเยียมยกขึ้นสูงเกินไป อียิปต์สามารถโจมตีด้วยความเร็วได้ทุกเมื่อและทำประตูได้
+
+เมื่อประเมินสถิติโดยรวม มูลค่าตลาดนักเตะ การจัดอันดับโลก และความคิดสร้างสรรค์ในการโจมตี เบลเยียมมีโอกาสชนะสูงกว่าเล็กน้อย แต่นัดนี้ไม่น่าจะเป็นเกมที่สบาย
+
+ทายผล: Belgium 2-1 Egypt
 
 ## observations:zh
 
@@ -497,3 +605,14 @@ Dự đoán: Belgium 2-1 Egypt
 | 🔥 Marmoush đang trong phong độ bùng nổ | Hiệu suất ghi bàn cải thiện đáng kể trong hai mùa gần đây. |
 | 🛡️ Courtois là chìa khóa | Nếu Bỉ bị phản công, Courtois sẽ là nhân tố quyết định kết quả. |
 | 🏆 Trận chiến vé đi tiếp bảng G | Trận đấu này rất có thể trực tiếp ảnh hưởng đến việc ai giành ngôi đầu bảng. |
+
+## observations:th
+
+| title | detail |
+|-------|--------|
+| ⭐ การเต้นรำครั้งสุดท้ายของ De Bruyne | De Bruyne อายุ 35 ปี มีแนวโน้มสูงมากที่กำลังเล่นบอลโลกครั้งสุดท้ายในอาชีพ |
+| 👑 Salah นำทัพ | แทบทุกการโจมตีของอียิปต์หมุนรอบ Salah |
+| ⚡ ศักยภาพระเบิดของ Doku | ปีกของ Manchester City คือจุดประกายการโจมตีที่ยิ่งใหญ่ที่สุดในเกมนี้ |
+| 🔥 Marmoush ฟอร์มร้อนแรง | ประสิทธิภาพการทำประตูของเขาพัฒนาขึ้นอย่างมากในสองฤดูกาลที่ผ่านมา |
+| 🛡️ Courtois คือกุญแจ | หากเบลเยียมเผชิญกับการโต้กลับ Courtois อาจเป็นปัจจัยชี้ขาดระหว่างชนะและแพ้ |
+| 🏆 ศึกชิงที่หนึ่งกลุ่ม G | แมตช์นี้มีแนวโน้มสูงที่จะกำหนดโดยตรงว่าใครจะจบอันดับหนึ่งของกลุ่ม |

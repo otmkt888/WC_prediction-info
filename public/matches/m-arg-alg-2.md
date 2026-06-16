@@ -34,6 +34,9 @@ Defending champions Argentina, led by Scaloni, are targeting an unprecedented th
 ## home_note:vi
 Argentina, đương kim vô địch dưới sự dẫn dắt của Scaloni, ra quân với mục tiêu chinh phục danh hiệu thứ ba trong lịch sử. Huyền thoại đội trưởng Messi bước vào cột mốc 200 trận quốc tế, đây cũng là World Cup lần thứ 6 và có thể là lần cuối cùng của anh. Mùa giải MLS vừa qua, Messi ghi 29 bàn và 16 kiến tạo dẫn dắt Inter Miami vô địch, dù 38 tuổi nhưng phong độ vẫn ở mức đáng kinh ngạc (dù có chút lo ngại về chấn thương nhỏ). Argentina vượt qua vòng loại World Cup 2026 với vị trí đầu bảng, thắng đậm kình địch Brazil 4-1. Đội hình có 17 cầu thủ từ thế hệ vô địch 2022, với các trụ cột như Emi Martínez, De Paul, Mac Allister và Romero đều có mặt.
 
+## home_note:th
+อาร์เจนตินา แชมป์เก่า ภายใต้การนำของ Scaloni ออกสนามด้วยเป้าหมายคว้าแชมป์โลกสมัยที่สามในประวัติศาสตร์ กัปตันในตำนานอย่าง Messi ก้าวสู่이정표แมตช์ที่ 200 ของทีมชาติ และนี่คือฟุตบอลโลกครั้งที่ 6 และอาจเป็นครั้งสุดท้ายของเขา ในฤดูกาล MLS 2025 Messi ทำได้ 29 ประตู 16 แอสซิสต์ พา Inter Miami คว้าแชมป์ แม้อายุ 38 ปีแต่ฟอร์มยังคงน่าตื่นตาตื่นใจ (แม้จะมีความกังวลเรื่องอาการบาดเจ็บเล็กน้อย) อาร์เจนตินาผ่านรอบคัดเลือกฟุตบอลโลก 2026 ด้วยตำแหน่งจ่าฝูง รวมถึงชนะบราซิล คู่ปรับตลอดกาล 4-1 ทีมชุดนี้มีนักเตะจากชุดแชมป์ปี 2022 ถึง 17 คน โดยมีกองหลักอย่าง Emi Martínez, De Paul, Mac Allister และ Romero ที่คาดว่าจะลงสนามทุกคน
+
 ## away_note:zh
 阿爾及利亞沉寂多年後以全新陣容出征，Vladimir Petković 打造的進攻型陣容充滿活力。隊長 Riyad Mahrez 35 歲，沙超效力但仍是全隊精神領袖與情感核心。年輕攻線 Amine Gouiri（馬賽）、Mohamed Amoura（14 場資格賽 14 次進球貢獻）、Ibrahim Maza（德國出生）是實力不可小覷的攻擊組合。中場 Houssem Aouar 技術全面，但整體實力與阿根廷差距明顯。門將是門基·齊達內之子 Luca Zidane，備受關注。
 
@@ -46,6 +49,9 @@ Algeria arrive with a fresh squad after years of relative quiet, with Vladimir P
 ## away_note:vi
 Algeria xuất hiện trở lại sau nhiều năm vắng bóng với một đội hình hoàn toàn mới, sơ đồ tấn công mà Vladimir Petković xây dựng đầy sức sống. Đội trưởng Riyad Mahrez, 35 tuổi, đang thi đấu tại Saudi Pro League nhưng vẫn là linh hồn và biểu tượng tinh thần của toàn đội. Bộ ba tấn công trẻ Amine Gouiri (Marseille), Mohamed Amoura (đóng góp 14 bàn/kiến tạo trong 14 trận vòng loại) và Ibrahim Maza (sinh tại Đức) tạo thành một tổ hợp tấn công không thể xem nhẹ. Tiền vệ Houssem Aouar có kỹ thuật toàn diện, tuy nhiên chênh lệch tổng thể so với Argentina vẫn còn rõ rệt. Thủ môn đội là Luca Zidane, con trai huyền thoại Zinedine Zidane, thu hút nhiều sự chú ý.
 
+## away_note:th
+แอลจีเรียกลับมาพร้อมทีมชุดใหม่หลังจากห่างหายไปหลายปี โดย Vladimir Petković สร้างแนวรับที่มุ่งเน้นการบุกที่เต็มไปด้วยพลังงาน กัปตัน Riyad Mahrez อายุ 35 ปี ยังคงเล่นอยู่ใน Saudi Pro League แต่ยังคงเป็นจิตวิญญาณและแกนหลักทางอารมณ์ของทีม แนวรุกหนุ่มไฟแรงอย่าง Amine Gouiri (มาร์กเซย), Mohamed Amoura (มีส่วนร่วม 14 ประตู/แอสซิสต์ใน 14 นัดคัดเลือก) และ Ibrahim Maza (เกิดในเยอรมนี) รวมกันเป็นชุดรุกที่ไม่ควรมองข้าม มิดฟิลด์ Houssem Aouar มีทักษะรอบด้าน แม้ช่องว่างด้านคุณภาพโดยรวมเมื่อเทียบกับอาร์เจนตินายังชัดเจน ในตำแหน่งผู้รักษาประตูคือ Luca Zidane บุตรชายของตำนาน Zinedine Zidane ที่ดึงดูดความสนใจอย่างมาก
+
 ## odds_note:zh
 賠率顯示：阿根廷勝 1.45、平局 4.50、阿爾及利亞勝 6.50。阿根廷壓倒性大熱，Messi 帶隊守冠氣勢如虹。但阿爾及利亞進攻活躍，若阿根廷輕敵，仍有變數。阿根廷自 1990 年以來從未在世界盃首場失分，但 2022 年沙特阿拉伯的爆冷教訓歷歷在目。
 
@@ -57,6 +63,9 @@ The odds read: Argentina Win 1.45, Draw 4.50, Algeria Win 6.50. Argentina are ov
 
 ## odds_note:vi
 Tỷ lệ cược: Argentina thắng 1.45, hòa 4.50, Algeria thắng 6.50. Argentina là đội được đánh giá cực kỳ cao, đặc biệt với Messi dẫn đầu trong cuộc bảo vệ danh hiệu. Tuy nhiên Algeria có hàng tấn công năng động và nếu Argentina chủ quan, vẫn có thể xảy ra biến số. Argentina chưa để lọt lưới trong trận mở màn World Cup kể từ năm 1990, nhưng bài học bị Saudi Arabia gây sốc năm 2022 vẫn còn đó.
+
+## odds_note:th
+ราคาต่อรอง: อาร์เจนตินาชนะ 1.45, เสมอ 4.50, แอลจีเรียชนะ 6.50 อาร์เจนตินาเป็นตัวเต็งอย่างท่วมท้น โดยเฉพาะกับ Messi ที่นำทัพป้องกันแชมป์ อย่างไรก็ตาม แนวรุกที่ดุดันของแอลจีเรียหมายความว่าอาจเกิดตัวแปรหากอาร์เจนตินาประมาทคู่แข่ง อาร์เจนตินาไม่เคยเสียประตูในเกมเปิดสนามฟุตบอลโลกนับตั้งแต่ปี 1990 แต่บทเรียนจากการแพ้ซาอุดีอาระเบียอย่างช็อคโลกในปี 2022 ยังคงเป็นที่จดจำ
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Argentina thắng 1.45, hòa 4.50, Algeria thắng 6.50. Arge
 | LW | #22 | Thiago Almada | Atlanta United | 🇺🇸 | 12 | starter,team | false | Tiền vệ tấn công của Atlanta United (MLS), thế hệ mới của Argentina, linh hoạt và kỹ thuật, là nguồn hỏa lực bổ sung phía cánh trái của Messi. |
 | FWD | 備援 | Lautaro Martínez | Inter Milan | 🇮🇹 | 14 | league,squad | true | Tiền đạo Inter Milan, vua phá lưới Serie A (17 bàn), thể hình mạnh mẽ, đối thủ cạnh tranh mạnh nhất với Álvarez, có thể vào sân từ ghế dự bị. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #23 | Emiliano Martínez | Aston Villa | 🇬🇧 | 1 | starter,league | false | ผู้รักษาประตูตัวจริงของ Aston Villa ผู้มีส่วนสำคัญในการคว้าแชมป์โลก 2022 และผู้รับรางวัลผู้รักษาประตูยอดเยี่ยม ติดอันดับนักเตะกั้นจุดโทษชั้นนำของโลกและเป็นดาวเด่นของ Premier League |
+| DEF | #26 | Nahuel Molina | Atlético Madrid | 🇪🇸 | 2 | starter,league | false | แบ็กขวาของ Atlético Madrid ตัวหลักใน La Liga สมดุลในการรุกและรับ มักดาหน้าสร้างโอกาส เป็นส่วนหนึ่งของชุดแชมป์โลก 2022 |
+| DEF | #13 | Cristian Romero | Tottenham | 🇬🇧 | 3 | starter,league | false | เซ็นเตอร์แบ็กของ Tottenham ดาวเด่น Premier League ดุดันและทรงพลังในการป้องกัน แกนหลักของทีมแชมป์ปี 2022 มีความเสี่ยงสะสมใบเหลือง |
+| DEF | #5 | Lisandro Martínez | Manchester United | 🇬🇧 | 3 | starter,league | false | เซ็นเตอร์แบ็กตัวหลักของ Manchester United ดาวเด่น Premier League ครองอากาศได้ดีเยี่ยม จับคู่กับ Romero เป็นคู่หูกองหลังชั้นยอด |
+| DEF | #3 | Nicolás Tagliafico | Olympique Lyon | 🇫🇷 | 2 | starter,league | false | แบ็กซ้ายตัวหลักของ Lyon ตัวประจำใน Ligue 1 มั่นคงทั้งรุกและรับ เป็นคู่หูสำคัญสำหรับ De Paul ในการบุกแนวซ้าย |
+| CM | #7 | Rodrigo De Paul | Atlético Madrid | 🇪🇸 | 8 | starter,league | false | มิดฟิลด์ Atlético Madrid ตัวหลักใน La Liga คู่หูที่ดีที่สุดของ Messi วิ่งไม่หยุดและมีประสิทธิภาพสูงสุดในทีม |
+| CM | #20 | Alexis Mac Allister | Liverpool | 🇬🇧 | 9 | starter,league | false | มิดฟิลด์หลักของ Liverpool ดาวเด่น Premier League โดดเด่นด้านเทคนิคและการส่งบอล เป็นจุดศูนย์กลางสร้างเกมหน้า Messi เพิ่งนำ Liverpool คว้าแชมป์ Premier League |
+| CM | #24 | Enzo Fernández | Chelsea | 🇬🇧 | 7 | starter,league | false | มิดฟิลด์กลางของ Chelsea ตัวหลักใน Premier League ผู้เล่นหนุ่มยอดเยี่ยมฟุตบอลโลก 2022 กดดันอย่างดุดันและแข็งแกร่งในการบุก |
+| RW | #10 | Lionel Messi | Inter Miami | 🇺🇸 | 18 | starter,team | false | กัปตันในตำนานของอาร์เจนตินา อายุ 38 ปี ฟุตบอลโลกครั้งที่ 6 เหตุการณ์สำคัญครบ 200 นัดทีมชาติ 13 ประตูในฟุตบอลโลก 29 ประตู 16 แอสซิสต์ในฤดูกาล MLS 2025 นี่ไม่ใช่จุดสิ้นสุด แต่คือการสานต่อของตำนาน |
+| ST | #9 | Julián Álvarez | Atlético Madrid | 🇪🇸 | 16 | starter,league | false | กองหน้า Atlético Madrid ตัวหลักใน La Liga วิ่งไม่หยุดพักและมีประสิทธิภาพในการทำประตู การจับคู่กับ Messi คือภัยคุกคามสูงสุดแนวรุกอาร์เจนตินา และเป็นผู้ทำประตูสำคัญในการคว้าแชมป์ปี 2022 |
+| LW | #22 | Thiago Almada | Atlanta United | 🇺🇸 | 12 | starter,team | false | มิดฟิลด์รุก Atlanta United (MLS) นักเตะรุ่นใหม่ของอาร์เจนตินา คล่องแคล่วด้านเทคนิค เป็นกำลังเสริมแนวรุกด้านซ้ายของ Messi |
+| FWD | สำรอง | Lautaro Martínez | Inter Milan | 🇮🇹 | 14 | league,squad | true | กองหน้า Inter Milan ดาวซัลโวใน Serie A (17 ประตู) ร่างกายแข็งแกร่ง คู่แข่งที่แข็งแกร่งที่สุดของ Álvarez สำหรับตำแหน่งตัวจริง และสามารถเปลี่ยนเกมได้จากม้านั่งสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Argentina thắng 1.45, hòa 4.50, Algeria thắng 6.50. Arge
 | ST | #9 | Amine Gouiri | Marseille | 🇫🇷 | 15 | starter,league | false | Tiền đạo chủ lực Marseille, ngôi sao Ligue 1, tốc độ nhanh kỹ thuật tốt, mối đe dọa dứt điểm chính của Algeria, kết hợp với Amoura tạo thành một trong những cặp tiền đạo tốt nhất châu Phi tại giải đấu này. |
 | FWD | 備援 | Anis Hadj Moussa | Olympique Lyon | 🇫🇷 | 8 | league,squad | true | Cầu thủ trẻ cánh của Lyon, ngôi sao đang lên, có sức bùng phát từ băng ghế dự bị, có thể khai thác hàng thủ mệt mỏi trong hiệp 2. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Luca Zidane | Rayo Vallecano | 🇪🇸 | 1 | starter,team | false | บุตรชายของตำนาน Zinedine Zidane แห่งฝรั่งเศส ผู้รักษาประตูตัวจริงของ Rayo Vallecano ใน La Liga ผู้รักษาประตูที่โอนสัญชาติแอลจีเรีย ดึงดูดความสนใจอย่างมาก แม้ประสบการณ์ในลีกสูงสุดยังจำกัด |
+| DEF | #2 | Rafik Belghali | Club Brugge | 🇧🇪 | 2 | starter,league | false | แบ็กขวาของ Club Brugge ตัวหลักในลีกเบลเยียม รูปแบบการป้องกันที่ดุดัน สมดุลทั้งรุกและรับ |
+| DEF | #4 | Aïssa Mandi | Villarreal | 🇪🇸 | 3 | starter,league | false | เซ็นเตอร์แบ็กของ Villarreal ตัวหลักใน La Liga กระดูกสันหลังแนวรับแอลจีเรีย อ่านเกมได้ยอดเยี่ยม |
+| DEF | #3 | Ramy Bensebaini | Borussia Dortmund | 🇩🇪 | 3 | starter,league | false | เซ็นเตอร์แบ็กซ้ายของ Borussia Dortmund ตัวหลักใน Bundesliga มีพรสวรรค์ทางเทคนิคและสามารถเล่นแบ็กซ้ายได้ เป็นกองหลักคุณภาพสูงสุดในทีมแอลจีเรีย |
+| DEF | #22 | Rayan Aït-Nouri | Wolverhampton | 🇬🇧 | 3 | starter,league | false | แบ็กซ้ายของ Wolverhampton ตัวหลักใน Premier League ความเร็วสูงมากและมีความสามารถในการส่งบอลสูง เป็นภัยคุกคามสูงสุดจากแนวซ้ายของแอลจีเรีย |
+| CM | #17 | Nabil Bentaleb | Angers | 🇫🇷 | 5 | starter,league | false | มิดฟิลด์ Angers ใน Ligue 1 มีประสบการณ์ Premier League (Tottenham) มาก่อน มิดฟิลด์ตัวรับที่ปกป้องความมั่นคงแนวรับ |
+| CM | #8 | Houssem Aouar | Olympique Lyon | 🇫🇷 | 7 | starter,league | false | มิดฟิลด์ Lyon ที่มีทักษะสูงใน Ligue 1 มีความคิดสร้างสรรค์และเป็นแกนหลักจิตใจแนวกลางแอลจีเรีย ทั้งการบุกหน้าและการส่งบอลอยู่ในระดับสูง |
+| RW | #26 | Riyad Mahrez | Al-Ahli | 🇸🇦 | 14 | starter,team | false | กัปตันแอลจีเรีย อายุ 35 ปี อดีตแชมป์ Premier League กับ Manchester City ปัจจุบันเล่นใน Saudi Pro League เทคนิคประณีตและมีสัญชาตญาณในเกมใหญ่ แม้อายุมากแต่ยังครองตำแหน่งผู้เล่นยอดเยี่ยมที่สุดในทีม นี่อาจเป็นฟุตบอลโลกครั้งสุดท้ายของเขา |
+| AM | #10 | Ibrahim Maza | Hertha BSC | 🇩🇪 | 10 | starter,league | false | เกิดในเยอรมนี เป็นตัวแทนแอลจีเรีย มิดฟิลด์รุกของ Hertha BSC คล่องแคล่วด้านเทคนิคและมีความคิดสร้างสรรค์ เป็นผู้นำของนักเตะรุ่นใหม่แอลจีเรีย |
+| LW | #11 | Mohamed Amoura | VfB Stuttgart | 🇩🇪 | 13 | starter,league | false | กองหน้า VfB Stuttgart ตัวหลักใน Bundesliga มีส่วนร่วม 14 ประตู/แอสซิสต์ใน 14 นัดคัดเลือก ประสิทธิภาพน่าทึ่งและเป็นภัยคุกคามการทำประตูสูงสุดของแอลจีเรีย |
+| ST | #9 | Amine Gouiri | Marseille | 🇫🇷 | 15 | starter,league | false | กองหน้าตัวจริงของ Marseille ดาวเด่น Ligue 1 เร็วและมีทักษะ ภัยคุกคามการยิงประตูหลักของแอลจีเรีย จับคู่กับ Amoura เป็นหนึ่งในคู่หูกองหน้าชาวแอฟริกันที่ดีที่สุดในทัวร์นาเมนต์นี้ |
+| FWD | สำรอง | Anis Hadj Moussa | Olympique Lyon | 🇫🇷 | 8 | league,squad | true | วิงเกอร์หนุ่มของ Lyon และดาวรุ่งที่กำลังขึ้น สามารถสร้างผลกระทบระเบิดจากม้านั่งสำรอง มีศักยภาพทำให้แนวรับที่เหนื่อยล้าในช่วงท้ายแมตช์เกิดปัญหา |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Argentina thắng 1.45, hòa 4.50, Algeria thắng 6.50. Arge
 | 0-1 🇩🇿 | Algeria Thắng | 5 | #10B981 | Bất Ngờ Lớn Nhất | away |
 | Khác | — | 14 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-0 🇦🇷 | อาร์เจนตินาชนะ | 22 | #74C0FC | โอกาสสูงสุด | home |
+| 3-0 🇦🇷 | อาร์เจนตินาชนะ | 16 | #74C0FC | อันดับสอง | home |
+| 2-1 🇦🇷 | อาร์เจนตินาชนะ | 14 | #74C0FC | | home |
+| 1-0 🇦🇷 | อาร์เจนตินาชนะ | 12 | #74C0FC | | home |
+| 3-1 🇦🇷 | อาร์เจนตินาชนะ | 9 | #74C0FC | | home |
+| 1-1 | เสมอ | 8 | #6b7280 | ตัวเลือกเซอร์ไพรส์ | draw |
+| 0-1 🇩🇿 | แอลจีเรียชนะ | 5 | #10B981 | เซอร์ไพรส์สูงสุด | away |
+| อื่นๆ | — | 14 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược: Argentina thắng 1.45, hòa 4.50, Algeria thắng 6.50. Arge
 | 🟡 | 4–7 | Dự Đoán Số Thẻ Vàng | Marciniak trung bình 4.27 thẻ vàng mỗi trận, rút thẻ nghiêm khắc trong các trận lớn. Trận chung kết World Cup 2022 ông rút tới 8 thẻ vàng. Hàng thủ Algeria phòng ngự quyết liệt có thể nhận nhiều thẻ, Romero cũng có nguy cơ tích lũy. |
 | 🟥 | 0–1 | Dự Đoán Số Thẻ Đỏ | Marciniak là trọng tài nổi tiếng, trận chung kết 2022 có 8 vàng không đỏ, nhưng nếu tình huống mất kiểm soát có nguy cơ thẻ đỏ, Romero là người cần chú ý nhất. |
 | ⚠️ | 22–28 | Số Lần Phạm Lỗi/Trận Của Trọng Tài | Marciniak trung bình 22–26 lần phạm lỗi mỗi trận, phong cách thổi phạt cường độ cao, trận đấu đối kháng mạnh này dự kiến số phạm lỗi sẽ ở mức cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–13 | ประมาณการเตะมุม | การรุกที่ดุดันของอาร์เจนตินาสร้างการโจมตีแนวกว้างมากมาย การตีโต้กลับของแอลจีเรียก็สร้างเตะมุมเป็นครั้งคราว โดยรวมคาดว่าจำนวนเตะมุมจะสูง |
+| 🟡 | 4–7 | ประมาณการใบเหลือง | Marciniak เฉลี่ย 4.27 ใบเหลืองต่อเกม และใช้วินัยเข้มงวดในแมตช์สำคัญ เขาแสดงใบเหลือง 8 ใบในนัดชิงชนะเลิศฟุตบอลโลก 2022 การป้องกันอย่างดุดันของแอลจีเรียอาจได้รับใบเหลืองหลายใบ และ Romero ก็มีความเสี่ยงสะสม |
+| 🟥 | 0–1 | ประมาณการใบแดง | Marciniak เป็นกรรมการที่มีชื่อเสียง เขาแสดงใบเหลือง 8 ใบแต่ไม่มีใบแดงในนัดชิงปี 2022 แต่ใบแดงเป็นไปได้หากแมตช์ร้อนระอุ โดย Romero คือนักเตะที่ต้องจับตามองมากที่สุด |
+| ⚠️ | 22–28 | เฉลี่ยฟาวล์/นัด | Marciniak เฉลี่ย 22–26 ฟาวล์ต่อแมตช์ สะท้อนรูปแบบการตัดสินที่เข้มข้น ธรรมชาติที่ดุดันของเกมนี้บ่งชี้ว่าจำนวนฟาวล์จะอยู่ในระดับสูง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược: Argentina thắng 1.45, hòa 4.50, Algeria thắng 6.50. Arge
 | Phạm Lỗi TB/Trận | ~24 | #60a5fa |
 | Kinh Nghiệm World Cup | Lần Thứ 3 | #a78bfa |
 
+## referee:th
+- icon: ⚖️
+- name: Szymon Marciniak
+- country: 🇵🇱 โปแลนด์ · UEFA Elite · FIFA International 2011–
+- note: หนึ่งในกรรมการที่ดีที่สุดของโลก ได้รับการเสนอชื่อเป็นกรรมการยอดเยี่ยมโลก IFFHS ในปี 2022 และ 2023 เขาตัดสินนัดชิงชนะเลิศฟุตบอลโลก 2022 (อาร์เจนตินา vs ฝรั่งเศส) และนัดชิงชนะเลิศ UEFA Champions League 2023 (Manchester City vs Inter Milan) เขาเฉลี่ยใบเหลือง 4.27 ใบต่อแมตช์ ด้วยรูปแบบการตัดสินที่เด็ดขาดและแน่วแน่ โดยแสดงใบเหลือง 8 ใบในนัดชิงปี 2022 การแต่งตั้งของเขาให้ตัดสินนัดเปิดสนามของแชมป์เก่าในทัวร์นาเมนต์นี้มีความหมายเชิงสัญลักษณ์อย่างสูง
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 300+ | #F1F5F9 |
+| ใบเหลืองรวม | 1201+ | #EAB308 |
+| ใบแดงรวม | 79+ | #EF4444 |
+| เฉลี่ยใบ/นัด | 4.27 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~24 | #60a5fa |
+| ประสบการณ์ฟุตบอลโลก | ครั้งที่ 3 | #a78bfa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 1
@@ -353,6 +429,13 @@ Tỷ lệ cược: Argentina thắng 1.45, hòa 4.50, Algeria thắng 6.50. Arge
 - draws: 0
 - awayWins: 0
 - note: Hai đội chỉ có duy nhất một lần đối đầu, đó là trận giao hữu năm 2007, Argentina thắng 4-3, với Messi ghi được cú đúp quốc tế đầu tiên trong sự nghiệp. Argentina vượt qua vòng loại với ngôi đầu bảng, thắng Brazil 4-1; Algeria bị Nigeria loại tại AFCON 2025 nhưng xếp hạng ghi bàn vòng loại thuộc nhóm dẫn đầu châu Phi. Argentina có chuỗi 6 trận thắng liên tiếp trước các đội châu Phi tại World Cup, Algeria cần tạo ra kỳ tích.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 1
+- draws: 0
+- awayWins: 0
+- note: การพบกันครั้งเดียวในประวัติศาสตร์ระหว่างสองทีมคือการแข่งกระชับมิตรปี 2007 โดยอาร์เจนตินาชนะ 4-3 ซึ่งเป็นแมตช์ที่ Messi ทำแฮตทริคครั้งแรกในระดับนานาชาติ อาร์เจนตินาผ่านรอบคัดเลือกด้วยตำแหน่งจ่าฝูงและเอาชนะบราซิล 4-1 ส่วนแอลจีเรียถูกไนจีเรียคัดออกจาก Africa Cup of Nations 2025 แต่ติดอันดับทีมทำประตูสูงสุดในแอฟริกาในรอบคัดเลือก อาร์เจนตินาชนะ 6 เกมติดต่อกันกับทีมแอฟริกาในฟุตบอลโลก แอลจีเรียต้องสร้างปาฏิหาริย์
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược: Argentina thắng 1.45, hòa 4.50, Algeria thắng 6.50. Arge
 | Riyad Mahrez | 🇩🇿 RW | Nicolás Tagliafico | 🇦🇷 LB | Đội trưởng lão tướng 35 tuổi trong World Cup cuối cùng vs hậu vệ trái Lyon, kỹ thuật của Mahrez vẫn là vũ khí đột phá lớn nhất của Algeria. |
 | Alexis Mac Allister | 🇦🇷 CM | Houssem Aouar | 🇩🇿 CM | Tiền vệ Liverpool vs tiền vệ kỹ thuật Lyon, cuộc tranh giành kiểm soát tuyến giữa quyết định nhịp điệu trận đấu, Argentina nắm tuyến giữa gần như đồng nghĩa với kiểm soát cả trận. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Lionel Messi | 🇦🇷 RW | Ramy Bensebaini | 🇩🇿 LCB | การเต้นรำครั้งสุดท้ายของตำนาน vs เซ็นเตอร์แบ็กตัวหลักของ Borussia Dortmund ในคืนแห่งการครบ 200 นัดทีมชาติ ตำแหน่งของ Messi มีผลต่อทุกอย่าง |
+| Julián Álvarez | 🇦🇷 ST | Aïssa Mandi | 🇩🇿 CB | กองหน้าของ Atlético ที่วิ่งไม่หยุด vs เซ็นเตอร์แบ็กของ Villarreal การวิ่งไม่เหนื่อยของ Álvarez คือภัยคุกคามที่แนวรับแอลจีเรียรับมือยากที่สุด |
+| Riyad Mahrez | 🇩🇿 RW | Nicolás Tagliafico | 🇦🇷 LB | กัปตันวัย 35 ปีในฟุตบอลโลกครั้งสุดท้าย vs แบ็กซ้ายของ Lyon เทคนิคของ Mahrez ยังคงเป็นอาวุธที่ดีที่สุดของแอลจีเรียสำหรับการเจาะแนวรับ |
+| Alexis Mac Allister | 🇦🇷 CM | Houssem Aouar | 🇩🇿 CM | มิดฟิลด์ Liverpool vs มิดฟิลด์เทคนิคของ Lyon การต่อสู้แนวกลางกำหนดจังหวะแมตช์ และการที่อาร์เจนตินาครองแนวกลางแทบเท่ากับการควบคุมทั้งเกม |
+
 ## summary_verdict:zh
 阿根廷是本場也是本屆世界盃奪冠最大熱門之一。Messi 200 場里程碑之夜，全球矚目。衛冕冠軍強大的集體實力——Emi Martínez 守門、Romero/L. Martínez 中衛、Mac Allister/De Paul 中場、Messi/Álvarez 前場——幾乎構成無懈可擊的陣容。自 1990 年以來阿根廷從未在世界盃首場輸球，且六連勝非洲球隊。
 
@@ -413,6 +504,13 @@ Argentina là ứng cử viên vô địch số một của trận đấu này v
 Algeria không phải không có cơ hội — bộ ba Gouiri, Amoura, Maza tỏa sáng rực rỡ trong vòng loại châu Phi, và bản năng trong những trận lớn của Mahrez vẫn còn sắc bén. Nhưng đối mặt với đội hình mạnh nhất thế giới, xác suất tạo bất ngờ là cực thấp. Câu chuyện Saudi Arabia gây sốc Argentina năm 2022 khiến mọi người phải cảnh giác, nhưng Argentina giờ đây trưởng thành và mạnh hơn nhiều.
 
 Dự đoán: Argentina thắng 2-0, Messi có thể lập công để kỷ niệm cột mốc 200 trận.
+
+## summary_verdict:th
+อาร์เจนตินาเป็นหนึ่งในตัวเต็งสูงสุดทั้งในแมตช์นี้และในทัวร์นาเมนต์โดยรวม ในคืนที่ทั่วโลกจับตามองการครบ 200 นัดของ Messi แชมป์เก่ามีทีมที่ใกล้เคียงสมบูรณ์แบบ: Emi Martínez ในกอล Romero และ L. Martínez ในแนวรับกลาง Mac Allister และ De Paul ในแนวกลาง และ Messi กับ Álvarez ในแนวรุก อาร์เจนตินาไม่แพ้เกมเปิดสนามฟุตบอลโลกนับตั้งแต่ปี 1990 และชนะ 6 เกมติดต่อกันกับทีมจากแอฟริกา
+
+แอลจีเรียไม่ได้หมดหวังเสียทีเดียว ทั้ง Gouiri, Amoura และ Maza ส่องแสงอย่างสดใสในรอบคัดเลือกแอฟริกา และสัญชาตญาณในเกมใหญ่ของ Mahrez ยังคมชัด แต่ความน่าจะเป็นของการพลิกล็อคกับทีมที่แข็งแกร่งที่สุดในโลกนั้นต่ำมาก เรื่องราวการชนะช็อคโลกของซาอุดีอาระเบียเหนืออาร์เจนตินาในปี 2022 ทำให้ทุกคนระวัง แต่อาร์เจนตินาในตอนนี้มีประสบการณ์มากขึ้นและทรงพลังกว่าเดิม
+
+การทำนาย: อาร์เจนตินาชนะ 2-0 โดย Messi น่าจะทำประตูได้เพื่อเฉลิมฉลองเหตุการณ์สำคัญครบ 200 นัด
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Argentina thắng 2-0, Messi có thể lập công để kỷ niệ
 | ⚽ Sân Khấu Chia Tay Của Mahrez | Đội trưởng Algeria 35 tuổi, cựu vô địch Premier League, có thể đây là World Cup cuối cùng của anh, thi đấu với tất cả tâm huyết. |
 | ⚠️ Đừng Quên Bài Học Saudi Arabia | Năm 2022 Argentina cũng là đội được đánh giá cao hơn nhưng vẫn thua Saudi Arabia ngay trận đầu. Scaloni chắc chắn sẽ không để cầu thủ chủ quan. |
 | 🦊 Algeria - Ngựa Ô Ẩn | Bộ ba tấn công trẻ Gouiri+Amoura+Maza có thành tích vòng loại ấn tượng, trận đầu này khó thắng nhưng hai trận tiếp theo có thể cạnh tranh hơn nhiều. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 👑 Messi นัดที่ 200 | เหตุการณ์สำคัญครบ 200 นัดทีมชาติ ฟุตบอลโลกครั้งที่ 6 และน่าจะเป็นครั้งสุดท้าย ประวัติศาสตร์จะไม่มี Messi อีกคนอีกแล้ว |
+| 🏆 การท้าทายป้องกันแชมป์ติดต่อกัน | อาร์เจนตินามุ่งหมายเป็นทีมแรกที่ป้องกันแชมป์โลกได้สำเร็จนับตั้งแต่บราซิลในปี 1958 และ 1962 ประวัติศาสตร์กำลังเรียกหา |
+| 🤵 ความสำคัญของการแต่งตั้ง Marciniak | กรรมการที่ควบคุมนัดชิงชนะเลิศฟุตบอลโลก 2022 กลับมาตัดสินเกมเปิดสนามของแชมป์เก่าอีกครั้ง เป็นช่วงเวลาที่สมมาตรอย่างสมบูรณ์แบบในประวัติศาสตร์ |
+| ⚽ เวทีอำลาของ Mahrez | กัปตันแอลจีเรียวัย 35 ปีและอดีตแชมป์ Premier League ทุ่มเทสุดตัวในสิ่งที่น่าจะเป็นฟุตบอลโลกครั้งสุดท้ายของเขา |
+| ⚠️ อย่าลืมบทเรียนซาอุดีอาระเบีย | ในปี 2022 อาร์เจนตินาก็เป็นตัวเต็งหนัก แต่แพ้เกมเปิดสนามกับซาอุดีอาระเบีย Scaloni จะไม่ยอมให้นักเตะประมาทเด็ดขาด |
+| 🦊 แอลจีเรียในฐานะม้ามืด | แนวรุกหนุ่ม Gouiri+Amoura+Maza สร้างตัวเลขรอบคัดเลือกที่น่าทึ่ง แม้การชนะเกมแรกเป็นเรื่องยาก แต่สองเกมที่เหลืออาจแข่งขันได้ดีกว่ามาก |

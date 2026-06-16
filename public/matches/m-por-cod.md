@@ -29,10 +29,13 @@ aiModel: Claude Sonnet 4.6
 Portugal are one of the hottest favourites to win this World Cup, boasting terrifying squad depth. Cristiano Ronaldo, at 41, steps into his sixth World Cup, leading a formidable attack built around Bruno Fernandes (Premier League record of 21 assists in a single season), Vitinha, João Neves (both key figures in PSG's Champions League-winning squad), Rafael Leão, and Pedro Neto. Martínez's 4-3-3 system — augmented by the attacking full-backs Cancelo and Mendes — commands exceptional possession. Portugal scored 20 goals in 6 qualifying matches, including a stunning 9-1 demolition of Armenia.
 
 ## home_note:zh-cn
-葡萄牙是本届世界杯最热门夺冠候选之一，阵容深度恐怖。C罗以 41 岁之龄迎来第六届世界杯，率领 Bruno Fernandes（英超史上单季最多21助攻）、Vitinha、João Neves（均为巴黎圣日耳曼冠军核心）、Rafael Leão、Pedro Neto 组成的强大攻击线。马丁内斯采 4-3-3，外加 Cancelo、Mendes 两名具极高助攻能力的边后卫，控球率超高。资格赛 6 场轰 20 球，包括 9-1 大胜亚美尼亚，气势惊人。
+葡萄牙是本届世界杯最热门夺冠候选之一，阵容深度恐怖。C罗以 41 岁之龄迎来第六届世界杯，率领 Bruno Fernandes（英超史上单季最多21助攻）、Vitinha、João Neves（均为巴黎圣日耳曼冠军核心）、Rafael Leão、Pedro Neto 组成的强大攻击线。马丁内斯采 4-3-3，外加 Cancelo、Mendes 两名具极高助攻能力的边后卫，控球率超高。资格赛 6 场轟 20 球，包括 9-1 大胜亚美尼亚，气势惊人。
 
 ## home_note:vi
 Bồ Đào Nha là một trong những ứng viên hàng đầu cho chức vô địch World Cup lần này, với chiều sâu đội hình đáng sợ. Ronaldo ở tuổi 41 bước vào World Cup thứ sáu của mình, dẫn dắt hàng công hùng mạnh gồm Bruno Fernandes (kỷ lục 21 kiến tạo trong một mùa giải Premier League), Vitinha, João Neves (cả hai đều là trụ cột trong đội PSG vô địch Champions League), Rafael Leão và Pedro Neto. Martínez sử dụng sơ đồ 4-3-3, cộng thêm hai hậu vệ biên tấn công xuất sắc là Cancelo và Mendes — tỷ lệ kiểm soát bóng rất cao. Vòng loại ghi 20 bàn trong 6 trận, trong đó có chiến thắng đại thắng 9-1 trước Armenia — khí thế áp đảo.
+
+## home_note:th
+โปรตุเกสเป็นหนึ่งในตัวเต็งอันดับต้นของการคว้าแชมป์โลกครั้งนี้ ด้วยความลึกของทีมที่น่าเกรงขาม Cristiano Ronaldo ในวัย 41 ปี ก้าวเข้าสู่ฟุตบอลโลกครั้งที่หก นำทัพแนวรุกที่น่ากลัวซึ่งประกอบด้วย Bruno Fernandes (สถิติ Premier League ด้วย 21 แอสซิสต์ในหนึ่งฤดูกาล), Vitinha, João Neves (ทั้งคู่เป็นกำลังสำคัญในทีม PSG แชมป์ Champions League), Rafael Leão และ Pedro Neto ระบบ 4-3-3 ของ Martínez เสริมด้วยแบ็กปีกโจมตี Cancelo และ Mendes ครองลูกได้อย่างยอดเยี่ยม โปรตุเกสยิงไปถึง 20 ประตูใน 6 นัดคัดเลือก รวมถึงการทุบอาร์เมเนีย 9-1 อย่างน่าตื่นตาตื่นใจ
 
 ## away_note:zh
 剛果民主共和國睽違 52 年重返世界盃，上次參賽還是 1974 年以「薩伊」名義出戰。主帥 Desabre 以海外僑民球員為核心，隊長 Chancel Mbemba（里爾）坐鎮後防，英超明星 Yoane Wissa（紐卡斯爾）領銜進攻。防線有 Aaron Wan-Bissaka（西漢姆）提供英超頂級右後衛水準。然而，面對葡萄牙攻擊組合，防守壓力極大，若能依靠 Wissa 快速反擊，方有一線希望。
@@ -46,6 +49,9 @@ DR Congo return to the World Cup for the first time in 52 years — their last a
 ## away_note:vi
 Cộng hòa Dân chủ Congo trở lại World Cup sau 52 năm vắng mặt — lần cuối họ tham dự là năm 1974 dưới tên "Zaire." HLV Desabre xây dựng đội hình xoay quanh các cầu thủ kiều bào: đội trưởng Chancel Mbemba (Lille) trấn thủ hàng phòng ngự, ngôi sao Premier League Yoane Wissa (Newcastle United) dẫn đầu hàng công. Hàng hậu vệ được củng cố bởi Aaron Wan-Bissaka (West Ham) ở vị trí hậu vệ phải đẳng cấp Anh. Tuy nhiên, đối mặt với hàng công Bồ Đào Nha, áp lực phòng thủ sẽ cực kỳ lớn — hy vọng duy nhất là khai thác tốc độ của Wissa trong các pha phản công.
 
+## away_note:th
+สาธารณรัฐประชาธิปไตยคองโกกลับสู่ฟุตบอลโลกเป็นครั้งแรกในรอบ 52 ปี โดยครั้งสุดท้ายที่เข้าร่วมคือปี 1974 ในนาม "ซาอีร์" โค้ช Desabre สร้างทีมโดยอาศัยนักเตะที่เล่นในยุโรป โดยมีกัปตัน Chancel Mbemba (Lille) เป็นหัวหอกแนวรับ ส่วนดาว Premier League Yoane Wissa (Newcastle United) นำทัพแนวรุก แนวรับยังได้รับแรงเสริมจาก Aaron Wan-Bissaka (West Ham) แบ็กขวาคุณภาพ Premier League อย่างไรก็ตาม การเผชิญกับแนวรุกของโปรตุเกสจะสร้างแรงกดดันมหาศาลต่อแนวรับ และโอกาสเดียวที่จะสร้างความพลิกผันคือการใช้ความเร็วของ Wissa ในการโต้กลับ
+
 ## odds_note:zh
 賠率顯示葡萄牙大熱：葡萄牙勝 1.30、平局 5.50、剛果民主勝 13.00。葡萄牙勝率估計達 73-77%，超算預測最可能比分為 2-0。唯一需注意葡萄牙有放鬆之可能，剛果反擊如 Wissa 爆發，亦有進球可能。
 
@@ -57,6 +63,9 @@ The odds show Portugal as heavy favourites: Portugal win 1.30, Draw 5.50, DR Con
 
 ## odds_note:vi
 Tỷ lệ cược cho thấy Bồ Đào Nha là cửa trên tuyệt đối: Bồ Đào Nha thắng 1.30, hòa 5.50, Congo thắng 13.00. Xác suất thắng của Bồ Đào Nha ước tính đạt 73–77%, tỷ số được dự đoán nhiều nhất là 2-0. Điều duy nhất cần lưu ý là nguy cơ Bồ Đào Nha buông lỏng — nếu Congo phản công tốt với Wissa tỏa sáng, vẫn có khả năng ghi bàn.
+
+## odds_note:th
+อัตราต่อรองแสดงให้เห็นว่าโปรตุเกสเป็นตัวเก็งอย่างชัดเจน: โปรตุเกสชนะ 1.30, เสมอ 5.50, คองโกชนะ 13.00 โอกาสชนะของโปรตุเกสประเมินไว้ที่ 73–77% โดยผลการแข่งขันที่คาดการณ์ไว้มากที่สุดคือ 2-0 ข้อกังวลเดียวที่แท้จริงคือโปรตุเกสอาจผ่อนแรงลง หากสาธารณรัฐประชาธิปไตยคองโกสามารถจุดประกายการโต้กลับผ่าน Wissa ก็ยังมีโอกาสทำประตูได้
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược cho thấy Bồ Đào Nha là cửa trên tuyệt đối: Bồ
 | LW | #11 | Rafael Leão | AC Milan | 🇮🇹 | 18 | starter,league | false | Tiền vệ cánh trái AC Milan — tốc độ kinh hoàng và sức đột phá mạnh mẽ. Thách thức chính cho hàng phòng ngự cánh phải Congo, khả năng ghi bàn cao. |
 | FWD | Dự bị | Gonçalo Ramos | Paris St-Germain | 🇫🇷 | 12 | league,squad | true | Tiền đạo PSG, thành viên đội vô địch Champions League — sức công phá mạnh từ ghế dự bị, phương án thay thế lý tưởng nhất cho Ronaldo. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Diogo Costa | FC Porto | 🇵🇹 | 1 | starter,team | false | ผู้รักษาประตูอันดับ 1 ของโปรตุเกส ตัวจริงที่ Porto — รีเฟล็กซ์ไว เก่งในการเล่นลูกด้วยเท้า และลงเล่นในรายการยุโรปสม่ำเสมอ |
+| DEF | #2 | João Cancelo | FC Barcelona | 🇪🇸 | 3 | starter,league | false | แบ็กขวาตัวจริงของ Barcelona มีความสามารถในการรุกเยี่ยมยอด ชอบเดินหน้าสร้างความกว้าง — แบ็กปีกโจมตีระดับโลก |
+| DEF | #4 | Rúben Dias | Manchester City | 🇬🇧 | 4 | starter,league | false | หัวใจแนวรับของ Manchester City ได้รับเลือกสู่ทีมยอดเยี่ยมแห่งปี Premier League รากฐานแนวรับของโปรตุเกส — มีภาวะผู้นำโดดเด่น |
+| DEF | #3 | Gonçalo Inácio | Sporting CP | 🇵🇹 | 4 | starter,team | false | เซ็นเตอร์แบ็กตัวจริงของ Sporting มั่นคงและมีเทคนิค อ่านเกมตำแหน่งได้ดีเยี่ยม — นักเตะเยาวชนที่มีพรสวรรค์ |
+| DEF | #5 | Nuno Mendes | Paris St-Germain | 🇫🇷 | 3 | starter,league | false | แบ็กซ้ายตัวจริงของ PSG และแชมป์ Champions League เร็วและรุกรบในการบุกอย่างแข็งขัน — เครื่องยนต์ของแนวปีกซ้ายโปรตุเกส |
+| CM | #8 | Bernardo Silva | Manchester City | 🇬🇧 | 10 | starter,league | false | นักเตะอเนกประสงค์ของ Manchester City — เทคนิคยอดเยี่ยม จัดระเบียบกลางสนามเป็นเลิศ เล่นได้ทั้งปีกขวาหรือกลางสนาม เป็นนักเตะสำคัญตลอด 90 นาที |
+| CM | #16 | Vitinha | Paris St-Germain | 🇫🇷 | 8 | starter,league | false | กำลังสำคัญกลางสนามของ PSG และแชมป์ Champions League ครองลูกได้แม่นยำ เป็นผู้กำหนดจังหวะของโปรตุเกส |
+| CM | #6 | Bruno Fernandes | Manchester United | 🇬🇧 | 20 | starter,league | false | กัปตัน Manchester United ทำลายสถิติ Premier League ด้วย 21 แอสซิสต์ในฤดูกาล 2025/26 เป็นตัวสร้างเกมรุกแบบอิสระ และเป็นหนึ่งในภัยคุกคามการทำประตูที่ใหญ่ที่สุดในแมตช์นี้ |
+| RW | #7 | Pedro Neto | Chelsea | 🇬🇧 | 15 | starter,league | false | นักเตะปีกของ Chelsea — ความเร็วระเบิดและอันตรายมากในสถานการณ์ 1v1 เป็นจุดบุกทะลวงหลักด้านขวาของโปรตุเกส |
+| ST | #17 | Cristiano Ronaldo | Al-Nassr | 🇸🇦 | 25 | starter,team | false | ตำนานวัย 41 ปีในฟุตบอลโลกครั้งที่หก 143 ประตูระดับนานาชาติ — ดาวเด่นที่ยิ่งใหญ่ที่สุดในสนาม สัญชาตญาณทำประตูในนัดอำลายังคงโดดเด่นอย่างน่าทึ่ง |
+| LW | #11 | Rafael Leão | AC Milan | 🇮🇹 | 18 | starter,league | false | ปีกซ้ายของ AC Milan — ความเร็วสูงและดริบลิ้งทรงพลัง เป็นบทพิสูจน์หลักสำหรับแนวรับด้านขวาของคองโก มีความสามารถในการทำประตูต่อเนื่อง |
+| FWD | สำรอง | Gonçalo Ramos | Paris St-Germain | 🇫🇷 | 12 | league,squad | true | กองหน้าของ PSG และแชมป์ Champions League — มีพลังทดแทนจากม้านั่งสำรองสูง เป็นตัวเลือกสำรองที่ดีที่สุดแทน Ronaldo |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược cho thấy Bồ Đào Nha là cửa trên tuyệt đối: Bồ
 | ST | #17 | Cédric Bakambu | Real Betis | 🇪🇸 | 15 | starter | false | Lão tướng 35 tuổi tại La Liga, chỉ còn cách kỷ lục ghi bàn quốc gia một bàn — bản năng ghi bàn trong các trận lớn và khả năng xử lý trong vòng cấm rất tốt. |
 | FWD | Dự bị | Nathanaël Mbuku | Montpellier | 🇫🇷 | 8 | squad | true | Tiền vệ cánh Ligue 1 tại Montpellier, tỏa sáng ở AFCON — tốc độ nhanh và sức công phá mạnh từ ghế dự bị. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Lionel Mpasi | Arássa | 🇬🇷 | 1 | starter,team | false | ผู้รักษาประตูตัวจริงของคองโก — จะเผชิญแรงกดดันมหาศาลจากอำนาจการยิงของโปรตุเกสและจำเป็นต้องเซฟลูกสำคัญหลายครั้ง |
+| DEF | #2 | Aaron Wan-Bissaka | West Ham United | 🇬🇧 | 2 | starter,league | false | แบ็กขวาของ West Ham อดีตนักเตะ Manchester United ที่โด่งดังด้านการป้องกัน 1v1 — ส่วนประกอบที่มั่นคงที่สุดในแนวรับ |
+| DEF | #6 | Axel Tuanzebe | Burnley | 🇬🇧 | 2 | starter | false | เซ็นเตอร์แบ็กของ Burnley (Championship) ผู้โหม่งประตูช่วยให้คองโกผ่านเข้าสู่การแข่งขัน — เผชิญภารกิจยิ่งใหญ่ในการปกป้องแนวกลาง |
+| DEF | #22 | Chancel Mbemba (c) | Lille | 🇫🇷 | 3 | starter,league | false | กัปตันคองโก ลงเล่น 107 นัด เซ็นเตอร์แบ็กตัวจริงของ Lille — ผู้พิทักษ์ที่แกร่งกร้าว มีภัยคุกคามจากลูกตั้งเตะ |
+| DEF | #14 | Arthur Masuaku | Racing Lens | 🇫🇷 | 2 | starter | false | แบ็กซ้ายของ Lens บุกขึ้นปีกซ้ายได้พอสมควร — ต้องระวังการวิ่งขึ้นของ Cancelo |
+| CM | #8 | Samuel Moutoussamy | Atromitos | 🇬🇷 | 5 | starter | false | มิดฟิลด์ในลีกกรีซที่เล่นในบทบาทกองกลางรับ — ช่วย Mbemba ปกป้องแนวรับ มีหน้าที่หลักในการตัดบอลและสกัดการโจมตี |
+| CM | #18 | Charles Pickel | Espanyol | 🇪🇸 | 4 | starter | false | กองกลางของ La Liga ควบคุมจังหวะกลางสนาม สร้างคู่กองกลางคู่ขนานร่วมกับ Moutoussamy |
+| RW | #13 | Meschack Elia | Alanyaspor | 🇹🇷 | 8 | starter | false | นักเตะปีกของ Süper Lig ด้วยความเร็วสูง — เป็นอาวุธสำคัญในการโต้กลับด้านขวาของคองโก ต้องสร้างโอกาส |
+| AM | #14 | Gaël Kakuta | Arássa | 🇬🇷 | 10 | starter | false | ทหารผ่านศึกที่เคยเล่นให้ Chelsea ยังคงมีความเร็วและความสร้างสรรค์ — ผู้จุดประกายการโต้กลับของคองโก |
+| LW | #20 | Yoane Wissa | Newcastle United | 🇬🇧 | 18 | starter,league | false | ดาวเด่นของ Newcastle — นักเตะคองโกคนแรกที่ทำ 10+ ประตู Premier League ในหนึ่งฤดูกาล ความเร็วและความสามารถในการยิงโดดเด่น นักเตะที่อันตรายที่สุดของคองโก |
+| ST | #17 | Cédric Bakambu | Real Betis | 🇪🇸 | 15 | starter | false | ทหารผ่านศึกวัย 35 ปีใน La Liga ห่างจากสถิติการทำประตูสูงสุดของคองโกเพียงหนึ่งประตู — มีสัญชาตญาณในการทำประตูในเกมใหญ่และการยิงในกรอบเขตโทษที่แม่นยำ |
+| FWD | สำรอง | Nathanaël Mbuku | Montpellier | 🇫🇷 | 8 | squad | true | นักเตะปีกของ Ligue 1 ที่ Montpellier โดดเด่นใน AFCON — เร็วและมีพลังทดแทนจากม้านั่งสำรองสูง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge |
 |-------|--------|------|-------|-------|
@@ -234,6 +275,18 @@ Tỷ lệ cược cho thấy Bồ Đào Nha là cửa trên tuyệt đối: Bồ
 | 1-1 | Hòa | 5 | #6b7280 | |
 | Khác | — | 12 | #94a3b8 | |
 
+## score_predictions:th
+| score | result | prob | color | badge |
+|-------|--------|------|-------|-------|
+| 3-0 🇵🇹 | โปรตุเกสชนะ | 22 | #EF4444 | โอกาสสูงสุด |
+| 2-0 🇵🇹 | โปรตุเกสชนะ | 21 | #EF4444 | อันดับสอง |
+| 2-1 🇵🇹 | โปรตุเกสชนะ | 14 | #EF4444 | |
+| 1-0 🇵🇹 | โปรตุเกสชนะ | 10 | #EF4444 | |
+| 4-0 🇵🇹 | โปรตุเกสชนะ | 8 | #EF4444 | |
+| 3-1 🇵🇹 | โปรตุเกสชนะ | 8 | #EF4444 | |
+| 1-1 | เสมอ | 5 | #6b7280 | |
+| อื่นๆ | — | 12 | #94a3b8 | |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược cho thấy Bồ Đào Nha là cửa trên tuyệt đối: Bồ
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Al-Jassim trung bình 3–4 thẻ vàng/trận; Congo chịu áp lực phòng thủ lớn có thể phạm lỗi thường xuyên, cầu thủ Bồ Đào Nha cũng có thể bị rút thẻ vì phản ứng trước các tình huống tranh cãi. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Hậu vệ Congo đối mặt các pha đột phá liên tục — phạm lỗi chiến thuật với người cuối cùng có nguy cơ thẻ đỏ ở mức trung bình. Al-Jassim có kỹ năng điều tiết nhịp độ trận đấu tốt. |
 | ⚠️ | 20–24 | Số lần phạm lỗi/trận của trọng tài | Al-Jassim có phong cách bắt việt vị ổn định, thang đo phù hợp tại các giải đấu lớn — nhận diện phạm lỗi nghiêm ngặt nhưng thận trọng với thẻ đỏ. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–12 | จำนวนเตะมุมที่คาดการณ์ | การครองบอลสูงของโปรตุเกสและการเล่นกว้างทั้งสองปีกจะสร้างเตะมุมจำนวนมาก การบล็อกแนวรับลึกของคองโกและการเคลียร์บอลออกจะยิ่งเพิ่มจำนวนเตะมุมให้โปรตุเกส |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | Al-Jassim เฉลี่ย 3–4 ใบเหลืองต่อเกม คองโกจะอยู่ภายใต้แรงกดดันด้านรับตลอดเวลาและอาจฟาวล์บ่อย ขณะที่นักเตะโปรตุเกสก็อาจได้รับใบเหลืองจากการประท้วงการตัดสิน |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | แนวรับคองโกเผชิญการบุกทะลวง 1v1 ซ้ำๆ — การฟาวล์เชิงยุทธวิธีจากผู้เล่นคนสุดท้ายมีความเสี่ยงใบแดงในระดับปานกลาง Al-Jassim เชี่ยวชาญในการบริหารจังหวะเกม |
+| ⚠️ | 20–24 | เฉลี่ยฟาวล์/นัดของกรรมการ | Al-Jassim มีสไตล์การตัดสินที่สงบนิ่ง ใช้มาตรฐานที่เหมาะสมในรายการใหญ่ — เข้มงวดกับการรับรู้ฟาวล์แต่ระมัดระวังกับใบแดง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược cho thấy Bồ Đào Nha là cửa trên tuyệt đối: Bồ
 | Phong cách lớn | Ổn định & Nghiêm | #F1F5F9 |
 | Năm FIFA | 2013– | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Abdulrahman Al-Jassim
+- country: 🇶🇦 กาตาร์ · AFC Elite · FIFA นานาชาติ
+- note: กรรมการชาวกาตาร์ที่มีสถานะ FIFA นานาชาติตั้งแต่ปี 2013 Al-Jassim ตัดสินในฟุตบอลโลก 2022 (สหรัฐอเมริกา vs. เวลส์ — 6 ใบเหลือง) และนัดชิงอันดับสาม (โครเอเชีย vs. โมร็อกโก) นอกจากนี้ยังตัดสินรอบชิงชนะเลิศ Club World Cup 2019 (Liverpool vs. Flamengo) สไตล์การตัดสินสงบนิ่งและควบคุมได้ดีในเกมใหญ่ แต่มีแนวโน้มหยิบบัตรเมื่อการปะทะเริ่มรุนแรง
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 200+ | #F1F5F9 |
+| เฉลี่ยใบเหลือง/นัด | 3.5~4.5 | #EAB308 |
+| ความเสี่ยงใบแดง | ปานกลาง | orange |
+| นัดใหญ่ที่โดดเด่น | อันดับ 3 WC 2022 | #60a5fa |
+| สไตล์ในทัวร์นาเมนต์ | สงบนิ่งและเข้มงวด | #F1F5F9 |
+| ปีที่เริ่ม FIFA | 2013– | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄（首次正式交鋒）
 - homeWins: 0
@@ -353,6 +429,13 @@ Tỷ lệ cược cho thấy Bồ Đào Nha là cửa trên tuyệt đối: Bồ
 - draws: 0
 - awayWins: 0
 - note: Đây là lần đầu tiên Bồ Đào Nha và Cộng hòa Dân chủ Congo gặp nhau trong một trận đấu chính thức — không có dữ liệu lịch sử. Bồ Đào Nha thua trận giao hữu 2-1 trước Chile, cho thấy đôi khi có sơ hở phòng ngự; nhưng tỷ lệ bàn thắng/thua 20:7 ở vòng loại cho thấy họ vượt trội Congo hoàn toàn. Congo đã vượt qua Nigeria qua loạt đá phạt đền (4-3) để giành quyền tham dự, thể hiện tinh thần đáng khen.
+
+## h2h:th
+- title: สถิติพบกัน (ครั้งแรกที่พบกันอย่างเป็นทางการ)
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: นี่คือการพบกันครั้งแรกอย่างเป็นทางการในเชิงแข่งขันระหว่างโปรตุเกสและสาธารณรัฐประชาธิปไตยคองโก — ไม่มีข้อมูลประวัติศาสตร์ โปรตุเกสแพ้กระชับมิตรก่อนทัวร์นาเมนต์ 2-1 ต่อชิลี บ่งชี้ว่าอาจมีช่องโหว่ด้านรับเป็นครั้งคราว แต่ความแตกต่างของประตู 20:7 ในรอบคัดเลือกทำให้พวกเขาอยู่คนละชั้นกับคองโก คองโกเอาชนะไนจีเรียด้วยการยิงจุดโทษ (4-3) เพื่อผ่านเข้ารอบ แสดงให้เห็นถึงจิตใจที่ยอดเยี่ยม
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược cho thấy Bồ Đào Nha là cửa trên tuyệt đối: Bồ
 | Bruno Fernandes | 🇵🇹 CM | Samuel Moutoussamy | 🇨🇩 DM | Vua kiến tạo Premier League trong vai tự do vs. tiền vệ phòng ngự — nếu Fernandes có không gian, tuyến tấn công trung tâm của Bồ Đào Nha sẽ không thể kiểm soát. |
 | Yoane Wissa | 🇨🇩 LW | Gonçalo Inácio | 🇵🇹 CB | Tốc độ ngôi sao Newcastle vs. trung vệ trẻ Bồ Đào Nha — kênh tấn công thực sự duy nhất của Congo. Chỉ cần một khoảng trống nhỏ là có thể châm ngòi phản công. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Rafael Leão | 🇵🇹 LW | Aaron Wan-Bissaka | 🇨🇩 RB | ปีกซ้ายระเบิดพลังของ AC Milan vs. นักป้องกัน 1v1 ชั้นนำของ Premier League — หาก Leão ผ่าน Wan-Bissaka ได้ โอกาสทำประตูของโปรตุเกสจะพุ่งสูงขึ้นอย่างมาก |
+| Cristiano Ronaldo | 🇵🇹 ST | Chancel Mbemba | 🇨🇩 CB | ตำนานฟุตบอลโลกวัย 41 ปี vs. กัปตันคองโก — Mbemba ต้องหยุด Ronaldo ไม่ให้ยิงประตูอำลาที่จะกึกก้องในประวัติศาสตร์ |
+| Bruno Fernandes | 🇵🇹 CM | Samuel Moutoussamy | 🇨🇩 DM | ราชาแอสซิสต์ Premier League ในบทบาทอิสระ vs. กองกลางรับ — หาก Fernandes มีพื้นที่ การเล่นรุกกลางสนามของโปรตุเกสจะไม่สามารถหยุดได้ |
+| Yoane Wissa | 🇨🇩 LW | Gonçalo Inácio | 🇵🇹 CB | ความเร็วของดาวเด่น Newcastle vs. เซ็นเตอร์แบ็กหนุ่มของโปรตุเกส — ช่องทางโจมตีที่แท้จริงเพียงช่องเดียวของคองโก แม้แต่ช่องว่างเล็กน้อยก็อาจจุดชนวนการโต้กลับได้ |
+
 ## summary_verdict:zh
 葡萄牙是本場絕對大熱，陣容深度全方位超越剛果民主共和國。Bruno Fernandes 創英超歷史最多單季助攻、C羅第六屆世界盃告別之戰、Leão 和 Neto 在兩翼提供純粹速度和技巧、PSG 歐冠冠軍 Vitinha 和 João Neves 掌控中場，再加上 Mendes 和 Cancelo 驍勇的邊後衛插上，馬丁內斯的 4-3-3 幾乎是現代足球最完備的陣型之一。
 
@@ -413,6 +504,13 @@ Bồ Đào Nha là đội cửa trên tuyệt đối trong trận này, với đ
 Con đường tạo bất ngờ của Congo chạy qua tốc độ phản công của Wissa và bản năng ghi bàn của Bakambu trong vòng cấm — tận dụng bất kỳ khoảnh khắc sơ hở nào của hàng thủ Bồ Đào Nha. Họ có cầu thủ chất lượng Premier League (Wan-Bissaka, Wissa), nhưng khoảng cách tổng thể về chất lượng đội hình quá lớn.
 
 Dự đoán: Bồ Đào Nha thắng 3-0. Nếu Ronaldo ghi bàn, đó sẽ là khoảnh khắc xúc động nhất của đêm diễn.
+
+## summary_verdict:th
+โปรตุเกสคือตัวเต็งอย่างล้นหลามในแมตช์นี้ ด้วยทีมที่เหนือกว่าสาธารณรัฐประชาธิปไตยคองโกในทุกด้าน Bruno Fernandes ทำลายสถิติแอสซิสต์ตลอดกาลในหนึ่งฤดูกาลของ Premier League Cristiano Ronaldo อำลาฟุตบอลโลกในการปรากฏตัวครั้งที่หก Leão และ Neto มอบความเร็วและทักษะบริสุทธิ์บนทั้งสองปีก แชมป์ Champions League ของ PSG อย่าง Vitinha และ João Neves ควบคุมกลางสนาม และแบ็กปีกโจมตี Mendes และ Cancelo ทำให้ระบบ 4-3-3 ของ Martínez สมบูรณ์ — หนึ่งในการจัดทีมทางยุทธวิธีที่สมบูรณ์ที่สุดในฟุตบอลสมัยใหม่
+
+เส้นทางสู่ความมหัศจรรย์ของคองโกผ่านความเร็วโต้กลับของ Wissa และสัญชาตญาณยิงในกรอบเขตโทษของ Bakambu — ฉวยโอกาสจากช่วงเวลาที่แนวรับโปรตุเกสเสียสมาธิชั่วขณะเพื่อแย่งประตู พวกเขามีนักเตะคุณภาพ Premier League (Wan-Bissaka, Wissa) แต่ช่องว่างโดยรวมในคุณภาพทีมนั้นใหญ่เกินไป
+
+การคาดการณ์: โปรตุเกส 3-0 หาก Ronaldo ทำประตูได้ นั่นจะเป็นช่วงเวลาที่เต็มไปด้วยอารมณ์มากที่สุดของคืนนั้น
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Bồ Đào Nha thắng 3-0. Nếu Ronaldo ghi bàn, đó sẽ là k
 | 🐆 Giấc mơ phản công của Wissa | Ngôi sao Newcastle và vũ khí tàn phá duy nhất thực sự của Congo — nếu anh bùng nổ trong phản công, hy vọng giữ sạch lưới sẽ tan vỡ. |
 | ⚖️ Phong cách điều hành ổn định của trọng tài | Al-Jassim điều hành trận tranh hạng ba World Cup 2022 — bình tĩnh, khó mắc sai lầm, sẽ không thay đổi kịch bản bằng thẻ đỏ. |
 | 🏆 Cục diện bảng K | Bồ Đào Nha thắng lớn giúp tích lũy điểm số; ngay cả khi Congo thua sít sao vẫn có thể chờ đợi kết quả khác — kết quả vòng đầu định hình động lực cho phần còn lại của bảng đấu. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 👑 ฟุตบอลโลกครั้งสุดท้ายของ Ronaldo | วัย 41 ปี ฟุตบอลโลกครั้งที่หก — ประตูที่นี่จะผลักดันให้เขาแซงหน้าสถิติประวัติศาสตร์ทั้งหมด โอกาสทำประตูของโปรตุเกสอยู่ที่ 95%+ |
+| 🔥 Bruno Fernandes ในบทบาทอิสระ | ผู้ถือสถิติแอสซิสต์ตลอดกาลในหนึ่งฤดูกาลของ Premier League — หัวใจการรุก มีโอกาสทำประตูหรือแอสซิสต์สูงที่สุดในแมตช์นี้ |
+| ⚡ Leão vs Wan-Bissaka | การดวลที่สำคัญที่สุด — ว่าด้านขวาของคองโกจะสามารถควบคุมการดริบลิ้งของ Leão ได้หรือไม่จะกำหนดทิศทางของแมตช์นี้ |
+| 🐆 ความฝันโต้กลับของ Wissa | ดาวเด่น Newcastle และอาวุธที่ทำลายล้างเพียงหนึ่งเดียวอย่างแท้จริงของคองโก — หากเขาระเบิดในการโต้กลับ ความหวังเก็บคลีนชีทจะสลายไป |
+| ⚖️ สไตล์การตัดสินที่สงบนิ่งของกรรมการ | Al-Jassim ตัดสินนัดชิงอันดับสามของฟุตบอลโลก 2022 — สงบนิ่งและไม่น่าจะเกิดความผิดพลาด จะไม่เปลี่ยนบทด้วยใบแดง |
+| 🏆 ตารางคะแนนกลุ่ม K | ชัยชนะใหญ่ของโปรตุเกสช่วยเพิ่มคะแนน แม้แต่การแพ้สูสีก็ทำให้คองโกรอดูผลอื่น — ผลในรอบแรกกำหนดแรงผลักดันส่วนที่เหลือของกลุ่ม |

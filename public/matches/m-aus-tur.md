@@ -34,6 +34,9 @@ Australia return to the World Cup knockout stage hunt after many years, with hea
 ## home_note:vi
 Úc trở lại đấu trường World Cup sau nhiều năm vắng mặt, HLV Tony Popovic sử dụng sơ đồ 3-4-2-1 với trọng tâm là kỷ luật phòng thủ và phản công nhanh. Toàn bộ 26 cầu thủ trong danh sách đều sẵn sàng thi đấu, trong đó 17 người sẽ lần đầu xuất hiện tại World Cup. Mathew Ryan và Mathew Leckie sẽ dự World Cup lần thứ tư, bằng kỷ lục quốc gia của Tim Cahill. Ngôi sao tấn công Mohamed Touré ghi 10 bàn trong 12 trận cuối mùa tại giải Championship Anh, đang trong phong độ rực lửa. Nestory Irankunda (Bayern Munich) ngồi dự bị nhưng là cầu thủ thi đấu ở giải đấu đẳng cấp cao nhất trong đội, có khả năng thay đổi cục diện trận đấu. Trận giao hữu trước giải hòa 1-1 với Thụy Sĩ, thể hiện sự ổn định về phòng thủ.
 
+## home_note:th
+ออสเตรเลียกลับมาลุ้นผ่านรอบกลุ่มในฟุตบอลโลกอีกครั้งหลังจากห่างหายไปนาน โดยโค้ช Tony Popovic ใช้รูปแบบ 3-4-2-1 ที่เน้นวินัยในการป้องกันและการโต้กลับอย่างรวดเร็ว นักเตะทั้ง 26 คนในทีมพร้อมลงสนามทุกคน โดย 17 คนจะได้ลงแข่งในฟุตบอลโลกเป็นครั้งแรก Mathew Ryan และ Mathew Leckie จะได้ลงแข่งฟุตบอลโลกเป็นครั้งที่สี่ เท่ากับสถิติแห่งชาติของ Tim Cahill Mohamed Touré กองหน้าหลักทำได้ 10 ประตูใน 12 นัดในช่วงครึ่งหลังของฤดูกาลแชมเปียนชิป อยู่ในฟอร์มร้อนแรง ส่วน Nestory Irankunda (Bayern Munich) บนม้านั่งสำรองเป็นนักเตะที่เล่นในลีกระดับสูงที่สุดในทีม และมีความสามารถในการเปลี่ยนเกม ออสเตรเลียเสมอ 1-1 กับสวิตเซอร์แลนด์ในการแข่งขันอุ่นเครื่องก่อนทัวร์นาเมนต์ แสดงให้เห็นฐานการป้องกันที่มั่นคง
+
 ## away_note:zh
 土耳其時隔 24 年重返世界盃，陣容星光熠熠。主帥 Vincenzo Montella 採 4-2-3-1，核心球星包括皇馬天才 Arda Güler、國米隊長 Hakan Çalhanoğlu、Brighton 的 Ferdi Kadıoğlu。Juventus 前鋒 Kenan Yıldız 因小腿傷病存疑，預計從替補出發。土耳其資格賽五戰四勝，曾 2-2 逼平西班牙，展現頂尖實力。整體中場技術水準遠超對手，Çalhanoğlu 的節奏控制是全隊命脈。巴薩替補 Kerem Aktürkoğlu 資格賽決定性入球者，在板凳虎視眈眈。
 
@@ -46,6 +49,9 @@ Turkey return to the World Cup for the first time in 24 years with a star-studde
 ## away_note:vi
 Thổ Nhĩ Kỳ trở lại World Cup sau 24 năm vắng mặt với đội hình đầy ngôi sao. HLV Vincenzo Montella sử dụng sơ đồ 4-2-3-1 với những tên tuổi nổi bật như tài năng Real Madrid Arda Güler, đội trưởng Inter Milan Hakan Çalhanoğlu, và Ferdi Kadıoğlu của Brighton. Tiền đạo Juventus Kenan Yıldız còn nghi vấn do chấn thương cơ bắp chân, dự kiến xuất phát từ ghế dự bị. Thổ Nhĩ Kỳ thắng 4 trong 5 trận vòng loại, từng cầm hòa Tây Ban Nha 2-2, thể hiện đẳng cấp hàng đầu. Chất lượng tuyến giữa vượt trội hoàn toàn so với đối thủ, khả năng kiểm soát nhịp độ của Çalhanoğlu là mạch sống của cả đội. Kerem Aktürkoğlu của Barca — người ghi bàn quyết định ở vòng loại — đang chờ cơ hội từ ghế dự bị.
 
+## away_note:th
+ตุรกีกลับมาแข่งฟุตบอลโลกเป็นครั้งแรกในรอบ 24 ปีพร้อมทีมที่เต็มไปด้วยดาราดัง โค้ช Vincenzo Montella วางรูปแบบ 4-2-3-1 โดยมีแกนหลักคือ Arda Güler อัจฉริยะจาก Real Madrid, กัปตัน Inter Milan Hakan Çalhanoğlu และ Ferdi Kadıoğlu จาก Brighton Kenan Yıldız กองหน้าจาก Juventus ยังเป็นตัวสงสัยจากอาการบาดเจ็บที่น่อง คาดว่าจะเริ่มจากม้านั่งสำรอง ตุรกีชนะ 4 จาก 5 นัดในรอบคัดเลือก รวมถึงเสมอสเปน 2-2 ซึ่งแสดงให้เห็นศักยภาพระดับสูงสุด คุณภาพกลางสนามโดยรวมเหนือกว่าคู่แข่งอย่างชัดเจน โดยความสามารถในการควบคุมจังหวะของ Çalhanoğlu คือหัวใจของทีม Kerem Aktürkoğlu จาก Barcelona ผู้ทำประตูชี้ขาดในรอบคัดเลือก กำลังรอโอกาสจากม้านั่งสำรอง
+
 ## odds_note:zh
 賠率顯示：澳洲勝 5.00、平局 3.75、土耳其勝 1.70。土耳其憑藉豐富歐洲頂尖聯賽經驗和整體技術優勢成為明顯大熱，但澳洲防守體系完善，平局和爆冷仍有可能。亞洲讓球盤澳洲 +0.75，顯示莊家仍給予澳洲一定機會。
 
@@ -57,6 +63,9 @@ The odds read: Australia win 5.00, Draw 3.75, Turkey win 1.70. Turkey are the cl
 
 ## odds_note:vi
 Tỷ lệ cược: Úc thắng 5.00, hòa 3.75, Thổ Nhĩ Kỳ thắng 1.70. Thổ Nhĩ Kỳ là kèo nặng nhờ kinh nghiệm phong phú ở các giải hàng đầu châu Âu và ưu thế kỹ thuật toàn diện, tuy nhiên hệ thống phòng thủ bài bản của Úc vẫn mở ra khả năng hòa hoặc gây bất ngờ. Kèo châu Á chấp Úc +0.75, cho thấy nhà cái vẫn dành một phần cơ hội cho đội Úc.
+
+## odds_note:th
+อัตราต่อรอง: ออสเตรเลียชนะ 5.00, เสมอ 3.75, ตุรกีชนะ 1.70 ตุรกีเป็นตัวเต็งชัดเจนจากประสบการณ์ในลีกยุโรประดับสูงและคุณภาพทางเทคนิคโดยรวมที่เหนือกว่า แต่ระบบป้องกันที่เป็นระเบียบดีของออสเตรเลียยังคงทำให้การเสมอหรือการพลิกผลเป็นไปได้ แฮนดิแคปเอเชียให้ออสเตรเลีย +0.75 แสดงให้เห็นว่าเจ้ามือยังคงให้โอกาสที่มีความหมายกับออสเตรเลีย
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -126,6 +135,23 @@ Tỷ lệ cược: Úc thắng 5.00, hòa 3.75, Thổ Nhĩ Kỳ thắng 1.70. Th
 | FWD | 備援 | Nestory Irankunda | Bayern Munich | 🇩🇪 | 15 | league,squad | true | Thuộc biên chế Bayern Munich, cầu thủ thi đấu ở giải đấu cao nhất trong đội Úc, sức mạnh thay thế từ ghế dự bị, có thể thay đổi diễn biến trận đấu. |
 | FWD | 備援 | Cristian Volpato | Roma | 🇮🇹 | 12 | league,squad | true | Trụ cột Serie A, song tịch Úc-Ý, kỹ thuật xuất sắc, vào sân có thể mang lại biến tấu sáng tạo. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Mathew Ryan | Copa Football Academy | 🇦🇺 | 1 | starter,team | false | ผู้รักษาประตูผ่านเกม 105 นัด ลงแข่งฟุตบอลโลกครั้งที่สี่ อ่านเกมได้ดีเยี่ยม มีสมาธิและความมั่นคงในการแข่งขันใหญ่ |
+| DEF | #CB | Harry Souttar | Stoke City (loan) | 🇬🇧 | 5 | starter,team | false | กองหลังกลางสูง 195 ซม. เสาหลักแนวรับออสเตรเลีย คุกคามได้จากเซตพีซ ยังคงเป็นตัวเลือกอันดับหนึ่งแม้มีปัญหาบาดเจ็บ |
+| DEF | #CB | Alessandro Circati | Parma | 🇮🇹 | 3 | starter,league | false | แข่งประจำกับ Parma ในซีเรีย A สัญชาติออสเตรเลีย-อิตาลี ตัวสูงแต่มีเทคนิคละเอียด กองหลังกลางด้านขวาในระบบสามกองหลัง |
+| DEF | #CB | Cameron Burgess | Ipswich Town | 🇬🇧 | 3 | starter,team | false | กองหลังกลางหลักในแชมเปียนชิป รับตำแหน่งซ้ายในระบบสามกองหลัง ป้องกันมั่นคงและเชื่อถือได้ |
+| WB | #RWB | Mathew Leckie | Melbourne City | 🇦🇺 | 12 | starter,team | false | นักเตะอาวุโสอายุ 35 ปี ลงแข่งฟุตบอลโลกครั้งที่สี่ ปีกหลังขวา อาวุธโต้กลับของออสเตรเลีย แข่งประจำใน A-League |
+| WB | #LWB | Jordan Bos | Westerlo | 🇧🇪 | 7 | starter,team | false | ปีกหลังซ้ายหลักในลีกเบลเยียม เน้นรุก มีความสามารถในการแอสซิสต์สูง สร้างโอกาสให้ Touré |
+| CM | #CM | Jackson Irvine | St. Pauli | 🇩🇪 | 10 | starter,league | false | แข่งประจำในบุนเดสลีกา 2 ทำ 14 ประตูระดับนานาชาติ ทรงพลังในการวิ่งบ็อกทูบ็อก เครื่องยนต์กลางสนามของออสเตรเลีย |
+| CM | #CM | Aiden O'Neill | Burnley | 🇬🇧 | 5 | starter,team | false | มิดฟิลด์ป้องกันหลักในแชมเปียนชิป ช่วย Irvine บดบังความคิดสร้างสรรค์ของกลางสนามตุรกี |
+| AM | #AM | Mathew Leckie | Melbourne City | 🇦🇺 | 12 | starter,team | false | วิ่งแนวที่สองด้านขวา สำคัญต่อการโต้กลับ จับคู่กับ Metcalfe สร้างพื้นที่ในแดนหน้า |
+| AM | #AM | Connor Metcalfe | St. Pauli | 🇩🇪 | 8 | starter,league | false | แข่งประจำในบุนเดสลีกา 2 จับคู่กับ Leckie วิ่งในแนวที่สองของการรุก มีความคิดสร้างสรรค์และมั่นคงทางเทคนิค |
+| ST | #9 | Mohamed Touré | Norwich City | 🇬🇧 | 22 | starter,league | false | อายุ 22 ปี ทำ 10 ประตูใน 12 นัดแชมเปียนชิปในช่วงครึ่งหลังฤดูกาล กองหน้าหลักของออสเตรเลีย เปิดตัวฟุตบอลโลกที่ถูกจับตา |
+| FWD | สำรอง | Nestory Irankunda | Bayern Munich | 🇩🇪 | 15 | league,squad | true | อยู่ใน Bayern Munich นักเตะที่เล่นในลีกระดับสูงที่สุดในทีมออสเตรเลีย ผลกระทบทรงพลังเมื่อออกมาจากม้านั่งสำรอง สามารถเปลี่ยนเส้นทางของแมตช์ได้ |
+| FWD | สำรอง | Cristian Volpato | Roma | 🇮🇹 | 12 | league,squad | true | แข่งประจำในซีเรีย A สัญชาติออสเตรเลีย-อิตาลี มีพรสวรรค์ทางเทคนิค นำความหลากหลายสร้างสรรค์เมื่อเข้ามาจากม้านั่งสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -194,6 +220,23 @@ Tỷ lệ cược: Úc thắng 5.00, hòa 3.75, Thổ Nhĩ Kỳ thắng 1.70. Th
 | FWD | 備援 | Kenan Yıldız | Juventus | 🇮🇹 | 20 | league,squad | true | Trụ cột Juventus 21 tuổi, 5 bàn quốc tế, chấn thương cơ bắp chân khiến phải tập riêng, dự kiến xuất phát từ ghế dự bị, khi vào sân có sức ảnh hưởng quyết định. |
 | FWD | 備援 | Kerem Aktürkoğlu | Barcelona | 🇪🇸 | 17 | league,squad | true | Thuộc biên chế Barca, người ghi bàn quyết định vòng loại World Cup, tốc độ bùng nổ, khả năng đột phá từ ghế dự bị hạng nhất. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Uğurcan Çakır | Trabzonspor | 🇹🇷 | 1 | starter,team | false | ผู้รักษาประตูชั้นนำใน Super Lig ของตุรกี เซฟสำคัญหลายครั้งช่วยให้ทีมผ่านรอบคัดเลือก รีเฟล็กซ์รวดเร็ว จิตใจเข้มแข็งในแมตช์ใหญ่ |
+| DEF | #RB | Zeki Çelik | Roma | 🇮🇹 | 5 | starter,league | false | แบ็กขวาหลักของ Roma ซีเรีย A รุกเชิงรุก ผลงานแอสซิสต์ดี สำคัญในการขับเคลื่อนปีกขวา |
+| DEF | #CB | Merih Demiral | Al-Ahli | 🇸🇦 | 6 | starter,team | false | อดีตกองหลังกลางตัวหลักของ Juventus ผู้นำแนวรับ คุกคามได้จากเซตพีซ เป็นแกนหลักของแนวรับตุรกี |
+| DEF | #CB | Abdülkerim Bardakcı | Galatasaray | 🇹🇷 | 3 | starter,league | false | กองหลังกลางหลักของ Galatasaray แข็งแกร่งในการดวลร่างกาย เป็นเสาหลักเสถียรภาพแนวรับ |
+| DEF | #LB | Ferdi Kadıoğlu | Brighton | 🇬🇧 | 7 | starter,league | false | แบ็กซ้ายหลักใน Premier League เทคนิคยอดเยี่ยม เน้นรุก เป็นภัยคุกคามปีกซ้ายที่สามารถเปลี่ยนเกมได้ |
+| DM | #6 | Hakan Çalhanoğlu © | Inter Milan | 🇮🇹 | 15 | starter,league | false | กัปตัน เครื่องยนต์กลางสนาม Inter Milan 105 นัด 22 ประตู เพลย์เมกเกอร์ระดับโลก เตะลูกตายแม่นยำ หัวใจของจังหวะและการเชื่อมต่อของตุรกี |
+| DM | #CM | Orkun Kökçü | Benfica | 🇵🇹 | 10 | starter,league | false | แข่งประจำกับ Benfica ในลีกาโปรตุกัล มิดฟิลด์เทคนิค ช่วย Çalhanoğlu ควบคุมจังหวะและคลุมพื้นที่กลางสนาม |
+| AM | #10 | Arda Güler | Real Madrid | 🇪🇸 | 25 | starter,league | false | อัจฉริยะอายุ 21 ปีจาก Real Madrid 0.58 ประตู+แอสซิสต์ต่อ 90 นาที กลับจากบาดเจ็บในช่วงปลายฤดูกาล ภัยคุกคามในการรุกสูงสุดของตุรกี |
+| AM | #RW | Baris Yılmaz | Twente | 🇳🇱 | 8 | starter,team | false | แข่งประจำในปีกขวา Eredivisie รวดเร็ว มีความสามารถในการตัดเข้าและยิง ตัวเลือกรุกด้านขวา |
+| AM | #LW | Ferdi Kadıoğlu | Brighton | 🇬🇧 | 7 | starter,league | false | ทำหน้าที่ทั้งในการรุกปีกซ้าย พลังขับเคลื่อนหลักของการรุกปีกซ้ายของตุรกี |
+| ST | #9 | Deniz Gül | Porto | 🇵🇹 | 18 | starter,league | false | กองหน้าหลักของ Porto ในลีกาโปรตุกัส 8 นัด 2 ประตู ได้เริ่มเพราะ Yıldız ยังสงสัยเรื่องบาดเจ็บ แข็งแกร่งทางร่างกายในการรับบอลจากทะลุแนว |
+| FWD | สำรอง | Kenan Yıldız | Juventus | 🇮🇹 | 20 | league,squad | true | แข่งประจำ Juventus อายุ 21 ปี ทำ 5 ประตูระดับนานาชาติ บาดเจ็บที่น่องทำให้ต้องฝึกเดี่ยว คาดว่าจะเริ่มจากม้านั่งสำรอง มีคุณภาพชี้ขาดเมื่อลงสนาม |
+| FWD | สำรอง | Kerem Aktürkoğlu | Barcelona | 🇪🇸 | 17 | league,squad | true | อยู่ใน Barcelona ทำประตูชี้ขาดในรอบคัดเลือกฟุตบอลโลก ความเร็วระเบิด ความสามารถในการเปิดเกมจากม้านั่งสำรองระดับยอด |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -246,6 +289,19 @@ Tỷ lệ cược: Úc thắng 5.00, hòa 3.75, Thổ Nhĩ Kỳ thắng 1.70. Th
 | 2-1 🇦🇺 | Úc Thắng | 4 | #FFD100 | Bất Ngờ | home |
 | Khác | — | 9 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 1-0 🇹🇷 | ตุรกีชนะ | 21 | #E30A17 | โอกาสสูงสุด | away |
+| 2-1 🇹🇷 | ตุรกีชนะ | 16 | #E30A17 | อันดับสอง | away |
+| 0-0 | เสมอ | 14 | #6b7280 | | draw |
+| 1-1 | เสมอ | 12 | #6b7280 | | draw |
+| 2-0 🇹🇷 | ตุรกีชนะ | 10 | #E30A17 | | away |
+| 1-0 🇦🇺 | ออสเตรเลียชนะ | 8 | #FFD100 | | home |
+| 3-1 🇹🇷 | ตุรกีชนะ | 6 | #E30A17 | | away |
+| 2-1 🇦🇺 | ออสเตรเลียชนะ | 4 | #FFD100 | พลิกผล | home |
+| อื่นๆ | — | 9 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -277,6 +333,14 @@ Tỷ lệ cược: Úc thắng 5.00, hòa 3.75, Thổ Nhĩ Kỳ thắng 1.70. Th
 | 🟡 | 4–6 | Dự đoán số thẻ vàng | Valenzuela trung bình 5.4 thẻ mỗi trận, thuộc nhóm trọng tài rút thẻ nhiều nhất giải. Lối chơi phòng thủ của Úc dễ phạm lỗi, mỗi đội nhận 2-3 thẻ vàng là hợp lý. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Valenzuela rút 15 thẻ đỏ trong 86 trận sự nghiệp, tần suất rút thẻ khá cao. Nếu hàng thủ Úc chơi quá cứng rắn có thể bị thẻ đỏ, nhưng rủi ro tổng thể ở vòng đầu World Cup vẫn thấp. |
 | ⚠️ | 25–30 | Số lần phạm lỗi/trận của trọng tài | Valenzuela trung bình lịch sử 27.4 lần phạm lỗi mỗi trận, báo hiệu trận đấu có tính đối kháng cao, tranh chấp tuyến giữa khốc liệt, tiếp xúc thể lực thường xuyên. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–12 | จำนวนเตะมุมที่คาดการณ์ | การกดดันรุกของตุรกีและบล็อกสามกองหลังที่แน่นหนาของออสเตรเลียที่เปิดพื้นที่ปีกน่าจะทำให้เตะมุมมีจำนวนสูง Çalhanoğlu และ Güler ของตุรกีเป็นผู้เตะมุมชั้นยอด |
+| 🟡 | 4–6 | จำนวนใบเหลืองที่คาดการณ์ | Valenzuela เฉลี่ย 5.4 ใบต่อแมตช์ ติดอันดับกรรมการที่เข้มงวดที่สุดในฟุตบอลโลกนี้ สไตล์การป้องกันของออสเตรเลียมักทำฟาวล์บ่อย แต่ละทีม 2-3 ใบเหลืองถือเป็นเรื่องสมเหตุสมผล |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | Valenzuela แสดงใบแดง 15 ใบใน 86 แมตช์อาชีพ ซึ่งค่อนข้างสูง ใบแดงอาจเกิดขึ้นหากออสเตรเลียป้องกันก้าวร้าวเกินไป แม้ความเสี่ยงโดยรวมในแมตช์รอบแรกยังต่ำ |
+| ⚠️ | 25–30 | ฟาวล์ต่อแมตช์ของกรรมการ | ค่าเฉลี่ยประวัติศาสตร์ ~27.4 ฟาวล์ต่อเกมของ Valenzuela บ่งชี้การแข่งขันที่มีการปะทะสูง การต่อสู้กลางสนามดุเดือด และการสัมผัสร่างกายบ่อยครั้ง |
 
 ## referee:zh
 - icon: ⚖️
@@ -338,6 +402,21 @@ Tỷ lệ cược: Úc thắng 5.00, hòa 3.75, Thổ Nhĩ Kỳ thắng 1.70. Th
 | Thẻ trung bình/trận | 5.4 | #60a5fa |
 | Phạm lỗi trung bình/trận | ~27.4 | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: Jesús Noel Valenzuela Sáez
+- country: 🇻🇪 เวเนซุเอลา · CONMEBOL · FIFA นานาชาติ
+- note: กรรมการนานาชาติชาวเวเนซุเอลา อยู่ในรายชื่อ FIFA ตั้งแต่ปี 2013 ได้รับรางวัลกรรมการยอดเยี่ยม CONMEBOL ปี 2021 ตัดสินการแข่งขันรายการสำคัญในอเมริกาใต้ มีชื่อเสียงด้านการใช้ใบเหลืองอย่างเข้มงวด โดยเฉลี่ย 5.4 ใบต่อแมตช์ ซึ่งติดอันดับสูงสุดในฟุตบอลโลกครั้งนี้ นักเตะป้องกันของออสเตรเลียต้องระวังการสะสมใบเหลืองเป็นพิเศษ
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | 86+ | #F1F5F9 |
+| ใบเหลืองรวม | 634+ | #EAB308 |
+| ใบเหลือง-แดง | 19 | orange |
+| ใบแดงรวม | 15 | #EF4444 |
+| เฉลี่ยใบ/นัด | 5.4 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~27.4 | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄（近 22 年首次交鋒）
 - homeWins: 1
@@ -365,6 +444,13 @@ Tỷ lệ cược: Úc thắng 5.00, hòa 3.75, Thổ Nhĩ Kỳ thắng 1.70. Th
 - draws: 0
 - awayWins: 1
 - note: Hai đội chỉ từng gặp nhau 2 lần trong lịch sử, lần cuối là năm 2004, mỗi đội thắng một trận, giá trị tham khảo lịch sử hạn chế. Thổ Nhĩ Kỳ trong 5 trận vòng loại gần đây đạt 4 thắng 1 hòa (trong đó cầm hòa Tây Ban Nha 2-2); Úc hòa 1-1 với Thụy Sĩ và thua 0-1 trước Mexico trong các trận giao hữu chuẩn bị, phòng thủ ổn định nhưng tấn công vẫn cần thêm thời gian ăn ý.
+
+## h2h:th
+- title: สถิติพบกัน (พบกันครั้งแรกในรอบ 22 ปี)
+- homeWins: 1
+- draws: 0
+- awayWins: 1
+- note: สองทีมเคยพบกันเพียง 2 ครั้งในประวัติศาสตร์ โดยพบกันครั้งสุดท้ายในปี 2004 ชนะคนละครั้ง จึงมีคุณค่าอ้างอิงทางประวัติศาสตร์จำกัด ตุรกีใน 5 แมตช์รอบคัดเลือกล่าสุดได้ 4 ชนะ 1 เสมอ (รวมถึงเสมอสเปน 2-2) ออสเตรเลียเสมอ 1-1 กับสวิตเซอร์แลนด์และแพ้เม็กซิโก 0-1 ในการแข่งขันอุ่นเครื่องก่อนทัวร์นาเมนต์ แสดงให้เห็นแนวรับที่มั่นคงแต่การรุกยังต้องการเวลาปรับตัว
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -398,6 +484,14 @@ Tỷ lệ cược: Úc thắng 5.00, hòa 3.75, Thổ Nhĩ Kỳ thắng 1.70. Th
 | Harry Souttar | 🇦🇺 CB | Arda Güler | 🇹🇷 AM | Sức ép thể lực của Souttar vs sức sáng tạo kỹ thuật và di chuyển linh hoạt của Güler, đối đầu giàu tính nghệ thuật nhất trận. |
 | Mohamed Touré | 🇦🇺 ST | Merih Demiral | 🇹🇷 CB | Chân sút đang bùng nổ của Úc vs thủ lĩnh hàng thủ Thổ Nhĩ Kỳ, tốc độ của Touré có phá vỡ được sức đối kháng thể lực của Demiral hay không là chìa khóa để Úc ghi bàn. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Mathew Leckie | 🇦🇺 RWB | Ferdi Kadıoğlu | 🇹🇷 LB | ความเร็วโต้กลับของนักเตะอาวุโส vs แบ็กซ้ายระดับ Premier League ภัยคุกคามการเปลี่ยนเกมของ Leckie vs การพุ่งขึ้นของ Kadıoğlu การต่อสู้เพื่อควบคุมปีกขวา |
+| Jackson Irvine | 🇦🇺 CM | Hakan Çalhanoğlu | 🇹🇷 DM | การดวลที่สำคัญที่สุดในแมตช์ ว่าออสเตรเลียจะกดจังหวะการกระจายบอลของ Çalhanoğlu ได้หรือไม่จะกำหนดการดำเนินเกมโดยรวมโดยตรง |
+| Harry Souttar | 🇦🇺 CB | Arda Güler | 🇹🇷 AM | การกดดันทางร่างกายของ Souttar vs ความคิดสร้างสรรค์ทางเทคนิคและการเคลื่อนที่อัจฉริยะของ Güler การดวลส่วนตัวที่น่าติดตามที่สุดในแมตช์ |
+| Mohamed Touré | 🇦🇺 ST | Merih Demiral | 🇹🇷 CB | กองหน้าฟอร์มร้อนของออสเตรเลีย vs ผู้นำแนวรับตุรกี ความเร็วของ Touré จะเจาะการป้องกันทางร่างกายของ Demiral ได้หรือไม่ คือกุญแจสู่ประตูของออสเตรเลีย |
+
 ## summary_verdict:zh
 土耳其時隔 24 年重返世界盃，陣容星光熠熠，Arda Güler（Real Madrid）、Hakan Çalhanoğlu（Inter Milan）、Ferdi Kadıoğlu（Brighton）等歐洲頂級聯賽主力構成遠超澳洲的整體技術水準。Vincenzo Montella 的 4-2-3-1 體系成熟，資格賽展現高度穩定性，曾以 2-2 逼平西班牙，實力絕非浪得虛名。唯一的變數是 Kenan Yıldız 傷疑，若缺陣左翼威脅大幅降低，是澳洲最大突破口。
 
@@ -425,6 +519,13 @@ Thổ Nhĩ Kỳ trở lại World Cup sau 24 năm với đội hình đầy ngô
 Úc dưới sơ đồ 3-4-2-1 của Tony Popovic có kỷ luật phòng thủ nghiêm chỉnh, sở trường nén không gian rồi phản công nhanh. Mohamed Touré đang trong trạng thái bùng nổ, Nestory Irankunda (Bayern) xuất phát từ dự bị mang yếu tố bất ngờ. Toàn bộ 26 cầu thủ đều khỏe mạnh, tinh thần cao.
 
 Dự đoán: Thổ Nhĩ Kỳ thắng 2-1. Thổ Nhĩ Kỳ kiểm soát tuyến giữa, ghi bàn trước thông qua cá nhân Güler hoặc tình huống cố định; Úc ghi được một bàn trong phản công nhưng cuối cùng không địch lại chiều sâu tổng thể của Thổ Nhĩ Kỳ, thua cách biệt một bàn. Nếu Yıldız bình phục và vào sân thay thế, chiến thắng của Thổ Nhĩ Kỳ sẽ càng được đảm bảo chắc chắn hơn.
+
+## summary_verdict:th
+ตุรกีกลับมาแข่งฟุตบอลโลกเป็นครั้งแรกในรอบ 24 ปีพร้อมทีมระดับดาว การมีอยู่ของ Arda Güler (Real Madrid), Hakan Çalhanoğlu (Inter Milan) และ Ferdi Kadıoğlu (Brighton) ในฐานะนักเตะหลักของลีกชั้นยอดยุโรป ทำให้ตุรกีมีระดับเทคนิคโดยรวมที่เหนือกว่าออสเตรเลียอย่างมาก ระบบ 4-2-3-1 ที่เชี่ยวชาญของ Vincenzo Montella มีความสม่ำเสมอสูงตลอดรอบคัดเลือก รวมถึงเสมอสเปน 2-2 ซึ่งยืนยันว่าศักยภาพของตุรกีไม่ใช่ภาพลวงตา ตัวแปรที่แท้จริงเพียงอย่างเดียวคือสุขภาพของ Kenan Yıldız ถ้าเขาขาดสนาม ภัยคุกคามปีกซ้ายของตุรกีลดลงอย่างมีนัยสำคัญ ซึ่งเป็นโอกาสที่ดีที่สุดของออสเตรเลียสำหรับการพลิกผล
+
+ออสเตรเลียภายใต้ระบบ 3-4-2-1 ของ Tony Popovic มีวินัยและจัดระเบียบในการป้องกันดี เชี่ยวชาญในการบีบพื้นที่และเปิดการโต้กลับอย่างรวดเร็ว ฟอร์มร้อนแรงของ Mohamed Touré และ Nestory Irankunda (Bayern) ที่ออกมาจากม้านั่งสำรองในฐานะไพ่ไหว้ครู มอบช่องทางรุกที่แท้จริงให้ออสเตรเลีย ทีม 26 คนเต็มพร้อมและขวัญกำลังใจสูง
+
+การคาดการณ์: ตุรกี 2-1 ตุรกีครองกลางสนามและทำลายทางตันด้วยช่วงเวลาของ Güler หรือเซตพีซ ออสเตรเลียทำประตูจากการโต้กลับ แต่สุดท้ายไม่สามารถสู้ความลึกโดยรวมของทีมตุรกีได้และแพ้ด้วยประตูเดียว หาก Yıldız ฟื้นตัวและได้ออกมาเป็นตัวสำรอง เส้นทางสู่ชัยชนะของตุรกีก็จะมั่นคงยิ่งขึ้น
 
 ## observations:zh
 | title | detail |
@@ -465,3 +566,13 @@ Dự đoán: Thổ Nhĩ Kỳ thắng 2-1. Thổ Nhĩ Kỳ kiểm soát tuyến g
 | 🌟 Irankunda — bài bất ngờ | Cầu thủ Úc mạnh nhất về giải đấu thuộc biên chế Bayern Munich xuất phát từ dự bị, vào sân hiệp hai mang lại sức ảnh hưởng kép về tốc độ lẫn kỹ thuật. |
 | ⚖️ Nguy cơ thẻ phạt cao từ trọng tài | Valenzuela trung bình 5.4 thẻ mỗi trận thuộc hàng cao nhất giải, các cầu thủ phòng thủ Úc Souttar, O'Neill, Irvine đều cần chú ý tích lũy phạm lỗi. |
 | 🏆 Ảnh hưởng đến cục diện bảng D | Đội thắng trận này sẽ có lợi thế chiến lược lớn trong cuộc đua giành vé vòng tiếp theo tại bảng D, nếu Thổ Nhĩ Kỳ thắng gần như chắc chắn vào vòng sau; nếu Úc hòa hoặc gây bất ngờ thì cục diện bảng D sẽ xáo trộn lớn. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| ⚡ ภัยคุกคามหลักจาก Arda Güler | อัจฉริยะ Real Madrid กลับจากบาดเจ็บในช่วงปลายฤดูกาล มีส่วนร่วม 0.58 ประตู+แอสซิสต์ต่อ 90 นาที เขาคือจุดรุกที่คาดเดาได้ยากที่สุดของตุรกี และแทบเป็นไปไม่ได้ที่ออสเตรเลียจะมาร์กตัว |
+| 🦘 ฟอร์มระเบิดของ Touré | กองหน้าอายุ 22 ปีทำ 10 ประตูใน 12 แมตช์แชมเปียนชิปในครึ่งหลังฤดูกาล ถ้าออสเตรเลียทำการโต้กลับได้อย่างมีประสิทธิภาพ Touré ต้องการเพียงหนึ่งหรือสองโอกาสเพื่อเปลี่ยนผลลัพธ์ |
+| 🏥 บาดเจ็บของ Yıldız — ตัวแปรสำคัญ | กองหน้า Juventus ต้องฝึกซ้อมคนเดียวเพราะบาดเจ็บที่น่อง หากเขาเริ่มไม่ได้ ภัยคุกคามปีกซ้ายของตุรกีลดลงอย่างมีนัยสำคัญ ให้ Leckie ด้านขวาของออสเตรเลียมีพื้นที่มากขึ้น |
+| 🌟 Irankunda ไพ่ลับ | นักเตะที่เล่นในลีกระดับสูงที่สุดของออสเตรเลียภายใต้ Bayern Munich เริ่มจากม้านั่งสำรอง การลงสนามในครึ่งหลังนำมาซึ่งภัยคุกคามคู่ของความเร็วและคุณภาพทางเทคนิค |
+| ⚖️ ความเสี่ยงใบเหลืองสูงของกรรมการ | ค่าเฉลี่ย 5.4 ใบต่อแมตช์ของ Valenzuela ติดอันดับสูงสุดในฟุตบอลโลกนี้ นักเตะป้องกัน Souttar, O'Neill และ Irvine ของออสเตรเลียต้องระวังการสะสมฟาวล์ |
+| 🏆 ผลกระทบต่ออันดับกลุ่ม D | ผู้ชนะแมตช์นี้ได้เปรียบเชิงกลยุทธ์อย่างมากในการแข่งขันเพื่อผ่านเข้ารอบจากกลุ่ม D ถ้าตุรกีชนะก็เกือบจะผ่านเข้ารอบแน่นอน ขณะที่ถ้าออสเตรเลียเสมอหรือพลิกผลก็จะปั่นป่วนภาพรวมกลุ่ม D อย่างมาก |

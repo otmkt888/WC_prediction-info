@@ -34,6 +34,9 @@ The Netherlands are coached by Ronald Koeman, a EURO 2024 semi-final core and am
 ## home_note:vi
 Hà Lan được dẫn dắt bởi HLV Ronald Koeman, bộ khung bán kết EURO 2024 và nằm trong nhóm ứng viên vô địch. Đội trưởng Van Dijk làm trụ cột, với hàng công Depay (chân sút xuất sắc nhất lịch sử ĐTQG) và Gakpo của Liverpool, cùng De Jong và Reijnders kỹ thuật ở tuyến giữa. Trận hòa 1-1 với Nhật Bản ở trận mở màn là một bước hụt nhẹ; họ tìm 3 điểm ở đây để củng cố vé đi tiếp. Khai cuộc 01:00 GMT+8 ngày 21/6 tại Houston.
 
+## home_note:th
+เนเธอร์แลนด์คุมทีมโดย Ronald Koeman ซึ่งเป็นทีมชุดรองชนะเลิศ EURO 2024 และเป็นหนึ่งในผู้ท้าชิงแชมป์ กัปตัน Van Dijk เป็นเสาหลักของทีม ด้านแนวรุกมี Depay (นักเตะที่ทำประตูให้ทีมชาติได้มากที่สุดตลอดกาล) และ Gakpo จาก Liverpool รวมถึง De Jong และ Reijnders ผู้มีเทคนิคเยี่ยมในแดนกลาง การเสมอ 1-1 กับญี่ปุ่นในนัดเปิดสนามถือเป็นสะดุดเล็กน้อย พวกเขาต้องการสามแต้มที่นี่เพื่อยืนยันการผ่านเข้ารอบ เตะเริ่มเวลา 01:00 GMT+8 วันที่ 21 มิถุนายน ที่ Houston
+
 ## away_note:zh
 瑞典由英籍名帥 Graham Potter 執教，擁有賽事最強鋒線組合之一：阿森納的 Gyökeres 與利物浦的 Isak。隊長 Lindelöf 領銜後防，Elanga 速度突出。首戰 5-1 大勝突尼西亞氣勢驚人。本場面對荷蘭雖實力略遜，但雙塔火力使任何對手都不敢輕忽。
 
@@ -46,6 +49,9 @@ Sweden are coached by Englishman Graham Potter, boasting one of the tournament's
 ## away_note:vi
 Thụy Điển được dẫn dắt bởi HLV người Anh Graham Potter, sở hữu một trong những cặp tiền đạo mạnh nhất giải: Gyökeres của Arsenal và Isak của Liverpool. Đội trưởng Lindelöf làm trụ cột hàng thủ và Elanga mang đến tốc độ. Chiến thắng đậm 5-1 trước Tunisia rất ấn tượng. Dù kém Hà Lan về thực lực tổng thể, hỏa lực song sát đó khiến không đối thủ nào dám xem thường.
 
+## away_note:th
+สวีเดนคุมทีมโดย Graham Potter โค้ชชาวอังกฤษ โดยมีคู่หูแนวรุกที่แข็งแกร่งที่สุดคู่หนึ่งในทัวร์นาเมนต์นี้คือ Gyökeres จาก Arsenal และ Isak จาก Liverpool กัปตัน Lindelöf เป็นเสาหลักของแดนหลัง ส่วน Elanga มีความเร็วที่โดดเด่น ชัยชนะ 5-1 เหนือตูนิเซียนั้นน่าประทับใจอย่างมาก แม้จะด้อยกว่าเนเธอร์แลนด์โดยรวม แต่พลังยิงจากคู่หูคู่นี้ทำให้ไม่มีคู่แข่งคนใดกล้าประมาท
+
 ## odds_note:zh
 賠率顯示：荷蘭勝 1.70、平局 3.60、瑞典勝 4.80。荷蘭整體實力與大賽經驗佔優為熱門，但瑞典 Gyökeres-Isak 雙塔的爆發力是巨大威脅。荷蘭若防線稍有鬆懈，瑞典完全有能力製造冷門，賠率反映荷蘭領先但非穩贏。
 
@@ -57,6 +63,9 @@ The odds read: Netherlands win 1.70, draw 3.60, Sweden win 4.80. The Netherlands
 
 ## odds_note:vi
 Tỷ lệ cược: Hà Lan thắng 1.70, hòa 3.60, Thụy Điển thắng 4.80. Thực lực tổng thể và kinh nghiệm của Hà Lan khiến họ được ưa chuộng, nhưng cặp Gyökeres-Isak của Thụy Điển là mối đe dọa lớn. Nếu hàng thủ Hà Lan lơ là, Thụy Điển hoàn toàn có thể tạo bất ngờ; tỷ lệ cược phản ánh Hà Lan nhỉnh hơn nhưng không chắc thắng.
+
+## odds_note:th
+อัตราต่อรอง: เนเธอร์แลนด์ชนะ 1.70, เสมอ 3.60, สวีเดนชนะ 4.80 คุณภาพโดยรวมและประสบการณ์ของเนเธอร์แลนด์ทำให้พวกเขาเป็นตัวเต็ง แต่คู่ Gyökeres-Isak ของสวีเดนเป็นภัยคุกคามอย่างมาก หากแดนหลังดัตช์พลาดพลั้ง สวีเดนสามารถสร้างความเซอร์ไพรส์ได้อย่างสมบูรณ์ อัตราต่อรองสะท้อนถึงความได้เปรียบของเนเธอร์แลนด์แต่ไม่ใช่ชนะแน่นอน
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Hà Lan thắng 1.70, hòa 3.60, Thụy Điển thắng 4.80.
 | LW | #11 | Cody Gakpo | Liverpool | 🇬🇧 | 12 | starter,team,league | false | Tiền vệ cánh Liverpool, rê bóng và dứt điểm, mối đe dọa số một cánh trái của Hà Lan. |
 | FWD | 備援 | Brian Brobbey | Sunderland | 🇬🇧 | 7 | league,squad | true | Tiền đạo cao, chớp thời cơ và làm tường, tăng cường hàng công từ ghế dự bị. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Bart Verbruggen | Brighton | 🇬🇧 | 1 | starter,league | false | ผู้รักษาประตู Brighton มีปฏิกิริยาและการส่งบอลที่ดี เป็นด่านสุดท้ายของแดนหลังดัตช์ |
+| DEF | #22 | Denzel Dumfries | Inter Milan | 🇮🇹 | 5 | starter,team,league | false | ปีกหลังขวา Inter มีความเร็ว ช่วยเหลือ และการฉกฉวยโอกาส เป็นแกนหลักของเส้นข้าง |
+| DEF | #4 | Virgil van Dijk | Liverpool | 🇬🇧 | 5 | starter,team,league | false | กัปตันและเซ็นเตอร์แบ็คระดับโลก มีการป้องกันและการส่งบอลระดับสูงสุด เป็นผู้นำแดนหลังของเนเธอร์แลนด์ |
+| DEF | #3 | Jan Paul van Hecke | Brighton | 🇬🇧 | 3 | starter,league | false | เซ็นเตอร์แบ็ค Brighton สงบนิ่งในการครองบอล คู่หูกับ Van Dijk |
+| DEF | #5 | Micky van de Ven | Tottenham | 🇬🇧 | 4 | starter,league | false | เซ็นเตอร์แบ็ค/แบ็คซ้าย Spurs มีความเร็วสูงมาก เสริมความแข็งแกร่งแดนหลัง |
+| CM | #21 | Frenkie de Jong | Barcelona | 🇪🇸 | 6 | starter,team,league | false | กองกลาง Barcelona มีการควบคุมบอลและการจัดเกมระดับสูงสุด เป็นสมองกลางสนามของเนเธอร์แลนด์ |
+| CM | #14 | Tijjani Reijnders | Manchester City | 🇬🇧 | 7 | starter,team,league | false | กองกลาง Man City มีประตูจากการวิ่งเข้าและการบุกขึ้น เป็นภัยคุกคามทางรุก |
+| CM | #6 | Ryan Gravenberch | Liverpool | 🇬🇧 | 5 | starter,league | false | กองกลาง Liverpool ครอบคลุมพื้นที่และบุกขึ้น มีพลังงานในแดนกลาง |
+| RW | #18 | Donyell Malen | Roma | 🇮🇹 | 9 | starter,league | false | ปีก Roma มีความเร็วและการยิงประตู เป็นภัยคุกคามเจาะเส้นขวา |
+| ST | #10 | Memphis Depay | Corinthians | 🇧🇷 | 13 | starter,team | false | ขวัญใจทีมและนักเตะที่ทำประตูให้ทีมชาติได้มากที่สุดตลอดกาล ฉกฉวยโอกาสและสร้างสรรค์เกม เป็นแกนหลักแนวรุก |
+| LW | #11 | Cody Gakpo | Liverpool | 🇬🇧 | 12 | starter,team,league | false | ปีก Liverpool ครองบอลและยิงประตู เป็นภัยคุกคามหลักเส้นซ้ายของเนเธอร์แลนด์ |
+| FWD | สำรอง | Brian Brobbey | Sunderland | 🇬🇧 | 7 | league,squad | true | สไตรเกอร์ตัวสูง ฉกฉวยโอกาสและเป็นจุดยึด เสริมแนวรุกจากม้านั่งสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Hà Lan thắng 1.70, hòa 3.60, Thụy Điển thắng 4.80.
 | ST | #17 | Viktor Gyökeres | Arsenal | 🇬🇧 | 14 | starter,team,league | false | Tiền đạo Arsenal, chớp thời cơ và dứt điểm dữ dội, một trong song sát Thụy Điển, hạt nhân hỏa lực. |
 | FWD | 備援 | Lucas Bergvall | Tottenham | 🇬🇧 | 6 | league,squad | true | Tiền vệ/tiền đạo trẻ, kỹ thuật và sáng tạo, lựa chọn thay đổi sơ đồ từ ghế dự bị. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #23 | Kristoffer Nordfeldt | Brann | 🇳🇴 | 1 | starter | false | ผู้รักษาประตูสวีเดน ปฏิกิริยาสม่ำเสมอ เป็นด่านสุดท้ายของแดนหลัง |
+| DEF | #2 | Gustaf Lagerbielke | Braga | 🇵🇹 | 3 | starter,league | false | แบ็คขวา/เซ็นเตอร์แบ็ค การประชันและส่งบอล เป็นเสาหลักของแดนหลัง |
+| DEF | #4 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | เซ็นเตอร์แบ็ค Atalanta มีความเร็วและการประชัน เป็นแกนหลักแดนหลัง |
+| DEF | #3 | Victor Lindelöf | Aston Villa | 🇬🇧 | 4 | starter,team,league | false | กัปตันเซ็นเตอร์แบ็ค มีประสบการณ์และการส่งบอลที่สงบนิ่ง เป็นผู้นำแดนหลัง |
+| DEF | #5 | Gabriel Gudmundsson | Leeds United | 🇬🇧 | 3 | starter,league | false | แบ็คซ้าย มีความเร็วและรุกขึ้น เป็นแกนหลักเส้นซ้าย |
+| MID | #19 | Mattias Svanberg | Wolfsburg | 🇩🇪 | 4 | starter,league | false | กองกลาง ครอบคลุมพื้นที่และบุกขึ้น ควบคุมจังหวะแดนกลาง |
+| MID | #18 | Yasin Ayari | Brighton | 🇬🇧 | 5 | starter,league | false | กองกลาง Brighton มีเทคนิคและความคิดสร้างสรรค์ มีพลังงานในแดนกลาง |
+| RW | #21 | Anthony Elanga | Newcastle | 🇬🇧 | 8 | starter,team,league | false | ปีก Newcastle มีความเร็วระเบิด เป็นอาวุธโต้กลับเส้นขวาหลักของสวีเดน |
+| LW | #8 | Daniel Svensson | Borussia Dortmund | 🇩🇪 | 5 | starter,league | false | ผู้เล่นปีก Dortmund มีความเร็วและการครอสบอล บุกขึ้นเส้นซ้าย |
+| ST | #9 | Alexander Isak | Liverpool | 🇬🇧 | 14 | starter,team,league | false | สไตรเกอร์ Liverpool มีความเร็วและการยิงระดับสูงสุด หนึ่งในคู่หูแข้งสวีเดน เป็นหัวหอก |
+| ST | #17 | Viktor Gyökeres | Arsenal | 🇬🇧 | 14 | starter,team,league | false | สไตรเกอร์ Arsenal ฉกฉวยโอกาสและยิงประตูได้ดุดัน หนึ่งในคู่หูแข้งสวีเดน เป็นแกนหลักพลังยิง |
+| FWD | สำรอง | Lucas Bergvall | Tottenham | 🇬🇧 | 6 | league,squad | true | กองกลาง/กองหน้าเยาวชน มีเทคนิคและความคิดสร้างสรรค์ ตัวเลือกเปลี่ยนรูปแบบจากม้านั่งสำรอง |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Hà Lan thắng 1.70, hòa 3.60, Thụy Điển thắng 4.80.
 | 1-2 🇸🇪 | Thụy Điển Thắng | 8 | #006AA7 | | away |
 | Khác | — | 19 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-1 🇳🇱 | เนเธอร์แลนด์ชนะ | 16 | #FF6200 | โอกาสสูงสุด | home |
+| 2-0 🇳🇱 | เนเธอร์แลนด์ชนะ | 14 | #FF6200 | อันดับสอง | home |
+| 1-0 🇳🇱 | เนเธอร์แลนด์ชนะ | 12 | #FF6200 | | home |
+| 3-1 🇳🇱 | เนเธอร์แลนด์ชนะ | 10 | #FF6200 | | home |
+| 1-1 | เสมอ | 12 | #6b7280 | | draw |
+| 2-2 | เสมอ | 9 | #6b7280 | | draw |
+| 1-2 🇸🇪 | สวีเดนชนะ | 8 | #006AA7 | | away |
+| อื่นๆ | — | 19 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược: Hà Lan thắng 1.70, hòa 3.60, Thụy Điển thắng 4.80.
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Trận đôi công khiến thẻ vàng tích lũy khi Thụy Điển chặn phản công và Hà Lan tranh chấp giữa sân. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Căng thẳng nhưng cả hai khá kỷ luật; xác suất thẻ đỏ thấp. |
 | ⚠️ | 22–26 | Số phạm lỗi/trận của trọng tài | Kiểm soát bóng của Hà Lan, phản công và đối kháng thể lực của Thụy Điển tạo số lỗi trung bình đến cao. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–12 | จำนวนเตะมุมที่คาดการณ์ | การครองบอลของเนเธอร์แลนด์ทำให้เกิดเตะมุมมากขึ้น การโต้กลับและการฉกฉวยโอกาสของคู่หูสวีเดนก็สร้างเตะมุมเช่นกัน |
+| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | การแข่งขันที่ไปมาทำให้ใบเหลืองสะสมเมื่อสวีเดนหยุดการบุกและดัตช์ประชันกันในแดนกลาง |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | เข้มข้นแต่ทั้งสองทีมมีวินัยพอสมควร ความน่าจะเป็นของใบแดงต่ำ |
+| ⚠️ | 22–26 | จำนวนฟาวล์/นัดของกรรมการ | การครองบอลของเนเธอร์แลนด์ การโต้กลับของสวีเดน และการประชันร่างกายทำให้จำนวนฟาวล์อยู่ในระดับปานกลางถึงสูง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược: Hà Lan thắng 1.70, hòa 3.60, Thụy Điển thắng 4.80.
 | Thẻ trung bình/trận | TBC | #60a5fa |
 | Phạm lỗi trung bình/trận | TBC | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: รอการยืนยัน (TBC)
+- country: 🏳️ FIFA จะแต่งตั้งก่อนการแข่งขัน
+- note: กรรมการยังไม่ได้รับการประกาศอย่างเป็นทางการจาก FIFA โดยปกติจะแต่งตั้ง 1–2 วันก่อนเตะ ด้วยการครองบอลของเนเธอร์แลนด์และการโต้กลับอย่างรวดเร็วของสวีเดน คาดว่าจะมีการแสดงใบสำหรับฟาวล์หยุดเกมและการประชัน สถิติจะอัปเดตเมื่อได้รับการยืนยัน
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | TBC | #F1F5F9 |
+| ใบเหลืองรวม | TBC | #EAB308 |
+| ใบเหลือง-แดง | TBC | orange |
+| ใบแดงรวม | TBC | #EF4444 |
+| เฉลี่ยใบ/นัด | TBC | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | TBC | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 1
@@ -353,6 +429,13 @@ Tỷ lệ cược: Hà Lan thắng 1.70, hòa 3.60, Thụy Điển thắng 4.80.
 - draws: 1
 - awayWins: 1
 - note: Hai đội đã gặp nhau nhiều lần với kết quả chia đều, bao gồm màn loại Hà Lan trên chấm luân lưu nổi tiếng của Thụy Điển ở EURO 2004. Ở lượt mở màn bảng F, Hà Lan hòa 1-1 với Nhật Bản và Thụy Điển thắng đậm Tunisia 5-1, với Thụy Điển có nhiều khí thế hơn. Đây là trận then chốt tranh ngôi đầu.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 1
+- draws: 1
+- awayWins: 1
+- note: ทั้งสองทีมพบกันหลายครั้งโดยสลับกันชนะ รวมถึงการที่สวีเดนเขี่ยเนเธอร์แลนด์ออกด้วยการยิงจุดโทษที่โด่งดังใน EURO 2004 ในรอบแรกของกลุ่ม F ครั้งนี้ เนเธอร์แลนด์เสมอ 1-1 กับญี่ปุ่น และสวีเดนถล่มตูนิเซีย 5-1 โดยสวีเดนมีโมเมนตัมมากกว่า นี่เป็นแมตช์สำคัญสำหรับการชิงอันดับหนึ่ง
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược: Hà Lan thắng 1.70, hòa 3.60, Thụy Điển thắng 4.80.
 | Frenkie de Jong | 🇳🇱 CM | Yasin Ayari | 🇸🇪 MID | Bộ não tuyến giữa Barcelona đối đầu tiền vệ Thụy Điển, cuộc chiến giành quyền kiểm soát bóng và nhịp độ. |
 | Cody Gakpo | 🇳🇱 LW | Gustaf Lagerbielke | 🇸🇪 RB | Tiền vệ cánh Liverpool đối đầu hậu vệ phải Thụy Điển, điểm bùng nổ cánh trái của Hà Lan đáng xem. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Virgil van Dijk | 🇳🇱 CB | Alexander Isak | 🇸🇪 ST | เซ็นเตอร์แบ็คระดับโลกปะทะเพื่อนร่วมสโมสร Liverpool ว่าจะสามารถจำกัด Isak ได้หรือไม่เป็นกุญแจสำคัญของแดนหลังดัตช์ |
+| Viktor Gyökeres | 🇸🇪 ST | Jan Paul van Hecke | 🇳🇱 CB | แกนหลักพลังยิงของสวีเดนปะทะเซ็นเตอร์แบ็คดัตช์ การฉกฉวยโอกาสและยิงประตูปะทะการจัดระเบียบแดนรับ |
+| Frenkie de Jong | 🇳🇱 CM | Yasin Ayari | 🇸🇪 MID | สมองกลางสนาม Barcelona ปะทะกองกลางสวีเดน การต่อสู้เพื่อควบคุมการครองบอลและจังหวะเกม |
+| Cody Gakpo | 🇳🇱 LW | Gustaf Lagerbielke | 🇸🇪 RB | ปีก Liverpool ปะทะแบ็คขวาสวีเดน จุดระเบิดเส้นซ้ายของเนเธอร์แลนด์น่าจับตามอง |
+
 ## summary_verdict:zh
 荷蘭整體實力與大賽經驗是奪冠級別，Van Dijk 領銜防線，De Jong、Reijnders 掌控中場，Depay、Gakpo 攻擊線質量出眾。首戰 1-1 被日本逼平後，本場需要勝利穩固晉級並爭奪頭名。
 
@@ -413,6 +504,13 @@ Thực lực tổng thể và kinh nghiệm của Hà Lan ở đẳng cấp vô 
 Vũ khí lớn nhất của Thụy Điển là cặp song sát đẳng cấp thế giới Gyökeres-Isak, với chiến thắng đậm 5-1 trước Tunisia phô diễn hỏa lực đáng sợ và tốc độ của Elanga cung cấp lối ra phản công. Nhưng tuyến giữa và hàng thủ tổng thể vẫn kém Hà Lan.
 
 Dự đoán: Hà Lan thắng 2-1. Kiểm soát bóng và chất lượng tổng thể của Hà Lan sẽ làm chủ trận đấu, Depay và Gakpo phá lưới; nhưng cặp song sát Thụy Điển là mối đe dọa lớn và có thể gỡ một bàn nhờ phản công hoặc bóng cố định. Hà Lan thắng sát nút nhờ chiều sâu. Trọng tài chưa được xác nhận; trận đôi công báo hiệu số thẻ vàng trung bình đến cao.
+
+## summary_verdict:th
+คุณภาพโดยรวมและประสบการณ์ของเนเธอร์แลนด์อยู่ในระดับแชมป์ โดย Van Dijk เป็นเสาหลักแดนหลัง De Jong และ Reijnders ควบคุมแดนกลาง พร้อมแนวรุก Depay และ Gakpo ที่มีคุณภาพโดดเด่น หลังจากเสมอ 1-1 กับญี่ปุ่น พวกเขาต้องการชนะที่นี่เพื่อยืนยันการผ่านเข้ารอบและไล่ตามอันดับหนึ่ง
+
+อาวุธที่ใหญ่ที่สุดของสวีเดนคือคู่หูระดับโลก Gyökeres-Isak โดยชัยชนะ 5-1 เหนือตูนิเซียแสดงให้เห็นพลังยิงที่น่าเกรงขาม และความเร็วของ Elanga ให้ช่องทางโต้กลับ แต่แดนกลางและแดนหลังโดยรวมยังตามหลังดัตช์
+
+การทำนาย: เนเธอร์แลนด์ชนะ 2-1 การครองบอลและคุณภาพโดยรวมของดัตช์น่าจะควบคุมเกมได้ โดย Depay และ Gakpo เจาะประตูได้ แต่คู่หูสวีเดนเป็นภัยคุกคามสำคัญและอาจดึงหนึ่งคืนผ่านการโต้กลับหรือลูกตั้งเตะ เนเธอร์แลนด์เอาชนะด้วยความลึกของทีม กรรมการยังไม่ได้รับการยืนยัน การแข่งขันที่ไปมาชี้ว่าจำนวนใบเหลืองจะอยู่ในระดับปานกลางถึงสูง
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Hà Lan thắng 2-1. Kiểm soát bóng và chất lượng tổng 
 | ⚡ Tốc độ Elanga | Tiền vệ cánh Newcastle là lối ra phản công của Thụy Điển; khai thác khoảng trống sau lưng Hà Lan đáng xem. |
 | 🆚 Nội chiến Liverpool | Van Dijk đối đầu Isak, đồng đội CLB, là tâm điểm lớn nhất của trận đấu. |
 | 📏 Trọng tài chờ xác nhận | Trọng tài chưa được FIFA công bố; cần đề phòng thẻ và nguy cơ treo giò trong trận đôi công. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🟠 เนเธอร์แลนด์ระดับแชมป์ | คุณภาพและความลึกระดับสูงสุด Van Dijk, De Jong และ Depay เป็นโครงสร้างหลักระดับแชมป์ |
+| 💥 คู่หูสวีเดน | Gyökeres + Isak เป็นหนึ่งในคู่หูแนวรุกที่แข็งแกร่งที่สุดในทัวร์นาเมนต์ นัดเปิดสนาม 5-1 แสดงให้เห็นพลังยิงที่น่าเกรงขาม |
+| 🧠 De Jong สมองทีม | กองกลาง Barcelona ควบคุมจังหวะ ว่าพวกเขาจะระงับการโต้กลับของสวีเดนได้หรือไม่เป็นกุญแจสำคัญของดัตช์ |
+| ⚡ ความเร็วของ Elanga | ปีก Newcastle เป็นช่องทางโต้กลับของสวีเดน การใช้ประโยชน์จากพื้นที่ว่างด้านหลังดัตช์น่าจับตามอง |
+| 🆚 ศึกภายใน Liverpool | Van Dijk ปะทะ Isak เพื่อนร่วมสโมสร เป็นจุดสนใจที่ใหญ่ที่สุดของแมตช์นี้ |
+| 📏 กรรมการรอการยืนยัน | กรรมการยังไม่ได้รับการยืนยันจาก FIFA ต้องระวังใบและความเสี่ยงการพักการแข่งขันในเกมที่ไปมา |

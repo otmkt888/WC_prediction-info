@@ -34,6 +34,9 @@ Ecuador are coached by Argentine boss Sebastián Beccacece, a defensively rock-s
 ## home_note:vi
 Ecuador được dẫn dắt bởi HLV người Argentina Sebastián Beccacece, một đội Nam Mỹ phòng ngự cực kỳ chắc chắn. Hạt nhân là tiền vệ trụ Chelsea Moisés Caicedo (bậc thầy đánh chặn), trung vệ PSG Pacho (vừa vô địch Champions League) và Hincapié của Arsenal, với lão tướng ghi bàn Enner Valencia dẫn dắt hàng công. Sau trận thua sít sao 0-1 trước Bờ Biển Ngà, họ phải giành trọn 3 điểm trước Curaçao yếu hơn để bảo vệ vé đi tiếp. Khai cuộc 08:00 GMT+8 ngày 21/6 tại Kansas City.
 
+## home_note:th
+เอกวาดอร์อยู่ภายใต้การคุมทีมของ Sebastián Beccacece โค้ชชาวอาร์เจนตินา เป็นทีมอเมริกาใต้ที่มีแนวรับแกร่งมาก แกนกลางทีมคือ Moisés Caicedo ตัวรับของ Chelsea (ราชาแย่งบอล), Pacho เซ็นเตอร์แบ็กของ PSG (แชมป์ Champions League คนล่าสุด) และ Hincapié จาก Arsenal โดยมีนักทำประตูผู้ช่ำชอง Enner Valencia นำแนวหน้า หลังแพ้ Côte d'Ivoire แบบสูสี 0-1 พวกเขาต้องคว้าสามแต้มให้ได้จากกูราเซาเพื่อรักษาสิทธิ์ผ่านเข้ารอบ เริ่มเตะ 08:00 GMT+8 วันที่ 21 มิถุนายน ที่แคนซัสซิตี
+
 ## away_note:zh
 庫拉索是世界盃史上人口最少（約 15.6 萬）的參賽國，首次打進世界盃，由 78 歲荷蘭老帥 Dick Advocaat 執教（將成史上最年長主帥）。球員多為荷蘭出生、效力次級聯賽，隊長 Leandro Bacuna 與弟弟 Juninho 是核心。首戰 1-7 慘敗德國，本場面對厄瓜多堅實防線難度極大。
 
@@ -46,6 +49,9 @@ Curaçao are the smallest nation by population (about 156,000) ever to play at a
 ## away_note:vi
 Curaçao là quốc gia có dân số nhỏ nhất (khoảng 156.000) từng dự World Cup, lần đầu góp mặt, được dẫn dắt bởi HLV người Hà Lan 78 tuổi Dick Advocaat (sẽ là HLV lớn tuổi nhất lịch sử). Phần lớn cầu thủ sinh ra ở Hà Lan và chơi ở các giải hạng dưới, với đội trưởng Leandro Bacuna và em trai Juninho là hạt nhân. Sau trận thua đậm 1-7 trước Đức, họ đối mặt nhiệm vụ khó khăn trước hàng thủ chắc chắn của Ecuador.
 
+## away_note:th
+กูราเซาเป็นชาติที่มีประชากรน้อยที่สุด (ประมาณ 156,000 คน) ที่เคยเล่นในฟุตบอลโลก โดยลงเล่นครั้งแรก ภายใต้การคุมทีมของ Dick Advocaat นักยุทธวิธีชาวดัตช์วัย 78 ปี (ซึ่งจะเป็นโค้ชที่อายุมากที่สุดในประวัติศาสตร์) ผู้เล่นส่วนใหญ่เกิดในเนเธอร์แลนด์และเล่นในลีกระดับล่าง โดยมีกัปตัน Leandro Bacuna และน้องชาย Juninho เป็นแกนหลัก หลังพ่ายแพ้เยอรมนีอย่างย่อยยับ 1-7 พวกเขาเผชิญภารกิจยากยิ่งต่อแนวรับแกร่งของเอกวาดอร์
+
 ## odds_note:zh
 賠率顯示：厄瓜多勝 1.40、平局 4.20、庫拉索勝 8.00。厄瓜多個人能力與整體實力明顯領先為熱門，防守尤其扎實。庫拉索首戰慘敗信心受挫，僅能靠密集防守與運氣減少失球，爆冷機率極低，看點在厄瓜多能否打開緊密防線並拿下需要的勝利。
 
@@ -57,6 +63,9 @@ The odds read: Ecuador win 1.40, draw 4.20, Curaçao win 8.00. Ecuador's individ
 
 ## odds_note:vi
 Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng lực cá nhân và thực lực tổng thể của Ecuador rõ ràng khiến họ được ưa chuộng, với hàng thủ đặc biệt chắc chắn. Curaçao, sa sút tinh thần sau trận thua đậm, chỉ có thể dựa vào phòng ngự dày đặc và may mắn để giảm thiểu thiệt hại; một bất ngờ là cực kỳ khó. Điểm đáng chú ý là liệu Ecuador có phá được hàng thủ chặt chẽ và giành chiến thắng cần thiết.
+
+## odds_note:th
+ราคาต่อรอง: เอกวาดอร์ชนะ 1.40, เสมอ 4.20, กูราเซาชนะ 8.00 คุณภาพส่วนตัวและความแข็งแกร่งโดยรวมของเอกวาดอร์ทำให้พวกเขาเป็นเต็งอย่างชัดเจน โดยเฉพาะแนวรับที่แกร่งมาก กูราเซาที่สูญเสียความมั่นใจจากการแพ้หนัก ทำได้แค่พึ่งแนวรับแน่นและโชคในการลดความเสียหาย โอกาสพลิกเกมแทบเป็นไปไม่ได้ ประเด็นน่าติดตามคือเอกวาดอร์จะทะลวงแนวรับที่แน่นหนาและคว้าชัยที่ต้องการได้หรือไม่
 
 ## home_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
@@ -122,6 +131,22 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 | LW | #11 | Gonzalo Plata | Flamengo | 🇧🇷 | 7 | starter,team | false | Tiền vệ cánh, rê bóng và sáng tạo, mối đe dọa tấn công của Ecuador. |
 | MID | 備援 | Kendry Páez | Chelsea | 🇬🇧 | 6 | league,squad | true | Thần đồng trẻ Chelsea, kỹ thuật và sáng tạo, lựa chọn thay đổi sơ đồ từ ghế dự bị. |
 
+## home_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Hernán Galíndez | Huracán | 🇦🇷 | 1 | starter | false | ผู้รักษาประตูเอกวาดอร์ รีเฟล็กซ์มั่นคง ด่านสุดท้ายของแนวรับ |
+| DEF | #3 | Joel Ordóñez | Club Brugge | 🇧🇪 | 4 | starter,league | false | เซ็นเตอร์แบ็ก Brugge วัยหนุ่มแข็งแกร่งในการดวล ชิดขวาในแนวสามหลัง |
+| DEF | #5 | Willian Pacho | PSG | 🇫🇷 | 6 | starter,team,league | false | เซ็นเตอร์แบ็ก PSG ที่เพิ่งคว้าแชมป์ Champions League การป้องกันและกระจายบอลระดับสูง แกนหลักแนวรับเอกวาดอร์ |
+| DEF | #2 | Piero Hincapié | Arsenal | 🇬🇧 | 5 | starter,team,league | false | เซ็นเตอร์แบ็ก Arsenal ความเร็วและการดวล เสาหลักแนวรับ |
+| RW | #16 | Alan Minda | Cercle Brugge | 🇧🇪 | 4 | starter,league | false | วิงแบ็กขวา ความเร็วและการเลี้ยงบอล บุกตามแนวปีก |
+| CM | #23 | Moisés Caicedo | Chelsea | 🇬🇧 | 9 | starter,team,league | false | ตัวรับ Chelsea การแย่งบอลและครอบคลุมพื้นที่ระดับโลก แกนกลางแดนกลางเอกวาดอร์ |
+| CM | #13 | Alan Franco | Charlotte FC | 🇺🇸 | 4 | starter | false | ตัวรับ ครอบคลุมพื้นที่และกระจายบอล โล่กั้นแดนกลาง |
+| LW | #14 | Pedro Vite | Pumas | 🇲🇽 | 4 | starter | false | วิงแบ็กซ้าย รับ-รุกครบ บุกตามแนวปีกซ้าย |
+| RW | #20 | John Yeboah | Vitória SC | 🇵🇹 | 6 | starter,league | false | กองหน้าปีก ความเร็วและการเลี้ยงบอล ภัยคุกคามจากปีกขวา |
+| ST | #13 | Enner Valencia | Pachuca | 🇲🇽 | 9 | starter,team | false | กัปตันและนักทำประตูผู้ช่ำชอง ดาวซัลโวตลอดกาลของทีมชาติ แกนหลักในการฉวยโอกาสและยิงประตู |
+| LW | #11 | Gonzalo Plata | Flamengo | 🇧🇷 | 7 | starter,team | false | กองหน้าปีก การเลี้ยงบอลและความสร้างสรรค์ ภัยคุกคามในการโจมตีของเอกวาดอร์ |
+| MID | สำรอง | Kendry Páez | Chelsea | 🇬🇧 | 6 | league,squad | true | อัจฉริยะวัยรุ่นของ Chelsea เทคนิคและความสร้างสรรค์ ตัวเลือกเปลี่ยนรูปแบบจากม้านั่งสำรอง |
+
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -186,6 +211,22 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 | ST | #9 | Jürgen Locadia | Free agent | 🇨🇼 | 4 | starter | false | Cựu tiền đạo Premier League, chớp thời cơ và làm tường, ngọn giáo của Curaçao. |
 | FWD | 備援 | Ar'Jany Martha | Rotherham | 🇬🇧 | 4 | league,squad | true | Tiền vệ cánh trẻ, nhanh, lựa chọn công phá cánh từ ghế dự bị. |
 
+## away_squad:th
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Eloy Room | Miami FC | 🇺🇸 | 1 | starter,team | false | ผู้รักษาประตูผู้ช่ำชองของกูราเซา รีเฟล็กซ์และประสบการณ์ แกนหลักด่านสุดท้าย |
+| DEF | #2 | Sherel Floranus | PEC Zwolle | 🇳🇱 | 2 | starter,league | false | แบ็กขวา ป้องกันและครอบคลุมแนวปีก |
+| DEF | #5 | Jurien Gaari | Abha Club | 🇸🇦 | 3 | starter | false | เซ็นเตอร์แบ็ก ร่างกายแข็งแกร่ง เสาหลักแนวรับ |
+| DEF | #4 | Armando Obispo | PSV | 🇳🇱 | 3 | starter,league | false | เซ็นเตอร์แบ็ก PSV การดวลและกระจายบอล แกนหลักแนวรับ |
+| DEF | #3 | Roshon van Eijma | RKC Waalwijk | 🇳🇱 | 2 | starter,league | false | เซ็นเตอร์แบ็ก เก่งบอลอากาศและแข็งแกร่งทางร่างกาย เสริมแนวรับ |
+| DEF | #6 | Deveron Fonville | NEC Nijmegen | 🇳🇱 | 2 | starter,league | false | แบ็กซ้าย ป้องกันและครอบคลุมแนวปีก |
+| MID | #8 | Tahith Chong | Free agent | 🇨🇼 | 4 | starter | false | อดีตนักเตะอคาเดมี Man United เทคนิคและการเลี้ยงบอล แกนสร้างสรรค์ของกูราเซา |
+| MID | #15 | Livano Comenencia | FC Zürich | 🇨🇭 | 3 | starter,league | false | กองกลาง ครอบคลุมพื้นที่และบุกขึ้น โล่กั้นแดนกลาง |
+| MID | #10 | Leandro Bacuna | Iğdır FK | 🇹🇷 | 5 | starter,team | false | กองกลางกัปตัน อดีตนักเตะ Premier League ประสบการณ์และยิงระยะไกล แกนหลักและผู้นำจิตใจของกูราเซา |
+| MID | #20 | Juninho Bacuna | FC Volendam | 🇳🇱 | 4 | starter,team,league | false | กองกลาง เทคนิคและการทำประตู ร่วมกับพี่ชาย Leandro เป็นกำลังหลักการโจมตีของกูราเซา |
+| ST | #9 | Jürgen Locadia | Free agent | 🇨🇼 | 4 | starter | false | อดีตกองหน้า Premier League ฉวยโอกาสและเป็นแกนหน้า หอกหลักของกูราเซา |
+| FWD | สำรอง | Ar'Jany Martha | Rotherham | 🇬🇧 | 4 | league,squad | true | กองหน้าปีกวัยหนุ่ม เร็ว ตัวสำรองบุกตามแนวปีก |
+
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -234,6 +275,18 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 | 0-0 | Hòa | 6 | #6b7280 | | draw |
 | Khác | — | 17 | #94a3b8 | | - |
 
+## score_predictions:th
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-0 🇪🇨 | เอกวาดอร์ชนะ | 19 | #FFD100 | โอกาสสูงสุด | home |
+| 1-0 🇪🇨 | เอกวาดอร์ชนะ | 17 | #FFD100 | อันดับสอง | home |
+| 3-0 🇪🇨 | เอกวาดอร์ชนะ | 13 | #FFD100 | | home |
+| 2-1 🇪🇨 | เอกวาดอร์ชนะ | 12 | #FFD100 | | home |
+| 3-1 🇪🇨 | เอกวาดอร์ชนะ | 8 | #FFD100 | | home |
+| 1-1 | เสมอ | 8 | #6b7280 | | draw |
+| 0-0 | เสมอ | 6 | #6b7280 | | draw |
+| อื่นๆ | — | 17 | #94a3b8 | | - |
+
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -265,6 +318,14 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 | 🟡 | 2–4 | Dự đoán số thẻ vàng | Phòng ngự và lỗi chiến thuật của Curaçao khiến thẻ vàng tích lũy; Ecuador ít thẻ. |
 | 🟥 | 0–1 | Dự đoán số thẻ đỏ | Nếu Curaçao bị kéo căng, một chiếc thẻ là có thể; xác suất thẻ đỏ thấp. |
 | ⚠️ | 16–20 | Số phạm lỗi/trận của trọng tài | Kiểm soát bóng của Ecuador và lỗi phòng ngự của Curaçao tạo số lỗi trung bình. |
+
+## event_preds:th
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 7–11 | จำนวนเตะมุมที่คาดการณ์ | การครองบอลของเอกวาดอร์สร้างเตะมุมได้มากกว่า กูราเซาถอยต่ำมีเตะมุมน้อยมาก |
+| 🟡 | 2–4 | จำนวนใบเหลืองที่คาดการณ์ | การป้องกันและฟาวล์เชิงยุทธวิธีของกูราเซาทำให้ใบเหลืองสะสม เอกวาดอร์ได้ใบน้อย |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | หากกูราเซาถูกกดดันจนเหนื่อยล้าอาจโดนใบ แต่โอกาสใบแดงต่ำ |
+| ⚠️ | 16–20 | จำนวนฟาวล์/นัดของกรรมการ | การครองบอลของเอกวาดอร์และฟาวล์ป้องกันของกูราเซาให้จำนวนฟาวล์โดยรวมปานกลาง |
 
 ## referee:zh
 - icon: ⚖️
@@ -326,6 +387,21 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 | Thẻ trung bình/trận | TBC | #60a5fa |
 | Phạm lỗi trung bình/trận | TBC | #60a5fa |
 
+## referee:th
+- icon: ⚖️
+- name: รอประกาศ (TBC)
+- country: 🏳️ FIFA จะแต่งตั้งก่อนการแข่งขัน
+- note: กรรมการยังไม่ได้รับการประกาศอย่างเป็นทางการจาก FIFA โดยปกติจะแต่งตั้ง 1–2 วันก่อนเริ่มเกม ด้วยช่องว่างด้านคุณภาพ เกมควรถูกนำโดยเอกวาดอร์ คาดว่าจะมีใบเหลืองเป็นหลักสำหรับฟาวล์เชิงยุทธวิธีของกูราเซา สถิติจะอัพเดทเมื่อได้รับการยืนยัน
+
+| stat | value | color |
+|------|-------|-------|
+| นัดที่ตัดสิน | TBC | #F1F5F9 |
+| ใบเหลืองรวม | TBC | #EAB308 |
+| ใบเหลือง-แดง | TBC | orange |
+| ใบแดงรวม | TBC | #EF4444 |
+| เฉลี่ยใบ/นัด | TBC | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | TBC | #60a5fa |
+
 ## h2h:zh
 - title: 歷史交鋒紀錄
 - homeWins: 0
@@ -353,6 +429,13 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 - draws: 0
 - awayWins: 0
 - note: Hai đội hiếm khi gặp nhau chính thức, khiến đây là cuộc đọ sức xa lạ. Ecuador thua 0-1 trước Bờ Biển Ngà và Curaçao thua đậm 1-7 trước Đức. Ecuador vượt trội rõ về cá nhân và thực lực tổng thể, và phải giành 3 điểm ở đây để giữ quyền chủ động đi tiếp.
+
+## h2h:th
+- title: สถิติพบกัน
+- homeWins: 0
+- draws: 0
+- awayWins: 0
+- note: ทั้งสองทีมแทบไม่เคยพบกันในการแข่งขันอย่างเป็นทางการ ทำให้นี่เป็นการดวลที่ไม่คุ้นเคย เอกวาดอร์แพ้ 0-1 ให้กับ Côte d'Ivoire และกูราเซาพ่ายอย่างย่อยยับ 1-7 ต่อเยอรมนี เอกวาดอร์นำอย่างชัดเจนด้านคุณภาพส่วนตัวและความแข็งแกร่งโดยรวม และต้องคว้าสามแต้มที่นี่เพื่อรักษาสิทธิ์ผ่านเข้ารอบไว้ในมือ
 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
@@ -386,6 +469,14 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 | Gonzalo Plata | 🇪🇨 LW | Sherel Floranus | 🇨🇼 RB | Tiền vệ cánh Ecuador đối đầu hậu vệ phải Curaçao, đột phá rê bóng là chìa khóa phá vỡ hàng thủ. |
 | Tahith Chong | 🇨🇼 MID | Willian Pacho | 🇪🇨 CB | Hạt nhân sáng tạo Curaçao đối đầu trung vệ vô địch Champions League của PSG, tấn công của Curaçao có khai thông được hay không phụ thuộc vào đây. |
 
+## battles:th
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Enner Valencia | 🇪🇨 ST | Jurien Gaari | 🇨🇼 CB | กัปตันและนักทำประตูผู้ช่ำชองของเอกวาดอร์ เจอกับเซ็นเตอร์แบ็กกูราเซา การฉวยโอกาสและยิงประตูปะทะการป้องกันด้วยร่างกาย |
+| Moisés Caicedo | 🇪🇨 CM | Leandro Bacuna | 🇨🇼 MID | ตัวรับระดับโลกของ Chelsea เจอกับกัปตันกูราเซา การต่อสู้เพื่อครองพื้นที่แดนกลาง |
+| Gonzalo Plata | 🇪🇨 LW | Sherel Floranus | 🇨🇼 RB | กองหน้าปีกเอกวาดอร์ เจอกับแบ็กขวากูราเซา การเลี้ยงบอลทะลุแนวรับคือกุญแจสำคัญในการทะลวงแนวรับ |
+| Tahith Chong | 🇨🇼 MID | Willian Pacho | 🇪🇨 CB | แกนสร้างสรรค์กูราเซา เจอกับเซ็นเตอร์แบ็กแชมป์ Champions League ของ PSG การโจมตีของกูราเซาจะทะลุได้หรือไม่ขึ้นอยู่กับการดวลนี้ |
+
 ## summary_verdict:zh
 厄瓜多是防守極為扎實的南美勁旅，Pacho（歐冠冠軍）、Hincapié 與 Caicedo 組成賽事頂級的防守中軸，Valencia、Plata 提供鋒線威脅。首戰 0-1 惜敗象牙海岸後，本場面對魚腩庫拉索必須全取三分以保住晉級主動。
 
@@ -413,6 +504,13 @@ Ecuador là đội Nam Mỹ phòng ngự cực kỳ chắc chắn, với Pacho (
 Curaçao là quốc gia nhỏ nhất từng dự World Cup; lần đầu góp mặt tự nó đã là kỳ tích, với kinh nghiệm của Advocaat và anh em Bacuna là điểm nhấn. Nhưng trận thua đậm 1-7 trước Đức phơi bày khoảng cách thực lực, và họ chỉ có thể phòng ngự số đông ở đây.
 
 Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân của Ecuador sẽ làm chủ trận đấu, nhưng họ cần kiên nhẫn để phá hàng thủ dày đặc của Curaçao. Hàng công Valencia-Plata cuối cùng sẽ phá lưới, và hàng thủ chắc chắn đảm bảo chiến thắng sạch lưới. Trọng tài chưa được xác nhận; với khoảng cách, dự kiến số thẻ trung bình đến thấp.
+
+## summary_verdict:th
+เอกวาดอร์เป็นทีมอเมริกาใต้ที่มีแนวรับแกร่งมาก โดย Pacho (แชมป์ Champions League), Hincapié และ Caicedo ก่อตั้งแกนกลางแนวรับระดับสูงสุด ขณะที่ Valencia และ Plata สร้างภัยคุกคามในการโจมตี หลังแพ้แบบสูสี 0-1 ต่อ Côte d'Ivoire พวกเขาต้องคว้าสามแต้มจากกูราเซาที่อ่อนแอกว่าเพื่อรักษาสิทธิ์ผ่านเข้ารอบไว้ในมือ
+
+กูราเซาเป็นชาติที่เล็กที่สุดที่เคยแข่งในฟุตบอลโลก การลงเล่นครั้งแรกเพียงอย่างเดียวก็เป็นปาฏิหาริย์แล้ว โดยประสบการณ์ของ Advocaat และพี่น้อง Bacuna คือจุดเด่น แต่การพ่ายอย่างย่อยยับ 1-7 ต่อเยอรมนีเปิดเผยช่องว่างด้านคุณภาพ และพวกเขาทำได้แค่ป้องกันเป็นหมู่ที่นี่
+
+การทำนาย: เอกวาดอร์ชนะ 2-0 การครองบอลและคุณภาพส่วนตัวของเอกวาดอร์ควรควบคุมเกมได้ แต่ต้องการความอดทนในการทะลวงแนวรับแน่นของกูราเซา การโจมตีของ Valencia-Plata จะทะลุได้ในที่สุด และแนวรับที่แกร่งจะรับประกันชัยชนะปิดประตูสะอาด กรรมการยังไม่ได้รับการยืนยัน ด้วยช่องว่างนี้คาดว่าจำนวนใบจะอยู่ในระดับปานกลางถึงน้อย
 
 ## observations:zh
 | title | detail |
@@ -453,3 +551,13 @@ Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân c
 | 👴 Huyền thoại Advocaat | HLV người Hà Lan 78 tuổi sẽ là HLV lớn tuổi nhất lịch sử; kinh nghiệm là vốn quý của Curaçao. |
 | ⚡ Phải thắng | Ecuador thua sít sao ở trận đầu và phải giành 3 điểm để giữ quyền chủ động đi tiếp. |
 | 📏 Trọng tài chờ xác nhận | Trọng tài chưa được FIFA công bố; với khoảng cách, dự kiến số thẻ trung bình đến thấp. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🛡️ แนวรับเหล็กเอกวาดอร์ | Pacho, Hincapié และ Caicedo ก่อตั้งแกนกลางแนวรับระดับสูงสุดด้วยความแข็งแกร่งแบบอเมริกาใต้ที่ยอดเยี่ยม |
+| 🎯 Valencia ผู้ช่ำชอง | กัปตันและดาวซัลโวตลอดกาล การฉวยโอกาสและยิงประตูของเขาคือกุญแจสำคัญในการทำประตูของเอกวาดอร์ |
+| 🌊 คลื่นสีน้ำเงิน | กูราเซา ชาติที่เล็กที่สุดที่เคยผ่านเข้ารอบ การลงเล่นฟุตบอลโลกครั้งแรกเพียงอย่างเดียวก็เป็นปาฏิหาริย์แล้ว |
+| 👴 ตำนาน Advocaat | โค้ชชาวดัตช์วัย 78 ปีจะเป็นโค้ชที่อายุมากที่สุดในประวัติศาสตร์ ประสบการณ์ของเขาคือสินทรัพย์ของกูราเซา |
+| ⚡ ต้องชนะ | เอกวาดอร์แพ้แบบสูสีในนัดเปิดสนาม และต้องคว้าสามแต้มเพื่อรักษาสิทธิ์ผ่านเข้ารอบไว้ |
+| 📏 กรรมการรอประกาศ | ยังไม่ได้รับการยืนยันจาก FIFA ด้วยช่องว่างนี้คาดว่าจำนวนใบจะอยู่ในระดับปานกลางถึงน้อย |
