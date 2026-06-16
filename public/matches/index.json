@@ -160,8 +160,8 @@
       "opus/m-irq-nor-opus.md",
       "sonnet/m-irq-nor-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {
