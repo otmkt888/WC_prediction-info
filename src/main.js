@@ -1,6 +1,6 @@
 import './style.css';
 import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey } from './store.js';
-import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render/index.js';
+import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary, renderStats } from './render/index.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS } from './config.js';
 
@@ -40,6 +40,7 @@ function update() {
   if (st.tab === 'home') html = renderSquad('home');
   else if (st.tab === 'away') html = renderSquad('away');
   else if (st.tab === 'other') html = renderOther();
+  else if (st.tab === 'stats') html = renderStats();
   else if (st.tab === 'summary') html = renderSummary();
   $content.innerHTML = html;
 
@@ -120,8 +121,10 @@ function bindEvents() {
 function syncStickyHeights() {
   const banner = document.getElementById('banner-wrap');
   const nav = document.getElementById('nav-wrap');
+  const tabs = document.getElementById('tabs-wrap');
   if (banner) document.documentElement.style.setProperty('--banner-h', banner.getBoundingClientRect().height + 'px');
   if (nav) document.documentElement.style.setProperty('--nav-h', nav.getBoundingClientRect().height + 'px');
+  if (tabs) document.documentElement.style.setProperty('--tabs-h', tabs.getBoundingClientRect().height + 'px');
 }
 
 async function init() {
@@ -135,9 +138,11 @@ async function init() {
     update();
     const banner = document.getElementById('banner-wrap');
     const navWrap = document.getElementById('nav-wrap');
+    const tabsWrap = document.getElementById('tabs-wrap');
     const observer = new ResizeObserver(syncStickyHeights);
     if (banner) observer.observe(banner);
     if (navWrap) observer.observe(navWrap);
+    if (tabsWrap) observer.observe(tabsWrap);
     syncStickyHeights();
   } catch (e) {
     console.error(e);

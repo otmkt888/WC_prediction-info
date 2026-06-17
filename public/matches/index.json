@@ -1,5 +1,91 @@
 [
   {
+    "id": "m-mex-rsa",
+    "date": "2026-06-12",
+    "homeCode": "MEX",
+    "awayCode": "RSA",
+    "time": "17:00",
+    "files": [],
+    "actualScoreHome": 2,
+    "actualScoreAway": 0,
+    "stage": "group-stage",
+    "liveStats": {
+      "possession": [
+        57,
+        36
+      ],
+      "possession_contested": 8,
+      "goals": [
+        2,
+        0
+      ],
+      "attempts_total": [
+        16,
+        3
+      ],
+      "attempts_on": [
+        4,
+        2
+      ],
+      "attempts_off": [
+        8,
+        1
+      ],
+      "passes": [
+        547,
+        351
+      ],
+      "passes_completed": [
+        495,
+        290
+      ],
+      "crosses": [
+        13,
+        8
+      ],
+      "crosses_completed": [
+        3,
+        0
+      ],
+      "corners": [
+        3,
+        1
+      ],
+      "free_kicks": [
+        12,
+        13
+      ],
+      "yellow_cards": [
+        1,
+        2
+      ],
+      "red_cards": [
+        1,
+        2
+      ],
+      "fouls": [
+        12,
+        11
+      ],
+      "offsides": [
+        1,
+        1
+      ],
+      "forced_turnovers": [
+        31,
+        32
+      ],
+      "pressing": [
+        170,
+        306
+      ],
+      "line_breaks_completed": [
+        121,
+        70
+      ]
+    }
+  },
+  {
     "id": "m-can-bih",
     "date": "2026-06-13",
     "files": [

@@ -35,7 +35,10 @@ async function loadVariants(entry, lang) {
       awayCoach: '',
       odds: { home: '—', draw: '—', away: '—' },
       predScore: { home: 0, away: 0 },
-      actualScore: { home: 0, away: 0 },
+      actualScore: {
+        home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
+        away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
+      },
       aiModel: null,
       homeNote: '',
       awayNote: '',
@@ -49,6 +52,7 @@ async function loadVariants(entry, lang) {
       battles: [],
       summaryVerdict: '',
       observations: [],
+      liveStats: entry.liveStats || null,
       placeholder: true,
       stage: entry.stage || 'group-stage',
     }];
@@ -64,6 +68,7 @@ async function loadVariants(entry, lang) {
   variants.forEach(v => {
     v.actualScore = actualScore;
     v.stage = entry.stage || 'group-stage';
+    v.liveStats = entry.liveStats || null;
   });
   return variants;
 }
