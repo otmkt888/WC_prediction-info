@@ -299,7 +299,7 @@ Tỷ lệ kèo: Iran thắng 1.85, hòa 3.40, New Zealand thắng 4.20. Iran đ�
 | icon | value | label | detail |
 |------|-------|-------|--------|
 | ⛳ | 6–9 | Predicted Corners | A defensive, low-scoring game tends to produce fewer corners. New Zealand rely on set pieces while Ghoddos takes Iran's corners. Wood's aerial duels are the primary danger. |
-| 🟡 | 3–5 | Predicted Yellow Cards | Low-intensity contest with the referee still TBD. New Zealand's sliding tackles to stop Taremi are prone to bookings, and Iran's defenders battling Wood also carry risk. |
+| 🟡 | 3–5 | Predicted Yellow Cards | New Zealand's sliding tackles to stop Taremi are prone to bookings, and Iran's defenders battling Wood also carry risk. César Ramos averages around 3–4 yellow cards per match. |
 | 🟥 | 0–1 | Predicted Red Cards | Serious flashpoints are unlikely, but a red card is possible if New Zealand are forced into a cynical foul to stop a Taremi counter-attack. |
 | ⚠️ | 18–22 | Referee Fouls/Match | A tense, low-scoring affair with both sides defending actively; total foul count is expected to sit in the low-to-moderate range. |
 

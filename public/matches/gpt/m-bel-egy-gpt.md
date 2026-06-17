@@ -9,7 +9,7 @@ venueShort: Seattle, USA
 status: upcoming
 homeCode: BEL
 awayCode: EGY
-referee: TBA
+referee: Ramon Abatti Abel (BRA)
 homeFormation: 4-2-3-1
 awayFormation: 4-3-3
 homeCoach: Rudi Garcia
@@ -350,82 +350,82 @@ Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị tr
 ## referee:zh
 
 - icon: ⚖️
-- name: TBD
-- country: FIFA 指派待公布
-- note: 截至分析時間 FIFA 尚未公布正式主裁判，因此以下數據依世界盃平均執法尺度估算。
+- name: Ramon Abatti Abel
+- country: 🇧🇷 巴西 · CONMEBOL · FIFA 國際
+- note: 36 歲巴西裁判，世界盃首秀，FIFA 國際級裁判自 2021 年起。曾主哨巴黎奧運男足決賽（西班牙 vs 法國）。2025 世俱杯主哨 3 場，每場均出紅牌，出牌尺度嚴格著稱。生涯共執法 313 場。
 
 | stat | value | color |
 |------|-------|-------|
-| 執法場次 | TBA | #F1F5F9 |
-| 黃牌總數 | TBA | #EAB308 |
-| 黃紅牌 | TBA | orange |
-| 紅牌總數 | TBA | #EF4444 |
-| 均牌/場 | 3.8 | #60a5fa |
-| 均犯規/場 | ~22 | #60a5fa |
+| 執法場次 | 313 | #F1F5F9 |
+| 黃牌總數 | 1494 | #EAB308 |
+| 黃紅牌 | 17 | orange |
+| 紅牌總數 | 64 | #EF4444 |
+| 均牌/場 | 4.77 | #60a5fa |
+| 均犯規/場 | ~24 | #60a5fa |
 
 ## referee:en
 
 - icon: ⚖️
-- name: TBD
-- country: To be announced by FIFA
-- note: As of the time of analysis, FIFA has not yet confirmed the official referee, so the figures below are estimated based on average World Cup officiating standards.
+- name: Ramon Abatti Abel
+- country: 🇧🇷 Brazil · CONMEBOL · FIFA International
+- note: 36-year-old Brazilian referee making his World Cup debut; a FIFA international referee since 2021. He took charge of the Paris Olympics men's football final (Spain vs France) and officiated 3 matches at the 2025 Club World Cup, showing a red card in every game — he is widely known for strict card management. 313 career matches officiated.
 
 | stat | value | color |
 |------|-------|-------|
-| Matches Officiated | TBA | #F1F5F9 |
-| Total Yellow Cards | TBA | #EAB308 |
-| Yellow-Reds | TBA | orange |
-| Total Red Cards | TBA | #EF4444 |
-| Avg Cards/Match | 3.8 | #60a5fa |
-| Avg Fouls/Match | ~22 | #60a5fa |
+| Matches Officiated | 313 | #F1F5F9 |
+| Total Yellow Cards | 1494 | #EAB308 |
+| Yellow-Red Cards | 17 | orange |
+| Total Red Cards | 64 | #EF4444 |
+| Avg Cards/Match | 4.77 | #60a5fa |
+| Avg Fouls/Match | ~24 | #60a5fa |
 
 ## referee:zh-cn
 
 - icon: ⚖️
-- name: TBD
-- country: FIFA 指派待公布
-- note: 截至分析时间 FIFA 尚未公布正式主裁判，因此以下数据依世界杯平均执法尺度估算。
+- name: Ramon Abatti Abel
+- country: 🇧🇷 巴西 · CONMEBOL · FIFA 国际
+- note: 36 岁巴西裁判，世界杯首秀，FIFA 国际级裁判自 2021 年起。曾主哨巴黎奥运男足决赛（西班牙 vs 法国）。2025 世俱杯主哨 3 场，每场均出红牌，出牌尺度严格著称。生涯共执法 313 场。
 
 | stat | value | color |
 |------|-------|-------|
-| 执法场次 | TBA | #F1F5F9 |
-| 黄牌总数 | TBA | #EAB308 |
-| 黄红牌 | TBA | orange |
-| 红牌总数 | TBA | #EF4444 |
-| 均牌/场 | 3.8 | #60a5fa |
-| 均犯规/场 | ~22 | #60a5fa |
+| 执法场次 | 313 | #F1F5F9 |
+| 黄牌总数 | 1494 | #EAB308 |
+| 黄红牌 | 17 | orange |
+| 红牌总数 | 64 | #EF4444 |
+| 均牌/场 | 4.77 | #60a5fa |
+| 均犯规/场 | ~24 | #60a5fa |
 
 ## referee:vi
 
 - icon: ⚖️
-- name: TBD
-- country: FIFA chỉ định - chưa công bố
-- note: Tính đến thời điểm phân tích, FIFA chưa công bố trọng tài chính thức, vì vậy các số liệu dưới đây được ước tính dựa trên tiêu chuẩn thổi phạt trung bình tại World Cup.
+- name: Ramon Abatti Abel
+- country: 🇧🇷 Brazil · CONMEBOL · FIFA Quốc tế
+- note: Trọng tài Brazil 36 tuổi, lần đầu tiên bắt chính tại World Cup, trọng tài cấp FIFA quốc tế từ năm 2021. Từng điều khiển trận chung kết bóng đá nam Olympic Paris (Tây Ban Nha vs Pháp). Bắt chính 3 trận tại Club World Cup 2025, trận nào cũng rút thẻ đỏ, nổi tiếng với cách cầm còi nghiêm khắc. Tổng cộng điều khiển 313 trận trong sự nghiệp.
 
 | stat | value | color |
 |------|-------|-------|
-| Số trận thổi phạt | TBA | #F1F5F9 |
-| Tổng số thẻ vàng | TBA | #EAB308 |
-| Thẻ vàng-đỏ | TBA | orange |
-| Tổng số thẻ đỏ | TBA | #EF4444 |
-| Thẻ TB/trận | 3.8 | #60a5fa |
-| Phạm lỗi TB/trận | ~22 | #60a5fa |
+| Số trận điều khiển | 313 | #F1F5F9 |
+| Tổng thẻ vàng | 1494 | #EAB308 |
+| Thẻ vàng-đỏ | 17 | orange |
+| Tổng thẻ đỏ | 64 | #EF4444 |
+| Thẻ TB/trận | 4.77 | #60a5fa |
+| Lỗi TB/trận | ~24 | #60a5fa |
 
 ## referee:th
 
 - icon: ⚖️
-- name: TBD
-- country: FIFA กำหนด - ยังไม่ประกาศ
-- note: ณ เวลาที่ทำการวิเคราะห์ FIFA ยังไม่ได้ประกาศกรรมการอย่างเป็นทางการ ดังนั้นตัวเลขด้านล่างจึงประมาณการตามมาตรฐานการตัดสินเฉลี่ยในบอลโลก
+- name: Ramon Abatti Abel
+- country: 🇧🇷 บราซิล · CONMEBOL · FIFA นานาชาติ
+- note: กรรมการชาวบราซิลวัย 36 ปีที่เปิดตัวในฟุตบอลโลกครั้งนี้ เป็นกรรมการระดับ FIFA นานาชาติตั้งแต่ปี 2021 เคยทำหน้าที่ในนัดชิงชนะเลิศฟุตบอลชายโอลิมปิกปารีส (สเปน vs ฝรั่งเศส) และตัดสิน 3 นัดใน Club World Cup 2025 โดยให้ใบแดงทุกนัด เป็นที่รู้จักอย่างกว้างขวางในเรื่องการบริหารจัดการใบเหลืองและใบแดงที่เข้มงวด ตัดสิน 313 นัดตลอดอาชีพ
 
 | stat | value | color |
 |------|-------|-------|
-| นัดที่ตัดสิน | TBA | #F1F5F9 |
-| ใบเหลืองรวม | TBA | #EAB308 |
-| ใบเหลือง-แดง | TBA | orange |
-| ใบแดงรวม | TBA | #EF4444 |
-| เฉลี่ยใบ/นัด | 3.8 | #60a5fa |
-| เฉลี่ยฟาวล์/นัด | ~22 | #60a5fa |
+| นัดที่ตัดสิน | 313 | #F1F5F9 |
+| ใบเหลืองรวม | 1494 | #EAB308 |
+| ใบเหลือง-แดง | 17 | orange |
+| ใบแดงรวม | 64 | #EF4444 |
+| เฉลี่ยใบ/นัด | 4.77 | #60a5fa |
+| เฉลี่ยฟาวล์/นัด | ~24 | #60a5fa |
 
 ## h2h:zh
 
