@@ -95,9 +95,9 @@ export function renderStats() {
 
   const defending = statsCard(t('stats.section.defending'), [
     statRow(t('stats.forced_turnovers'), ls.forced_turnovers[0], ls.forced_turnovers[1], hc, ac),
-    statRow(t('stats.pressing'), ls.pressing[0], ls.pressing[1], hc, ac),
-    statRow(t('stats.line_breaks_comp'), ls.line_breaks_completed[0], ls.line_breaks_completed[1], hc, ac),
-  ].join(''));
+    ls.pressing && statRow(t('stats.pressing'), ls.pressing[0], ls.pressing[1], hc, ac),
+    ls.line_breaks_completed && statRow(t('stats.line_breaks_comp'), ls.line_breaks_completed[0], ls.line_breaks_completed[1], hc, ac),
+  ].filter(Boolean).join(''));
 
   return `
     <div class="stats-legend">

@@ -782,6 +782,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   padding: 10px 16px;
   border-bottom: 1px solid var(--border);
   color: var(--gold);
+  text-align: center;
 }
 
 .stat-row {
