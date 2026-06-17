@@ -4,11 +4,33 @@ import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSumm
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS } from './config.js';
 
+function syncSponsorFooter() {
+  const el = document.getElementById('sponsor-footer');
+  if (!el) return;
+  el.innerHTML = `
+    <div class="sponsor-inner">
+      <span class="sponsor-text">${t('sponsor.before')}</span>
+      <img src="${import.meta.env.BASE_URL}12B.jpg" alt="12BET" class="sponsor-logo" />
+      <span class="sponsor-text">12BET ${t('sponsor.after')}</span>
+    </div>
+  `;
+}
+
+const KV_IMAGES = {
+  'en':    'KV-en.png',
+  'zh':    'KV-cn.png',
+  'zh-cn': 'KV-cn.png',
+  'vi':    'KV-vn.png',
+  'th':    'KV-th.png',
+};
+
 function syncBanner(lang) {
   const img = document.getElementById('banner-img');
   const link = document.getElementById('banner-link');
-  if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
-  if (link) link.href = BANNER_LINKS[lang] || BANNER_LINKS.en;
+  if (img) img.src = `${import.meta.env.BASE_URL}banners/${KV_IMAGES[lang] || 'KV-en.png'}`;
+  const url = BANNER_LINKS[lang] || BANNER_LINKS.en;
+  if (link) link.href = url;
+  document.querySelectorAll('[data-cta-link]').forEach(el => { el.href = url; });
 }
 
 // Sync: set banner src immediately based on stored lang, before any async operations
@@ -133,9 +155,31 @@ async function init() {
     subscribe(update);
     onLangChange(lang => {
       syncBanner(lang);
+      syncSponsorFooter();
       reloadMatchData().then(update);
     });
     update();
+
+    const footerWrap = document.getElementById('footer-cta-wrap');
+    if (footerWrap) {
+      footerWrap.innerHTML = `
+        <div class="footer-cta-section">
+          <div class="footer-cta-inner">
+            <span class="footer-cta-trophy">🏆</span>
+            <div class="footer-cta-title">Ready to Win on World Cup 2026?</div>
+            <p class="footer-cta-sub">Join thousands of fans using AI predictions to find value bets — exclusive welcome bonus for new members.</p>
+            <a href="#" data-cta-link class="footer-cta-btn" target="_blank" rel="noopener noreferrer">
+              <img src="${import.meta.env.BASE_URL}12B.jpg" alt="12BET" class="cta-logo cta-logo-lg" /><span>Claim Welcome Bonus →</span>
+            </a>
+            <p class="footer-cta-note">18+ · T&amp;Cs Apply · Please Gamble Responsibly</p>
+          </div>
+        </div>
+      `;
+      syncBanner(getLang());
+    }
+
+    syncSponsorFooter();
+
     const banner = document.getElementById('banner-wrap');
     const navWrap = document.getElementById('nav-wrap');
     const tabsWrap = document.getElementById('tabs-wrap');

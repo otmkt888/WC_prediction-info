@@ -106,6 +106,9 @@ const locales = {
     'stage.semi-final': '4強',
     'stage.third-place': '季軍賽',
     'stage.final': '決賽',
+
+    'sponsor.before': '本站所有賽事預測與 AI 分析資訊，由',
+    'sponsor.after': '贊助提供 · 18+ · 博彩有風險，請量力而為',
   },
 
   en: {
@@ -203,6 +206,9 @@ const locales = {
     'stage.semi-final': 'Semi-final',
     'stage.third-place': 'Third Place',
     'stage.final': 'Final',
+
+    'sponsor.before': 'All predictions & AI analysis on this site are sponsored by',
+    'sponsor.after': '· 18+ · Please gamble responsibly',
   },
 
   'zh-cn': {
@@ -300,6 +306,9 @@ const locales = {
     'stage.semi-final': '4强',
     'stage.third-place': '季军赛',
     'stage.final': '决赛',
+
+    'sponsor.before': '本站所有赛事预测与 AI 分析资讯，由',
+    'sponsor.after': '赞助提供 · 18+ · 博彩有风险，请量力而为',
   },
 
   vi: {
@@ -397,6 +406,9 @@ const locales = {
     'stage.semi-final': 'Bán Kết',
     'stage.third-place': 'Tranh Hạng Ba',
     'stage.final': 'Chung Kết',
+
+    'sponsor.before': 'Thông tin dự đoán & phân tích AI trên trang này được tài trợ bởi',
+    'sponsor.after': '· 18+ · Cá cược có trách nhiệm',
   },
 
   th: {
@@ -494,6 +506,9 @@ const locales = {
     'stage.semi-final': 'รอบรองชนะเลิศ',
     'stage.third-place': 'ชิงอันดับ 3',
     'stage.final': 'รอบชิงชนะเลิศ',
+
+    'sponsor.before': 'ข้อมูลทำนายและ AI วิเคราะห์บนเว็บนี้สนับสนุนโดย',
+    'sponsor.after': '· 18+ · โปรดพนันอย่างมีความรับผิดชอบ',
   },
 };
 
