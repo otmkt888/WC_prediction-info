@@ -927,6 +927,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 .footer-cta-btn {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 10px;
   padding: 16px 36px;
   background: linear-gradient(135deg, #22c55e, #16a34a);
@@ -939,7 +940,6 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   box-shadow: 0 4px 24px rgba(34,197,94,0.4);
   transition: transform 0.15s, box-shadow 0.15s;
   margin-bottom: 16px;
-  display: block;
 }
 .footer-cta-btn:hover {
   transform: translateY(-2px);
