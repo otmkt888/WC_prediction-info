@@ -278,15 +278,25 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   display: block;
   flex-shrink: 0;
   object-fit: contain;
+  align-self: center;
+  margin: 0;
 }
 .cta-logo-lg { height: 22px; }
 
-/* All CTA buttons: force line-height to 1 so text doesn't push layout */
+/* All CTA buttons: flex centering + reset line-height */
 .announce-cta,
 .hero-cta-btn,
 #floating-cta,
 .footer-cta-btn {
   line-height: 1;
+  align-items: center;
+}
+.announce-cta > span,
+.hero-cta-btn > span,
+#floating-cta > span,
+.footer-cta-btn > span {
+  line-height: 1;
+  align-self: center;
 }
 
 /* ── Banner ── */
